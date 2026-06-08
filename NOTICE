@@ -14,9 +14,12 @@ Local modifications include, among other changes:
 - combined all.rss output,
 - all.json and urgent.json outputs,
 - details.json tier and bundle item output,
+- seen.json active-bundle snapshot for new-bundle detection,
+- configurable interest matching through config/interests.json,
 - static GitHub Pages dashboard over all.json and details.json,
 - live countdown display,
 - expandable tier chip UI,
+- Discord digest notification workflow,
 - GitHub Actions workflow changes for manual and scheduled generation.
 
 This project is not affiliated with Humble Bundle, Inc.

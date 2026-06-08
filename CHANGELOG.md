@@ -1,11 +1,33 @@
 # Changelog
 
-## 0.1.1 - Unreleased
+## 0.1.1 - 2026-06-08
+
+### Added
+
+- Discord daily digest after feed generation.
+- `docs/seen.json` active-bundle snapshot for new-bundle tracking.
+- `New bundles` section in the Discord digest.
+- `config/interests.json` for configurable interest matching.
+- Interest groups: `high`, `medium`, and `ignore`.
+- Local setup documentation in `docs/setup-local.md`.
+
+### Changed
+
+- Discord digest uses compact emoji sections and bullet lines.
+- Dashboard URL in Discord digest is wrapped to reduce unwanted preview clutter.
+- Removed the redundant `Ending within 72h` section from the Discord digest.
+- `Interesting matches` no longer displays matched keywords in Discord to preserve title space.
 
 ### Fixed
 
 - Stabilized the `ENDS` column width so localized date/time values stay on one line.
-- Stabilized the `TIME LEFT` countdown rendering with a fixed-width monospace font.
+- Stabilized the `TIME LEFT` column width.
+- Live countdown uses a fixed-width monospace font so timer digits do not visually jump.
+
+### Notes
+
+- `seen.json` is a current active-bundle snapshot, not a historical archive.
+- First run without `seen.json` initializes tracking without reporting every active bundle as new.
 
 ## 0.1.0 - 2026-06-08
 
