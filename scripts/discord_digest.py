@@ -16,7 +16,6 @@ SITE_URL = os.environ.get("HUMBLE_WATCH_SITE_URL") or DEFAULT_SITE_URL
 MAX_SECTION_ITEMS = 8
 INTEREST_KEYWORDS = [
     "python",
-    "cyberpunk",
     "rpg",
     "ttrpg",
     "unreal",
@@ -28,8 +27,6 @@ INTEREST_KEYWORDS = [
     "llm",
     "claude",
     "automation",
-    "security",
-    "cybersecurity",
     "world building",
     "worldbuilding",
 ]
