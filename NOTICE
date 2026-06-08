@@ -13,7 +13,10 @@ Local modifications include, among other changes:
 - time-left calculation fields,
 - combined all.rss output,
 - all.json and urgent.json outputs,
-- static table frontend over all.json,
+- details.json tier and bundle item output,
+- static GitHub Pages dashboard over all.json and details.json,
+- live countdown display,
+- expandable tier chip UI,
 - GitHub Actions workflow changes for manual and scheduled generation.
 
 This project is not affiliated with Humble Bundle, Inc.
