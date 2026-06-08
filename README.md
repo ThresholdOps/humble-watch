@@ -1,24 +1,27 @@
 # Humble Watch
 
-Humble Watch is a personal Humble Bundle feed watcher and static dashboard.
+Personal Humble Bundle radar with RSS, JSON, live countdowns, and expandable tier views.
 
-It is based on [`Feuerlord2/Humble-RSS-Site`](https://github.com/Feuerlord2/Humble-RSS-Site), originally created by Daniel Winter / Feuerlord2, and extends the original RSS generator with additional JSON outputs, bundle end dates, time-left calculations, and a table-based frontend.
+Live site: https://thresholdops.github.io/humble-watch/
+
+This project is based on [`Feuerlord2/Humble-RSS-Site`](https://github.com/Feuerlord2/Humble-RSS-Site), originally created by Daniel Winter / Feuerlord2. It extends the original RSS generator with additional JSON outputs, bundle end dates, time-left calculations, tier parsing, and a table-based GitHub Pages frontend.
 
 This project is not affiliated with Humble Bundle, Inc.
 
-## What it does
+## Features
 
-The generator fetches the public Humble Bundle category pages:
-
-- `https://www.humblebundle.com/books`
-- `https://www.humblebundle.com/games`
-- `https://www.humblebundle.com/software`
-
-It extracts the embedded `script#landingPage-json-data` payload, parses the bundle product data, and generates RSS and JSON outputs in `docs/`.
+- RSS feeds for books, games, software, and all detected bundles.
+- `all.json` with normalized bundle metadata.
+- `urgent.json` with bundles grouped by expiry windows.
+- `details.json` with parsed bundle tiers and tier items.
+- Static GitHub Pages dashboard.
+- Live countdown for bundles ending within 24 hours.
+- Expandable tier chip UI showing new items per tier.
+- Manual and scheduled GitHub Actions generation.
 
 ## Generated outputs
 
-The current generated files are:
+The generated files are published from `docs/`:
 
 - `docs/books.rss` — book bundle RSS feed
 - `docs/games.rss` — game bundle RSS feed
@@ -26,8 +29,9 @@ The current generated files are:
 - `docs/all.rss` — combined RSS feed
 - `docs/all.json` — normalized machine-readable list of all detected bundles
 - `docs/urgent.json` — bundles expiring within short time windows
+- `docs/details.json` — parsed tier and item details for bundle pages
 
-The JSON output includes fields such as:
+`all.json` includes fields such as:
 
 - `category`
 - `title`
@@ -41,20 +45,32 @@ The JSON output includes fields such as:
 - `bundles_sold`
 - `tile_stamp`
 
+`details.json` includes bundle tier data such as:
+
+- tier key and header
+- tier price
+- average purchase price when available
+- item titles
+- item machine names
+- item type
+- platform / OS metadata when available
+
 ## Static dashboard
 
-`docs/index.html` provides a static table frontend over `all.json`.
+`docs/index.html` provides a static table frontend over `all.json` and `details.json`.
 
 It includes:
 
 - category filters,
 - urgent `<72h` filter,
-- search,
+- search over bundle and tier item names,
 - sortable table columns,
 - summary counters,
+- live countdown display,
+- expandable tier chip panels,
 - links to generated RSS and JSON files.
 
-When GitHub Pages is configured for `main` + `/docs`, the dashboard can be served as a static site.
+When GitHub Pages is configured for `main` + `/docs`, the dashboard is served as a static site.
 
 ## Workflows
 
@@ -62,7 +78,8 @@ The repository includes GitHub Actions workflows for:
 
 - Go test/build validation,
 - manual feed generation,
-- scheduled feed generation around 20:10 Europe/Warsaw.
+- scheduled feed generation around 20:10 Europe/Warsaw,
+- diagnostic tier discovery and parser workflows used during development.
 
 The scheduled workflow uses UTC cron entries plus a Warsaw-local time gate to handle CEST/CET changes.
 
@@ -71,6 +88,7 @@ The scheduled workflow uses UTC cron entries plus a Warsaw-local time gate to ha
 Requirements:
 
 - Go 1.20+
+- Python 3.12+ for details JSON generation
 
 Build and generate feeds locally:
 
@@ -78,6 +96,8 @@ Build and generate feeds locally:
 go build -o gohumble ./cmd/
 cd docs
 ../gohumble
+cd ..
+python scripts/details_json_v1.py
 ```
 
 Then open:
@@ -91,6 +111,7 @@ or inspect generated files:
 ```text
 docs/all.json
 docs/urgent.json
+docs/details.json
 docs/all.rss
 ```
 
