@@ -9,7 +9,8 @@ from urllib import request
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
-SITE_URL = "https://thresholdops.github.io/humble-watch/"
+DEFAULT_SITE_URL = "https://thresholdops.github.io/humble-watch/"
+SITE_URL = os.environ.get("HUMBLE_WATCH_SITE_URL") or DEFAULT_SITE_URL
 MAX_SECTION_ITEMS = 8
 INTEREST_KEYWORDS = [
     "python",
