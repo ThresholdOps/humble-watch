@@ -89,6 +89,7 @@ jobs:
         if: steps.warsaw_time.outputs.should_run == 'true'
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          HUMBLE_WATCH_SITE_URL: ${{ vars.HUMBLE_WATCH_SITE_URL }}
         run: python scripts/discord_digest.py
 
       - name: Upload generated feed artifacts
