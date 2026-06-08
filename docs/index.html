@@ -72,7 +72,8 @@
             urgentHours: null,
             search: '',
             sortKey: 'hours_left',
-            sortDirection: 'asc'
+            sortDirection: 'asc',
+            countdownTimer: null
         };
 
         const formatter = new Intl.DateTimeFormat(undefined, {
@@ -86,10 +87,15 @@
             return tmp.textContent || tmp.innerText || '';
         }
 
-        function formatDate(value) {
-            if (!value) return '—';
+        function parseEndAt(value) {
+            if (!value) return null;
             const date = new Date(value.endsWith('Z') ? value : value + 'Z');
-            if (Number.isNaN(date.getTime())) return value;
+            return Number.isNaN(date.getTime()) ? null : date;
+        }
+
+        function formatDate(value) {
+            const date = parseEndAt(value);
+            if (!date) return value || '—';
             return formatter.format(date);
         }
 
@@ -98,28 +104,37 @@
             return new Intl.NumberFormat().format(value);
         }
 
-        function formatTimeLeft(hours) {
-            if (hours === null || hours === undefined || Number.isNaN(Number(hours))) return '—';
-            const totalMinutes = Math.max(0, Math.round(Number(hours) * 60));
-            const days = Math.floor(totalMinutes / 1440);
-            const remainingMinutes = totalMinutes % 1440;
-            const wholeHours = Math.floor(remainingMinutes / 60);
-            const minutes = remainingMinutes % 60;
+        function getLiveHoursLeft(item) {
+            const end = parseEndAt(item.end_at);
+            if (!end) return item.hours_left;
+            return Math.max(0, (end.getTime() - Date.now()) / 36e5);
+        }
 
-            if (days > 0) {
-                return `${days}d ${wholeHours}h`;
+        function formatTimeLeftFromHours(hours, live = false) {
+            if (hours === null || hours === undefined || Number.isNaN(Number(hours))) return '—';
+            const totalSeconds = Math.max(0, Math.floor(Number(hours) * 3600));
+            const days = Math.floor(totalSeconds / 86400);
+            const remainingAfterDays = totalSeconds % 86400;
+            const wholeHours = Math.floor(remainingAfterDays / 3600);
+            const remainingAfterHours = remainingAfterDays % 3600;
+            const minutes = Math.floor(remainingAfterHours / 60);
+            const seconds = remainingAfterHours % 60;
+
+            if (totalSeconds === 0) return 'ended';
+            if (live && days === 0) {
+                return `${String(wholeHours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
             }
-            if (wholeHours > 0) {
-                return `${wholeHours}h ${minutes}m`;
-            }
-            return `${minutes}m`;
+            if (days > 0) return `${days}d ${wholeHours}h`;
+            if (wholeHours > 0) return `${wholeHours}h ${minutes}m`;
+            return `${minutes}m ${seconds}s`;
         }
 
         function getFilteredItems() {
             const query = state.search.trim().toLowerCase();
             return state.items.filter(item => {
+                const liveHours = getLiveHoursLeft(item);
                 if (state.category !== 'all' && item.category !== state.category) return false;
-                if (state.urgentHours !== null && (item.hours_left === null || item.hours_left > state.urgentHours)) return false;
+                if (state.urgentHours !== null && (liveHours === null || liveHours > state.urgentHours)) return false;
                 if (!query) return true;
                 const haystack = [item.title, item.category, item.description, cleanText(item.long_description)]
                     .join(' ')
@@ -131,8 +146,8 @@
         function compareItems(a, b) {
             const dir = state.sortDirection === 'asc' ? 1 : -1;
             const key = state.sortKey;
-            let av = a[key];
-            let bv = b[key];
+            let av = key === 'hours_left' ? getLiveHoursLeft(a) : a[key];
+            let bv = key === 'hours_left' ? getLiveHoursLeft(b) : b[key];
 
             if (key === 'days_left' || key === 'hours_left' || key === 'bundles_sold') {
                 av = av === null || av === undefined ? Number.POSITIVE_INFINITY : Number(av);
@@ -155,14 +170,16 @@
             }
 
             tbody.innerHTML = items.map(item => {
+                const liveHours = getLiveHoursLeft(item);
                 const desc = cleanText(item.description || '').slice(0, 180);
-                const urgentClass = item.hours_left !== null && item.hours_left <= 24 ? 'danger' :
-                    item.hours_left !== null && item.hours_left <= 72 ? 'warning' : '';
+                const urgentClass = liveHours !== null && liveHours <= 24 ? 'danger' :
+                    liveHours !== null && liveHours <= 72 ? 'warning' : '';
+                const isLive = liveHours !== null && liveHours <= 24;
                 return `
                     <tr class="${urgentClass}">
                         <td><span class="pill ${item.category}">${item.category}</span></td>
                         <td><a class="bundle-link" href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a></td>
-                        <td>${formatTimeLeft(item.hours_left)}</td>
+                        <td><span class="time-left${isLive ? ' live' : ''}" data-end-at="${item.end_at || ''}">${formatTimeLeftFromHours(liveHours, isLive)}</span></td>
                         <td>${formatDate(item.end_at)}</td>
                         <td>${desc}${desc.length >= 180 ? '…' : ''}</td>
                         <td>${formatNumber(item.bundles_sold)}</td>
@@ -171,11 +188,29 @@
             }).join('');
         }
 
+        function updateVisibleCountdowns() {
+            document.querySelectorAll('.time-left.live').forEach(node => {
+                const end = parseEndAt(node.dataset.endAt);
+                if (!end) return;
+                const hours = Math.max(0, (end.getTime() - Date.now()) / 36e5);
+                node.textContent = formatTimeLeftFromHours(hours, true);
+                if (hours <= 0) {
+                    node.classList.remove('live');
+                    node.textContent = 'ended';
+                }
+            });
+        }
+
+        function startCountdownTimer() {
+            if (state.countdownTimer) clearInterval(state.countdownTimer);
+            state.countdownTimer = setInterval(updateVisibleCountdowns, 1000);
+        }
+
         function updateSummary(data) {
             const items = data.items || [];
             document.getElementById('count-all').textContent = items.length;
-            document.getElementById('count-urgent').textContent = items.filter(x => x.hours_left !== null && x.hours_left <= 72).length;
-            document.getElementById('count-today').textContent = items.filter(x => x.hours_left !== null && x.hours_left <= 24).length;
+            document.getElementById('count-urgent').textContent = items.filter(x => getLiveHoursLeft(x) !== null && getLiveHoursLeft(x) <= 72).length;
+            document.getElementById('count-today').textContent = items.filter(x => getLiveHoursLeft(x) !== null && getLiveHoursLeft(x) <= 24).length;
             document.getElementById('generated-at').textContent = data.generated_at ? data.generated_at.replace('T', ' ').replace('Z', '') : '—';
         }
 
@@ -216,6 +251,7 @@
                 state.items = data.items || [];
                 updateSummary(data);
                 render();
+                startCountdownTimer();
             })
             .catch(error => {
                 document.getElementById('bundle-table').innerHTML = `<tr><td colspan="6" class="loading error">${error.message}</td></tr>`;
