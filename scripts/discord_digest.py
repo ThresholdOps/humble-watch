@@ -16,6 +16,9 @@ SEEN_JSON = DOCS / "seen.json"
 DEFAULT_SITE_URL = "https://thresholdops.github.io/humble-watch/"
 SITE_URL = os.environ.get("HUMBLE_WATCH_SITE_URL") or DEFAULT_SITE_URL
 MAX_SECTION_ITEMS = 8
+CATEGORY_WIDTH = len("CATEGORY")
+LEFT_WIDTH = len("TIME LEFT")
+TITLE_WIDTH = 68
 DEFAULT_INTERESTS = {
     "high": ["python", "unreal", "unity", "blender", "world of darkness"],
     "medium": ["rpg", "ttrpg", "asset", "assets", "automation", "claude", "llm", "ai", "world building", "worldbuilding"],
@@ -68,23 +71,32 @@ def hours_text(value) -> str:
     return f"{days}d {rest}h"
 
 
-def line_for(item: dict) -> str:
-    title = item.get("title", "Untitled")
-    category = item.get("category", "?")
-    left = hours_text(item.get("hours_left"))
-    matched = item.get("matched_keywords")
-    suffix = f" — matched: {', '.join(matched)}" if matched else ""
-    return f"• **{title}** ({category}) — {left} left{suffix}"
+def truncate(value: str, width: int) -> str:
+    value = " ".join((value or "").split())
+    if len(value) <= width:
+        return value
+    return value[: max(0, width - 1)] + "…"
 
 
-def section(title: str, items: list[dict]) -> str:
+def table_row(item: dict) -> str:
+    category = truncate(item.get("category", "?"), CATEGORY_WIDTH).ljust(CATEGORY_WIDTH)
+    left = truncate(hours_text(item.get("hours_left")), LEFT_WIDTH).ljust(LEFT_WIDTH)
+    title = truncate(item.get("title", "Untitled"), TITLE_WIDTH).ljust(TITLE_WIDTH)
+    return f"{category}  {left}  {title}"
+
+
+def table_section(title: str, items: list[dict]) -> list[str]:
+    lines = [title.upper()]
     if not items:
-        return f"**{title}**\n_none_"
+        lines.append("  none")
+        return lines
+    lines.append(f"{'CATEGORY'.ljust(CATEGORY_WIDTH)}  {'TIME LEFT'.ljust(LEFT_WIDTH)}  {'TITLE'.ljust(TITLE_WIDTH)}")
+    lines.append(f"{'-' * CATEGORY_WIDTH}  {'-' * LEFT_WIDTH}  {'-' * TITLE_WIDTH}")
     shown = items[:MAX_SECTION_ITEMS]
-    lines = [line_for(item) for item in shown]
+    lines.extend(table_row(item) for item in shown)
     if len(items) > len(shown):
-        lines.append(f"• …and {len(items) - len(shown)} more")
-    return f"**{title}**\n" + "\n".join(lines)
+        lines.append(f"...and {len(items) - len(shown)} more")
+    return lines
 
 
 def load_seen() -> dict:
@@ -158,11 +170,19 @@ def find_interesting(all_items: list[dict]) -> list[dict]:
         if not high_matches and not medium_matches:
             continue
         enriched = dict(item)
-        enriched["matched_keywords"] = high_matches + medium_matches
         enriched["interest_rank"] = 0 if high_matches else 1
         matches.append(enriched)
     matches.sort(key=lambda x: (x.get("interest_rank", 9), float(x.get("hours_left", 999999) or 999999)))
     return matches[:MAX_SECTION_ITEMS]
+
+
+def build_table_block(sections: list[tuple[str, list[dict]]]) -> str:
+    lines: list[str] = []
+    for idx, (title, items) in enumerate(sections):
+        if idx:
+            lines.append("")
+        lines.extend(table_section(title, items))
+    return "```text\n" + "\n".join(lines) + "\n```"
 
 
 def build_message() -> str:
@@ -174,18 +194,19 @@ def build_message() -> str:
     new_bundles = find_new_bundles(all_items, seen)
     write_seen(all_items, generated_at)
 
+    table = build_table_block([
+        ("New bundles", new_bundles),
+        ("Ending today", urgent.get("expires_today", [])),
+        ("Ending tomorrow", urgent.get("expires_tomorrow", [])),
+        ("Interesting matches", find_interesting(all_items)),
+    ])
+
     parts = [
         "📡 **Humble Watch Daily Digest**",
         f"Generated: `{generated_at}`",
         f"Dashboard: {SITE_URL}",
         "",
-        section("New bundles", new_bundles),
-        "",
-        section("Ending today", urgent.get("expires_today", [])),
-        "",
-        section("Ending tomorrow", urgent.get("expires_tomorrow", [])),
-        "",
-        section("Interesting matches", find_interesting(all_items)),
+        table,
     ]
     return "\n".join(parts)
 
