@@ -195,6 +195,10 @@ tr.danger td {
     background: var(--danger);
 }
 
+tr.expanded td {
+    border-bottom-color: transparent;
+}
+
 .bundle-link {
     color: #ffd7ad;
     font-weight: 700;
@@ -203,6 +207,50 @@ tr.danger td {
 
 .bundle-link:hover {
     text-decoration: underline;
+}
+
+.bundle-toggle {
+    display: inline-flex;
+    gap: 8px;
+    align-items: flex-start;
+    border: 0;
+    background: transparent;
+    color: #ffd7ad;
+    font: inherit;
+    font-weight: 800;
+    text-align: left;
+    padding: 0;
+    cursor: pointer;
+}
+
+.bundle-toggle:hover span:last-child {
+    text-decoration: underline;
+}
+
+.bundle-toggle:disabled {
+    color: var(--muted);
+    cursor: not-allowed;
+}
+
+.toggle-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 18px;
+    width: 18px;
+    height: 18px;
+    margin-top: 1px;
+    border-radius: 999px;
+    background: rgba(239, 151, 65, 0.18);
+    color: #ffd7ad;
+    font-weight: 900;
+    line-height: 1;
+}
+
+.no-details {
+    display: block;
+    color: var(--muted);
+    margin-top: 4px;
 }
 
 .time-left {
@@ -230,6 +278,111 @@ tr.danger td {
 .pill.games { background: rgba(59, 130, 246, 0.22); }
 .pill.books { background: rgba(168, 85, 247, 0.22); }
 .pill.software { background: rgba(34, 197, 94, 0.20); }
+
+.details-row td {
+    padding-top: 0;
+    background: rgba(7, 10, 18, 0.55);
+}
+
+.details-row:hover td {
+    background: rgba(7, 10, 18, 0.55);
+}
+
+.tier-panel {
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    padding: 14px;
+    background: rgba(13, 16, 23, 0.78);
+}
+
+.tier-panel.empty {
+    color: var(--muted);
+}
+
+.tier-panel a,
+.tier-actions a {
+    color: #ffd7ad;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+.tier-panel a:hover,
+.tier-actions a:hover {
+    text-decoration: underline;
+}
+
+.tier-line {
+    border-left: 4px solid rgba(255,255,255,0.16);
+    border-radius: 12px;
+    padding: 10px 12px;
+    margin-bottom: 10px;
+    background: rgba(255,255,255,0.035);
+}
+
+.tier-line-1 { border-left-color: rgba(34, 197, 94, 0.72); background: rgba(34, 197, 94, 0.075); }
+.tier-line-2 { border-left-color: rgba(245, 158, 11, 0.78); background: rgba(245, 158, 11, 0.075); }
+.tier-line-3 { border-left-color: rgba(59, 130, 246, 0.78); background: rgba(59, 130, 246, 0.075); }
+.tier-line-4 { border-left-color: rgba(168, 85, 247, 0.78); background: rgba(168, 85, 247, 0.075); }
+.tier-line-5 { border-left-color: rgba(236, 72, 153, 0.78); background: rgba(236, 72, 153, 0.075); }
+
+.tier-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+
+.tier-name {
+    color: var(--text);
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.74rem;
+}
+
+.tier-price {
+    color: #f8fafc;
+    font-weight: 800;
+}
+
+.tier-count {
+    color: var(--muted);
+    font-size: 0.82rem;
+}
+
+.tier-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.tier-chip {
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 8px;
+    padding: 4px 8px;
+    font-size: 0.76rem;
+    line-height: 1.25;
+    font-weight: 700;
+    max-width: 360px;
+}
+
+.tier-chip.tier-1 { background: rgba(34, 197, 94, 0.13); color: #86efac; }
+.tier-chip.tier-2 { background: rgba(245, 158, 11, 0.14); color: #fcd34d; }
+.tier-chip.tier-3 { background: rgba(59, 130, 246, 0.14); color: #93c5fd; }
+.tier-chip.tier-4 { background: rgba(168, 85, 247, 0.14); color: #d8b4fe; }
+.tier-chip.tier-5 { background: rgba(236, 72, 153, 0.14); color: #f9a8d4; }
+
+.tier-empty {
+    color: var(--muted);
+    font-size: 0.82rem;
+}
+
+.tier-actions {
+    padding-top: 4px;
+}
 
 .loading {
     color: var(--muted);
@@ -259,5 +412,9 @@ tr.danger td {
 @media (max-width: 560px) {
     .summary-grid {
         grid-template-columns: 1fr;
+    }
+
+    .tier-chip {
+        max-width: 100%;
     }
 }
