@@ -272,9 +272,9 @@ tr.expanded td {
     min-width: 8ch;
     font-variant-numeric: tabular-nums;
     font-feature-settings: "tnum";
-    font-family: 'DM Sans', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
     font-weight: 800;
-    text-align: right;
+    text-align: center;
 }
 
 .time-left.live {
