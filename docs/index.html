@@ -22,6 +22,7 @@
                 <a href="./software.rss">Software RSS</a>
                 <a href="./all.json">all.json</a>
                 <a href="./urgent.json">urgent.json</a>
+                <a href="./details.json">details.json</a>
             </nav>
         </header>
 
@@ -68,6 +69,8 @@
     <script>
         const state = {
             items: [],
+            detailsByUrl: new Map(),
+            expandedUrl: null,
             category: 'all',
             urgentHours: null,
             search: '',
@@ -80,6 +83,12 @@
             year: 'numeric', month: 'short', day: '2-digit',
             hour: '2-digit', minute: '2-digit', timeZoneName: 'short'
         });
+
+        function escapeHtml(value) {
+            const tmp = document.createElement('div');
+            tmp.textContent = value || '';
+            return tmp.innerHTML;
+        }
 
         function cleanText(value) {
             const tmp = document.createElement('div');
@@ -102,6 +111,16 @@
         function formatNumber(value) {
             if (value === null || value === undefined || value === 0) return '—';
             return new Intl.NumberFormat().format(value);
+        }
+
+        function formatMoney(value) {
+            if (!value || value.amount === null || value.amount === undefined) return '—';
+            const currency = value.currency || 'USD';
+            try {
+                return new Intl.NumberFormat(undefined, { style: 'currency', currency }).format(value.amount);
+            } catch {
+                return `${value.amount} ${currency}`;
+            }
         }
 
         function getLiveHoursLeft(item) {
@@ -136,7 +155,9 @@
                 if (state.category !== 'all' && item.category !== state.category) return false;
                 if (state.urgentHours !== null && (liveHours === null || liveHours > state.urgentHours)) return false;
                 if (!query) return true;
-                const haystack = [item.title, item.category, item.description, cleanText(item.long_description)]
+                const details = state.detailsByUrl.get(item.url);
+                const detailText = details ? details.tiers.flatMap(t => t.items.map(i => i.title)).join(' ') : '';
+                const haystack = [item.title, item.category, item.description, cleanText(item.long_description), detailText]
                     .join(' ')
                     .toLowerCase();
                 return haystack.includes(query);
@@ -160,6 +181,62 @@
             return av.localeCompare(bv) * dir;
         }
 
+        function newItemsForTier(tier, seen) {
+            const newItems = [];
+            for (const item of tier.items || []) {
+                const key = item.machine_name || item.title;
+                if (!seen.has(key)) newItems.push(item);
+                seen.add(key);
+            }
+            return newItems;
+        }
+
+        function renderTierDetails(item) {
+            const details = state.detailsByUrl.get(item.url);
+            if (!details || !details.tiers || !details.tiers.length) {
+                return `
+                    <tr class="details-row">
+                        <td colspan="6">
+                            <div class="tier-panel empty">No tier details available yet. <a href="${item.url}" target="_blank" rel="noopener noreferrer">Open bundle on Humble</a></div>
+                        </td>
+                    </tr>
+                `;
+            }
+
+            const seen = new Set();
+            const tiers = details.tiers.map((tier, index) => {
+                const newItems = newItemsForTier(tier, seen);
+                const total = (tier.items || []).length;
+                const chips = (newItems.length ? newItems : []).map(tierItem => `
+                    <span class="tier-chip tier-${(index % 5) + 1}" title="${escapeHtml(tierItem.type || '')}">${escapeHtml(tierItem.title)}</span>
+                `).join('');
+                const empty = !newItems.length ? '<span class="tier-empty">No new items in this tier.</span>' : '';
+                return `
+                    <section class="tier-line tier-line-${(index % 5) + 1}">
+                        <div class="tier-meta">
+                            <span class="tier-name">Tier ${index + 1}</span>
+                            <span class="tier-price">${escapeHtml(tier.header || formatMoney(tier.price))}</span>
+                            <span class="tier-count">+${newItems.length} new · ${total} total</span>
+                        </div>
+                        <div class="tier-chips">${chips}${empty}</div>
+                    </section>
+                `;
+            }).join('');
+
+            return `
+                <tr class="details-row">
+                    <td colspan="6">
+                        <div class="tier-panel">
+                            ${tiers}
+                            <div class="tier-actions">
+                                <a href="${item.url}" target="_blank" rel="noopener noreferrer">Open bundle on Humble</a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            `;
+        }
+
         function render() {
             const tbody = document.getElementById('bundle-table');
             const items = getFilteredItems();
@@ -175,15 +252,24 @@
                 const urgentClass = liveHours !== null && liveHours <= 24 ? 'danger' :
                     liveHours !== null && liveHours <= 72 ? 'warning' : '';
                 const isLive = liveHours !== null && liveHours <= 24;
+                const hasDetails = state.detailsByUrl.has(item.url);
+                const expanded = state.expandedUrl === item.url;
                 return `
-                    <tr class="${urgentClass}">
+                    <tr class="${urgentClass}${expanded ? ' expanded' : ''}">
                         <td><span class="pill ${item.category}">${item.category}</span></td>
-                        <td><a class="bundle-link" href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a></td>
+                        <td>
+                            <button class="bundle-toggle" data-url="${escapeHtml(item.url)}" aria-expanded="${expanded}" ${hasDetails ? '' : 'disabled'}>
+                                <span class="toggle-icon">${expanded ? '−' : '+'}</span>
+                                <span>${escapeHtml(item.title)}</span>
+                            </button>
+                            ${hasDetails ? '' : '<small class="no-details">details pending</small>'}
+                        </td>
                         <td><span class="time-left${isLive ? ' live' : ''}" data-end-at="${item.end_at || ''}">${formatTimeLeftFromHours(liveHours, isLive)}</span></td>
                         <td>${formatDate(item.end_at)}</td>
-                        <td>${desc}${desc.length >= 180 ? '…' : ''}</td>
+                        <td>${escapeHtml(desc)}${desc.length >= 180 ? '…' : ''}</td>
                         <td>${formatNumber(item.bundles_sold)}</td>
                     </tr>
+                    ${expanded ? renderTierDetails(item) : ''}
                 `;
             }).join('');
         }
@@ -214,6 +300,14 @@
             document.getElementById('generated-at').textContent = data.generated_at ? data.generated_at.replace('T', ' ').replace('Z', '') : '—';
         }
 
+        document.getElementById('bundle-table').addEventListener('click', event => {
+            const button = event.target.closest('.bundle-toggle');
+            if (!button || button.disabled) return;
+            const url = button.dataset.url;
+            state.expandedUrl = state.expandedUrl === url ? null : url;
+            render();
+        });
+
         document.getElementById('category-buttons').addEventListener('click', event => {
             const button = event.target.closest('button');
             if (!button) return;
@@ -221,11 +315,13 @@
             button.classList.add('active');
             state.category = button.dataset.category || 'all';
             state.urgentHours = button.dataset.urgent ? Number(button.dataset.urgent) : null;
+            state.expandedUrl = null;
             render();
         });
 
         document.getElementById('search').addEventListener('input', event => {
             state.search = event.target.value;
+            state.expandedUrl = null;
             render();
         });
 
@@ -238,17 +334,24 @@
                     state.sortKey = key;
                     state.sortDirection = 'asc';
                 }
+                state.expandedUrl = null;
                 render();
             });
         });
 
-        fetch('./all.json', { cache: 'no-store' })
-            .then(response => {
+        Promise.all([
+            fetch('./all.json', { cache: 'no-store' }).then(response => {
                 if (!response.ok) throw new Error('Could not load all.json');
                 return response.json();
-            })
-            .then(data => {
+            }),
+            fetch('./details.json', { cache: 'no-store' }).then(response => {
+                if (!response.ok) return { items: [] };
+                return response.json();
+            }).catch(() => ({ items: [] }))
+        ])
+            .then(([data, details]) => {
                 state.items = data.items || [];
+                state.detailsByUrl = new Map((details.items || []).map(item => [item.url, item]));
                 updateSummary(data);
                 render();
                 startCountdownTimer();
