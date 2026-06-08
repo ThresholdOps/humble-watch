@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T11:42:19Z",
+  "generated_at": "2026-06-08T11:50:47Z",
   "expires_today": [
     {
       "category": "books",
@@ -10,7 +10,7 @@
       "start_at": "2026-05-18T18:00:00",
       "end_at": "2026-06-08T18:00:00",
       "days_left": 0.26,
-      "hours_left": 6.3,
+      "hours_left": 6.2,
       "machine_name": "ultimatefunctionalprogrammingpragmaticprogrammers_bookbundle",
       "bundles_sold": 3438,
       "tile_stamp": "books"
@@ -24,7 +24,7 @@
       "start_at": "2026-05-18T18:00:00",
       "end_at": "2026-06-08T18:00:00",
       "days_left": 0.26,
-      "hours_left": 6.3,
+      "hours_left": 6.2,
       "machine_name": "buildlaunchaiappsbundle_softwarebundle",
       "bundles_sold": 748,
       "tile_stamp": "software"
@@ -38,7 +38,7 @@
       "start_at": "2026-05-04T18:00:00",
       "end_at": "2026-06-08T18:00:00",
       "days_left": 0.26,
-      "hours_left": 6.3,
+      "hours_left": 6.2,
       "machine_name": "omniversecompleteaudiocollection_softwarebundle",
       "bundles_sold": 2036,
       "tile_stamp": "software"
@@ -52,7 +52,7 @@
       "start_at": "2026-05-04T18:00:00",
       "end_at": "2026-06-08T18:00:00",
       "days_left": 0.26,
-      "hours_left": 6.3,
+      "hours_left": 6.2,
       "machine_name": "realmgiants_softwarebundle",
       "bundles_sold": 1113,
       "tile_stamp": "software"
@@ -66,7 +66,7 @@
       "start_at": "2026-05-04T18:00:00",
       "end_at": "2026-06-08T18:00:00",
       "days_left": 0.26,
-      "hours_left": 6.3,
+      "hours_left": 6.2,
       "machine_name": "completeaicertificationbundleclaudenvidiacopilotawsgeminiandmore_softwarebundle",
       "bundles_sold": 3140,
       "tile_stamp": "software"
@@ -82,7 +82,7 @@
       "start_at": "2026-05-19T18:00:00",
       "end_at": "2026-06-09T18:00:00",
       "days_left": 1.26,
-      "hours_left": 30.3,
+      "hours_left": 30.2,
       "machine_name": "hotmessexpressbigbundlemisfitheroeshilarioushijinksimagecomics_bookbundle",
       "bundles_sold": 2937,
       "tile_stamp": "comics"
@@ -96,7 +96,7 @@
       "start_at": "2026-05-19T18:00:00",
       "end_at": "2026-06-09T18:00:00",
       "days_left": 1.26,
-      "hours_left": 30.3,
+      "hours_left": 30.2,
       "machine_name": "completeclaudedesignandlovableautomationsuperbundle_softwarebundle",
       "bundles_sold": 728,
       "tile_stamp": "software"
@@ -109,8 +109,8 @@
       "long_description": "Take your passion for \u003cem\u003eDungeons \u0026 Dragons\u003c/em\u003e to the next level, and start creating your own campaign assets from home! Customize your own miniature figures and gorgeous scenery with an epic collection of 3D printing-ready templates from Hayland Terrains and Warp Miniatures! Campaigns become more personal when you put your creativity and imagination into them, so don’t wait, print and color your own Barbarian Riders, multi-part pirates, behemoth Wyverns, and more. Pay what you want for 3D-printable templates and help support the magic at Make-A-Wish with your purchase! ",
       "start_at": "2026-05-12T20:00:00",
       "end_at": "2026-06-09T20:00:00",
-      "days_left": 1.35,
-      "hours_left": 32.3,
+      "days_left": 1.34,
+      "hours_left": 32.2,
       "machine_name": "dungeonmastersroleplayingessentials3dprintableminiaturesscenery_softwarebundle",
       "bundles_sold": 3790,
       "tile_stamp": "software"
@@ -124,7 +124,7 @@
       "start_at": "2026-04-28T20:00:00",
       "end_at": "2026-06-09T18:00:00",
       "days_left": 1.26,
-      "hours_left": 30.3,
+      "hours_left": 30.2,
       "machine_name": "ultimateunrealunityassetsgaloremore_softwarebundle",
       "bundles_sold": 4735,
       "tile_stamp": "software"
@@ -138,9 +138,9 @@
       "start_at": "2026-04-28T18:00:00",
       "end_at": "2026-06-09T18:00:00",
       "days_left": 1.26,
-      "hours_left": 30.3,
+      "hours_left": 30.2,
       "machine_name": "mercedeslackeyvaldemarandbeyonddawbooks_bookbundle",
-      "bundles_sold": 9140,
+      "bundles_sold": 9141,
       "tile_stamp": "books"
     },
     {
@@ -152,9 +152,9 @@
       "start_at": "2026-04-21T18:00:00",
       "end_at": "2026-06-09T18:00:00",
       "days_left": 1.26,
-      "hours_left": 30.3,
+      "hours_left": 30.2,
       "machine_name": "ultimategigacosmosbundle_softwarebundle",
-      "bundles_sold": 4417,
+      "bundles_sold": 4418,
       "tile_stamp": "software"
     }
   ],
@@ -168,9 +168,9 @@
       "start_at": "2026-05-20T20:00:00",
       "end_at": "2026-06-11T01:00:00",
       "days_left": 2.55,
-      "hours_left": 61.3,
+      "hours_left": 61.2,
       "machine_name": "doubleshift_simulation_bundle",
-      "bundles_sold": 10818,
+      "bundles_sold": 10821,
       "tile_stamp": "games"
     },
     {
@@ -182,7 +182,7 @@
       "start_at": "2026-05-20T18:00:00",
       "end_at": "2026-06-10T18:00:00",
       "days_left": 2.26,
-      "hours_left": 54.3,
+      "hours_left": 54.2,
       "machine_name": "rustsystemsprogrammingbundle_bookbundle",
       "bundles_sold": 3107,
       "tile_stamp": "books"
@@ -196,9 +196,9 @@
       "start_at": "2026-05-20T18:00:00",
       "end_at": "2026-06-10T18:00:00",
       "days_left": 2.26,
-      "hours_left": 54.3,
+      "hours_left": 54.2,
       "machine_name": "ikmultimediapresentsstudioessentialspianosbassdrumscinematicsounds_softwarebundle",
-      "bundles_sold": 1020,
+      "bundles_sold": 1021,
       "tile_stamp": "software"
     },
     {
@@ -210,9 +210,9 @@
       "start_at": "2026-05-20T18:00:00",
       "end_at": "2026-06-11T01:00:00",
       "days_left": 2.55,
-      "hours_left": 61.3,
+      "hours_left": 61.2,
       "machine_name": "perplexingpuzzles_bundle",
-      "bundles_sold": 12791,
+      "bundles_sold": 12792,
       "tile_stamp": "games"
     },
     {
@@ -224,7 +224,7 @@
       "start_at": "2026-05-19T18:00:00",
       "end_at": "2026-06-09T18:00:00",
       "days_left": 1.26,
-      "hours_left": 30.3,
+      "hours_left": 30.2,
       "machine_name": "hotmessexpressbigbundlemisfitheroeshilarioushijinksimagecomics_bookbundle",
       "bundles_sold": 2937,
       "tile_stamp": "comics"
@@ -238,7 +238,7 @@
       "start_at": "2026-05-19T18:00:00",
       "end_at": "2026-06-09T18:00:00",
       "days_left": 1.26,
-      "hours_left": 30.3,
+      "hours_left": 30.2,
       "machine_name": "completeclaudedesignandlovableautomationsuperbundle_softwarebundle",
       "bundles_sold": 728,
       "tile_stamp": "software"
@@ -252,7 +252,7 @@
       "start_at": "2026-05-18T18:00:00",
       "end_at": "2026-06-08T18:00:00",
       "days_left": 0.26,
-      "hours_left": 6.3,
+      "hours_left": 6.2,
       "machine_name": "ultimatefunctionalprogrammingpragmaticprogrammers_bookbundle",
       "bundles_sold": 3438,
       "tile_stamp": "books"
@@ -266,7 +266,7 @@
       "start_at": "2026-05-18T18:00:00",
       "end_at": "2026-06-08T18:00:00",
       "days_left": 0.26,
-      "hours_left": 6.3,
+      "hours_left": 6.2,
       "machine_name": "buildlaunchaiappsbundle_softwarebundle",
       "bundles_sold": 748,
       "tile_stamp": "software"
@@ -280,9 +280,9 @@
       "start_at": "2026-05-13T18:00:00",
       "end_at": "2026-06-11T01:00:00",
       "days_left": 2.55,
-      "hours_left": 61.3,
+      "hours_left": 61.2,
       "machine_name": "humble15thanniversaryindieiconsshowcase_bundle",
-      "bundles_sold": 83591,
+      "bundles_sold": 83604,
       "tile_stamp": "games"
     },
     {
@@ -294,7 +294,7 @@
       "start_at": "2026-05-13T18:00:00",
       "end_at": "2026-06-11T01:00:00",
       "days_left": 2.55,
-      "hours_left": 61.3,
+      "hours_left": 61.2,
       "machine_name": "buildshufflebattle_bundle",
       "bundles_sold": 14109,
       "tile_stamp": "games"
@@ -307,8 +307,8 @@
       "long_description": "Take your passion for \u003cem\u003eDungeons \u0026 Dragons\u003c/em\u003e to the next level, and start creating your own campaign assets from home! Customize your own miniature figures and gorgeous scenery with an epic collection of 3D printing-ready templates from Hayland Terrains and Warp Miniatures! Campaigns become more personal when you put your creativity and imagination into them, so don’t wait, print and color your own Barbarian Riders, multi-part pirates, behemoth Wyverns, and more. Pay what you want for 3D-printable templates and help support the magic at Make-A-Wish with your purchase! ",
       "start_at": "2026-05-12T20:00:00",
       "end_at": "2026-06-09T20:00:00",
-      "days_left": 1.35,
-      "hours_left": 32.3,
+      "days_left": 1.34,
+      "hours_left": 32.2,
       "machine_name": "dungeonmastersroleplayingessentials3dprintableminiaturesscenery_softwarebundle",
       "bundles_sold": 3790,
       "tile_stamp": "software"
@@ -322,7 +322,7 @@
       "start_at": "2026-05-04T18:00:00",
       "end_at": "2026-06-08T18:00:00",
       "days_left": 0.26,
-      "hours_left": 6.3,
+      "hours_left": 6.2,
       "machine_name": "omniversecompleteaudiocollection_softwarebundle",
       "bundles_sold": 2036,
       "tile_stamp": "software"
@@ -336,7 +336,7 @@
       "start_at": "2026-05-04T18:00:00",
       "end_at": "2026-06-08T18:00:00",
       "days_left": 0.26,
-      "hours_left": 6.3,
+      "hours_left": 6.2,
       "machine_name": "realmgiants_softwarebundle",
       "bundles_sold": 1113,
       "tile_stamp": "software"
@@ -350,7 +350,7 @@
       "start_at": "2026-05-04T18:00:00",
       "end_at": "2026-06-08T18:00:00",
       "days_left": 0.26,
-      "hours_left": 6.3,
+      "hours_left": 6.2,
       "machine_name": "completeaicertificationbundleclaudenvidiacopilotawsgeminiandmore_softwarebundle",
       "bundles_sold": 3140,
       "tile_stamp": "software"
@@ -364,7 +364,7 @@
       "start_at": "2026-04-28T20:00:00",
       "end_at": "2026-06-09T18:00:00",
       "days_left": 1.26,
-      "hours_left": 30.3,
+      "hours_left": 30.2,
       "machine_name": "ultimateunrealunityassetsgaloremore_softwarebundle",
       "bundles_sold": 4735,
       "tile_stamp": "software"
@@ -378,9 +378,9 @@
       "start_at": "2026-04-28T18:00:00",
       "end_at": "2026-06-09T18:00:00",
       "days_left": 1.26,
-      "hours_left": 30.3,
+      "hours_left": 30.2,
       "machine_name": "mercedeslackeyvaldemarandbeyonddawbooks_bookbundle",
-      "bundles_sold": 9140,
+      "bundles_sold": 9141,
       "tile_stamp": "books"
     },
     {
@@ -392,9 +392,9 @@
       "start_at": "2026-04-21T18:00:00",
       "end_at": "2026-06-09T18:00:00",
       "days_left": 1.26,
-      "hours_left": 30.3,
+      "hours_left": 30.2,
       "machine_name": "ultimategigacosmosbundle_softwarebundle",
-      "bundles_sold": 4417,
+      "bundles_sold": 4418,
       "tile_stamp": "software"
     }
   ]

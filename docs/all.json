@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T11:42:19Z",
+  "generated_at": "2026-06-08T11:50:47Z",
   "items": [
     {
       "category": "games",
@@ -10,9 +10,9 @@
       "start_at": "2026-06-05T18:00:00",
       "end_at": "2026-06-27T01:00:00",
       "days_left": 18.55,
-      "hours_left": 445.3,
+      "hours_left": 445.2,
       "machine_name": "redlineracingbundle_bundle",
-      "bundles_sold": 5255,
+      "bundles_sold": 5261,
       "tile_stamp": "games"
     },
     {
@@ -24,7 +24,7 @@
       "start_at": "2026-06-05T18:00:00",
       "end_at": "2026-07-07T18:00:00",
       "days_left": 29.26,
-      "hours_left": 702.3,
+      "hours_left": 702.2,
       "machine_name": "completeunityaibundle_softwarebundle",
       "bundles_sold": 135,
       "tile_stamp": "software"
@@ -38,9 +38,9 @@
       "start_at": "2026-06-05T18:00:00",
       "end_at": "2026-06-27T01:00:00",
       "days_left": 18.55,
-      "hours_left": 445.3,
+      "hours_left": 445.2,
       "machine_name": "frostygamesfestshowcasebundle2026madeinanz_bundle",
-      "bundles_sold": 1541,
+      "bundles_sold": 1542,
       "tile_stamp": "games"
     },
     {
@@ -52,7 +52,7 @@
       "start_at": "2026-06-04T18:00:00",
       "end_at": "2026-06-25T18:00:00",
       "days_left": 17.26,
-      "hours_left": 414.3,
+      "hours_left": 414.2,
       "machine_name": "2026learnunitygamedevelopmentbundle_softwarebundle",
       "bundles_sold": 293,
       "tile_stamp": "software"
@@ -66,9 +66,9 @@
       "start_at": "2026-06-04T18:00:00",
       "end_at": "2026-06-25T18:00:00",
       "days_left": 17.26,
-      "hours_left": 414.3,
+      "hours_left": 414.2,
       "machine_name": "rollbigorgohome2_bookbundle",
-      "bundles_sold": 2299,
+      "bundles_sold": 2301,
       "tile_stamp": "books"
     },
     {
@@ -80,9 +80,9 @@
       "start_at": "2026-06-03T21:00:00",
       "end_at": "2026-06-25T01:00:00",
       "days_left": 16.55,
-      "hours_left": 397.3,
+      "hours_left": 397.2,
       "machine_name": "2ksportschampionsbundle_bundle",
-      "bundles_sold": 3020,
+      "bundles_sold": 3023,
       "tile_stamp": "games"
     },
     {
@@ -94,9 +94,9 @@
       "start_at": "2026-06-03T18:30:00",
       "end_at": "2026-06-25T01:30:00",
       "days_left": 16.57,
-      "hours_left": 397.8,
+      "hours_left": 397.7,
       "machine_name": "ignlivebundle2026_bundle",
-      "bundles_sold": 4673,
+      "bundles_sold": 4681,
       "tile_stamp": "games"
     },
     {
@@ -108,9 +108,9 @@
       "start_at": "2026-06-03T18:00:00",
       "end_at": "2026-06-25T01:00:00",
       "days_left": 16.55,
-      "hours_left": 397.3,
+      "hours_left": 397.2,
       "machine_name": "wewillalwaysbeherepridemonth2026_bundle",
-      "bundles_sold": 5644,
+      "bundles_sold": 5645,
       "tile_stamp": "games"
     },
     {
@@ -122,7 +122,7 @@
       "start_at": "2026-06-03T18:00:00",
       "end_at": "2026-06-24T18:00:00",
       "days_left": 16.26,
-      "hours_left": 390.3,
+      "hours_left": 390.2,
       "machine_name": "krotoscinematicsoundsuite_softwarebundle",
       "bundles_sold": 192,
       "tile_stamp": "software"
@@ -136,7 +136,7 @@
       "start_at": "2026-06-02T18:00:00",
       "end_at": "2026-06-30T18:00:00",
       "days_left": 22.26,
-      "hours_left": 534.3,
+      "hours_left": 534.2,
       "machine_name": "cyberpunkredreadytorunessentialsbundle_bundle",
       "bundles_sold": 1688,
       "tile_stamp": "books"
@@ -150,9 +150,9 @@
       "start_at": "2026-06-02T18:00:00",
       "end_at": "2026-06-23T18:00:00",
       "days_left": 15.26,
-      "hours_left": 366.3,
+      "hours_left": 366.2,
       "machine_name": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
-      "bundles_sold": 1991,
+      "bundles_sold": 1992,
       "tile_stamp": "books"
     },
     {
@@ -164,7 +164,7 @@
       "start_at": "2026-06-01T18:00:00",
       "end_at": "2026-06-22T18:00:00",
       "days_left": 14.26,
-      "hours_left": 342.3,
+      "hours_left": 342.2,
       "machine_name": "completebusinessandaicertificationbundle_softwarebundle",
       "bundles_sold": 371,
       "tile_stamp": "software"
@@ -178,9 +178,9 @@
       "start_at": "2026-06-01T18:00:00",
       "end_at": "2026-06-22T18:00:00",
       "days_left": 14.26,
-      "hours_left": 342.3,
+      "hours_left": 342.2,
       "machine_name": "pythongoodstuffnostarch_bookbundle",
-      "bundles_sold": 2611,
+      "bundles_sold": 2613,
       "tile_stamp": "books"
     },
     {
@@ -192,9 +192,9 @@
       "start_at": "2026-06-01T18:00:00",
       "end_at": "2026-06-22T18:00:00",
       "days_left": 14.26,
-      "hours_left": 342.3,
+      "hours_left": 342.2,
       "machine_name": "fantasygamedevassetssynty_softwarebundle",
-      "bundles_sold": 1357,
+      "bundles_sold": 1359,
       "tile_stamp": "software"
     },
     {
@@ -206,9 +206,9 @@
       "start_at": "2026-05-30T18:00:00",
       "end_at": "2026-06-20T18:00:00",
       "days_left": 12.26,
-      "hours_left": 294.3,
+      "hours_left": 294.2,
       "machine_name": "ultimateablazemangacollection_bookbundle",
-      "bundles_sold": 1019,
+      "bundles_sold": 1020,
       "tile_stamp": "comics"
     },
     {
@@ -220,7 +220,7 @@
       "start_at": "2026-05-29T18:00:00",
       "end_at": "2026-06-20T01:00:00",
       "days_left": 11.55,
-      "hours_left": 277.3,
+      "hours_left": 277.2,
       "machine_name": "12for10_bundle",
       "bundles_sold": 3337,
       "tile_stamp": "games"
@@ -234,7 +234,7 @@
       "start_at": "2026-05-29T18:00:00",
       "end_at": "2026-06-19T18:00:00",
       "days_left": 11.26,
-      "hours_left": 270.3,
+      "hours_left": 270.2,
       "machine_name": "kodanshapresentsblyurimorefromichijinsha_bookbundle",
       "bundles_sold": 3552,
       "tile_stamp": "books"
@@ -248,7 +248,7 @@
       "start_at": "2026-05-28T20:00:55",
       "end_at": "2026-06-19T01:00:35",
       "days_left": 10.55,
-      "hours_left": 253.3,
+      "hours_left": 253.2,
       "machine_name": "criticalhitsarpgbundle_gamebundle",
       "bundles_sold": 2936,
       "tile_stamp": "games"
@@ -262,7 +262,7 @@
       "start_at": "2026-05-28T18:00:00",
       "end_at": "2026-06-18T18:00:00",
       "days_left": 10.26,
-      "hours_left": 246.3,
+      "hours_left": 246.2,
       "machine_name": "melodicmayhemvol2comprehensiveaudioandmusicbundle_softwarebundle",
       "bundles_sold": 588,
       "tile_stamp": "software"
@@ -276,7 +276,7 @@
       "start_at": "2026-05-28T18:00:00",
       "end_at": "2026-06-18T18:00:00",
       "days_left": 10.26,
-      "hours_left": 246.3,
+      "hours_left": 246.2,
       "machine_name": "learnunrealengine2026coursebundle_softwarebundle",
       "bundles_sold": 655,
       "tile_stamp": "software"
@@ -290,9 +290,9 @@
       "start_at": "2026-05-27T18:00:00",
       "end_at": "2026-06-17T18:00:00",
       "days_left": 9.26,
-      "hours_left": 222.3,
+      "hours_left": 222.2,
       "machine_name": "freeleaguerpgcollection_bookbundle",
-      "bundles_sold": 7376,
+      "bundles_sold": 7377,
       "tile_stamp": "books"
     },
     {
@@ -304,7 +304,7 @@
       "start_at": "2026-05-27T18:00:00",
       "end_at": "2026-06-18T01:00:00",
       "days_left": 9.55,
-      "hours_left": 229.3,
+      "hours_left": 229.2,
       "machine_name": "awesomeautomation_bundle",
       "bundles_sold": 3580,
       "tile_stamp": "games"
@@ -318,9 +318,9 @@
       "start_at": "2026-05-27T18:00:00",
       "end_at": "2026-06-25T01:00:00",
       "days_left": 16.55,
-      "hours_left": 397.3,
+      "hours_left": 397.2,
       "machine_name": "devilmaycrydeviltriggerreloadedcollection2026_bundle",
-      "bundles_sold": 7336,
+      "bundles_sold": 7337,
       "tile_stamp": "games"
     },
     {
@@ -332,7 +332,7 @@
       "start_at": "2026-05-26T20:30:00",
       "end_at": "2026-06-16T18:00:00",
       "days_left": 8.26,
-      "hours_left": 198.3,
+      "hours_left": 198.2,
       "machine_name": "musicfordummies2026_softwarebundle",
       "bundles_sold": 628,
       "tile_stamp": "software"
@@ -346,7 +346,7 @@
       "start_at": "2026-05-26T18:00:00",
       "end_at": "2026-06-16T18:00:00",
       "days_left": 8.26,
-      "hours_left": 198.3,
+      "hours_left": 198.2,
       "machine_name": "ultimatelinuxsysadminbundle_bookbundle",
       "bundles_sold": 3207,
       "tile_stamp": "books"
@@ -360,7 +360,7 @@
       "start_at": "2026-05-25T18:00:00",
       "end_at": "2026-06-15T18:00:00",
       "days_left": 7.26,
-      "hours_left": 174.3,
+      "hours_left": 174.2,
       "machine_name": "cybersecurityaidefensemegabundlepackt_softwarebundle",
       "bundles_sold": 1465,
       "tile_stamp": "software"
@@ -374,7 +374,7 @@
       "start_at": "2026-05-25T18:00:00",
       "end_at": "2026-06-15T18:00:00",
       "days_left": 7.26,
-      "hours_left": 174.3,
+      "hours_left": 174.2,
       "machine_name": "datavisualizationstorytellingwiley_bookbundle",
       "bundles_sold": 2390,
       "tile_stamp": "books"
@@ -388,7 +388,7 @@
       "start_at": "2026-05-23T18:00:00",
       "end_at": "2026-06-13T18:00:00",
       "days_left": 5.26,
-      "hours_left": 126.3,
+      "hours_left": 126.2,
       "machine_name": "tbdfroggodgames_bookbundle",
       "bundles_sold": 1045,
       "tile_stamp": "books"
@@ -402,7 +402,7 @@
       "start_at": "2026-05-22T18:00:00",
       "end_at": "2026-06-13T01:00:00",
       "days_left": 4.55,
-      "hours_left": 109.3,
+      "hours_left": 109.2,
       "machine_name": "4xxplorexpandxploitxterminate_bundle",
       "bundles_sold": 5290,
       "tile_stamp": "games"
@@ -416,7 +416,7 @@
       "start_at": "2026-05-22T18:00:00",
       "end_at": "2026-06-12T18:00:00",
       "days_left": 4.26,
-      "hours_left": 102.3,
+      "hours_left": 102.2,
       "machine_name": "ultimateaiskillsbundle_softwarebundle",
       "bundles_sold": 269,
       "tile_stamp": "software"
@@ -430,9 +430,9 @@
       "start_at": "2026-05-21T19:00:00",
       "end_at": "2026-06-12T01:00:00",
       "days_left": 3.55,
-      "hours_left": 85.3,
+      "hours_left": 85.2,
       "machine_name": "warhammerskulls2026bundle_bundle",
-      "bundles_sold": 6558,
+      "bundles_sold": 6560,
       "tile_stamp": "games"
     },
     {
@@ -444,9 +444,9 @@
       "start_at": "2026-05-21T18:00:00",
       "end_at": "2026-06-11T18:00:00",
       "days_left": 3.26,
-      "hours_left": 78.3,
+      "hours_left": 78.2,
       "machine_name": "ultimateenvironmentworldbuildingcollection_softwarebundle",
-      "bundles_sold": 1451,
+      "bundles_sold": 1452,
       "tile_stamp": "software"
     },
     {
@@ -458,7 +458,7 @@
       "start_at": "2026-05-21T18:00:00",
       "end_at": "2026-06-11T18:00:00",
       "days_left": 3.26,
-      "hours_left": 78.3,
+      "hours_left": 78.2,
       "machine_name": "programmingwithaiandgptpromptsmammoth_bookbundle",
       "bundles_sold": 1760,
       "tile_stamp": "books"
@@ -472,9 +472,9 @@
       "start_at": "2026-05-20T20:00:00",
       "end_at": "2026-06-11T01:00:00",
       "days_left": 2.55,
-      "hours_left": 61.3,
+      "hours_left": 61.2,
       "machine_name": "doubleshift_simulation_bundle",
-      "bundles_sold": 10818,
+      "bundles_sold": 10821,
       "tile_stamp": "games"
     },
     {
@@ -486,7 +486,7 @@
       "start_at": "2026-05-20T18:00:00",
       "end_at": "2026-06-10T18:00:00",
       "days_left": 2.26,
-      "hours_left": 54.3,
+      "hours_left": 54.2,
       "machine_name": "rustsystemsprogrammingbundle_bookbundle",
       "bundles_sold": 3107,
       "tile_stamp": "books"
@@ -500,9 +500,9 @@
       "start_at": "2026-05-20T18:00:00",
       "end_at": "2026-06-10T18:00:00",
       "days_left": 2.26,
-      "hours_left": 54.3,
+      "hours_left": 54.2,
       "machine_name": "ikmultimediapresentsstudioessentialspianosbassdrumscinematicsounds_softwarebundle",
-      "bundles_sold": 1020,
+      "bundles_sold": 1021,
       "tile_stamp": "software"
     },
     {
@@ -514,9 +514,9 @@
       "start_at": "2026-05-20T18:00:00",
       "end_at": "2026-06-11T01:00:00",
       "days_left": 2.55,
-      "hours_left": 61.3,
+      "hours_left": 61.2,
       "machine_name": "perplexingpuzzles_bundle",
-      "bundles_sold": 12791,
+      "bundles_sold": 12792,
       "tile_stamp": "games"
     },
     {
@@ -528,7 +528,7 @@
       "start_at": "2026-05-19T18:00:00",
       "end_at": "2026-06-09T18:00:00",
       "days_left": 1.26,
-      "hours_left": 30.3,
+      "hours_left": 30.2,
       "machine_name": "hotmessexpressbigbundlemisfitheroeshilarioushijinksimagecomics_bookbundle",
       "bundles_sold": 2937,
       "tile_stamp": "comics"
@@ -542,7 +542,7 @@
       "start_at": "2026-05-19T18:00:00",
       "end_at": "2026-06-09T18:00:00",
       "days_left": 1.26,
-      "hours_left": 30.3,
+      "hours_left": 30.2,
       "machine_name": "completeclaudedesignandlovableautomationsuperbundle_softwarebundle",
       "bundles_sold": 728,
       "tile_stamp": "software"
@@ -556,7 +556,7 @@
       "start_at": "2026-05-18T18:00:00",
       "end_at": "2026-06-08T18:00:00",
       "days_left": 0.26,
-      "hours_left": 6.3,
+      "hours_left": 6.2,
       "machine_name": "ultimatefunctionalprogrammingpragmaticprogrammers_bookbundle",
       "bundles_sold": 3438,
       "tile_stamp": "books"
@@ -570,7 +570,7 @@
       "start_at": "2026-05-18T18:00:00",
       "end_at": "2026-06-08T18:00:00",
       "days_left": 0.26,
-      "hours_left": 6.3,
+      "hours_left": 6.2,
       "machine_name": "buildlaunchaiappsbundle_softwarebundle",
       "bundles_sold": 748,
       "tile_stamp": "software"
@@ -584,7 +584,7 @@
       "start_at": "2026-05-16T18:00:00",
       "end_at": "2026-06-13T18:00:00",
       "days_left": 5.26,
-      "hours_left": 126.3,
+      "hours_left": 126.2,
       "machine_name": "claudecodemasterybundlezenva_bookbundle",
       "bundles_sold": 5570,
       "tile_stamp": "books"
@@ -598,7 +598,7 @@
       "start_at": "2026-05-16T18:00:00",
       "end_at": "2026-06-13T18:00:00",
       "days_left": 5.26,
-      "hours_left": 126.3,
+      "hours_left": 126.2,
       "machine_name": "infinitedreadhorrorcomicsonipress_bookbundle",
       "bundles_sold": 2329,
       "tile_stamp": "books"
@@ -612,7 +612,7 @@
       "start_at": "2026-05-14T18:00:00",
       "end_at": "2026-06-11T18:00:00",
       "days_left": 3.26,
-      "hours_left": 78.3,
+      "hours_left": 78.2,
       "machine_name": "bestrobertsilverbergopenroadmedia_bookbundle",
       "bundles_sold": 4136,
       "tile_stamp": "books"
@@ -626,9 +626,9 @@
       "start_at": "2026-05-13T18:00:00",
       "end_at": "2026-06-11T01:00:00",
       "days_left": 2.55,
-      "hours_left": 61.3,
+      "hours_left": 61.2,
       "machine_name": "humble15thanniversaryindieiconsshowcase_bundle",
-      "bundles_sold": 83591,
+      "bundles_sold": 83604,
       "tile_stamp": "games"
     },
     {
@@ -640,7 +640,7 @@
       "start_at": "2026-05-13T18:00:00",
       "end_at": "2026-06-11T01:00:00",
       "days_left": 2.55,
-      "hours_left": 61.3,
+      "hours_left": 61.2,
       "machine_name": "buildshufflebattle_bundle",
       "bundles_sold": 14109,
       "tile_stamp": "games"
@@ -654,7 +654,7 @@
       "start_at": "2026-05-13T18:00:00",
       "end_at": "2026-06-17T18:00:00",
       "days_left": 9.26,
-      "hours_left": 222.3,
+      "hours_left": 222.2,
       "machine_name": "allinone2dgamedevlevelcreationpack_softwarebundle",
       "bundles_sold": 1848,
       "tile_stamp": "software"
@@ -667,8 +667,8 @@
       "long_description": "Take your passion for \u003cem\u003eDungeons \u0026 Dragons\u003c/em\u003e to the next level, and start creating your own campaign assets from home! Customize your own miniature figures and gorgeous scenery with an epic collection of 3D printing-ready templates from Hayland Terrains and Warp Miniatures! Campaigns become more personal when you put your creativity and imagination into them, so don’t wait, print and color your own Barbarian Riders, multi-part pirates, behemoth Wyverns, and more. Pay what you want for 3D-printable templates and help support the magic at Make-A-Wish with your purchase! ",
       "start_at": "2026-05-12T20:00:00",
       "end_at": "2026-06-09T20:00:00",
-      "days_left": 1.35,
-      "hours_left": 32.3,
+      "days_left": 1.34,
+      "hours_left": 32.2,
       "machine_name": "dungeonmastersroleplayingessentials3dprintableminiaturesscenery_softwarebundle",
       "bundles_sold": 3790,
       "tile_stamp": "software"
@@ -682,7 +682,7 @@
       "start_at": "2026-05-11T18:00:00",
       "end_at": "2026-06-15T18:00:00",
       "days_left": 7.26,
-      "hours_left": 174.3,
+      "hours_left": 174.2,
       "machine_name": "ultimategenaillmdeveloperbundle_softwarebundle",
       "bundles_sold": 2400,
       "tile_stamp": "software"
@@ -696,7 +696,7 @@
       "start_at": "2026-05-07T18:00:00",
       "end_at": "2026-06-11T18:00:00",
       "days_left": 3.26,
-      "hours_left": 78.3,
+      "hours_left": 78.2,
       "machine_name": "adventurersaudioloot_softwarebundle",
       "bundles_sold": 876,
       "tile_stamp": "software"
@@ -710,7 +710,7 @@
       "start_at": "2026-05-04T18:00:00",
       "end_at": "2026-06-08T18:00:00",
       "days_left": 0.26,
-      "hours_left": 6.3,
+      "hours_left": 6.2,
       "machine_name": "omniversecompleteaudiocollection_softwarebundle",
       "bundles_sold": 2036,
       "tile_stamp": "software"
@@ -724,7 +724,7 @@
       "start_at": "2026-05-04T18:00:00",
       "end_at": "2026-06-08T18:00:00",
       "days_left": 0.26,
-      "hours_left": 6.3,
+      "hours_left": 6.2,
       "machine_name": "realmgiants_softwarebundle",
       "bundles_sold": 1113,
       "tile_stamp": "software"
@@ -738,7 +738,7 @@
       "start_at": "2026-05-04T18:00:00",
       "end_at": "2026-06-08T18:00:00",
       "days_left": 0.26,
-      "hours_left": 6.3,
+      "hours_left": 6.2,
       "machine_name": "completeaicertificationbundleclaudenvidiacopilotawsgeminiandmore_softwarebundle",
       "bundles_sold": 3140,
       "tile_stamp": "software"
@@ -752,7 +752,7 @@
       "start_at": "2026-04-28T20:00:00",
       "end_at": "2026-06-09T18:00:00",
       "days_left": 1.26,
-      "hours_left": 30.3,
+      "hours_left": 30.2,
       "machine_name": "ultimateunrealunityassetsgaloremore_softwarebundle",
       "bundles_sold": 4735,
       "tile_stamp": "software"
@@ -766,9 +766,9 @@
       "start_at": "2026-04-28T18:00:00",
       "end_at": "2026-06-09T18:00:00",
       "days_left": 1.26,
-      "hours_left": 30.3,
+      "hours_left": 30.2,
       "machine_name": "mercedeslackeyvaldemarandbeyonddawbooks_bookbundle",
-      "bundles_sold": 9140,
+      "bundles_sold": 9141,
       "tile_stamp": "books"
     },
     {
@@ -780,7 +780,7 @@
       "start_at": "2026-04-27T18:00:00",
       "end_at": "2026-06-14T18:00:00",
       "days_left": 6.26,
-      "hours_left": 150.3,
+      "hours_left": 150.2,
       "machine_name": "springintocreativity_softwarebundle",
       "bundles_sold": 687,
       "tile_stamp": "software"
@@ -794,9 +794,9 @@
       "start_at": "2026-04-21T18:00:00",
       "end_at": "2026-06-09T18:00:00",
       "days_left": 1.26,
-      "hours_left": 30.3,
+      "hours_left": 30.2,
       "machine_name": "ultimategigacosmosbundle_softwarebundle",
-      "bundles_sold": 4417,
+      "bundles_sold": 4418,
       "tile_stamp": "software"
     }
   ]
