@@ -1,0 +1,25 @@
+{
+  "high": [
+    "python",
+    "unreal",
+    "unity",
+    "blender",
+    "world of darkness"
+  ],
+  "medium": [
+    "rpg",
+    "ttrpg",
+    "asset",
+    "assets",
+    "automation",
+    "claude",
+    "llm",
+    "ai",
+    "world building",
+    "worldbuilding"
+  ],
+  "ignore": [
+    "manga",
+    "embroidery"
+  ]
+}
