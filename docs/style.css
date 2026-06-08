@@ -183,6 +183,13 @@ td {
     color: #dde5f0;
 }
 
+th:nth-child(4),
+td:nth-child(4) {
+    width: 220px;
+    min-width: 220px;
+    white-space: nowrap;
+}
+
 tr:hover td {
     background: rgba(255,255,255,0.025);
 }
