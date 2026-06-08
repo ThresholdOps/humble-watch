@@ -72,6 +72,13 @@ jobs:
           test -f docs/all.rss
           test -f docs/details.json
 
+      - name: Send Discord digest and update seen snapshot
+        if: steps.warsaw_time.outputs.should_run == 'true'
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          HUMBLE_WATCH_SITE_URL: ${{ vars.HUMBLE_WATCH_SITE_URL }}
+        run: python scripts/discord_digest.py
+
       - name: Commit generated feed files
         if: steps.warsaw_time.outputs.should_run == 'true'
         run: |
@@ -84,13 +91,6 @@ jobs:
             git commit -m "chore: update generated Humble feeds"
             git push
           fi
-
-      - name: Send Discord digest
-        if: steps.warsaw_time.outputs.should_run == 'true'
-        env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          HUMBLE_WATCH_SITE_URL: ${{ vars.HUMBLE_WATCH_SITE_URL }}
-        run: python scripts/discord_digest.py
 
       - name: Upload generated feed artifacts
         if: steps.warsaw_time.outputs.should_run == 'true'
@@ -105,3 +105,4 @@ jobs:
             docs/all.json
             docs/urgent.json
             docs/details.json
+            docs/seen.json
