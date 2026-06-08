@@ -15,10 +15,8 @@ INTERESTS_JSON = CONFIG / "interests.json"
 SEEN_JSON = DOCS / "seen.json"
 DEFAULT_SITE_URL = "https://thresholdops.github.io/humble-watch/"
 SITE_URL = os.environ.get("HUMBLE_WATCH_SITE_URL") or DEFAULT_SITE_URL
-MAX_SECTION_ITEMS = 8
-CATEGORY_WIDTH = len("CATEGORY")
-LEFT_WIDTH = len("TIME LEFT")
-TITLE_WIDTH = 68
+MAX_SECTION_ITEMS = 5
+TITLE_WIDTH = 82
 DEFAULT_INTERESTS = {
     "high": ["python", "unreal", "unity", "blender", "world of darkness"],
     "medium": ["rpg", "ttrpg", "asset", "assets", "automation", "claude", "llm", "ai", "world building", "worldbuilding"],
@@ -78,25 +76,22 @@ def truncate(value: str, width: int) -> str:
     return value[: max(0, width - 1)] + "…"
 
 
-def table_row(item: dict) -> str:
-    category = truncate(item.get("category", "?"), CATEGORY_WIDTH).ljust(CATEGORY_WIDTH)
-    left = truncate(hours_text(item.get("hours_left")), LEFT_WIDTH).ljust(LEFT_WIDTH)
-    title = truncate(item.get("title", "Untitled"), TITLE_WIDTH).ljust(TITLE_WIDTH)
-    return f"{category}  {left}  {title}"
+def compact_line(item: dict) -> str:
+    category = item.get("category", "?")
+    left = hours_text(item.get("hours_left"))
+    title = truncate(item.get("title", "Untitled"), TITLE_WIDTH)
+    return f"• {category} · {left} · {title}"
 
 
-def table_section(title: str, items: list[dict]) -> list[str]:
-    lines = [title.upper()]
+def section(title: str, items: list[dict], icon: str) -> str:
+    header = f"{icon} **{title}**"
     if not items:
-        lines.append("  none")
-        return lines
-    lines.append(f"{'CATEGORY'.ljust(CATEGORY_WIDTH)}  {'TIME LEFT'.ljust(LEFT_WIDTH)}  {'TITLE'.ljust(TITLE_WIDTH)}")
-    lines.append(f"{'-' * CATEGORY_WIDTH}  {'-' * LEFT_WIDTH}  {'-' * TITLE_WIDTH}")
+        return f"{header}\nnone"
     shown = items[:MAX_SECTION_ITEMS]
-    lines.extend(table_row(item) for item in shown)
+    lines = [compact_line(item) for item in shown]
     if len(items) > len(shown):
-        lines.append(f"...and {len(items) - len(shown)} more")
-    return lines
+        lines.append(f"• …and {len(items) - len(shown)} more")
+    return header + "\n" + "\n".join(lines)
 
 
 def load_seen() -> dict:
@@ -176,15 +171,6 @@ def find_interesting(all_items: list[dict]) -> list[dict]:
     return matches[:MAX_SECTION_ITEMS]
 
 
-def build_table_block(sections: list[tuple[str, list[dict]]]) -> str:
-    lines: list[str] = []
-    for idx, (title, items) in enumerate(sections):
-        if idx:
-            lines.append("")
-        lines.extend(table_section(title, items))
-    return "```text\n" + "\n".join(lines) + "\n```"
-
-
 def build_message() -> str:
     all_data = load_json("all.json")
     urgent = load_json("urgent.json")
@@ -194,19 +180,18 @@ def build_message() -> str:
     new_bundles = find_new_bundles(all_items, seen)
     write_seen(all_items, generated_at)
 
-    table = build_table_block([
-        ("New bundles", new_bundles),
-        ("Ending today", urgent.get("expires_today", [])),
-        ("Ending tomorrow", urgent.get("expires_tomorrow", [])),
-        ("Interesting matches", find_interesting(all_items)),
-    ])
-
     parts = [
         "📡 **Humble Watch Daily Digest**",
         f"Generated: `{generated_at}`",
-        f"Dashboard: {SITE_URL}",
+        f"Dashboard: <{SITE_URL}>",
         "",
-        table,
+        section("New bundles", new_bundles, "🆕"),
+        "",
+        section("Ending today", urgent.get("expires_today", []), "⏳"),
+        "",
+        section("Ending tomorrow", urgent.get("expires_tomorrow", []), "🌅"),
+        "",
+        section("Interesting matches", find_interesting(all_items), "🎯"),
     ]
     return "\n".join(parts)
 
