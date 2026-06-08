@@ -44,6 +44,12 @@ jobs:
         with:
           go-version-file: go.mod
 
+      - name: Set up Python
+        if: steps.warsaw_time.outputs.should_run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
       - name: Build generator
         if: steps.warsaw_time.outputs.should_run == 'true'
         run: go build -o gohumble ./cmd/
@@ -51,6 +57,10 @@ jobs:
       - name: Generate RSS and JSON files
         if: steps.warsaw_time.outputs.should_run == 'true'
         run: cd docs && ../gohumble
+
+      - name: Generate details JSON
+        if: steps.warsaw_time.outputs.should_run == 'true'
+        run: python scripts/details_json_v1.py
 
       - name: Show generated files
         if: steps.warsaw_time.outputs.should_run == 'true'
@@ -60,6 +70,7 @@ jobs:
           test -f docs/all.json
           test -f docs/urgent.json
           test -f docs/all.rss
+          test -f docs/details.json
 
       - name: Commit generated feed files
         if: steps.warsaw_time.outputs.should_run == 'true'
@@ -86,3 +97,4 @@ jobs:
             docs/all.rss
             docs/all.json
             docs/urgent.json
+            docs/details.json
