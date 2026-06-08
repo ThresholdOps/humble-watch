@@ -1,0 +1,26 @@
+name: Tier Map Discovery
+
+on:
+  workflow_dispatch:
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run tier map discovery
+        run: python scripts/tier_map_discovery.py
+
+      - name: Upload tier map discovery JSON
+        uses: actions/upload-artifact@v4
+        with:
+          name: tier-map-discovery
+          path: docs/tier-map-discovery.json
