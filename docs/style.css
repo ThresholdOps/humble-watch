@@ -205,6 +205,16 @@ tr.danger td {
     text-decoration: underline;
 }
 
+.time-left {
+    font-variant-numeric: tabular-nums;
+    font-weight: 800;
+}
+
+.time-left.live {
+    color: #fecaca;
+    text-shadow: 0 0 18px rgba(248, 113, 113, 0.35);
+}
+
 .pill {
     display: inline-flex;
     align-items: center;
