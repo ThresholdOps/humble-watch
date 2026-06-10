@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-09T09:41:39Z",
-  "updated_at": "2026-06-09T09:42:20Z",
+  "generated_at": "2026-06-10T06:01:23Z",
+  "updated_at": "2026-06-10T06:02:03Z",
   "items": [
+    {
+      "key": "biggerbetterbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/bigger-better-bundle-software",
+      "machine_name": "biggerbetterbundle_softwarebundle",
+      "title": "Bigger Better Bundle",
+      "category": "software",
+      "end_at": "2026-06-30T18:00:00"
+    },
+    {
+      "key": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
+      "url": "https://humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books",
+      "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
+      "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
+      "category": "books",
+      "end_at": "2026-06-30T18:00:00"
+    },
     {
       "key": "vastfantasyworldsgamedevbundle_softwarebundle",
       "url": "https://humblebundle.com/software/vast-fantasy-worlds-game-dev-bundle-software",
@@ -19,6 +35,14 @@
       "end_at": "2026-06-29T16:00:00"
     },
     {
+      "key": "redlineracingbundle_bundle",
+      "url": "https://humblebundle.com/games/redline-racing-bundle",
+      "machine_name": "redlineracingbundle_bundle",
+      "title": "Redline Racing Bundle",
+      "category": "games",
+      "end_at": "2026-06-27T01:00:00"
+    },
+    {
       "key": "frostygamesfestshowcasebundle2026madeinanz_bundle",
       "url": "https://humblebundle.com/games/frosty-games-fest-showcase-bundle-2026-made-in-anz",
       "machine_name": "frostygamesfestshowcasebundle2026madeinanz_bundle",
@@ -33,14 +57,6 @@
       "title": "The Complete Unity AI Bundle",
       "category": "software",
       "end_at": "2026-07-07T18:00:00"
-    },
-    {
-      "key": "redlineracingbundle_bundle",
-      "url": "https://humblebundle.com/games/redline-racing-bundle",
-      "machine_name": "redlineracingbundle_bundle",
-      "title": "Redline Racing Bundle",
-      "category": "games",
-      "end_at": "2026-06-27T01:00:00"
     },
     {
       "key": "rollbigorgohome2_bookbundle",
@@ -75,14 +91,6 @@
       "end_at": "2026-06-25T01:30:00"
     },
     {
-      "key": "krotoscinematicsoundsuite_softwarebundle",
-      "url": "https://humblebundle.com/software/krotos-cinematic-sound-suite-software",
-      "machine_name": "krotoscinematicsoundsuite_softwarebundle",
-      "title": "Krotos Cinematic Sound Suite",
-      "category": "software",
-      "end_at": "2026-06-24T18:00:00"
-    },
-    {
       "key": "wewillalwaysbeherepridemonth2026_bundle",
       "url": "https://humblebundle.com/games/we-will-always-be-here-pride-month-2026",
       "machine_name": "wewillalwaysbeherepridemonth2026_bundle",
@@ -91,12 +99,12 @@
       "end_at": "2026-06-25T01:00:00"
     },
     {
-      "key": "cyberpunkredreadytorunessentialsbundle_bundle",
-      "url": "https://humblebundle.com/books/cyberpunk-red-readytorun-essentials-bundle",
-      "machine_name": "cyberpunkredreadytorunessentialsbundle_bundle",
-      "title": "Cyberpunk RED: The Ready-to-Run Essentials Bundle",
-      "category": "books",
-      "end_at": "2026-06-30T18:00:00"
+      "key": "krotoscinematicsoundsuite_softwarebundle",
+      "url": "https://humblebundle.com/software/krotos-cinematic-sound-suite-software",
+      "machine_name": "krotoscinematicsoundsuite_softwarebundle",
+      "title": "Krotos Cinematic Sound Suite",
+      "category": "software",
+      "end_at": "2026-06-24T18:00:00"
     },
     {
       "key": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
@@ -105,6 +113,14 @@
       "title": "Embroidery, Sashiko, and Decorative Stitching by Open Road",
       "category": "books",
       "end_at": "2026-06-23T18:00:00"
+    },
+    {
+      "key": "cyberpunkredreadytorunessentialsbundle_bundle",
+      "url": "https://humblebundle.com/books/cyberpunk-red-readytorun-essentials-bundle",
+      "machine_name": "cyberpunkredreadytorunessentialsbundle_bundle",
+      "title": "Cyberpunk RED: The Ready-to-Run Essentials Bundle",
+      "category": "books",
+      "end_at": "2026-06-30T18:00:00"
     },
     {
       "key": "fantasygamedevassetssynty_softwarebundle",
@@ -139,20 +155,20 @@
       "end_at": "2026-06-20T18:00:00"
     },
     {
-      "key": "12for10_bundle",
-      "url": "https://humblebundle.com/games/12-for-10",
-      "machine_name": "12for10_bundle",
-      "title": "12 for $10",
-      "category": "games",
-      "end_at": "2026-06-20T01:00:00"
-    },
-    {
       "key": "kodanshapresentsblyurimorefromichijinsha_bookbundle",
       "url": "https://humblebundle.com/books/kodansha-presents-bl-yuri-more-from-ichijinsha-books",
       "machine_name": "kodanshapresentsblyurimorefromichijinsha_bookbundle",
       "title": "Kodansha Presents: BL, Yuri & More from Ichijinsha",
       "category": "books",
       "end_at": "2026-06-19T18:00:00"
+    },
+    {
+      "key": "12for10_bundle",
+      "url": "https://humblebundle.com/games/12-for-10",
+      "machine_name": "12for10_bundle",
+      "title": "12 for $10",
+      "category": "games",
+      "end_at": "2026-06-20T01:00:00"
     },
     {
       "key": "criticalhitsarpgbundle_gamebundle",
@@ -163,18 +179,18 @@
       "end_at": "2026-06-19T01:00:35"
     },
     {
-      "key": "learnunrealengine2026coursebundle_softwarebundle",
-      "url": "https://humblebundle.com/software/learn-unreal-engine-2026-course-bundle-software",
-      "machine_name": "learnunrealengine2026coursebundle_softwarebundle",
-      "title": "Learn Unreal Engine 2026 Course Bundle",
-      "category": "software",
-      "end_at": "2026-06-18T18:00:00"
-    },
-    {
       "key": "melodicmayhemvol2comprehensiveaudioandmusicbundle_softwarebundle",
       "url": "https://humblebundle.com/software/melodic-mayhem-vol-2-comprehensive-audio-and-music-bundle-software",
       "machine_name": "melodicmayhemvol2comprehensiveaudioandmusicbundle_softwarebundle",
       "title": "Melodic Mayhem Vol. 2: A Comprehensive Audio and Music Bundle",
+      "category": "software",
+      "end_at": "2026-06-18T18:00:00"
+    },
+    {
+      "key": "learnunrealengine2026coursebundle_softwarebundle",
+      "url": "https://humblebundle.com/software/learn-unreal-engine-2026-course-bundle-software",
+      "machine_name": "learnunrealengine2026coursebundle_softwarebundle",
+      "title": "Learn Unreal Engine 2026 Course Bundle",
       "category": "software",
       "end_at": "2026-06-18T18:00:00"
     },
@@ -320,15 +336,7 @@
       "machine_name": "hotmessexpressbigbundlemisfitheroeshilarioushijinksimagecomics_bookbundle",
       "title": "Hot Mess Express: A Big Bundle of Misfit Heroes & Hilarious Hijinks by Image Comics",
       "category": "books",
-      "end_at": "2026-06-09T18:00:00"
-    },
-    {
-      "key": "completeclaudedesignandlovableautomationsuperbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/complete-claude-design-and-lovable-automation-super-bundle-software",
-      "machine_name": "completeclaudedesignandlovableautomationsuperbundle_softwarebundle",
-      "title": "The Complete Claude Design and Lovable Automation Super Bundle",
-      "category": "software",
-      "end_at": "2026-06-09T18:00:00"
+      "end_at": "2026-06-16T18:00:00"
     },
     {
       "key": "ultimatefunctionalprogrammingpragmaticprogrammers_bookbundle",
@@ -347,18 +355,18 @@
       "end_at": "2026-06-22T18:00:00"
     },
     {
-      "key": "infinitedreadhorrorcomicsonipress_bookbundle",
-      "url": "https://humblebundle.com/books/infinite-dread-horror-comics-oni-press-books",
-      "machine_name": "infinitedreadhorrorcomicsonipress_bookbundle",
-      "title": "Infinite Dread: Horror Comics by Oni Press",
-      "category": "books",
-      "end_at": "2026-06-13T18:00:00"
-    },
-    {
       "key": "claudecodemasterybundlezenva_bookbundle",
       "url": "https://humblebundle.com/books/claude-code-mastery-bundle-zenva-books",
       "machine_name": "claudecodemasterybundlezenva_bookbundle",
       "title": "The Claude Code Mastery Bundle by Zenva",
+      "category": "books",
+      "end_at": "2026-06-13T18:00:00"
+    },
+    {
+      "key": "infinitedreadhorrorcomicsonipress_bookbundle",
+      "url": "https://humblebundle.com/books/infinite-dread-horror-comics-oni-press-books",
+      "machine_name": "infinitedreadhorrorcomicsonipress_bookbundle",
+      "title": "Infinite Dread: Horror Comics by Oni Press",
       "category": "books",
       "end_at": "2026-06-13T18:00:00"
     },
@@ -395,14 +403,6 @@
       "end_at": "2026-06-11T01:00:00"
     },
     {
-      "key": "dungeonmastersroleplayingessentials3dprintableminiaturesscenery_softwarebundle",
-      "url": "https://humblebundle.com/software/dungeon-masters-roleplaying-essentials-3d-printable-miniatures-scenery-software",
-      "machine_name": "dungeonmastersroleplayingessentials3dprintableminiaturesscenery_softwarebundle",
-      "title": "Dungeon Masters Role-Playing Essentials- 3D Printable Miniatures & Scenery",
-      "category": "software",
-      "end_at": "2026-06-09T20:00:00"
-    },
-    {
       "key": "ultimategenaillmdeveloperbundle_softwarebundle",
       "url": "https://humblebundle.com/software/ultimate-genai-llm-developer-bundle-software",
       "machine_name": "ultimategenaillmdeveloperbundle_softwarebundle",
@@ -419,36 +419,12 @@
       "end_at": "2026-06-11T18:00:00"
     },
     {
-      "key": "ultimateunrealunityassetsgaloremore_softwarebundle",
-      "url": "https://humblebundle.com/software/ultimate-unreal-unity-assets-galore-more-software",
-      "machine_name": "ultimateunrealunityassetsgaloremore_softwarebundle",
-      "title": "Ultimate Unreal and Unity Assets Galore and More",
-      "category": "software",
-      "end_at": "2026-06-09T18:00:00"
-    },
-    {
-      "key": "mercedeslackeyvaldemarandbeyonddawbooks_bookbundle",
-      "url": "https://humblebundle.com/books/mercedes-lackey-valdemar-and-beyond-daw-books-books",
-      "machine_name": "mercedeslackeyvaldemarandbeyonddawbooks_bookbundle",
-      "title": "Mercedes Lackey: Valdemar and Beyond by DAW Books",
-      "category": "books",
-      "end_at": "2026-06-09T18:00:00"
-    },
-    {
       "key": "springintocreativity_softwarebundle",
       "url": "https://humblebundle.com/software/spring-into-creativity-software",
       "machine_name": "springintocreativity_softwarebundle",
       "title": "Spring Into Creativity",
       "category": "software",
       "end_at": "2026-06-14T18:00:00"
-    },
-    {
-      "key": "ultimategigacosmosbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/ultimate-giga-cosmos-bundle-software",
-      "machine_name": "ultimategigacosmosbundle_softwarebundle",
-      "title": "The Ultimate Giga Cosmos Bundle",
-      "category": "software",
-      "end_at": "2026-06-09T18:00:00"
     }
   ]
 }
