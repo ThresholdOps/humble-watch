@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T19:22:42Z",
-  "updated_at": "2026-06-11T19:23:22Z",
+  "generated_at": "2026-06-11T20:33:04Z",
+  "updated_at": "2026-06-11T20:33:57Z",
   "items": [
     {
       "key": "unrealenvironmentbundle_softwarebundle",
@@ -9,22 +9,6 @@
       "title": "Unreal Environment Bundle",
       "category": "software",
       "end_at": "2026-07-02T18:00:00"
-    },
-    {
-      "key": "completeinklelibrary_bundle",
-      "url": "https://humblebundle.com/games/complete-inkle-library",
-      "machine_name": "completeinklelibrary_bundle",
-      "title": "The Complete Inkle Library",
-      "category": "games",
-      "end_at": "2026-07-02T01:00:00"
-    },
-    {
-      "key": "unitygamedevelopmentmasterybundlezenva_bookbundle",
-      "url": "https://humblebundle.com/books/unity-game-development-mastery-bundle-zenva-books",
-      "machine_name": "unitygamedevelopmentmasterybundlezenva_bookbundle",
-      "title": "The Unity Game Development Mastery Bundle by Zenva",
-      "category": "books",
-      "end_at": "2026-07-01T18:00:00"
     },
     {
       "key": "creatureandcharactercreationbundle_softwarebundle",
@@ -43,12 +27,20 @@
       "end_at": "2026-07-02T01:00:00"
     },
     {
-      "key": "biggerbetterbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/bigger-better-bundle-software",
-      "machine_name": "biggerbetterbundle_softwarebundle",
-      "title": "Bigger Better Bundle",
-      "category": "software",
-      "end_at": "2026-06-30T18:00:00"
+      "key": "completeinklelibrary_bundle",
+      "url": "https://humblebundle.com/games/complete-inkle-library",
+      "machine_name": "completeinklelibrary_bundle",
+      "title": "The Complete Inkle Library",
+      "category": "games",
+      "end_at": "2026-07-02T01:00:00"
+    },
+    {
+      "key": "unitygamedevelopmentmasterybundlezenva_bookbundle",
+      "url": "https://humblebundle.com/books/unity-game-development-mastery-bundle-zenva-books",
+      "machine_name": "unitygamedevelopmentmasterybundlezenva_bookbundle",
+      "title": "The Unity Game Development Mastery Bundle by Zenva",
+      "category": "books",
+      "end_at": "2026-07-01T18:00:00"
     },
     {
       "key": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
@@ -56,6 +48,14 @@
       "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
       "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
       "category": "books",
+      "end_at": "2026-06-30T18:00:00"
+    },
+    {
+      "key": "biggerbetterbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/bigger-better-bundle-software",
+      "machine_name": "biggerbetterbundle_softwarebundle",
+      "title": "Bigger Better Bundle",
+      "category": "software",
       "end_at": "2026-06-30T18:00:00"
     },
     {
@@ -75,14 +75,6 @@
       "end_at": "2026-06-29T16:00:00"
     },
     {
-      "key": "redlineracingbundle_bundle",
-      "url": "https://humblebundle.com/games/redline-racing-bundle",
-      "machine_name": "redlineracingbundle_bundle",
-      "title": "Redline Racing Bundle",
-      "category": "games",
-      "end_at": "2026-06-27T01:00:00"
-    },
-    {
       "key": "completeunityaibundle_softwarebundle",
       "url": "https://humblebundle.com/software/complete-unity-ai-bundle-software",
       "machine_name": "completeunityaibundle_softwarebundle",
@@ -99,12 +91,12 @@
       "end_at": "2026-06-27T01:00:00"
     },
     {
-      "key": "2026learnunitygamedevelopmentbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/2026-learn-unity-game-development-bundle-software",
-      "machine_name": "2026learnunitygamedevelopmentbundle_softwarebundle",
-      "title": "The 2026 Learn Unity Game Development Bundle",
-      "category": "software",
-      "end_at": "2026-06-25T18:00:00"
+      "key": "redlineracingbundle_bundle",
+      "url": "https://humblebundle.com/games/redline-racing-bundle",
+      "machine_name": "redlineracingbundle_bundle",
+      "title": "Redline Racing Bundle",
+      "category": "games",
+      "end_at": "2026-06-27T01:00:00"
     },
     {
       "key": "rollbigorgohome2_bookbundle",
@@ -112,6 +104,14 @@
       "machine_name": "rollbigorgohome2_bookbundle",
       "title": "Roll Big or Go Home 2",
       "category": "books",
+      "end_at": "2026-06-25T18:00:00"
+    },
+    {
+      "key": "2026learnunitygamedevelopmentbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/2026-learn-unity-game-development-bundle-software",
+      "machine_name": "2026learnunitygamedevelopmentbundle_softwarebundle",
+      "title": "The 2026 Learn Unity Game Development Bundle",
+      "category": "software",
       "end_at": "2026-06-25T18:00:00"
     },
     {
@@ -163,19 +163,19 @@
       "end_at": "2026-06-30T18:00:00"
     },
     {
-      "key": "pythongoodstuffnostarch_bookbundle",
-      "url": "https://humblebundle.com/books/python-good-stuff-no-starch-books",
-      "machine_name": "pythongoodstuffnostarch_bookbundle",
-      "title": "Python: The Good Stuff by No Starch",
-      "category": "books",
-      "end_at": "2026-06-22T18:00:00"
-    },
-    {
       "key": "fantasygamedevassetssynty_softwarebundle",
       "url": "https://humblebundle.com/software/fantasy-game-dev-assets-synty-software",
       "machine_name": "fantasygamedevassetssynty_softwarebundle",
       "title": "Fantasy Game Dev Assets By Synty",
       "category": "software",
+      "end_at": "2026-06-22T18:00:00"
+    },
+    {
+      "key": "pythongoodstuffnostarch_bookbundle",
+      "url": "https://humblebundle.com/books/python-good-stuff-no-starch-books",
+      "machine_name": "pythongoodstuffnostarch_bookbundle",
+      "title": "Python: The Good Stuff by No Starch",
+      "category": "books",
       "end_at": "2026-06-22T18:00:00"
     },
     {
@@ -195,20 +195,20 @@
       "end_at": "2026-06-20T18:00:00"
     },
     {
-      "key": "kodanshapresentsblyurimorefromichijinsha_bookbundle",
-      "url": "https://humblebundle.com/books/kodansha-presents-bl-yuri-more-from-ichijinsha-books",
-      "machine_name": "kodanshapresentsblyurimorefromichijinsha_bookbundle",
-      "title": "Kodansha Presents: BL, Yuri & More from Ichijinsha",
-      "category": "books",
-      "end_at": "2026-06-19T18:00:00"
-    },
-    {
       "key": "12for10_bundle",
       "url": "https://humblebundle.com/games/12-for-10",
       "machine_name": "12for10_bundle",
       "title": "12 for $10",
       "category": "games",
       "end_at": "2026-06-20T01:00:00"
+    },
+    {
+      "key": "kodanshapresentsblyurimorefromichijinsha_bookbundle",
+      "url": "https://humblebundle.com/books/kodansha-presents-bl-yuri-more-from-ichijinsha-books",
+      "machine_name": "kodanshapresentsblyurimorefromichijinsha_bookbundle",
+      "title": "Kodansha Presents: BL, Yuri & More from Ichijinsha",
+      "category": "books",
+      "end_at": "2026-06-19T18:00:00"
     },
     {
       "key": "criticalhitsarpgbundle_gamebundle",
@@ -219,18 +219,18 @@
       "end_at": "2026-06-19T01:00:35"
     },
     {
-      "key": "learnunrealengine2026coursebundle_softwarebundle",
-      "url": "https://humblebundle.com/software/learn-unreal-engine-2026-course-bundle-software",
-      "machine_name": "learnunrealengine2026coursebundle_softwarebundle",
-      "title": "Learn Unreal Engine 2026 Course Bundle",
-      "category": "software",
-      "end_at": "2026-06-18T18:00:00"
-    },
-    {
       "key": "melodicmayhemvol2comprehensiveaudioandmusicbundle_softwarebundle",
       "url": "https://humblebundle.com/software/melodic-mayhem-vol-2-comprehensive-audio-and-music-bundle-software",
       "machine_name": "melodicmayhemvol2comprehensiveaudioandmusicbundle_softwarebundle",
       "title": "Melodic Mayhem Vol. 2: A Comprehensive Audio and Music Bundle",
+      "category": "software",
+      "end_at": "2026-06-18T18:00:00"
+    },
+    {
+      "key": "learnunrealengine2026coursebundle_softwarebundle",
+      "url": "https://humblebundle.com/software/learn-unreal-engine-2026-course-bundle-software",
+      "machine_name": "learnunrealengine2026coursebundle_softwarebundle",
+      "title": "Learn Unreal Engine 2026 Course Bundle",
       "category": "software",
       "end_at": "2026-06-18T18:00:00"
     },
@@ -275,14 +275,6 @@
       "end_at": "2026-06-16T18:00:00"
     },
     {
-      "key": "cybersecurityaidefensemegabundlepackt_softwarebundle",
-      "url": "https://humblebundle.com/software/cybersecurity-ai-defense-mega-bundle-packt-software",
-      "machine_name": "cybersecurityaidefensemegabundlepackt_softwarebundle",
-      "title": "The Cybersecurity & AI Defense Mega Bundle by Packt",
-      "category": "software",
-      "end_at": "2026-06-15T18:00:00"
-    },
-    {
       "key": "datavisualizationstorytellingwiley_bookbundle",
       "url": "https://humblebundle.com/books/data-visualization-storytelling-wiley-books",
       "machine_name": "datavisualizationstorytellingwiley_bookbundle",
@@ -291,12 +283,12 @@
       "end_at": "2026-06-15T18:00:00"
     },
     {
-      "key": "ultimateaiskillsbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/ultimate-ai-skills-bundle-software",
-      "machine_name": "ultimateaiskillsbundle_softwarebundle",
-      "title": "Ultimate AI Skills Bundle",
+      "key": "cybersecurityaidefensemegabundlepackt_softwarebundle",
+      "url": "https://humblebundle.com/software/cybersecurity-ai-defense-mega-bundle-packt-software",
+      "machine_name": "cybersecurityaidefensemegabundlepackt_softwarebundle",
+      "title": "The Cybersecurity & AI Defense Mega Bundle by Packt",
       "category": "software",
-      "end_at": "2026-06-12T18:00:00"
+      "end_at": "2026-06-15T18:00:00"
     },
     {
       "key": "4xxplorexpandxploitxterminate_bundle",
@@ -305,6 +297,14 @@
       "title": "4X: Xplore, Xpand, Xploit, Xterminate",
       "category": "games",
       "end_at": "2026-06-13T01:00:00"
+    },
+    {
+      "key": "ultimateaiskillsbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/ultimate-ai-skills-bundle-software",
+      "machine_name": "ultimateaiskillsbundle_softwarebundle",
+      "title": "Ultimate AI Skills Bundle",
+      "category": "software",
+      "end_at": "2026-06-12T18:00:00"
     },
     {
       "key": "warhammerskulls2026bundle_bundle",
@@ -355,20 +355,20 @@
       "end_at": "2026-06-16T18:00:00"
     },
     {
-      "key": "ultimatefunctionalprogrammingpragmaticprogrammers_bookbundle",
-      "url": "https://humblebundle.com/books/ultimate-functional-programming-pragmatic-programmers-books",
-      "machine_name": "ultimatefunctionalprogrammingpragmaticprogrammers_bookbundle",
-      "title": "The Ultimate Functional Programming by Pragmatic Programmers",
-      "category": "books",
-      "end_at": "2026-06-15T18:00:00"
-    },
-    {
       "key": "buildlaunchaiappsbundle_softwarebundle",
       "url": "https://humblebundle.com/software/build-launch-ai-apps-bundle-software",
       "machine_name": "buildlaunchaiappsbundle_softwarebundle",
       "title": "Build & Launch AI Apps Bundle",
       "category": "software",
       "end_at": "2026-06-22T18:00:00"
+    },
+    {
+      "key": "ultimatefunctionalprogrammingpragmaticprogrammers_bookbundle",
+      "url": "https://humblebundle.com/books/ultimate-functional-programming-pragmatic-programmers-books",
+      "machine_name": "ultimatefunctionalprogrammingpragmaticprogrammers_bookbundle",
+      "title": "The Ultimate Functional Programming by Pragmatic Programmers",
+      "category": "books",
+      "end_at": "2026-06-15T18:00:00"
     },
     {
       "key": "infinitedreadhorrorcomicsonipress_bookbundle",
