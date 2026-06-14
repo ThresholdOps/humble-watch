@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T19:50:39Z",
-  "updated_at": "2026-06-13T19:51:19Z",
+  "generated_at": "2026-06-14T19:54:09Z",
+  "updated_at": "2026-06-14T19:54:49Z",
   "items": [
     {
       "key": "robyncarrsvirginriver_bookbundle",
@@ -19,6 +19,14 @@
       "end_at": "2026-07-02T18:00:00"
     },
     {
+      "key": "yuriinluckwaifusforlaifus_bundle",
+      "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
+      "machine_name": "yuriinluckwaifusforlaifus_bundle",
+      "title": "Yuri in Luck: Waifus for Laifus",
+      "category": "games",
+      "end_at": "2026-07-02T01:00:00"
+    },
+    {
       "key": "completeinklelibrary_bundle",
       "url": "https://humblebundle.com/games/complete-inkle-library",
       "machine_name": "completeinklelibrary_bundle",
@@ -35,14 +43,6 @@
       "end_at": "2026-07-01T18:00:00"
     },
     {
-      "key": "yuriinluckwaifusforlaifus_bundle",
-      "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
-      "machine_name": "yuriinluckwaifusforlaifus_bundle",
-      "title": "Yuri in Luck: Waifus for Laifus",
-      "category": "games",
-      "end_at": "2026-07-02T01:00:00"
-    },
-    {
       "key": "unitygamedevelopmentmasterybundlezenva_bookbundle",
       "url": "https://humblebundle.com/books/unity-game-development-mastery-bundle-zenva-books",
       "machine_name": "unitygamedevelopmentmasterybundlezenva_bookbundle",
@@ -51,19 +51,19 @@
       "end_at": "2026-07-01T18:00:00"
     },
     {
-      "key": "biggerbetterbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/bigger-better-bundle-software",
-      "machine_name": "biggerbetterbundle_softwarebundle",
-      "title": "Bigger Better Bundle",
-      "category": "software",
-      "end_at": "2026-06-30T18:00:00"
-    },
-    {
       "key": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
       "url": "https://humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books",
       "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
       "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
       "category": "books",
+      "end_at": "2026-06-30T18:00:00"
+    },
+    {
+      "key": "biggerbetterbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/bigger-better-bundle-software",
+      "machine_name": "biggerbetterbundle_softwarebundle",
+      "title": "Bigger Better Bundle",
+      "category": "software",
       "end_at": "2026-06-30T18:00:00"
     },
     {
@@ -83,14 +83,6 @@
       "end_at": "2026-06-29T16:00:00"
     },
     {
-      "key": "frostygamesfestshowcasebundle2026madeinanz_bundle",
-      "url": "https://humblebundle.com/games/frosty-games-fest-showcase-bundle-2026-made-in-anz",
-      "machine_name": "frostygamesfestshowcasebundle2026madeinanz_bundle",
-      "title": "Frosty Games Fest Showcase Bundle 2026: Made in ANZ",
-      "category": "games",
-      "end_at": "2026-06-27T01:00:00"
-    },
-    {
       "key": "redlineracingbundle_bundle",
       "url": "https://humblebundle.com/games/redline-racing-bundle",
       "machine_name": "redlineracingbundle_bundle",
@@ -105,6 +97,14 @@
       "title": "The Complete Unity AI Bundle",
       "category": "software",
       "end_at": "2026-07-07T18:00:00"
+    },
+    {
+      "key": "frostygamesfestshowcasebundle2026madeinanz_bundle",
+      "url": "https://humblebundle.com/games/frosty-games-fest-showcase-bundle-2026-made-in-anz",
+      "machine_name": "frostygamesfestshowcasebundle2026madeinanz_bundle",
+      "title": "Frosty Games Fest Showcase Bundle 2026: Made in ANZ",
+      "category": "games",
+      "end_at": "2026-06-27T01:00:00"
     },
     {
       "key": "2026learnunitygamedevelopmentbundle_softwarebundle",
@@ -155,18 +155,18 @@
       "end_at": "2026-06-24T18:00:00"
     },
     {
-      "key": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
-      "url": "https://humblebundle.com/books/embroidery-sashiko-and-decorative-stitching-open-road-books",
-      "machine_name": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
-      "title": "Embroidery, Sashiko, and Decorative Stitching by Open Road",
-      "category": "books",
-      "end_at": "2026-06-30T18:00:00"
-    },
-    {
       "key": "cyberpunkredreadytorunessentialsbundle_bundle",
       "url": "https://humblebundle.com/books/cyberpunk-red-readytorun-essentials-bundle",
       "machine_name": "cyberpunkredreadytorunessentialsbundle_bundle",
       "title": "Cyberpunk RED: The Ready-to-Run Essentials Bundle",
+      "category": "books",
+      "end_at": "2026-06-30T18:00:00"
+    },
+    {
+      "key": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
+      "url": "https://humblebundle.com/books/embroidery-sashiko-and-decorative-stitching-open-road-books",
+      "machine_name": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
+      "title": "Embroidery, Sashiko, and Decorative Stitching by Open Road",
       "category": "books",
       "end_at": "2026-06-30T18:00:00"
     },
@@ -203,20 +203,20 @@
       "end_at": "2026-06-20T18:00:00"
     },
     {
-      "key": "kodanshapresentsblyurimorefromichijinsha_bookbundle",
-      "url": "https://humblebundle.com/books/kodansha-presents-bl-yuri-more-from-ichijinsha-books",
-      "machine_name": "kodanshapresentsblyurimorefromichijinsha_bookbundle",
-      "title": "Kodansha Presents: BL, Yuri & More from Ichijinsha",
-      "category": "books",
-      "end_at": "2026-06-19T18:00:00"
-    },
-    {
       "key": "12for10_bundle",
       "url": "https://humblebundle.com/games/12-for-10",
       "machine_name": "12for10_bundle",
       "title": "12 for $10",
       "category": "games",
       "end_at": "2026-06-20T01:00:00"
+    },
+    {
+      "key": "kodanshapresentsblyurimorefromichijinsha_bookbundle",
+      "url": "https://humblebundle.com/books/kodansha-presents-bl-yuri-more-from-ichijinsha-books",
+      "machine_name": "kodanshapresentsblyurimorefromichijinsha_bookbundle",
+      "title": "Kodansha Presents: BL, Yuri & More from Ichijinsha",
+      "category": "books",
+      "end_at": "2026-06-19T18:00:00"
     },
     {
       "key": "criticalhitsarpgbundle_gamebundle",
@@ -227,18 +227,18 @@
       "end_at": "2026-06-19T01:00:35"
     },
     {
-      "key": "learnunrealengine2026coursebundle_softwarebundle",
-      "url": "https://humblebundle.com/software/learn-unreal-engine-2026-course-bundle-software",
-      "machine_name": "learnunrealengine2026coursebundle_softwarebundle",
-      "title": "Learn Unreal Engine 2026 Course Bundle",
-      "category": "software",
-      "end_at": "2026-06-18T18:00:00"
-    },
-    {
       "key": "melodicmayhemvol2comprehensiveaudioandmusicbundle_softwarebundle",
       "url": "https://humblebundle.com/software/melodic-mayhem-vol-2-comprehensive-audio-and-music-bundle-software",
       "machine_name": "melodicmayhemvol2comprehensiveaudioandmusicbundle_softwarebundle",
       "title": "Melodic Mayhem Vol. 2: A Comprehensive Audio and Music Bundle",
+      "category": "software",
+      "end_at": "2026-06-18T18:00:00"
+    },
+    {
+      "key": "learnunrealengine2026coursebundle_softwarebundle",
+      "url": "https://humblebundle.com/software/learn-unreal-engine-2026-course-bundle-software",
+      "machine_name": "learnunrealengine2026coursebundle_softwarebundle",
+      "title": "Learn Unreal Engine 2026 Course Bundle",
       "category": "software",
       "end_at": "2026-06-18T18:00:00"
     },
@@ -283,19 +283,19 @@
       "end_at": "2026-06-16T18:00:00"
     },
     {
-      "key": "datavisualizationstorytellingwiley_bookbundle",
-      "url": "https://humblebundle.com/books/data-visualization-storytelling-wiley-books",
-      "machine_name": "datavisualizationstorytellingwiley_bookbundle",
-      "title": "Data Visualization & Storytelling by Wiley",
-      "category": "books",
-      "end_at": "2026-06-15T18:00:00"
-    },
-    {
       "key": "cybersecurityaidefensemegabundlepackt_softwarebundle",
       "url": "https://humblebundle.com/software/cybersecurity-ai-defense-mega-bundle-packt-software",
       "machine_name": "cybersecurityaidefensemegabundlepackt_softwarebundle",
       "title": "The Cybersecurity & AI Defense Mega Bundle by Packt",
       "category": "software",
+      "end_at": "2026-06-15T18:00:00"
+    },
+    {
+      "key": "datavisualizationstorytellingwiley_bookbundle",
+      "url": "https://humblebundle.com/books/data-visualization-storytelling-wiley-books",
+      "machine_name": "datavisualizationstorytellingwiley_bookbundle",
+      "title": "Data Visualization & Storytelling by Wiley",
+      "category": "books",
       "end_at": "2026-06-15T18:00:00"
     },
     {
@@ -377,14 +377,6 @@
       "title": "The Ultimate GenAI & LLM Developer Bundle",
       "category": "software",
       "end_at": "2026-06-15T18:00:00"
-    },
-    {
-      "key": "springintocreativity_softwarebundle",
-      "url": "https://humblebundle.com/software/spring-into-creativity-software",
-      "machine_name": "springintocreativity_softwarebundle",
-      "title": "Spring Into Creativity",
-      "category": "software",
-      "end_at": "2026-06-14T18:00:00"
     }
   ]
 }

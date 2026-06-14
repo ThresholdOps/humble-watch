@@ -1,36 +1,6 @@
 {
-  "generated_at": "2026-06-13T19:50:39Z",
+  "generated_at": "2026-06-14T19:54:09Z",
   "expires_today": [
-    {
-      "category": "software",
-      "title": "Spring Into Creativity",
-      "url": "https://humblebundle.com/software/spring-into-creativity-software",
-      "description": "Spring into creativity",
-      "long_description": "Unlock four elite editing software programs for one low price with the all-new Spring Into Creativity Bundle. Make every shot your best with the advanced photo editing tools in \u003cem\u003ePaintShop Pro 2023\u003c/em\u003e. Save hours of time spent editing at your computer with the efficient AI-based solutions of \u003cem\u003eAfterShot Pro 2023\u003c/em\u003e. Turn your best moments into unique movies with the easy-to-use editing software \u003cem\u003eVideoStudio Pro\u003c/em\u003e. Create your own AI talking photos with \u003cem\u003ePhotoMirage\u003c/em\u003e. Pay what you want for a comprehensive creative library and help support Extra Life with your purchase.",
-      "start_at": "2026-04-27T18:00:00",
-      "end_at": "2026-06-14T18:00:00",
-      "days_left": 0.92,
-      "hours_left": 22.2,
-      "machine_name": "springintocreativity_softwarebundle",
-      "bundles_sold": 723,
-      "tile_stamp": "software"
-    }
-  ],
-  "expires_tomorrow": [
-    {
-      "category": "books",
-      "title": "Data Visualization \u0026 Storytelling by Wiley",
-      "url": "https://humblebundle.com/books/data-visualization-storytelling-wiley-books",
-      "description": "Your data tells a story",
-      "long_description": "Show—don’t tell—when you integrate storytelling into your data to help paint a broader picture. Unlock eBooks from leading authors in the space, like the \u003cem\u003eFor Dummies\u003c/em\u003e team, and awesome titles like \u003cem\u003eCool Infographics: Effective Communication with Data Visualization and Design\u003c/em\u003e, \u003cem\u003eData Points: Visualization That Means Something\u003c/em\u003e, and \u003cem\u003eData-Driven Security: Analysis, Visualization and Dashboards\u003c/em\u003e. Pay what you want for a powerful collection of data visualization and storytelling eBooks from some of the biggest names in tech, and help support the Electronic Frontier Foundation!",
-      "start_at": "2026-05-25T18:00:00",
-      "end_at": "2026-06-15T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
-      "machine_name": "datavisualizationstorytellingwiley_bookbundle",
-      "bundles_sold": 2978,
-      "tile_stamp": "books"
-    },
     {
       "category": "software",
       "title": "The Cybersecurity \u0026 AI Defense Mega Bundle by Packt",
@@ -39,11 +9,25 @@
       "long_description": "Nothing gets past our latest Humble Video Learning Bundle: The Cybersecurity \u0026 AI Defense Mega Bundle! Learn how to protect your digital world using AI defensive tactics with exceptional courses from Packt. Prepare for your new career with video learning courses like \u003cem\u003eCybersecurity Fundamentals \u0026 Certification Prep – ISC2 Pathway\u003c/em\u003e, \u003cem\u003eMastering Cybersecurity with Python - From Basics to Advanced Defense\u003c/em\u003e, \u003cem\u003eAZ-500 - Microsoft Azure Security Technologies - A Prep Course\u003c/em\u003e, more. Go from zero to cybersecurity hero, and help support the Starlight Foundation with your purchase! ",
       "start_at": "2026-05-25T18:00:00",
       "end_at": "2026-06-15T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
+      "days_left": 0.92,
+      "hours_left": 22.1,
       "machine_name": "cybersecurityaidefensemegabundlepackt_softwarebundle",
-      "bundles_sold": 1988,
+      "bundles_sold": 2120,
       "tile_stamp": "software"
+    },
+    {
+      "category": "books",
+      "title": "Data Visualization \u0026 Storytelling by Wiley",
+      "url": "https://humblebundle.com/books/data-visualization-storytelling-wiley-books",
+      "description": "Your data tells a story",
+      "long_description": "Show—don’t tell—when you integrate storytelling into your data to help paint a broader picture. Unlock eBooks from leading authors in the space, like the \u003cem\u003eFor Dummies\u003c/em\u003e team, and awesome titles like \u003cem\u003eCool Infographics: Effective Communication with Data Visualization and Design\u003c/em\u003e, \u003cem\u003eData Points: Visualization That Means Something\u003c/em\u003e, and \u003cem\u003eData-Driven Security: Analysis, Visualization and Dashboards\u003c/em\u003e. Pay what you want for a powerful collection of data visualization and storytelling eBooks from some of the biggest names in tech, and help support the Electronic Frontier Foundation!",
+      "start_at": "2026-05-25T18:00:00",
+      "end_at": "2026-06-15T18:00:00",
+      "days_left": 0.92,
+      "hours_left": 22.1,
+      "machine_name": "datavisualizationstorytellingwiley_bookbundle",
+      "bundles_sold": 3181,
+      "tile_stamp": "books"
     },
     {
       "category": "books",
@@ -53,10 +37,10 @@
       "long_description": "Start creating with a function-focused mindset with the all-new Functional Programming Bundle by Pragmatic Programmers. Learn to execute a variety of functions to save time and energy for yourself, a business, or a new programming hobby. Unlock cornerstone eBooks like \u003cem\u003eDomain Modeling Made Functional\u003c/em\u003e, \u003cem\u003eProgramming Clojure Fourth Edition\u003c/em\u003e, \u003cem\u003eFrom Objects to Functions\u003c/em\u003e, and more. Get practical resources for novice coders and seasoned pros, and help support Save the Children with your purchase!",
       "start_at": "2026-05-18T18:00:00",
       "end_at": "2026-06-15T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
+      "days_left": 0.92,
+      "hours_left": 22.1,
       "machine_name": "ultimatefunctionalprogrammingpragmaticprogrammers_bookbundle",
-      "bundles_sold": 3976,
+      "bundles_sold": 4062,
       "tile_stamp": "books"
     },
     {
@@ -67,14 +51,14 @@
       "long_description": "Learn how to create your own LLMs and GenAI that understand, generate, and process at lightning speed with an all-new Humble Video Learning Bundle. Jump-start your career with this 15+ course library, highlighted by \u003cem\u003eThe Complete LangChain \u0026 LLMs Guide\u003c/em\u003e and \u003cem\u003eAI \u0026 LLM Engineering Mastery - GenAI, RAG Complete Guide\u003c/em\u003e, you’ll gain the knowledge and confidence you need to succeed in these challenging and in-demand fields. Pay what you want for the ultimate GenAI and LLM bundle, and help support the World Wildlife Fund with your purchase! ",
       "start_at": "2026-05-11T18:00:00",
       "end_at": "2026-06-15T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
+      "days_left": 0.92,
+      "hours_left": 22.1,
       "machine_name": "ultimategenaillmdeveloperbundle_softwarebundle",
-      "bundles_sold": 2569,
+      "bundles_sold": 2625,
       "tile_stamp": "software"
     }
   ],
-  "expires_within_72h": [
+  "expires_tomorrow": [
     {
       "category": "software",
       "title": "Music for Dummies 2026",
@@ -83,10 +67,10 @@
       "long_description": "The sweet sounds of savings have arrived to make your foray into musical stardom even easier with the 2026 Music for Dummies Bundle! The professionals from the \u003cem\u003eFor Dummies\u003c/em\u003e series are back again to help you unleash your inner musician. Learn a variety of digital instruments with in-depth lessons like \u003cem\u003eeMedia Guitar For Dummies Level 1-2\u003c/em\u003e, \u003cem\u003eeMedia Piano For Dummies Level 1-2\u003c/em\u003e, and \u003cem\u003eeMedia Singing For Dummies Level 1-2\u003c/em\u003e. Take your passion for digital music to superstar levels of greatness, and help support the World Wildlife Fund with your purchase. \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before December 16th, 2026 \u003c/span\u003e",
       "start_at": "2026-05-26T20:30:00",
       "end_at": "2026-06-16T18:00:00",
-      "days_left": 2.92,
-      "hours_left": 70.2,
+      "days_left": 1.92,
+      "hours_left": 46.1,
       "machine_name": "musicfordummies2026_softwarebundle",
-      "bundles_sold": 784,
+      "bundles_sold": 818,
       "tile_stamp": "software"
     },
     {
@@ -97,24 +81,68 @@
       "long_description": "Learn the skills and gain the knowledge you need to succeed in system administration and development operations for Linux with this bundle of insightful courses by Packt. Inside this amazing curriculum, you’ll get expert insights on mastering AI networking, Windows 365, PowerShell scripting, and more. Deepen your understanding of SysAdmin and DevOps whether you’re a novice or a seasoned professional with courses like \u003cem\u003eThe Ultimate Linux Shell Scripting Guide\u003c/em\u003e, \u003cem\u003eMicrosoft Intune Cookbook - 2E\u003c/em\u003e and help support the Prevent Cancer Foundation with your purchase!",
       "start_at": "2026-05-26T18:00:00",
       "end_at": "2026-06-16T18:00:00",
-      "days_left": 2.92,
-      "hours_left": 70.2,
+      "days_left": 1.92,
+      "hours_left": 46.1,
       "machine_name": "ultimatelinuxsysadminbundle_bookbundle",
-      "bundles_sold": 3987,
+      "bundles_sold": 4156,
       "tile_stamp": "books"
     },
     {
       "category": "books",
-      "title": "Data Visualization \u0026 Storytelling by Wiley",
-      "url": "https://humblebundle.com/books/data-visualization-storytelling-wiley-books",
-      "description": "Your data tells a story",
-      "long_description": "Show—don’t tell—when you integrate storytelling into your data to help paint a broader picture. Unlock eBooks from leading authors in the space, like the \u003cem\u003eFor Dummies\u003c/em\u003e team, and awesome titles like \u003cem\u003eCool Infographics: Effective Communication with Data Visualization and Design\u003c/em\u003e, \u003cem\u003eData Points: Visualization That Means Something\u003c/em\u003e, and \u003cem\u003eData-Driven Security: Analysis, Visualization and Dashboards\u003c/em\u003e. Pay what you want for a powerful collection of data visualization and storytelling eBooks from some of the biggest names in tech, and help support the Electronic Frontier Foundation!",
-      "start_at": "2026-05-25T18:00:00",
-      "end_at": "2026-06-15T18:00:00",
+      "title": "Hot Mess Express: A Big Bundle of Misfit Heroes \u0026 Hilarious Hijinks by Image Comics",
+      "url": "https://humblebundle.com/books/hot-mess-express-big-bundle-misfit-heroes-hilarious-hijinks-image-comics-books",
+      "description": "Image Comics’ misfits, heroes \u0026 more",
+      "long_description": "\u003ca style=\"color: #ef9741;\"\u003e\u003cstrong\u003eThe content in this bundle is intended for mature audiences.\u003c/strong\u003e\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eLose yourself in a library of fantastic graphic fiction in The Hot Mess Express Bundle by Image Comics! Read creative graphic novels like \u003cem\u003eSnotgirl Vol. 1: Green Hair Don’t Care\u003c/em\u003e, the coming-of-age story of Lottie Person, a chic yet insecure fashionista with a mysterious snot condition; \u003cem\u003eI Hate Fairyland Deluxe Vol. 1-3\u003c/em\u003e, a mischievously magical dark adventure akin to \u003cem\u003eAlice in Wonderland\u003c/em\u003e; and \u003cem\u003eDead Eyes Vol. 1\u003c/em\u003e, the origin story of Martin Dobbs, a former masked criminal forced back into a life of crime to pay his wife’s medical bills. Get 40+ comics and graphic novels, and help support The BINC Foundation with your purchase! ",
+      "start_at": "2026-05-19T18:00:00",
+      "end_at": "2026-06-16T18:00:00",
       "days_left": 1.92,
-      "hours_left": 46.2,
-      "machine_name": "datavisualizationstorytellingwiley_bookbundle",
-      "bundles_sold": 2978,
+      "hours_left": 46.1,
+      "machine_name": "hotmessexpressbigbundlemisfitheroeshilarioushijinksimagecomics_bookbundle",
+      "bundles_sold": 3672,
+      "tile_stamp": "comics"
+    }
+  ],
+  "expires_within_72h": [
+    {
+      "category": "books",
+      "title": "The Free League RPG Collection",
+      "url": "https://humblebundle.com/books/free-league-rpg-collection-books",
+      "description": "Fresh TTRPGs by Free League Publishing",
+      "long_description": "Ready to spice up your TTRPG collection with the hottest titles from Free League Publishing? Unlock the core set for \u003cem\u003eDragonbane\u003c/em\u003e, an exhilarating classic fantasy game full of magic, mystery, and adventure that offers “mirth and mayhem roleplaying,” aka hearty laughs and brutal challenges. Or brave \u003cem\u003eMutant: Year Zero\u003c/em\u003e, a post-apocalyptic tale of humanity’s crawl back from streets turned graveyards as godlike mutants roam the wasteland. Try these or \u003cem\u003eVaesen: A Wicked Secret\u003c/em\u003e, all for a price you choose, and help support Direct Relief with your purchase.\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003e\u003cspan style=\"color: #ef9741;\"\u003eCodes are redeemable through the DriveThruRPG website.\u003c/span\u003e\u003c/strong\u003e",
+      "start_at": "2026-05-27T18:00:00",
+      "end_at": "2026-06-17T18:00:00",
+      "days_left": 2.92,
+      "hours_left": 70.1,
+      "machine_name": "freeleaguerpgcollection_bookbundle",
+      "bundles_sold": 9510,
+      "tile_stamp": "books"
+    },
+    {
+      "category": "software",
+      "title": "Music for Dummies 2026",
+      "url": "https://humblebundle.com/software/music-for-dummies-2026-software",
+      "description": "Amazing music lessons For Dummies",
+      "long_description": "The sweet sounds of savings have arrived to make your foray into musical stardom even easier with the 2026 Music for Dummies Bundle! The professionals from the \u003cem\u003eFor Dummies\u003c/em\u003e series are back again to help you unleash your inner musician. Learn a variety of digital instruments with in-depth lessons like \u003cem\u003eeMedia Guitar For Dummies Level 1-2\u003c/em\u003e, \u003cem\u003eeMedia Piano For Dummies Level 1-2\u003c/em\u003e, and \u003cem\u003eeMedia Singing For Dummies Level 1-2\u003c/em\u003e. Take your passion for digital music to superstar levels of greatness, and help support the World Wildlife Fund with your purchase. \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before December 16th, 2026 \u003c/span\u003e",
+      "start_at": "2026-05-26T20:30:00",
+      "end_at": "2026-06-16T18:00:00",
+      "days_left": 1.92,
+      "hours_left": 46.1,
+      "machine_name": "musicfordummies2026_softwarebundle",
+      "bundles_sold": 818,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "books",
+      "title": "The Ultimate Linux \u0026 SysAdmin Bundle",
+      "url": "https://humblebundle.com/books/ultimate-linux-sysadmin-bundle-books",
+      "description": "Level up your Linux skills",
+      "long_description": "Learn the skills and gain the knowledge you need to succeed in system administration and development operations for Linux with this bundle of insightful courses by Packt. Inside this amazing curriculum, you’ll get expert insights on mastering AI networking, Windows 365, PowerShell scripting, and more. Deepen your understanding of SysAdmin and DevOps whether you’re a novice or a seasoned professional with courses like \u003cem\u003eThe Ultimate Linux Shell Scripting Guide\u003c/em\u003e, \u003cem\u003eMicrosoft Intune Cookbook - 2E\u003c/em\u003e and help support the Prevent Cancer Foundation with your purchase!",
+      "start_at": "2026-05-26T18:00:00",
+      "end_at": "2026-06-16T18:00:00",
+      "days_left": 1.92,
+      "hours_left": 46.1,
+      "machine_name": "ultimatelinuxsysadminbundle_bookbundle",
+      "bundles_sold": 4156,
       "tile_stamp": "books"
     },
     {
@@ -125,10 +153,38 @@
       "long_description": "Nothing gets past our latest Humble Video Learning Bundle: The Cybersecurity \u0026 AI Defense Mega Bundle! Learn how to protect your digital world using AI defensive tactics with exceptional courses from Packt. Prepare for your new career with video learning courses like \u003cem\u003eCybersecurity Fundamentals \u0026 Certification Prep – ISC2 Pathway\u003c/em\u003e, \u003cem\u003eMastering Cybersecurity with Python - From Basics to Advanced Defense\u003c/em\u003e, \u003cem\u003eAZ-500 - Microsoft Azure Security Technologies - A Prep Course\u003c/em\u003e, more. Go from zero to cybersecurity hero, and help support the Starlight Foundation with your purchase! ",
       "start_at": "2026-05-25T18:00:00",
       "end_at": "2026-06-15T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
+      "days_left": 0.92,
+      "hours_left": 22.1,
       "machine_name": "cybersecurityaidefensemegabundlepackt_softwarebundle",
-      "bundles_sold": 1988,
+      "bundles_sold": 2120,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "books",
+      "title": "Data Visualization \u0026 Storytelling by Wiley",
+      "url": "https://humblebundle.com/books/data-visualization-storytelling-wiley-books",
+      "description": "Your data tells a story",
+      "long_description": "Show—don’t tell—when you integrate storytelling into your data to help paint a broader picture. Unlock eBooks from leading authors in the space, like the \u003cem\u003eFor Dummies\u003c/em\u003e team, and awesome titles like \u003cem\u003eCool Infographics: Effective Communication with Data Visualization and Design\u003c/em\u003e, \u003cem\u003eData Points: Visualization That Means Something\u003c/em\u003e, and \u003cem\u003eData-Driven Security: Analysis, Visualization and Dashboards\u003c/em\u003e. Pay what you want for a powerful collection of data visualization and storytelling eBooks from some of the biggest names in tech, and help support the Electronic Frontier Foundation!",
+      "start_at": "2026-05-25T18:00:00",
+      "end_at": "2026-06-15T18:00:00",
+      "days_left": 0.92,
+      "hours_left": 22.1,
+      "machine_name": "datavisualizationstorytellingwiley_bookbundle",
+      "bundles_sold": 3181,
+      "tile_stamp": "books"
+    },
+    {
+      "category": "software",
+      "title": "IK Multimedia Presents Studio Essentials: Pianos, Bass, Drums \u0026 Cinematic Sounds",
+      "url": "https://humblebundle.com/software/ik-multimedia-presents-studio-essentials-pianos-bass-drums-cinematic-sounds-software",
+      "description": "Royalty-free instrument essentials for you",
+      "long_description": "Create the perfect audioscape for your next game or creative project with IK Multimedia’s curated collection of studio essentials! Capture the magic of classic instruments from this extensive 1,000+ asset library of commercial-ready string, bass, and drum samples from themed packs like \u003cem\u003eMODO BASS Studio Upright\u003c/em\u003e, \u003cem\u003ePianoverse - Grand Piano Y7\u003c/em\u003e, \u003cem\u003eMiroslav Philharmonik 2\u003c/em\u003e, and more! Explore a variety of genres, from lo-fi to classical and everything in between. Get the assets you need to achieve the sound you’re looking for, and support Music Will with your purchase! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys Expire. Please redeem before June 2nd, 2027 \u003c/span\u003e",
+      "start_at": "2026-05-20T18:00:00",
+      "end_at": "2026-06-17T18:00:00",
+      "days_left": 2.92,
+      "hours_left": 70.1,
+      "machine_name": "ikmultimediapresentsstudioessentialspianosbassdrumscinematicsounds_softwarebundle",
+      "bundles_sold": 1342,
       "tile_stamp": "software"
     },
     {
@@ -139,10 +195,10 @@
       "long_description": "\u003ca style=\"color: #ef9741;\"\u003e\u003cstrong\u003eThe content in this bundle is intended for mature audiences.\u003c/strong\u003e\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eLose yourself in a library of fantastic graphic fiction in The Hot Mess Express Bundle by Image Comics! Read creative graphic novels like \u003cem\u003eSnotgirl Vol. 1: Green Hair Don’t Care\u003c/em\u003e, the coming-of-age story of Lottie Person, a chic yet insecure fashionista with a mysterious snot condition; \u003cem\u003eI Hate Fairyland Deluxe Vol. 1-3\u003c/em\u003e, a mischievously magical dark adventure akin to \u003cem\u003eAlice in Wonderland\u003c/em\u003e; and \u003cem\u003eDead Eyes Vol. 1\u003c/em\u003e, the origin story of Martin Dobbs, a former masked criminal forced back into a life of crime to pay his wife’s medical bills. Get 40+ comics and graphic novels, and help support The BINC Foundation with your purchase! ",
       "start_at": "2026-05-19T18:00:00",
       "end_at": "2026-06-16T18:00:00",
-      "days_left": 2.92,
-      "hours_left": 70.2,
+      "days_left": 1.92,
+      "hours_left": 46.1,
       "machine_name": "hotmessexpressbigbundlemisfitheroeshilarioushijinksimagecomics_bookbundle",
-      "bundles_sold": 3622,
+      "bundles_sold": 3672,
       "tile_stamp": "comics"
     },
     {
@@ -153,11 +209,25 @@
       "long_description": "Start creating with a function-focused mindset with the all-new Functional Programming Bundle by Pragmatic Programmers. Learn to execute a variety of functions to save time and energy for yourself, a business, or a new programming hobby. Unlock cornerstone eBooks like \u003cem\u003eDomain Modeling Made Functional\u003c/em\u003e, \u003cem\u003eProgramming Clojure Fourth Edition\u003c/em\u003e, \u003cem\u003eFrom Objects to Functions\u003c/em\u003e, and more. Get practical resources for novice coders and seasoned pros, and help support Save the Children with your purchase!",
       "start_at": "2026-05-18T18:00:00",
       "end_at": "2026-06-15T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
+      "days_left": 0.92,
+      "hours_left": 22.1,
       "machine_name": "ultimatefunctionalprogrammingpragmaticprogrammers_bookbundle",
-      "bundles_sold": 3976,
+      "bundles_sold": 4062,
       "tile_stamp": "books"
+    },
+    {
+      "category": "software",
+      "title": "All-In-One 2D Game Dev Level Creation Pack",
+      "url": "https://humblebundle.com/software/allinone-2d-game-dev-level-creation-pack-software",
+      "description": "Speedrun 2D level creation ",
+      "long_description": "Build entire game worlds faster with this massive Level Creation Bundle from GameDev Market. Designed to streamline your workflow, this collection gives you everything you need to create levels across multiple styles - from top-down and platformer to isometric environments and beyond. Jump straight into development with ready-to-use tilesets like \u003cem\u003eWolfsong Tilesets\u003c/em\u003e, \u003cem\u003ePixel Art Tileset Collection\u003c/em\u003e, \u003cem\u003eCartoon Platformer Tileset Pack\u003c/em\u003e, and more, all built to help you quickly design, iterate, and expand your worlds without starting from scratch. Stop piecing levels together asset-by-asset—get a complete toolkit to bring your ideas to life, and help support Girls Who Code with your purchase!\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before June 3rd, 2027. The coupon expires on August 31st, 2026.\u003c/span\u003e\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eThe license agreement can be found \u003ca href=\"https://gamedevmarket.net/terms-conditions#pro-licence\"\u003ehere\u003c/a\u003e.\u003c/span\u003e",
+      "start_at": "2026-05-13T18:00:00",
+      "end_at": "2026-06-17T18:00:00",
+      "days_left": 2.92,
+      "hours_left": 70.1,
+      "machine_name": "allinone2dgamedevlevelcreationpack_softwarebundle",
+      "bundles_sold": 2018,
+      "tile_stamp": "software"
     },
     {
       "category": "software",
@@ -167,24 +237,10 @@
       "long_description": "Learn how to create your own LLMs and GenAI that understand, generate, and process at lightning speed with an all-new Humble Video Learning Bundle. Jump-start your career with this 15+ course library, highlighted by \u003cem\u003eThe Complete LangChain \u0026 LLMs Guide\u003c/em\u003e and \u003cem\u003eAI \u0026 LLM Engineering Mastery - GenAI, RAG Complete Guide\u003c/em\u003e, you’ll gain the knowledge and confidence you need to succeed in these challenging and in-demand fields. Pay what you want for the ultimate GenAI and LLM bundle, and help support the World Wildlife Fund with your purchase! ",
       "start_at": "2026-05-11T18:00:00",
       "end_at": "2026-06-15T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
-      "machine_name": "ultimategenaillmdeveloperbundle_softwarebundle",
-      "bundles_sold": 2569,
-      "tile_stamp": "software"
-    },
-    {
-      "category": "software",
-      "title": "Spring Into Creativity",
-      "url": "https://humblebundle.com/software/spring-into-creativity-software",
-      "description": "Spring into creativity",
-      "long_description": "Unlock four elite editing software programs for one low price with the all-new Spring Into Creativity Bundle. Make every shot your best with the advanced photo editing tools in \u003cem\u003ePaintShop Pro 2023\u003c/em\u003e. Save hours of time spent editing at your computer with the efficient AI-based solutions of \u003cem\u003eAfterShot Pro 2023\u003c/em\u003e. Turn your best moments into unique movies with the easy-to-use editing software \u003cem\u003eVideoStudio Pro\u003c/em\u003e. Create your own AI talking photos with \u003cem\u003ePhotoMirage\u003c/em\u003e. Pay what you want for a comprehensive creative library and help support Extra Life with your purchase.",
-      "start_at": "2026-04-27T18:00:00",
-      "end_at": "2026-06-14T18:00:00",
       "days_left": 0.92,
-      "hours_left": 22.2,
-      "machine_name": "springintocreativity_softwarebundle",
-      "bundles_sold": 723,
+      "hours_left": 22.1,
+      "machine_name": "ultimategenaillmdeveloperbundle_softwarebundle",
+      "bundles_sold": 2625,
       "tile_stamp": "software"
     }
   ]
