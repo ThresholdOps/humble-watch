@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-06-20T19:52:20Z",
-  "expires_today": null,
-  "expires_tomorrow": [
-    {
-      "category": "software",
-      "title": "Fantasy Game Dev Assets By Synty",
-      "url": "https://humblebundle.com/software/fantasy-game-dev-assets-synty-software",
-      "description": "Simplify your development with Synty",
-      "long_description": "Game developers, rejoice! The pros at Synty Studios are here to help you take your project from baseline to beta with our latest Software Bundle. Build your worlds with professional-quality assets like photorealistic particle effects, prepare for lifelike duels with a fantasy rival pack, and more. Add complex interfaces or simple dungeons—anything you need to help bring your dream game to life. You’ll even get a $10 voucher for the Synty Studios store to keep creating. Pay what you want for AAA-quality assets and help support Code.org with your purchase. \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. All titles should be redeemed before June 31st, 2027.\u003c/span\u003e",
-      "start_at": "2026-06-01T18:00:00",
-      "end_at": "2026-06-22T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.1,
-      "machine_name": "fantasygamedevassetssynty_softwarebundle",
-      "bundles_sold": 2585,
-      "tile_stamp": "software"
-    },
+  "generated_at": "2026-06-21T19:58:55Z",
+  "expires_today": [
     {
       "category": "software",
       "title": "The Complete Business and AI Certification Bundle",
@@ -24,10 +9,24 @@
       "long_description": "It’s time to level up your business tech skills—develop the fundamental knowledge needed to prepare for operation-changing AI certification exams with our latest Software Bundle. This comprehensive curriculum contains everything you need to develop pivotal AI skills across the most popular business platforms from companies like Microsoft and Google. Highlighted by courses like \u003cem\u003eAsana Workflow Specialist Certificate with Practice Exam\u003c/em\u003e and \u003cem\u003eProject Management Institute - Project Management Professional (PMP) with Practice Exam\u003c/em\u003e, two of many first-time Humble Bundle Exclusives. Streamline your business with AI support and help Make-A-Wish with your purchase! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem your keys before Jun 22, 2027. \u003c/span\u003e",
       "start_at": "2026-06-01T18:00:00",
       "end_at": "2026-06-22T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.1,
+      "days_left": 0.92,
+      "hours_left": 22,
       "machine_name": "completebusinessandaicertificationbundle_softwarebundle",
-      "bundles_sold": 704,
+      "bundles_sold": 756,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "software",
+      "title": "Fantasy Game Dev Assets By Synty",
+      "url": "https://humblebundle.com/software/fantasy-game-dev-assets-synty-software",
+      "description": "Simplify your development with Synty",
+      "long_description": "Game developers, rejoice! The pros at Synty Studios are here to help you take your project from baseline to beta with our latest Software Bundle. Build your worlds with professional-quality assets like photorealistic particle effects, prepare for lifelike duels with a fantasy rival pack, and more. Add complex interfaces or simple dungeons—anything you need to help bring your dream game to life. You’ll even get a $10 voucher for the Synty Studios store to keep creating. Pay what you want for AAA-quality assets and help support Code.org with your purchase. \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. All titles should be redeemed before June 31st, 2027.\u003c/span\u003e",
+      "start_at": "2026-06-01T18:00:00",
+      "end_at": "2026-06-22T18:00:00",
+      "days_left": 0.92,
+      "hours_left": 22,
+      "machine_name": "fantasygamedevassetssynty_softwarebundle",
+      "bundles_sold": 2741,
       "tile_stamp": "software"
     },
     {
@@ -38,10 +37,10 @@
       "long_description": "Pick up the pace in life when you start using Python to power up your programming output. Learn coding quickly with \u003cem\u003ePython Crash Course\u003c/em\u003e, speed up and simplify your life with \u003cem\u003eAutomate the Boring Stuff with Python\u003c/em\u003e, create AI that learns from vast amounts of data with \u003cem\u003ePractical Deep Learning\u003c/em\u003e, or start bending Excel to your will with \u003cem\u003ePython for Excel Users\u003c/em\u003e. Pay what you want for A+ eBooks that help your career grow, and help support the Python Software Foundation with your purchase!",
       "start_at": "2026-06-01T18:00:00",
       "end_at": "2026-06-22T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.1,
+      "days_left": 0.92,
+      "hours_left": 22,
       "machine_name": "pythongoodstuffnostarch_bookbundle",
-      "bundles_sold": 5354,
+      "bundles_sold": 5769,
       "tile_stamp": "books"
     },
     {
@@ -52,10 +51,10 @@
       "long_description": "Nothing gets past our latest Humble Video Learning Bundle: The Cybersecurity \u0026 AI Defense Mega Bundle! Learn how to protect your digital world using AI defensive tactics with exceptional courses from Packt. Prepare for your new career with video learning courses like \u003cem\u003eCybersecurity Fundamentals \u0026 Certification Prep – ISC2 Pathway\u003c/em\u003e, \u003cem\u003eMastering Cybersecurity with Python - From Basics to Advanced Defense\u003c/em\u003e, \u003cem\u003eAZ-500 - Microsoft Azure Security Technologies - A Prep Course\u003c/em\u003e, more. Go from zero to cybersecurity hero, and help support the Starlight Foundation with your purchase! ",
       "start_at": "2026-05-25T18:00:00",
       "end_at": "2026-06-22T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.1,
+      "days_left": 0.92,
+      "hours_left": 22,
       "machine_name": "cybersecurityaidefensemegabundlepackt_softwarebundle",
-      "bundles_sold": 2645,
+      "bundles_sold": 2718,
       "tile_stamp": "software"
     },
     {
@@ -66,26 +65,42 @@
       "long_description": "Build and launch AI apps in no time with a curated collection of twenty instructor-led courses by Zenva! Learn to harness Claude Code to vibe code a real-world slide presentation web app from start to finish and so much more! Access practical tools like live coding lessons where you can practice and instantly see the results of the changes you make to the code! Pay what you want for courses like \u003cem\u003eAI-Assisted Development with Claude Code\u003c/em\u003e and \u003cem\u003eAgentic AI with Claude Code \u0026 MCP\u003c/em\u003e today! \u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before June 8th, 2027. \u003c/span\u003e",
       "start_at": "2026-05-18T18:00:00",
       "end_at": "2026-06-22T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.1,
+      "days_left": 0.92,
+      "hours_left": 22,
       "machine_name": "buildlaunchaiappsbundle_softwarebundle",
-      "bundles_sold": 1006,
+      "bundles_sold": 1031,
       "tile_stamp": "software"
+    }
+  ],
+  "expires_tomorrow": [
+    {
+      "category": "books",
+      "title": "The Ultimate Linux \u0026 SysAdmin Bundle",
+      "url": "https://humblebundle.com/books/ultimate-linux-sysadmin-bundle-books",
+      "description": "Level up your Linux skills",
+      "long_description": "Learn the skills and gain the knowledge you need to succeed in system administration and development operations for Linux with this bundle of insightful courses by Packt. Inside this amazing curriculum, you’ll get expert insights on mastering AI networking, Windows 365, PowerShell scripting, and more. Deepen your understanding of SysAdmin and DevOps whether you’re a novice or a seasoned professional with courses like \u003cem\u003eThe Ultimate Linux Shell Scripting Guide\u003c/em\u003e, \u003cem\u003eMicrosoft Intune Cookbook - 2E\u003c/em\u003e and help support the Prevent Cancer Foundation with your purchase!",
+      "start_at": "2026-05-26T18:00:00",
+      "end_at": "2026-06-23T18:00:00",
+      "days_left": 1.92,
+      "hours_left": 46,
+      "machine_name": "ultimatelinuxsysadminbundle_bookbundle",
+      "bundles_sold": 5403,
+      "tile_stamp": "books"
     }
   ],
   "expires_within_72h": [
     {
       "category": "software",
-      "title": "Fantasy Game Dev Assets By Synty",
-      "url": "https://humblebundle.com/software/fantasy-game-dev-assets-synty-software",
-      "description": "Simplify your development with Synty",
-      "long_description": "Game developers, rejoice! The pros at Synty Studios are here to help you take your project from baseline to beta with our latest Software Bundle. Build your worlds with professional-quality assets like photorealistic particle effects, prepare for lifelike duels with a fantasy rival pack, and more. Add complex interfaces or simple dungeons—anything you need to help bring your dream game to life. You’ll even get a $10 voucher for the Synty Studios store to keep creating. Pay what you want for AAA-quality assets and help support Code.org with your purchase. \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. All titles should be redeemed before June 31st, 2027.\u003c/span\u003e",
-      "start_at": "2026-06-01T18:00:00",
-      "end_at": "2026-06-22T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.1,
-      "machine_name": "fantasygamedevassetssynty_softwarebundle",
-      "bundles_sold": 2585,
+      "title": "Krotos Cinematic Sound Suite",
+      "url": "https://humblebundle.com/software/krotos-cinematic-sound-suite-software",
+      "description": "Design sound instantly",
+      "long_description": "Add epic sound effects on the fly with the unmatched power of Krotos Studio! Trusted by creative leaders like Disney, EPIC Games, EA, and more, Krotos delivers frictionless, professional-quality audio production. Easily drag and drop sounds into popular programs like Premiere Pro and DaVinci Resolve, or integrate Krotos directly into your DAW for unparalleled creative control. Unlock Krotos Studio through Humble Bundle today and enjoy 3 free months of service, plus additional starter sound effect libraries to kick-start your projects. Pay what you want for elite audio creation tools and help support the Starlight Children's Foundation with your purchase!",
+      "start_at": "2026-06-03T18:00:00",
+      "end_at": "2026-06-24T18:00:00",
+      "days_left": 2.92,
+      "hours_left": 70,
+      "machine_name": "krotoscinematicsoundsuite_softwarebundle",
+      "bundles_sold": 584,
       "tile_stamp": "software"
     },
     {
@@ -96,10 +111,24 @@
       "long_description": "It’s time to level up your business tech skills—develop the fundamental knowledge needed to prepare for operation-changing AI certification exams with our latest Software Bundle. This comprehensive curriculum contains everything you need to develop pivotal AI skills across the most popular business platforms from companies like Microsoft and Google. Highlighted by courses like \u003cem\u003eAsana Workflow Specialist Certificate with Practice Exam\u003c/em\u003e and \u003cem\u003eProject Management Institute - Project Management Professional (PMP) with Practice Exam\u003c/em\u003e, two of many first-time Humble Bundle Exclusives. Streamline your business with AI support and help Make-A-Wish with your purchase! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem your keys before Jun 22, 2027. \u003c/span\u003e",
       "start_at": "2026-06-01T18:00:00",
       "end_at": "2026-06-22T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.1,
+      "days_left": 0.92,
+      "hours_left": 22,
       "machine_name": "completebusinessandaicertificationbundle_softwarebundle",
-      "bundles_sold": 704,
+      "bundles_sold": 756,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "software",
+      "title": "Fantasy Game Dev Assets By Synty",
+      "url": "https://humblebundle.com/software/fantasy-game-dev-assets-synty-software",
+      "description": "Simplify your development with Synty",
+      "long_description": "Game developers, rejoice! The pros at Synty Studios are here to help you take your project from baseline to beta with our latest Software Bundle. Build your worlds with professional-quality assets like photorealistic particle effects, prepare for lifelike duels with a fantasy rival pack, and more. Add complex interfaces or simple dungeons—anything you need to help bring your dream game to life. You’ll even get a $10 voucher for the Synty Studios store to keep creating. Pay what you want for AAA-quality assets and help support Code.org with your purchase. \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. All titles should be redeemed before June 31st, 2027.\u003c/span\u003e",
+      "start_at": "2026-06-01T18:00:00",
+      "end_at": "2026-06-22T18:00:00",
+      "days_left": 0.92,
+      "hours_left": 22,
+      "machine_name": "fantasygamedevassetssynty_softwarebundle",
+      "bundles_sold": 2741,
       "tile_stamp": "software"
     },
     {
@@ -110,10 +139,24 @@
       "long_description": "Pick up the pace in life when you start using Python to power up your programming output. Learn coding quickly with \u003cem\u003ePython Crash Course\u003c/em\u003e, speed up and simplify your life with \u003cem\u003eAutomate the Boring Stuff with Python\u003c/em\u003e, create AI that learns from vast amounts of data with \u003cem\u003ePractical Deep Learning\u003c/em\u003e, or start bending Excel to your will with \u003cem\u003ePython for Excel Users\u003c/em\u003e. Pay what you want for A+ eBooks that help your career grow, and help support the Python Software Foundation with your purchase!",
       "start_at": "2026-06-01T18:00:00",
       "end_at": "2026-06-22T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.1,
+      "days_left": 0.92,
+      "hours_left": 22,
       "machine_name": "pythongoodstuffnostarch_bookbundle",
-      "bundles_sold": 5354,
+      "bundles_sold": 5769,
+      "tile_stamp": "books"
+    },
+    {
+      "category": "books",
+      "title": "The Free League RPG Collection",
+      "url": "https://humblebundle.com/books/free-league-rpg-collection-books",
+      "description": "Fresh TTRPGs by Free League Publishing",
+      "long_description": "Ready to spice up your TTRPG collection with the hottest titles from Free League Publishing? Unlock the core set for \u003cem\u003eDragonbane\u003c/em\u003e, an exhilarating classic fantasy game full of magic, mystery, and adventure that offers “mirth and mayhem roleplaying,” aka hearty laughs and brutal challenges. Or brave \u003cem\u003eMutant: Year Zero\u003c/em\u003e, a post-apocalyptic tale of humanity’s crawl back from streets turned graveyards as godlike mutants roam the wasteland. Try these or \u003cem\u003eVaesen: A Wicked Secret\u003c/em\u003e, all for a price you choose, and help support Direct Relief with your purchase.\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003e\u003cspan style=\"color: #ef9741;\"\u003eCodes are redeemable through the DriveThruRPG website.\u003c/span\u003e\u003c/strong\u003e",
+      "start_at": "2026-05-27T18:00:00",
+      "end_at": "2026-06-24T18:00:00",
+      "days_left": 2.92,
+      "hours_left": 70,
+      "machine_name": "freeleaguerpgcollection_bookbundle",
+      "bundles_sold": 11954,
       "tile_stamp": "books"
     },
     {
@@ -124,10 +167,10 @@
       "long_description": "Learn the skills and gain the knowledge you need to succeed in system administration and development operations for Linux with this bundle of insightful courses by Packt. Inside this amazing curriculum, you’ll get expert insights on mastering AI networking, Windows 365, PowerShell scripting, and more. Deepen your understanding of SysAdmin and DevOps whether you’re a novice or a seasoned professional with courses like \u003cem\u003eThe Ultimate Linux Shell Scripting Guide\u003c/em\u003e, \u003cem\u003eMicrosoft Intune Cookbook - 2E\u003c/em\u003e and help support the Prevent Cancer Foundation with your purchase!",
       "start_at": "2026-05-26T18:00:00",
       "end_at": "2026-06-23T18:00:00",
-      "days_left": 2.92,
-      "hours_left": 70.1,
+      "days_left": 1.92,
+      "hours_left": 46,
       "machine_name": "ultimatelinuxsysadminbundle_bookbundle",
-      "bundles_sold": 5295,
+      "bundles_sold": 5403,
       "tile_stamp": "books"
     },
     {
@@ -138,10 +181,24 @@
       "long_description": "Nothing gets past our latest Humble Video Learning Bundle: The Cybersecurity \u0026 AI Defense Mega Bundle! Learn how to protect your digital world using AI defensive tactics with exceptional courses from Packt. Prepare for your new career with video learning courses like \u003cem\u003eCybersecurity Fundamentals \u0026 Certification Prep – ISC2 Pathway\u003c/em\u003e, \u003cem\u003eMastering Cybersecurity with Python - From Basics to Advanced Defense\u003c/em\u003e, \u003cem\u003eAZ-500 - Microsoft Azure Security Technologies - A Prep Course\u003c/em\u003e, more. Go from zero to cybersecurity hero, and help support the Starlight Foundation with your purchase! ",
       "start_at": "2026-05-25T18:00:00",
       "end_at": "2026-06-22T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.1,
+      "days_left": 0.92,
+      "hours_left": 22,
       "machine_name": "cybersecurityaidefensemegabundlepackt_softwarebundle",
-      "bundles_sold": 2645,
+      "bundles_sold": 2718,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "software",
+      "title": "IK Multimedia Presents Studio Essentials: Pianos, Bass, Drums \u0026 Cinematic Sounds",
+      "url": "https://humblebundle.com/software/ik-multimedia-presents-studio-essentials-pianos-bass-drums-cinematic-sounds-software",
+      "description": "Royalty-free instrument essentials for you",
+      "long_description": "Create the perfect audioscape for your next game or creative project with IK Multimedia’s curated collection of studio essentials! Capture the magic of classic instruments from this extensive 1,000+ asset library of commercial-ready string, bass, and drum samples from themed packs like \u003cem\u003eMODO BASS Studio Upright\u003c/em\u003e, \u003cem\u003ePianoverse - Grand Piano Y7\u003c/em\u003e, \u003cem\u003eMiroslav Philharmonik 2\u003c/em\u003e, and more! Explore a variety of genres, from lo-fi to classical and everything in between. Get the assets you need to achieve the sound you’re looking for, and support Music Will with your purchase! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys Expire. Please redeem before June 2nd, 2027 \u003c/span\u003e",
+      "start_at": "2026-05-20T18:00:00",
+      "end_at": "2026-06-24T18:00:00",
+      "days_left": 2.92,
+      "hours_left": 70,
+      "machine_name": "ikmultimediapresentsstudioessentialspianosbassdrumscinematicsounds_softwarebundle",
+      "bundles_sold": 1596,
       "tile_stamp": "software"
     },
     {
@@ -152,10 +209,10 @@
       "long_description": "Build and launch AI apps in no time with a curated collection of twenty instructor-led courses by Zenva! Learn to harness Claude Code to vibe code a real-world slide presentation web app from start to finish and so much more! Access practical tools like live coding lessons where you can practice and instantly see the results of the changes you make to the code! Pay what you want for courses like \u003cem\u003eAI-Assisted Development with Claude Code\u003c/em\u003e and \u003cem\u003eAgentic AI with Claude Code \u0026 MCP\u003c/em\u003e today! \u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before June 8th, 2027. \u003c/span\u003e",
       "start_at": "2026-05-18T18:00:00",
       "end_at": "2026-06-22T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.1,
+      "days_left": 0.92,
+      "hours_left": 22,
       "machine_name": "buildlaunchaiappsbundle_softwarebundle",
-      "bundles_sold": 1006,
+      "bundles_sold": 1031,
       "tile_stamp": "software"
     }
   ]
