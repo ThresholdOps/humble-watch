@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-06-22T21:11:56Z",
-  "updated_at": "2026-06-22T21:12:35Z",
+  "generated_at": "2026-06-23T20:20:22Z",
+  "updated_at": "2026-06-23T20:20:54Z",
   "items": [
+    {
+      "key": "lifetimeaccesscreator_softwarebundle",
+      "url": "https://humblebundle.com/software/lifetime-access-creator-software",
+      "machine_name": "lifetimeaccesscreator_softwarebundle",
+      "title": "LIFETIME ACCESS CREATOR",
+      "category": "software",
+      "end_at": "2026-07-14T18:00:00"
+    },
     {
       "key": "gamedevelopmentmegabundle_softwarebundle",
       "url": "https://humblebundle.com/software/game-development-mega-bundle-software",
@@ -27,14 +35,6 @@
       "end_at": "2026-07-11T01:00:00"
     },
     {
-      "key": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
-      "url": "https://humblebundle.com/books/and-winner-is-award-winning-fantasy-science-fiction-horror-from-tachyon-books",
-      "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
-      "title": "And the Winner Is: Award Winning Fantasy, Science Fiction, & Horror from Tachyon",
-      "category": "books",
-      "end_at": "2026-07-09T18:00:00"
-    },
-    {
       "key": "professionaldeveloperpathwaysbundle_softwarebundle",
       "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
       "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
@@ -43,12 +43,12 @@
       "end_at": "2026-07-09T18:00:00"
     },
     {
-      "key": "dungeondefendersiicompletedlcchest_bundle",
-      "url": "https://humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
-      "machine_name": "dungeondefendersiicompletedlcchest_bundle",
-      "title": "Dungeon Defenders II Complete DLC Chest",
-      "category": "games",
-      "end_at": "2026-07-09T01:00:00"
+      "key": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
+      "url": "https://humblebundle.com/books/and-winner-is-award-winning-fantasy-science-fiction-horror-from-tachyon-books",
+      "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
+      "title": "And the Winner Is: Award Winning Fantasy, Science Fiction, & Horror from Tachyon",
+      "category": "books",
+      "end_at": "2026-07-09T18:00:00"
     },
     {
       "key": "premiumscifidesigntrainingbundle_softwarebundle",
@@ -57,6 +57,14 @@
       "title": "Premium Sci-Fi Design Training Bundle",
       "category": "software",
       "end_at": "2026-07-08T18:00:00"
+    },
+    {
+      "key": "dungeondefendersiicompletedlcchest_bundle",
+      "url": "https://humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
+      "machine_name": "dungeondefendersiicompletedlcchest_bundle",
+      "title": "Dungeon Defenders II Complete DLC Chest",
+      "category": "games",
+      "end_at": "2026-07-09T01:00:00"
     },
     {
       "key": "uploadvrsummer2026_bundle",
@@ -99,19 +107,27 @@
       "end_at": "2026-07-02T18:00:00"
     },
     {
-      "key": "creatureandcharactercreationbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/creature-and-character-creation-bundle-software",
-      "machine_name": "creatureandcharactercreationbundle_softwarebundle",
-      "title": "Creature and Character Creation Bundle",
-      "category": "software",
-      "end_at": "2026-07-01T18:00:00"
-    },
-    {
       "key": "unitygamedevelopmentmasterybundlezenva_bookbundle",
       "url": "https://humblebundle.com/books/unity-game-development-mastery-bundle-zenva-books",
       "machine_name": "unitygamedevelopmentmasterybundlezenva_bookbundle",
       "title": "The Unity Game Development Mastery Bundle by Zenva",
       "category": "books",
+      "end_at": "2026-07-01T18:00:00"
+    },
+    {
+      "key": "yuriinluckwaifusforlaifus_bundle",
+      "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
+      "machine_name": "yuriinluckwaifusforlaifus_bundle",
+      "title": "Yuri in Luck: Waifus for Laifus",
+      "category": "games",
+      "end_at": "2026-07-02T01:00:00"
+    },
+    {
+      "key": "creatureandcharactercreationbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/creature-and-character-creation-bundle-software",
+      "machine_name": "creatureandcharactercreationbundle_softwarebundle",
+      "title": "Creature and Character Creation Bundle",
+      "category": "software",
       "end_at": "2026-07-01T18:00:00"
     },
     {
@@ -123,12 +139,12 @@
       "end_at": "2026-07-02T01:00:00"
     },
     {
-      "key": "yuriinluckwaifusforlaifus_bundle",
-      "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
-      "machine_name": "yuriinluckwaifusforlaifus_bundle",
-      "title": "Yuri in Luck: Waifus for Laifus",
-      "category": "games",
-      "end_at": "2026-07-02T01:00:00"
+      "key": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
+      "url": "https://humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books",
+      "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
+      "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
+      "category": "books",
+      "end_at": "2026-06-30T18:00:00"
     },
     {
       "key": "biggerbetterbundle_softwarebundle",
@@ -136,14 +152,6 @@
       "machine_name": "biggerbetterbundle_softwarebundle",
       "title": "Bigger Better Bundle",
       "category": "software",
-      "end_at": "2026-06-30T18:00:00"
-    },
-    {
-      "key": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
-      "url": "https://humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books",
-      "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
-      "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
-      "category": "books",
       "end_at": "2026-06-30T18:00:00"
     },
     {
@@ -163,22 +171,6 @@
       "end_at": "2026-06-29T16:00:00"
     },
     {
-      "key": "professordmsdungeoncrawlclassicsessentialsbundlepresenteddungeoncraft_bookbundle",
-      "url": "https://humblebundle.com/books/professor-dms-dungeon-crawl-classics-essentials-bundle-presented-dungeon-craft-books",
-      "machine_name": "professordmsdungeoncrawlclassicsessentialsbundlepresenteddungeoncraft_bookbundle",
-      "title": "Professor DM's Dungeon Crawl Classics Essentials Bundle Presented by Dungeon Craft",
-      "category": "books",
-      "end_at": "2026-06-29T16:00:00"
-    },
-    {
-      "key": "redlineracingbundle_bundle",
-      "url": "https://humblebundle.com/games/redline-racing-bundle",
-      "machine_name": "redlineracingbundle_bundle",
-      "title": "Redline Racing Bundle",
-      "category": "games",
-      "end_at": "2026-06-27T01:00:00"
-    },
-    {
       "key": "completeunityaibundle_softwarebundle",
       "url": "https://humblebundle.com/software/complete-unity-ai-bundle-software",
       "machine_name": "completeunityaibundle_softwarebundle",
@@ -195,12 +187,12 @@
       "end_at": "2026-06-27T01:00:00"
     },
     {
-      "key": "rollbigorgohome2_bookbundle",
-      "url": "https://humblebundle.com/books/roll-big-or-go-home-2-books",
-      "machine_name": "rollbigorgohome2_bookbundle",
-      "title": "Roll Big or Go Home 2",
-      "category": "books",
-      "end_at": "2026-06-25T18:00:00"
+      "key": "redlineracingbundle_bundle",
+      "url": "https://humblebundle.com/games/redline-racing-bundle",
+      "machine_name": "redlineracingbundle_bundle",
+      "title": "Redline Racing Bundle",
+      "category": "games",
+      "end_at": "2026-06-27T01:00:00"
     },
     {
       "key": "2026learnunitygamedevelopmentbundle_softwarebundle",
@@ -208,6 +200,14 @@
       "machine_name": "2026learnunitygamedevelopmentbundle_softwarebundle",
       "title": "The 2026 Learn Unity Game Development Bundle",
       "category": "software",
+      "end_at": "2026-06-25T18:00:00"
+    },
+    {
+      "key": "rollbigorgohome2_bookbundle",
+      "url": "https://humblebundle.com/books/roll-big-or-go-home-2-books",
+      "machine_name": "rollbigorgohome2_bookbundle",
+      "title": "Roll Big or Go Home 2",
+      "category": "books",
       "end_at": "2026-06-25T18:00:00"
     },
     {
@@ -227,14 +227,6 @@
       "end_at": "2026-06-25T01:30:00"
     },
     {
-      "key": "wewillalwaysbeherepridemonth2026_bundle",
-      "url": "https://humblebundle.com/games/we-will-always-be-here-pride-month-2026",
-      "machine_name": "wewillalwaysbeherepridemonth2026_bundle",
-      "title": "We Will Always Be Here: Pride Month 2026",
-      "category": "games",
-      "end_at": "2026-06-25T01:00:00"
-    },
-    {
       "key": "krotoscinematicsoundsuite_softwarebundle",
       "url": "https://humblebundle.com/software/krotos-cinematic-sound-suite-software",
       "machine_name": "krotoscinematicsoundsuite_softwarebundle",
@@ -243,18 +235,26 @@
       "end_at": "2026-06-24T18:00:00"
     },
     {
-      "key": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
-      "url": "https://humblebundle.com/books/embroidery-sashiko-and-decorative-stitching-open-road-books",
-      "machine_name": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
-      "title": "Embroidery, Sashiko, and Decorative Stitching by Open Road",
-      "category": "books",
-      "end_at": "2026-06-30T18:00:00"
+      "key": "wewillalwaysbeherepridemonth2026_bundle",
+      "url": "https://humblebundle.com/games/we-will-always-be-here-pride-month-2026",
+      "machine_name": "wewillalwaysbeherepridemonth2026_bundle",
+      "title": "We Will Always Be Here: Pride Month 2026",
+      "category": "games",
+      "end_at": "2026-06-25T01:00:00"
     },
     {
       "key": "cyberpunkredreadytorunessentialsbundle_bundle",
       "url": "https://humblebundle.com/books/cyberpunk-red-readytorun-essentials-bundle",
       "machine_name": "cyberpunkredreadytorunessentialsbundle_bundle",
       "title": "Cyberpunk RED: The Ready-to-Run Essentials Bundle",
+      "category": "books",
+      "end_at": "2026-06-30T18:00:00"
+    },
+    {
+      "key": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
+      "url": "https://humblebundle.com/books/embroidery-sashiko-and-decorative-stitching-open-road-books",
+      "machine_name": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
+      "title": "Embroidery, Sashiko, and Decorative Stitching by Open Road",
       "category": "books",
       "end_at": "2026-06-30T18:00:00"
     },
@@ -275,14 +275,6 @@
       "end_at": "2026-06-26T18:00:00"
     },
     {
-      "key": "melodicmayhemvol2comprehensiveaudioandmusicbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/melodic-mayhem-vol-2-comprehensive-audio-and-music-bundle-software",
-      "machine_name": "melodicmayhemvol2comprehensiveaudioandmusicbundle_softwarebundle",
-      "title": "Melodic Mayhem Vol. 2: A Comprehensive Audio and Music Bundle",
-      "category": "software",
-      "end_at": "2026-07-02T18:00:00"
-    },
-    {
       "key": "learnunrealengine2026coursebundle_softwarebundle",
       "url": "https://humblebundle.com/software/learn-unreal-engine-2026-course-bundle-software",
       "machine_name": "learnunrealengine2026coursebundle_softwarebundle",
@@ -291,12 +283,12 @@
       "end_at": "2026-07-02T18:00:00"
     },
     {
-      "key": "devilmaycrydeviltriggerreloadedcollection2026_bundle",
-      "url": "https://humblebundle.com/games/devil-may-cry-devil-trigger-reloaded-collection-2026",
-      "machine_name": "devilmaycrydeviltriggerreloadedcollection2026_bundle",
-      "title": "Devil May Cry: Devil Trigger Reloaded Collection 2026",
-      "category": "games",
-      "end_at": "2026-06-25T01:00:00"
+      "key": "melodicmayhemvol2comprehensiveaudioandmusicbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/melodic-mayhem-vol-2-comprehensive-audio-and-music-bundle-software",
+      "machine_name": "melodicmayhemvol2comprehensiveaudioandmusicbundle_softwarebundle",
+      "title": "Melodic Mayhem Vol. 2: A Comprehensive Audio and Music Bundle",
+      "category": "software",
+      "end_at": "2026-07-02T18:00:00"
     },
     {
       "key": "freeleaguerpgcollection_bookbundle",
@@ -305,6 +297,14 @@
       "title": "The Free League RPG Collection",
       "category": "books",
       "end_at": "2026-06-24T18:00:00"
+    },
+    {
+      "key": "devilmaycrydeviltriggerreloadedcollection2026_bundle",
+      "url": "https://humblebundle.com/games/devil-may-cry-devil-trigger-reloaded-collection-2026",
+      "machine_name": "devilmaycrydeviltriggerreloadedcollection2026_bundle",
+      "title": "Devil May Cry: Devil Trigger Reloaded Collection 2026",
+      "category": "games",
+      "end_at": "2026-06-25T01:00:00"
     },
     {
       "key": "musicfordummies2026_softwarebundle",
@@ -320,7 +320,7 @@
       "machine_name": "ultimatelinuxsysadminbundle_bookbundle",
       "title": "The Ultimate Linux & SysAdmin Bundle",
       "category": "books",
-      "end_at": "2026-06-23T18:00:00"
+      "end_at": "2026-06-30T18:00:00"
     },
     {
       "key": "cybersecurityaidefensemegabundlepackt_softwarebundle",
