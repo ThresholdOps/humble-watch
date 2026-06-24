@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-23T20:20:22Z",
-  "updated_at": "2026-06-23T20:20:54Z",
+  "generated_at": "2026-06-24T20:02:15Z",
+  "updated_at": "2026-06-24T20:02:52Z",
   "items": [
+    {
+      "key": "goingrogueliteheavybundle_bundle",
+      "url": "https://humblebundle.com/games/going-rogue-lite-heavy-bundle",
+      "machine_name": "goingrogueliteheavybundle_bundle",
+      "title": "Going Rogue: A Lite Heavy Bundle",
+      "category": "games",
+      "end_at": "2026-07-16T01:00:00"
+    },
+    {
+      "key": "worldbuildersamericana_softwarebundle",
+      "url": "https://humblebundle.com/software/world-builders-americana-software",
+      "machine_name": "worldbuildersamericana_softwarebundle",
+      "title": "World Builders: Americana",
+      "category": "software",
+      "end_at": "2026-07-15T18:00:00"
+    },
     {
       "key": "lifetimeaccesscreator_softwarebundle",
       "url": "https://humblebundle.com/software/lifetime-access-creator-software",
@@ -51,20 +67,20 @@
       "end_at": "2026-07-09T18:00:00"
     },
     {
-      "key": "premiumscifidesigntrainingbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
-      "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
-      "title": "Premium Sci-Fi Design Training Bundle",
-      "category": "software",
-      "end_at": "2026-07-08T18:00:00"
-    },
-    {
       "key": "dungeondefendersiicompletedlcchest_bundle",
       "url": "https://humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
       "machine_name": "dungeondefendersiicompletedlcchest_bundle",
       "title": "Dungeon Defenders II Complete DLC Chest",
       "category": "games",
       "end_at": "2026-07-09T01:00:00"
+    },
+    {
+      "key": "premiumscifidesigntrainingbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
+      "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
+      "title": "Premium Sci-Fi Design Training Bundle",
+      "category": "software",
+      "end_at": "2026-07-08T18:00:00"
     },
     {
       "key": "uploadvrsummer2026_bundle",
@@ -107,20 +123,20 @@
       "end_at": "2026-07-02T18:00:00"
     },
     {
-      "key": "unitygamedevelopmentmasterybundlezenva_bookbundle",
-      "url": "https://humblebundle.com/books/unity-game-development-mastery-bundle-zenva-books",
-      "machine_name": "unitygamedevelopmentmasterybundlezenva_bookbundle",
-      "title": "The Unity Game Development Mastery Bundle by Zenva",
-      "category": "books",
-      "end_at": "2026-07-01T18:00:00"
-    },
-    {
       "key": "yuriinluckwaifusforlaifus_bundle",
       "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
       "machine_name": "yuriinluckwaifusforlaifus_bundle",
       "title": "Yuri in Luck: Waifus for Laifus",
       "category": "games",
       "end_at": "2026-07-02T01:00:00"
+    },
+    {
+      "key": "unitygamedevelopmentmasterybundlezenva_bookbundle",
+      "url": "https://humblebundle.com/books/unity-game-development-mastery-bundle-zenva-books",
+      "machine_name": "unitygamedevelopmentmasterybundlezenva_bookbundle",
+      "title": "The Unity Game Development Mastery Bundle by Zenva",
+      "category": "books",
+      "end_at": "2026-07-01T18:00:00"
     },
     {
       "key": "creatureandcharactercreationbundle_softwarebundle",
@@ -171,20 +187,20 @@
       "end_at": "2026-06-29T16:00:00"
     },
     {
-      "key": "completeunityaibundle_softwarebundle",
-      "url": "https://humblebundle.com/software/complete-unity-ai-bundle-software",
-      "machine_name": "completeunityaibundle_softwarebundle",
-      "title": "The Complete Unity AI Bundle",
-      "category": "software",
-      "end_at": "2026-07-07T18:00:00"
-    },
-    {
       "key": "frostygamesfestshowcasebundle2026madeinanz_bundle",
       "url": "https://humblebundle.com/games/frosty-games-fest-showcase-bundle-2026-made-in-anz",
       "machine_name": "frostygamesfestshowcasebundle2026madeinanz_bundle",
       "title": "Frosty Games Fest Showcase Bundle 2026: Made in ANZ",
       "category": "games",
       "end_at": "2026-06-27T01:00:00"
+    },
+    {
+      "key": "completeunityaibundle_softwarebundle",
+      "url": "https://humblebundle.com/software/complete-unity-ai-bundle-software",
+      "machine_name": "completeunityaibundle_softwarebundle",
+      "title": "The Complete Unity AI Bundle",
+      "category": "software",
+      "end_at": "2026-07-07T18:00:00"
     },
     {
       "key": "redlineracingbundle_bundle",
@@ -227,14 +243,6 @@
       "end_at": "2026-06-25T01:30:00"
     },
     {
-      "key": "krotoscinematicsoundsuite_softwarebundle",
-      "url": "https://humblebundle.com/software/krotos-cinematic-sound-suite-software",
-      "machine_name": "krotoscinematicsoundsuite_softwarebundle",
-      "title": "Krotos Cinematic Sound Suite",
-      "category": "software",
-      "end_at": "2026-06-24T18:00:00"
-    },
-    {
       "key": "wewillalwaysbeherepridemonth2026_bundle",
       "url": "https://humblebundle.com/games/we-will-always-be-here-pride-month-2026",
       "machine_name": "wewillalwaysbeherepridemonth2026_bundle",
@@ -243,18 +251,18 @@
       "end_at": "2026-06-25T01:00:00"
     },
     {
-      "key": "cyberpunkredreadytorunessentialsbundle_bundle",
-      "url": "https://humblebundle.com/books/cyberpunk-red-readytorun-essentials-bundle",
-      "machine_name": "cyberpunkredreadytorunessentialsbundle_bundle",
-      "title": "Cyberpunk RED: The Ready-to-Run Essentials Bundle",
-      "category": "books",
-      "end_at": "2026-06-30T18:00:00"
-    },
-    {
       "key": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
       "url": "https://humblebundle.com/books/embroidery-sashiko-and-decorative-stitching-open-road-books",
       "machine_name": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
       "title": "Embroidery, Sashiko, and Decorative Stitching by Open Road",
+      "category": "books",
+      "end_at": "2026-06-30T18:00:00"
+    },
+    {
+      "key": "cyberpunkredreadytorunessentialsbundle_bundle",
+      "url": "https://humblebundle.com/books/cyberpunk-red-readytorun-essentials-bundle",
+      "machine_name": "cyberpunkredreadytorunessentialsbundle_bundle",
+      "title": "Cyberpunk RED: The Ready-to-Run Essentials Bundle",
       "category": "books",
       "end_at": "2026-06-30T18:00:00"
     },
@@ -289,14 +297,6 @@
       "title": "Melodic Mayhem Vol. 2: A Comprehensive Audio and Music Bundle",
       "category": "software",
       "end_at": "2026-07-02T18:00:00"
-    },
-    {
-      "key": "freeleaguerpgcollection_bookbundle",
-      "url": "https://humblebundle.com/books/free-league-rpg-collection-books",
-      "machine_name": "freeleaguerpgcollection_bookbundle",
-      "title": "The Free League RPG Collection",
-      "category": "books",
-      "end_at": "2026-06-24T18:00:00"
     },
     {
       "key": "devilmaycrydeviltriggerreloadedcollection2026_bundle",
@@ -337,14 +337,6 @@
       "title": "Ultimate Environment & World Building Collection",
       "category": "software",
       "end_at": "2026-06-25T18:00:00"
-    },
-    {
-      "key": "ikmultimediapresentsstudioessentialspianosbassdrumscinematicsounds_softwarebundle",
-      "url": "https://humblebundle.com/software/ik-multimedia-presents-studio-essentials-pianos-bass-drums-cinematic-sounds-software",
-      "machine_name": "ikmultimediapresentsstudioessentialspianosbassdrumscinematicsounds_softwarebundle",
-      "title": "IK Multimedia Presents Studio Essentials: Pianos, Bass, Drums & Cinematic Sounds",
-      "category": "software",
-      "end_at": "2026-06-24T18:00:00"
     }
   ]
 }
