@@ -1,15 +1,7 @@
 {
-  "generated_at": "2026-06-24T20:02:15Z",
-  "updated_at": "2026-06-24T20:02:52Z",
+  "generated_at": "2026-06-25T20:19:51Z",
+  "updated_at": "2026-06-25T20:20:22Z",
   "items": [
-    {
-      "key": "goingrogueliteheavybundle_bundle",
-      "url": "https://humblebundle.com/games/going-rogue-lite-heavy-bundle",
-      "machine_name": "goingrogueliteheavybundle_bundle",
-      "title": "Going Rogue: A Lite Heavy Bundle",
-      "category": "games",
-      "end_at": "2026-07-16T01:00:00"
-    },
     {
       "key": "worldbuildersamericana_softwarebundle",
       "url": "https://humblebundle.com/software/world-builders-americana-software",
@@ -17,6 +9,14 @@
       "title": "World Builders: Americana",
       "category": "software",
       "end_at": "2026-07-15T18:00:00"
+    },
+    {
+      "key": "goingrogueliteheavybundle_bundle",
+      "url": "https://humblebundle.com/games/going-rogue-lite-heavy-bundle",
+      "machine_name": "goingrogueliteheavybundle_bundle",
+      "title": "Going Rogue: A Lite Heavy Bundle",
+      "category": "games",
+      "end_at": "2026-07-16T01:00:00"
     },
     {
       "key": "lifetimeaccesscreator_softwarebundle",
@@ -51,19 +51,19 @@
       "end_at": "2026-07-11T01:00:00"
     },
     {
-      "key": "professionaldeveloperpathwaysbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
-      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
-      "title": "Professional Developer Pathways Bundle",
-      "category": "software",
-      "end_at": "2026-07-09T18:00:00"
-    },
-    {
       "key": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
       "url": "https://humblebundle.com/books/and-winner-is-award-winning-fantasy-science-fiction-horror-from-tachyon-books",
       "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
       "title": "And the Winner Is: Award Winning Fantasy, Science Fiction, & Horror from Tachyon",
       "category": "books",
+      "end_at": "2026-07-09T18:00:00"
+    },
+    {
+      "key": "professionaldeveloperpathwaysbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
+      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
+      "title": "Professional Developer Pathways Bundle",
+      "category": "software",
       "end_at": "2026-07-09T18:00:00"
     },
     {
@@ -123,14 +123,6 @@
       "end_at": "2026-07-02T18:00:00"
     },
     {
-      "key": "yuriinluckwaifusforlaifus_bundle",
-      "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
-      "machine_name": "yuriinluckwaifusforlaifus_bundle",
-      "title": "Yuri in Luck: Waifus for Laifus",
-      "category": "games",
-      "end_at": "2026-07-02T01:00:00"
-    },
-    {
       "key": "unitygamedevelopmentmasterybundlezenva_bookbundle",
       "url": "https://humblebundle.com/books/unity-game-development-mastery-bundle-zenva-books",
       "machine_name": "unitygamedevelopmentmasterybundlezenva_bookbundle",
@@ -151,6 +143,14 @@
       "url": "https://humblebundle.com/games/complete-inkle-library",
       "machine_name": "completeinklelibrary_bundle",
       "title": "The Complete Inkle Library",
+      "category": "games",
+      "end_at": "2026-07-02T01:00:00"
+    },
+    {
+      "key": "yuriinluckwaifusforlaifus_bundle",
+      "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
+      "machine_name": "yuriinluckwaifusforlaifus_bundle",
+      "title": "Yuri in Luck: Waifus for Laifus",
       "category": "games",
       "end_at": "2026-07-02T01:00:00"
     },
@@ -187,14 +187,6 @@
       "end_at": "2026-06-29T16:00:00"
     },
     {
-      "key": "frostygamesfestshowcasebundle2026madeinanz_bundle",
-      "url": "https://humblebundle.com/games/frosty-games-fest-showcase-bundle-2026-made-in-anz",
-      "machine_name": "frostygamesfestshowcasebundle2026madeinanz_bundle",
-      "title": "Frosty Games Fest Showcase Bundle 2026: Made in ANZ",
-      "category": "games",
-      "end_at": "2026-06-27T01:00:00"
-    },
-    {
       "key": "completeunityaibundle_softwarebundle",
       "url": "https://humblebundle.com/software/complete-unity-ai-bundle-software",
       "machine_name": "completeunityaibundle_softwarebundle",
@@ -211,12 +203,20 @@
       "end_at": "2026-06-27T01:00:00"
     },
     {
+      "key": "frostygamesfestshowcasebundle2026madeinanz_bundle",
+      "url": "https://humblebundle.com/games/frosty-games-fest-showcase-bundle-2026-made-in-anz",
+      "machine_name": "frostygamesfestshowcasebundle2026madeinanz_bundle",
+      "title": "Frosty Games Fest Showcase Bundle 2026: Made in ANZ",
+      "category": "games",
+      "end_at": "2026-06-27T01:00:00"
+    },
+    {
       "key": "2026learnunitygamedevelopmentbundle_softwarebundle",
       "url": "https://humblebundle.com/software/2026-learn-unity-game-development-bundle-software",
       "machine_name": "2026learnunitygamedevelopmentbundle_softwarebundle",
       "title": "The 2026 Learn Unity Game Development Bundle",
       "category": "software",
-      "end_at": "2026-06-25T18:00:00"
+      "end_at": "2026-07-02T18:00:00"
     },
     {
       "key": "rollbigorgohome2_bookbundle",
@@ -224,23 +224,7 @@
       "machine_name": "rollbigorgohome2_bookbundle",
       "title": "Roll Big or Go Home 2",
       "category": "books",
-      "end_at": "2026-06-25T18:00:00"
-    },
-    {
-      "key": "2ksportschampionsbundle_bundle",
-      "url": "https://humblebundle.com/games/2k-sports-champions-bundle",
-      "machine_name": "2ksportschampionsbundle_bundle",
-      "title": "2K Sports Champions Bundle",
-      "category": "games",
-      "end_at": "2026-06-25T01:00:00"
-    },
-    {
-      "key": "ignlivebundle2026_bundle",
-      "url": "https://humblebundle.com/games/ign-live-bundle-2026",
-      "machine_name": "ignlivebundle2026_bundle",
-      "title": "IGN Live Bundle 2026",
-      "category": "games",
-      "end_at": "2026-06-25T01:30:00"
+      "end_at": "2026-07-02T18:00:00"
     },
     {
       "key": "wewillalwaysbeherepridemonth2026_bundle",
@@ -248,21 +232,21 @@
       "machine_name": "wewillalwaysbeherepridemonth2026_bundle",
       "title": "We Will Always Be Here: Pride Month 2026",
       "category": "games",
-      "end_at": "2026-06-25T01:00:00"
-    },
-    {
-      "key": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
-      "url": "https://humblebundle.com/books/embroidery-sashiko-and-decorative-stitching-open-road-books",
-      "machine_name": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
-      "title": "Embroidery, Sashiko, and Decorative Stitching by Open Road",
-      "category": "books",
-      "end_at": "2026-06-30T18:00:00"
+      "end_at": "2026-07-02T01:00:00"
     },
     {
       "key": "cyberpunkredreadytorunessentialsbundle_bundle",
       "url": "https://humblebundle.com/books/cyberpunk-red-readytorun-essentials-bundle",
       "machine_name": "cyberpunkredreadytorunessentialsbundle_bundle",
       "title": "Cyberpunk RED: The Ready-to-Run Essentials Bundle",
+      "category": "books",
+      "end_at": "2026-06-30T18:00:00"
+    },
+    {
+      "key": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
+      "url": "https://humblebundle.com/books/embroidery-sashiko-and-decorative-stitching-open-road-books",
+      "machine_name": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
+      "title": "Embroidery, Sashiko, and Decorative Stitching by Open Road",
       "category": "books",
       "end_at": "2026-06-30T18:00:00"
     },
@@ -299,14 +283,6 @@
       "end_at": "2026-07-02T18:00:00"
     },
     {
-      "key": "devilmaycrydeviltriggerreloadedcollection2026_bundle",
-      "url": "https://humblebundle.com/games/devil-may-cry-devil-trigger-reloaded-collection-2026",
-      "machine_name": "devilmaycrydeviltriggerreloadedcollection2026_bundle",
-      "title": "Devil May Cry: Devil Trigger Reloaded Collection 2026",
-      "category": "games",
-      "end_at": "2026-06-25T01:00:00"
-    },
-    {
       "key": "musicfordummies2026_softwarebundle",
       "url": "https://humblebundle.com/software/music-for-dummies-2026-software",
       "machine_name": "musicfordummies2026_softwarebundle",
@@ -329,14 +305,6 @@
       "title": "The Cybersecurity & AI Defense Mega Bundle by Packt",
       "category": "software",
       "end_at": "2026-06-29T18:00:00"
-    },
-    {
-      "key": "ultimateenvironmentworldbuildingcollection_softwarebundle",
-      "url": "https://humblebundle.com/software/ultimate-environment-world-building-collection-software",
-      "machine_name": "ultimateenvironmentworldbuildingcollection_softwarebundle",
-      "title": "Ultimate Environment & World Building Collection",
-      "category": "software",
-      "end_at": "2026-06-25T18:00:00"
     }
   ]
 }
