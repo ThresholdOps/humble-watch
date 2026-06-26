@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-25T20:19:51Z",
-  "updated_at": "2026-06-25T20:20:22Z",
+  "generated_at": "2026-06-26T20:05:17Z",
+  "updated_at": "2026-06-26T20:05:48Z",
   "items": [
     {
-      "key": "worldbuildersamericana_softwarebundle",
-      "url": "https://humblebundle.com/software/world-builders-americana-software",
-      "machine_name": "worldbuildersamericana_softwarebundle",
-      "title": "World Builders: Americana",
-      "category": "software",
-      "end_at": "2026-07-15T18:00:00"
+      "key": "arcsystemworksevocollection_bundle",
+      "url": "https://humblebundle.com/games/arc-system-works-evo-collection",
+      "machine_name": "arcsystemworksevocollection_bundle",
+      "title": "Arc System Works: Evo Collection",
+      "category": "games",
+      "end_at": "2026-07-18T01:00:00"
     },
     {
       "key": "goingrogueliteheavybundle_bundle",
@@ -17,6 +17,14 @@
       "title": "Going Rogue: A Lite Heavy Bundle",
       "category": "games",
       "end_at": "2026-07-16T01:00:00"
+    },
+    {
+      "key": "worldbuildersamericana_softwarebundle",
+      "url": "https://humblebundle.com/software/world-builders-americana-software",
+      "machine_name": "worldbuildersamericana_softwarebundle",
+      "title": "World Builders: Americana",
+      "category": "software",
+      "end_at": "2026-07-15T18:00:00"
     },
     {
       "key": "lifetimeaccesscreator_softwarebundle",
@@ -123,19 +131,19 @@
       "end_at": "2026-07-02T18:00:00"
     },
     {
+      "key": "yuriinluckwaifusforlaifus_bundle",
+      "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
+      "machine_name": "yuriinluckwaifusforlaifus_bundle",
+      "title": "Yuri in Luck: Waifus for Laifus",
+      "category": "games",
+      "end_at": "2026-07-02T01:00:00"
+    },
+    {
       "key": "unitygamedevelopmentmasterybundlezenva_bookbundle",
       "url": "https://humblebundle.com/books/unity-game-development-mastery-bundle-zenva-books",
       "machine_name": "unitygamedevelopmentmasterybundlezenva_bookbundle",
       "title": "The Unity Game Development Mastery Bundle by Zenva",
       "category": "books",
-      "end_at": "2026-07-01T18:00:00"
-    },
-    {
-      "key": "creatureandcharactercreationbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/creature-and-character-creation-bundle-software",
-      "machine_name": "creatureandcharactercreationbundle_softwarebundle",
-      "title": "Creature and Character Creation Bundle",
-      "category": "software",
       "end_at": "2026-07-01T18:00:00"
     },
     {
@@ -147,12 +155,12 @@
       "end_at": "2026-07-02T01:00:00"
     },
     {
-      "key": "yuriinluckwaifusforlaifus_bundle",
-      "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
-      "machine_name": "yuriinluckwaifusforlaifus_bundle",
-      "title": "Yuri in Luck: Waifus for Laifus",
-      "category": "games",
-      "end_at": "2026-07-02T01:00:00"
+      "key": "creatureandcharactercreationbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/creature-and-character-creation-bundle-software",
+      "machine_name": "creatureandcharactercreationbundle_softwarebundle",
+      "title": "Creature and Character Creation Bundle",
+      "category": "software",
+      "end_at": "2026-07-01T18:00:00"
     },
     {
       "key": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
@@ -235,18 +243,18 @@
       "end_at": "2026-07-02T01:00:00"
     },
     {
-      "key": "cyberpunkredreadytorunessentialsbundle_bundle",
-      "url": "https://humblebundle.com/books/cyberpunk-red-readytorun-essentials-bundle",
-      "machine_name": "cyberpunkredreadytorunessentialsbundle_bundle",
-      "title": "Cyberpunk RED: The Ready-to-Run Essentials Bundle",
-      "category": "books",
-      "end_at": "2026-06-30T18:00:00"
-    },
-    {
       "key": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
       "url": "https://humblebundle.com/books/embroidery-sashiko-and-decorative-stitching-open-road-books",
       "machine_name": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
       "title": "Embroidery, Sashiko, and Decorative Stitching by Open Road",
+      "category": "books",
+      "end_at": "2026-06-30T18:00:00"
+    },
+    {
+      "key": "cyberpunkredreadytorunessentialsbundle_bundle",
+      "url": "https://humblebundle.com/books/cyberpunk-red-readytorun-essentials-bundle",
+      "machine_name": "cyberpunkredreadytorunessentialsbundle_bundle",
+      "title": "Cyberpunk RED: The Ready-to-Run Essentials Bundle",
       "category": "books",
       "end_at": "2026-06-30T18:00:00"
     },
@@ -257,14 +265,6 @@
       "title": "Fantasy Game Dev Assets By Synty",
       "category": "software",
       "end_at": "2026-06-29T18:00:00"
-    },
-    {
-      "key": "kodanshapresentsblyurimorefromichijinsha_bookbundle",
-      "url": "https://humblebundle.com/books/kodansha-presents-bl-yuri-more-from-ichijinsha-books",
-      "machine_name": "kodanshapresentsblyurimorefromichijinsha_bookbundle",
-      "title": "Kodansha Presents: BL, Yuri & More from Ichijinsha",
-      "category": "books",
-      "end_at": "2026-06-26T18:00:00"
     },
     {
       "key": "learnunrealengine2026coursebundle_softwarebundle",
