@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T19:42:21Z",
-  "updated_at": "2026-06-27T19:42:49Z",
+  "generated_at": "2026-06-28T19:43:07Z",
+  "updated_at": "2026-06-28T19:43:42Z",
   "items": [
     {
       "key": "supergirlwomantomorrowandmoredccomics_bookbundle",
@@ -19,20 +19,20 @@
       "end_at": "2026-07-18T01:00:00"
     },
     {
-      "key": "goingrogueliteheavybundle_bundle",
-      "url": "https://humblebundle.com/games/going-rogue-lite-heavy-bundle",
-      "machine_name": "goingrogueliteheavybundle_bundle",
-      "title": "Going Rogue: A Lite Heavy Bundle",
-      "category": "games",
-      "end_at": "2026-07-16T01:00:00"
-    },
-    {
       "key": "worldbuildersamericana_softwarebundle",
       "url": "https://humblebundle.com/software/world-builders-americana-software",
       "machine_name": "worldbuildersamericana_softwarebundle",
       "title": "World Builders: Americana",
       "category": "software",
       "end_at": "2026-07-15T18:00:00"
+    },
+    {
+      "key": "goingrogueliteheavybundle_bundle",
+      "url": "https://humblebundle.com/games/going-rogue-lite-heavy-bundle",
+      "machine_name": "goingrogueliteheavybundle_bundle",
+      "title": "Going Rogue: A Lite Heavy Bundle",
+      "category": "games",
+      "end_at": "2026-07-16T01:00:00"
     },
     {
       "key": "lifetimeaccesscreator_softwarebundle",
@@ -67,14 +67,6 @@
       "end_at": "2026-07-11T01:00:00"
     },
     {
-      "key": "professionaldeveloperpathwaysbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
-      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
-      "title": "Professional Developer Pathways Bundle",
-      "category": "software",
-      "end_at": "2026-07-09T18:00:00"
-    },
-    {
       "key": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
       "url": "https://humblebundle.com/books/and-winner-is-award-winning-fantasy-science-fiction-horror-from-tachyon-books",
       "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
@@ -83,12 +75,12 @@
       "end_at": "2026-07-09T18:00:00"
     },
     {
-      "key": "uploadvrsummer2026_bundle",
-      "url": "https://humblebundle.com/games/upload-vr-summer-2026",
-      "machine_name": "uploadvrsummer2026_bundle",
-      "title": "Upload VR Summer 2026",
-      "category": "games",
-      "end_at": "2026-07-09T01:00:00"
+      "key": "professionaldeveloperpathwaysbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
+      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
+      "title": "Professional Developer Pathways Bundle",
+      "category": "software",
+      "end_at": "2026-07-09T18:00:00"
     },
     {
       "key": "premiumscifidesigntrainingbundle_softwarebundle",
@@ -97,6 +89,14 @@
       "title": "Premium Sci-Fi Design Training Bundle",
       "category": "software",
       "end_at": "2026-07-08T18:00:00"
+    },
+    {
+      "key": "uploadvrsummer2026_bundle",
+      "url": "https://humblebundle.com/games/upload-vr-summer-2026",
+      "machine_name": "uploadvrsummer2026_bundle",
+      "title": "Upload VR Summer 2026",
+      "category": "games",
+      "end_at": "2026-07-09T01:00:00"
     },
     {
       "key": "dungeondefendersiicompletedlcchest_bundle",
@@ -139,14 +139,6 @@
       "end_at": "2026-07-02T18:00:00"
     },
     {
-      "key": "creatureandcharactercreationbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/creature-and-character-creation-bundle-software",
-      "machine_name": "creatureandcharactercreationbundle_softwarebundle",
-      "title": "Creature and Character Creation Bundle",
-      "category": "software",
-      "end_at": "2026-07-01T18:00:00"
-    },
-    {
       "key": "yuriinluckwaifusforlaifus_bundle",
       "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
       "machine_name": "yuriinluckwaifusforlaifus_bundle",
@@ -171,12 +163,12 @@
       "end_at": "2026-07-02T01:00:00"
     },
     {
-      "key": "biggerbetterbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/bigger-better-bundle-software",
-      "machine_name": "biggerbetterbundle_softwarebundle",
-      "title": "Bigger Better Bundle",
+      "key": "creatureandcharactercreationbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/creature-and-character-creation-bundle-software",
+      "machine_name": "creatureandcharactercreationbundle_softwarebundle",
+      "title": "Creature and Character Creation Bundle",
       "category": "software",
-      "end_at": "2026-06-30T18:00:00"
+      "end_at": "2026-07-01T18:00:00"
     },
     {
       "key": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
@@ -184,6 +176,14 @@
       "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
       "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
       "category": "books",
+      "end_at": "2026-06-30T18:00:00"
+    },
+    {
+      "key": "biggerbetterbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/bigger-better-bundle-software",
+      "machine_name": "biggerbetterbundle_softwarebundle",
+      "title": "Bigger Better Bundle",
+      "category": "software",
       "end_at": "2026-06-30T18:00:00"
     },
     {
@@ -203,20 +203,20 @@
       "end_at": "2026-06-29T16:00:00"
     },
     {
-      "key": "redlineracingbundle_bundle",
-      "url": "https://humblebundle.com/games/redline-racing-bundle",
-      "machine_name": "redlineracingbundle_bundle",
-      "title": "Redline Racing Bundle",
-      "category": "games",
-      "end_at": "2026-07-04T01:00:00"
-    },
-    {
       "key": "completeunityaibundle_softwarebundle",
       "url": "https://humblebundle.com/software/complete-unity-ai-bundle-software",
       "machine_name": "completeunityaibundle_softwarebundle",
       "title": "The Complete Unity AI Bundle",
       "category": "software",
       "end_at": "2026-07-07T18:00:00"
+    },
+    {
+      "key": "redlineracingbundle_bundle",
+      "url": "https://humblebundle.com/games/redline-racing-bundle",
+      "machine_name": "redlineracingbundle_bundle",
+      "title": "Redline Racing Bundle",
+      "category": "games",
+      "end_at": "2026-07-04T01:00:00"
     },
     {
       "key": "2026learnunitygamedevelopmentbundle_softwarebundle",
