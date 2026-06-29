@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T19:43:07Z",
-  "updated_at": "2026-06-28T19:43:42Z",
+  "generated_at": "2026-06-29T20:11:23Z",
+  "updated_at": "2026-06-29T20:12:00Z",
   "items": [
     {
       "key": "supergirlwomantomorrowandmoredccomics_bookbundle",
@@ -19,20 +19,20 @@
       "end_at": "2026-07-18T01:00:00"
     },
     {
-      "key": "worldbuildersamericana_softwarebundle",
-      "url": "https://humblebundle.com/software/world-builders-americana-software",
-      "machine_name": "worldbuildersamericana_softwarebundle",
-      "title": "World Builders: Americana",
-      "category": "software",
-      "end_at": "2026-07-15T18:00:00"
-    },
-    {
       "key": "goingrogueliteheavybundle_bundle",
       "url": "https://humblebundle.com/games/going-rogue-lite-heavy-bundle",
       "machine_name": "goingrogueliteheavybundle_bundle",
       "title": "Going Rogue: A Lite Heavy Bundle",
       "category": "games",
       "end_at": "2026-07-16T01:00:00"
+    },
+    {
+      "key": "worldbuildersamericana_softwarebundle",
+      "url": "https://humblebundle.com/software/world-builders-americana-software",
+      "machine_name": "worldbuildersamericana_softwarebundle",
+      "title": "World Builders: Americana",
+      "category": "software",
+      "end_at": "2026-07-15T18:00:00"
     },
     {
       "key": "lifetimeaccesscreator_softwarebundle",
@@ -67,14 +67,6 @@
       "end_at": "2026-07-11T01:00:00"
     },
     {
-      "key": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
-      "url": "https://humblebundle.com/books/and-winner-is-award-winning-fantasy-science-fiction-horror-from-tachyon-books",
-      "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
-      "title": "And the Winner Is: Award Winning Fantasy, Science Fiction, & Horror from Tachyon",
-      "category": "books",
-      "end_at": "2026-07-09T18:00:00"
-    },
-    {
       "key": "professionaldeveloperpathwaysbundle_softwarebundle",
       "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
       "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
@@ -83,12 +75,20 @@
       "end_at": "2026-07-09T18:00:00"
     },
     {
-      "key": "premiumscifidesigntrainingbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
-      "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
-      "title": "Premium Sci-Fi Design Training Bundle",
-      "category": "software",
-      "end_at": "2026-07-08T18:00:00"
+      "key": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
+      "url": "https://humblebundle.com/books/and-winner-is-award-winning-fantasy-science-fiction-horror-from-tachyon-books",
+      "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
+      "title": "And the Winner Is: Award Winning Fantasy, Science Fiction, & Horror from Tachyon",
+      "category": "books",
+      "end_at": "2026-07-09T18:00:00"
+    },
+    {
+      "key": "dungeondefendersiicompletedlcchest_bundle",
+      "url": "https://humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
+      "machine_name": "dungeondefendersiicompletedlcchest_bundle",
+      "title": "Dungeon Defenders II Complete DLC Chest",
+      "category": "games",
+      "end_at": "2026-07-09T01:00:00"
     },
     {
       "key": "uploadvrsummer2026_bundle",
@@ -99,12 +99,12 @@
       "end_at": "2026-07-09T01:00:00"
     },
     {
-      "key": "dungeondefendersiicompletedlcchest_bundle",
-      "url": "https://humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
-      "machine_name": "dungeondefendersiicompletedlcchest_bundle",
-      "title": "Dungeon Defenders II Complete DLC Chest",
-      "category": "games",
-      "end_at": "2026-07-09T01:00:00"
+      "key": "premiumscifidesigntrainingbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
+      "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
+      "title": "Premium Sci-Fi Design Training Bundle",
+      "category": "software",
+      "end_at": "2026-07-08T18:00:00"
     },
     {
       "key": "hiphoplofitrapmegabundle_softwarebundle",
@@ -139,6 +139,14 @@
       "end_at": "2026-07-02T18:00:00"
     },
     {
+      "key": "completeinklelibrary_bundle",
+      "url": "https://humblebundle.com/games/complete-inkle-library",
+      "machine_name": "completeinklelibrary_bundle",
+      "title": "The Complete Inkle Library",
+      "category": "games",
+      "end_at": "2026-07-02T01:00:00"
+    },
+    {
       "key": "yuriinluckwaifusforlaifus_bundle",
       "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
       "machine_name": "yuriinluckwaifusforlaifus_bundle",
@@ -153,14 +161,6 @@
       "title": "The Unity Game Development Mastery Bundle by Zenva",
       "category": "books",
       "end_at": "2026-07-01T18:00:00"
-    },
-    {
-      "key": "completeinklelibrary_bundle",
-      "url": "https://humblebundle.com/games/complete-inkle-library",
-      "machine_name": "completeinklelibrary_bundle",
-      "title": "The Complete Inkle Library",
-      "category": "games",
-      "end_at": "2026-07-02T01:00:00"
     },
     {
       "key": "creatureandcharactercreationbundle_softwarebundle",
@@ -192,7 +192,7 @@
       "machine_name": "vastfantasyworldsgamedevbundle_softwarebundle",
       "title": "Vast Fantasy Worlds Game Dev Bundle",
       "category": "software",
-      "end_at": "2026-06-29T18:00:00"
+      "end_at": "2026-07-13T18:00:00"
     },
     {
       "key": "professordmsdungeoncrawlclassicsessentialsbundlepresenteddungeoncraft_bookbundle",
@@ -200,7 +200,7 @@
       "machine_name": "professordmsdungeoncrawlclassicsessentialsbundlepresenteddungeoncraft_bookbundle",
       "title": "Professor DM's Dungeon Crawl Classics Essentials Bundle Presented by Dungeon Craft",
       "category": "books",
-      "end_at": "2026-06-29T16:00:00"
+      "end_at": "2026-07-06T16:00:00"
     },
     {
       "key": "completeunityaibundle_softwarebundle",
@@ -219,19 +219,19 @@
       "end_at": "2026-07-04T01:00:00"
     },
     {
-      "key": "2026learnunitygamedevelopmentbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/2026-learn-unity-game-development-bundle-software",
-      "machine_name": "2026learnunitygamedevelopmentbundle_softwarebundle",
-      "title": "The 2026 Learn Unity Game Development Bundle",
-      "category": "software",
-      "end_at": "2026-07-02T18:00:00"
-    },
-    {
       "key": "rollbigorgohome2_bookbundle",
       "url": "https://humblebundle.com/books/roll-big-or-go-home-2-books",
       "machine_name": "rollbigorgohome2_bookbundle",
       "title": "Roll Big or Go Home 2",
       "category": "books",
+      "end_at": "2026-07-02T18:00:00"
+    },
+    {
+      "key": "2026learnunitygamedevelopmentbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/2026-learn-unity-game-development-bundle-software",
+      "machine_name": "2026learnunitygamedevelopmentbundle_softwarebundle",
+      "title": "The 2026 Learn Unity Game Development Bundle",
+      "category": "software",
       "end_at": "2026-07-02T18:00:00"
     },
     {
@@ -264,7 +264,7 @@
       "machine_name": "fantasygamedevassetssynty_softwarebundle",
       "title": "Fantasy Game Dev Assets By Synty",
       "category": "software",
-      "end_at": "2026-06-29T18:00:00"
+      "end_at": "2026-07-06T18:00:00"
     },
     {
       "key": "learnunrealengine2026coursebundle_softwarebundle",
@@ -297,14 +297,6 @@
       "title": "The Ultimate Linux & SysAdmin Bundle",
       "category": "books",
       "end_at": "2026-06-30T18:00:00"
-    },
-    {
-      "key": "cybersecurityaidefensemegabundlepackt_softwarebundle",
-      "url": "https://humblebundle.com/software/cybersecurity-ai-defense-mega-bundle-packt-software",
-      "machine_name": "cybersecurityaidefensemegabundlepackt_softwarebundle",
-      "title": "The Cybersecurity & AI Defense Mega Bundle by Packt",
-      "category": "software",
-      "end_at": "2026-06-29T18:00:00"
     }
   ]
 }
