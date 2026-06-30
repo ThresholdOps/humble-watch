@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T20:11:23Z",
-  "updated_at": "2026-06-29T20:12:00Z",
+  "generated_at": "2026-06-30T20:13:44Z",
+  "updated_at": "2026-06-30T20:14:12Z",
   "items": [
     {
       "key": "supergirlwomantomorrowandmoredccomics_bookbundle",
@@ -67,14 +67,6 @@
       "end_at": "2026-07-11T01:00:00"
     },
     {
-      "key": "professionaldeveloperpathwaysbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
-      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
-      "title": "Professional Developer Pathways Bundle",
-      "category": "software",
-      "end_at": "2026-07-09T18:00:00"
-    },
-    {
       "key": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
       "url": "https://humblebundle.com/books/and-winner-is-award-winning-fantasy-science-fiction-horror-from-tachyon-books",
       "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
@@ -83,12 +75,20 @@
       "end_at": "2026-07-09T18:00:00"
     },
     {
-      "key": "dungeondefendersiicompletedlcchest_bundle",
-      "url": "https://humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
-      "machine_name": "dungeondefendersiicompletedlcchest_bundle",
-      "title": "Dungeon Defenders II Complete DLC Chest",
-      "category": "games",
-      "end_at": "2026-07-09T01:00:00"
+      "key": "professionaldeveloperpathwaysbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
+      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
+      "title": "Professional Developer Pathways Bundle",
+      "category": "software",
+      "end_at": "2026-07-09T18:00:00"
+    },
+    {
+      "key": "premiumscifidesigntrainingbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
+      "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
+      "title": "Premium Sci-Fi Design Training Bundle",
+      "category": "software",
+      "end_at": "2026-07-08T18:00:00"
     },
     {
       "key": "uploadvrsummer2026_bundle",
@@ -99,12 +99,12 @@
       "end_at": "2026-07-09T01:00:00"
     },
     {
-      "key": "premiumscifidesigntrainingbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
-      "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
-      "title": "Premium Sci-Fi Design Training Bundle",
-      "category": "software",
-      "end_at": "2026-07-08T18:00:00"
+      "key": "dungeondefendersiicompletedlcchest_bundle",
+      "url": "https://humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
+      "machine_name": "dungeondefendersiicompletedlcchest_bundle",
+      "title": "Dungeon Defenders II Complete DLC Chest",
+      "category": "games",
+      "end_at": "2026-07-09T01:00:00"
     },
     {
       "key": "hiphoplofitrapmegabundle_softwarebundle",
@@ -147,6 +147,14 @@
       "end_at": "2026-07-02T01:00:00"
     },
     {
+      "key": "creatureandcharactercreationbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/creature-and-character-creation-bundle-software",
+      "machine_name": "creatureandcharactercreationbundle_softwarebundle",
+      "title": "Creature and Character Creation Bundle",
+      "category": "software",
+      "end_at": "2026-07-01T18:00:00"
+    },
+    {
       "key": "yuriinluckwaifusforlaifus_bundle",
       "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
       "machine_name": "yuriinluckwaifusforlaifus_bundle",
@@ -163,20 +171,12 @@
       "end_at": "2026-07-01T18:00:00"
     },
     {
-      "key": "creatureandcharactercreationbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/creature-and-character-creation-bundle-software",
-      "machine_name": "creatureandcharactercreationbundle_softwarebundle",
-      "title": "Creature and Character Creation Bundle",
-      "category": "software",
-      "end_at": "2026-07-01T18:00:00"
-    },
-    {
       "key": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
       "url": "https://humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books",
       "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
       "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
       "category": "books",
-      "end_at": "2026-06-30T18:00:00"
+      "end_at": "2026-07-07T18:00:00"
     },
     {
       "key": "biggerbetterbundle_softwarebundle",
@@ -184,7 +184,7 @@
       "machine_name": "biggerbetterbundle_softwarebundle",
       "title": "Bigger Better Bundle",
       "category": "software",
-      "end_at": "2026-06-30T18:00:00"
+      "end_at": "2026-07-14T18:00:00"
     },
     {
       "key": "vastfantasyworldsgamedevbundle_softwarebundle",
@@ -243,22 +243,6 @@
       "end_at": "2026-07-02T01:00:00"
     },
     {
-      "key": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
-      "url": "https://humblebundle.com/books/embroidery-sashiko-and-decorative-stitching-open-road-books",
-      "machine_name": "embroiderysashikoanddecorativestitchingopenroad_bookbundle",
-      "title": "Embroidery, Sashiko, and Decorative Stitching by Open Road",
-      "category": "books",
-      "end_at": "2026-06-30T18:00:00"
-    },
-    {
-      "key": "cyberpunkredreadytorunessentialsbundle_bundle",
-      "url": "https://humblebundle.com/books/cyberpunk-red-readytorun-essentials-bundle",
-      "machine_name": "cyberpunkredreadytorunessentialsbundle_bundle",
-      "title": "Cyberpunk RED: The Ready-to-Run Essentials Bundle",
-      "category": "books",
-      "end_at": "2026-06-30T18:00:00"
-    },
-    {
       "key": "fantasygamedevassetssynty_softwarebundle",
       "url": "https://humblebundle.com/software/fantasy-game-dev-assets-synty-software",
       "machine_name": "fantasygamedevassetssynty_softwarebundle",
@@ -281,22 +265,6 @@
       "title": "Melodic Mayhem Vol. 2: A Comprehensive Audio and Music Bundle",
       "category": "software",
       "end_at": "2026-07-02T18:00:00"
-    },
-    {
-      "key": "musicfordummies2026_softwarebundle",
-      "url": "https://humblebundle.com/software/music-for-dummies-2026-software",
-      "machine_name": "musicfordummies2026_softwarebundle",
-      "title": "Music for Dummies 2026",
-      "category": "software",
-      "end_at": "2026-06-30T18:00:00"
-    },
-    {
-      "key": "ultimatelinuxsysadminbundle_bookbundle",
-      "url": "https://humblebundle.com/books/ultimate-linux-sysadmin-bundle-books",
-      "machine_name": "ultimatelinuxsysadminbundle_bookbundle",
-      "title": "The Ultimate Linux & SysAdmin Bundle",
-      "category": "books",
-      "end_at": "2026-06-30T18:00:00"
     }
   ]
 }
