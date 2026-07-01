@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-06-30T20:13:44Z",
-  "updated_at": "2026-06-30T20:14:12Z",
+  "generated_at": "2026-07-01T20:07:36Z",
+  "updated_at": "2026-07-01T20:08:05Z",
   "items": [
+    {
+      "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
+      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
+      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
+      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
+      "category": "software",
+      "end_at": "2026-07-22T18:00:00"
+    },
+    {
+      "key": "craftyourcosplaydreams_bookbundle",
+      "url": "https://humblebundle.com/books/craft-your-cosplay-dreams-books",
+      "machine_name": "craftyourcosplaydreams_bookbundle",
+      "title": "Craft Your Cosplay Dreams",
+      "category": "books",
+      "end_at": "2026-07-22T18:00:00"
+    },
+    {
+      "key": "letsgogamblingawdangit_bundle",
+      "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
+      "machine_name": "letsgogamblingawdangit_bundle",
+      "title": "Let's Go Gambling!...aw dang it.",
+      "category": "games",
+      "end_at": "2026-07-23T04:00:00"
+    },
     {
       "key": "supergirlwomantomorrowandmoredccomics_bookbundle",
       "url": "https://humblebundle.com/books/supergirl-woman-tomorrow-and-more-dc-comics-books",
@@ -67,14 +91,6 @@
       "end_at": "2026-07-11T01:00:00"
     },
     {
-      "key": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
-      "url": "https://humblebundle.com/books/and-winner-is-award-winning-fantasy-science-fiction-horror-from-tachyon-books",
-      "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
-      "title": "And the Winner Is: Award Winning Fantasy, Science Fiction, & Horror from Tachyon",
-      "category": "books",
-      "end_at": "2026-07-09T18:00:00"
-    },
-    {
       "key": "professionaldeveloperpathwaysbundle_softwarebundle",
       "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
       "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
@@ -83,12 +99,12 @@
       "end_at": "2026-07-09T18:00:00"
     },
     {
-      "key": "premiumscifidesigntrainingbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
-      "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
-      "title": "Premium Sci-Fi Design Training Bundle",
-      "category": "software",
-      "end_at": "2026-07-08T18:00:00"
+      "key": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
+      "url": "https://humblebundle.com/books/and-winner-is-award-winning-fantasy-science-fiction-horror-from-tachyon-books",
+      "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
+      "title": "And the Winner Is: Award Winning Fantasy, Science Fiction, & Horror from Tachyon",
+      "category": "books",
+      "end_at": "2026-07-09T18:00:00"
     },
     {
       "key": "uploadvrsummer2026_bundle",
@@ -97,6 +113,14 @@
       "title": "Upload VR Summer 2026",
       "category": "games",
       "end_at": "2026-07-09T01:00:00"
+    },
+    {
+      "key": "premiumscifidesigntrainingbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
+      "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
+      "title": "Premium Sci-Fi Design Training Bundle",
+      "category": "software",
+      "end_at": "2026-07-08T18:00:00"
     },
     {
       "key": "dungeondefendersiicompletedlcchest_bundle",
@@ -139,10 +163,10 @@
       "end_at": "2026-07-02T18:00:00"
     },
     {
-      "key": "completeinklelibrary_bundle",
-      "url": "https://humblebundle.com/games/complete-inkle-library",
-      "machine_name": "completeinklelibrary_bundle",
-      "title": "The Complete Inkle Library",
+      "key": "yuriinluckwaifusforlaifus_bundle",
+      "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
+      "machine_name": "yuriinluckwaifusforlaifus_bundle",
+      "title": "Yuri in Luck: Waifus for Laifus",
       "category": "games",
       "end_at": "2026-07-02T01:00:00"
     },
@@ -152,31 +176,15 @@
       "machine_name": "creatureandcharactercreationbundle_softwarebundle",
       "title": "Creature and Character Creation Bundle",
       "category": "software",
-      "end_at": "2026-07-01T18:00:00"
+      "end_at": "2026-07-15T18:00:00"
     },
     {
-      "key": "yuriinluckwaifusforlaifus_bundle",
-      "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
-      "machine_name": "yuriinluckwaifusforlaifus_bundle",
-      "title": "Yuri in Luck: Waifus for Laifus",
+      "key": "completeinklelibrary_bundle",
+      "url": "https://humblebundle.com/games/complete-inkle-library",
+      "machine_name": "completeinklelibrary_bundle",
+      "title": "The Complete Inkle Library",
       "category": "games",
       "end_at": "2026-07-02T01:00:00"
-    },
-    {
-      "key": "unitygamedevelopmentmasterybundlezenva_bookbundle",
-      "url": "https://humblebundle.com/books/unity-game-development-mastery-bundle-zenva-books",
-      "machine_name": "unitygamedevelopmentmasterybundlezenva_bookbundle",
-      "title": "The Unity Game Development Mastery Bundle by Zenva",
-      "category": "books",
-      "end_at": "2026-07-01T18:00:00"
-    },
-    {
-      "key": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
-      "url": "https://humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books",
-      "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
-      "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
-      "category": "books",
-      "end_at": "2026-07-07T18:00:00"
     },
     {
       "key": "biggerbetterbundle_softwarebundle",
@@ -185,6 +193,14 @@
       "title": "Bigger Better Bundle",
       "category": "software",
       "end_at": "2026-07-14T18:00:00"
+    },
+    {
+      "key": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
+      "url": "https://humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books",
+      "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
+      "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
+      "category": "books",
+      "end_at": "2026-07-07T18:00:00"
     },
     {
       "key": "vastfantasyworldsgamedevbundle_softwarebundle",
@@ -251,18 +267,18 @@
       "end_at": "2026-07-06T18:00:00"
     },
     {
-      "key": "learnunrealengine2026coursebundle_softwarebundle",
-      "url": "https://humblebundle.com/software/learn-unreal-engine-2026-course-bundle-software",
-      "machine_name": "learnunrealengine2026coursebundle_softwarebundle",
-      "title": "Learn Unreal Engine 2026 Course Bundle",
-      "category": "software",
-      "end_at": "2026-07-02T18:00:00"
-    },
-    {
       "key": "melodicmayhemvol2comprehensiveaudioandmusicbundle_softwarebundle",
       "url": "https://humblebundle.com/software/melodic-mayhem-vol-2-comprehensive-audio-and-music-bundle-software",
       "machine_name": "melodicmayhemvol2comprehensiveaudioandmusicbundle_softwarebundle",
       "title": "Melodic Mayhem Vol. 2: A Comprehensive Audio and Music Bundle",
+      "category": "software",
+      "end_at": "2026-07-02T18:00:00"
+    },
+    {
+      "key": "learnunrealengine2026coursebundle_softwarebundle",
+      "url": "https://humblebundle.com/software/learn-unreal-engine-2026-course-bundle-software",
+      "machine_name": "learnunrealengine2026coursebundle_softwarebundle",
+      "title": "Learn Unreal Engine 2026 Course Bundle",
       "category": "software",
       "end_at": "2026-07-02T18:00:00"
     }
