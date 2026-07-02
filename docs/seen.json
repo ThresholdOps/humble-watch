@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-07-01T20:07:36Z",
-  "updated_at": "2026-07-01T20:08:05Z",
+  "generated_at": "2026-07-02T19:46:13Z",
+  "updated_at": "2026-07-02T19:46:40Z",
   "items": [
+    {
+      "key": "aifoundationsandapplicationsmanning_softwarebundle",
+      "url": "https://humblebundle.com/books/ai-foundations-and-applications-manning-books",
+      "machine_name": "aifoundationsandapplicationsmanning_softwarebundle",
+      "title": "AI Foundations and Applications by Manning",
+      "category": "books",
+      "end_at": "2026-07-23T18:00:00"
+    },
+    {
+      "key": "completecharactercreationforgames_softwarebundle",
+      "url": "https://humblebundle.com/software/complete-character-creation-for-games-software",
+      "machine_name": "completecharactercreationforgames_softwarebundle",
+      "title": "Complete Character Creation for Games",
+      "category": "software",
+      "end_at": "2026-07-23T18:00:00"
+    },
+    {
+      "key": "itai500certificationexams_softwarebundle",
+      "url": "https://humblebundle.com/software/it-ai-500-certification-exams-software",
+      "machine_name": "itai500certificationexams_softwarebundle",
+      "title": "IT & AI: 500+ Certification Exams",
+      "category": "software",
+      "end_at": "2026-07-23T18:00:00"
+    },
+    {
+      "key": "letsgogamblingawdangit_bundle",
+      "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
+      "machine_name": "letsgogamblingawdangit_bundle",
+      "title": "Let's Go Gambling!...aw dang it.",
+      "category": "games",
+      "end_at": "2026-07-23T04:00:00"
+    },
     {
       "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
       "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
@@ -17,14 +49,6 @@
       "title": "Craft Your Cosplay Dreams",
       "category": "books",
       "end_at": "2026-07-22T18:00:00"
-    },
-    {
-      "key": "letsgogamblingawdangit_bundle",
-      "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
-      "machine_name": "letsgogamblingawdangit_bundle",
-      "title": "Let's Go Gambling!...aw dang it.",
-      "category": "games",
-      "end_at": "2026-07-23T04:00:00"
     },
     {
       "key": "supergirlwomantomorrowandmoredccomics_bookbundle",
@@ -91,19 +115,19 @@
       "end_at": "2026-07-11T01:00:00"
     },
     {
-      "key": "professionaldeveloperpathwaysbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
-      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
-      "title": "Professional Developer Pathways Bundle",
-      "category": "software",
-      "end_at": "2026-07-09T18:00:00"
-    },
-    {
       "key": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
       "url": "https://humblebundle.com/books/and-winner-is-award-winning-fantasy-science-fiction-horror-from-tachyon-books",
       "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
       "title": "And the Winner Is: Award Winning Fantasy, Science Fiction, & Horror from Tachyon",
       "category": "books",
+      "end_at": "2026-07-09T18:00:00"
+    },
+    {
+      "key": "professionaldeveloperpathwaysbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
+      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
+      "title": "Professional Developer Pathways Bundle",
+      "category": "software",
       "end_at": "2026-07-09T18:00:00"
     },
     {
@@ -160,7 +184,7 @@
       "machine_name": "unrealenvironmentbundle_softwarebundle",
       "title": "Unreal Environment Bundle",
       "category": "software",
-      "end_at": "2026-07-02T18:00:00"
+      "end_at": "2026-07-16T18:00:00"
     },
     {
       "key": "yuriinluckwaifusforlaifus_bundle",
@@ -168,7 +192,7 @@
       "machine_name": "yuriinluckwaifusforlaifus_bundle",
       "title": "Yuri in Luck: Waifus for Laifus",
       "category": "games",
-      "end_at": "2026-07-02T01:00:00"
+      "end_at": "2026-07-09T01:00:00"
     },
     {
       "key": "creatureandcharactercreationbundle_softwarebundle",
@@ -177,14 +201,6 @@
       "title": "Creature and Character Creation Bundle",
       "category": "software",
       "end_at": "2026-07-15T18:00:00"
-    },
-    {
-      "key": "completeinklelibrary_bundle",
-      "url": "https://humblebundle.com/games/complete-inkle-library",
-      "machine_name": "completeinklelibrary_bundle",
-      "title": "The Complete Inkle Library",
-      "category": "games",
-      "end_at": "2026-07-02T01:00:00"
     },
     {
       "key": "biggerbetterbundle_softwarebundle",
@@ -235,28 +251,12 @@
       "end_at": "2026-07-04T01:00:00"
     },
     {
-      "key": "rollbigorgohome2_bookbundle",
-      "url": "https://humblebundle.com/books/roll-big-or-go-home-2-books",
-      "machine_name": "rollbigorgohome2_bookbundle",
-      "title": "Roll Big or Go Home 2",
-      "category": "books",
-      "end_at": "2026-07-02T18:00:00"
-    },
-    {
       "key": "2026learnunitygamedevelopmentbundle_softwarebundle",
       "url": "https://humblebundle.com/software/2026-learn-unity-game-development-bundle-software",
       "machine_name": "2026learnunitygamedevelopmentbundle_softwarebundle",
       "title": "The 2026 Learn Unity Game Development Bundle",
       "category": "software",
-      "end_at": "2026-07-02T18:00:00"
-    },
-    {
-      "key": "wewillalwaysbeherepridemonth2026_bundle",
-      "url": "https://humblebundle.com/games/we-will-always-be-here-pride-month-2026",
-      "machine_name": "wewillalwaysbeherepridemonth2026_bundle",
-      "title": "We Will Always Be Here: Pride Month 2026",
-      "category": "games",
-      "end_at": "2026-07-02T01:00:00"
+      "end_at": "2026-07-09T18:00:00"
     },
     {
       "key": "fantasygamedevassetssynty_softwarebundle",
@@ -265,22 +265,6 @@
       "title": "Fantasy Game Dev Assets By Synty",
       "category": "software",
       "end_at": "2026-07-06T18:00:00"
-    },
-    {
-      "key": "melodicmayhemvol2comprehensiveaudioandmusicbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/melodic-mayhem-vol-2-comprehensive-audio-and-music-bundle-software",
-      "machine_name": "melodicmayhemvol2comprehensiveaudioandmusicbundle_softwarebundle",
-      "title": "Melodic Mayhem Vol. 2: A Comprehensive Audio and Music Bundle",
-      "category": "software",
-      "end_at": "2026-07-02T18:00:00"
-    },
-    {
-      "key": "learnunrealengine2026coursebundle_softwarebundle",
-      "url": "https://humblebundle.com/software/learn-unreal-engine-2026-course-bundle-software",
-      "machine_name": "learnunrealengine2026coursebundle_softwarebundle",
-      "title": "Learn Unreal Engine 2026 Course Bundle",
-      "category": "software",
-      "end_at": "2026-07-02T18:00:00"
     }
   ]
 }
