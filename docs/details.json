@@ -2,6 +2,2067 @@
   "schema": "humble-watch-details-v1",
   "items": [
     {
+      "title": "VFX Master-Bundle For Unreal",
+      "category": "software",
+      "url": "https://humblebundle.com/software/vfx-masterbundle-for-unreal-software",
+      "machine_name": "vfxmasterbundleforunreal_softwarebundle",
+      "end_at": "2026-07-25T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 22.48
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Elemental Auras VFX Pack",
+              "machine_name": "elementalaurasvfxpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Magical Staff Auras VFX Pack",
+              "machine_name": "magicalstaffaurasvfxpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Realistic Weapons VFX Pack",
+              "machine_name": "realisticweaponsvfxpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Mystic Portals / Explosion VFX Pack",
+              "machine_name": "mysticportalsandexplosionvfxpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Magical Portals / Explosions VFX",
+              "machine_name": "magicalportalsandexplosionsvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt13",
+          "header": "Pay $13 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 13.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 22.48
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Stylized VFX - Lightning",
+              "machine_name": "stylizedvfx_lightning",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 13.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Stylized VFX - Fire",
+              "machine_name": "stylizedvfx_fire",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 13.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Graffiti Decals - Weapons",
+              "machine_name": "graffitidecals_weapons",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 13.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Graffiti Decals - Cars",
+              "machine_name": "graffitidecals_cars",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 13.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Graffiti Decals - Anime Girls",
+              "machine_name": "graffitidecals_animegirls",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 13.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Supernova VFX",
+              "machine_name": "supernovavfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 13.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Elemental Spells VFX",
+              "machine_name": "elementalspellsvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 13.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Elemental Auras VFX Pack",
+              "machine_name": "elementalaurasvfxpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Magical Staff Auras VFX Pack",
+              "machine_name": "magicalstaffaurasvfxpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Realistic Weapons VFX Pack",
+              "machine_name": "realisticweaponsvfxpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Mystic Portals / Explosion VFX Pack",
+              "machine_name": "mysticportalsandexplosionvfxpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Magical Portals / Explosions VFX",
+              "machine_name": "magicalportalsandexplosionsvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt20",
+          "header": "Pay $20 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 20.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 22.48
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "RPG - Magic VFX: Arcane",
+              "machine_name": "rpg_magicvfx_arcane",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "RPG - Magic VFX: Holy Light",
+              "machine_name": "rpg_magicvfx_holylight",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "RPG - Magic VFX: Blood",
+              "machine_name": "rpg_magicvfx_blood",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "RPG - Magic VFX: Poison",
+              "machine_name": "rpg_magicvfx_poison",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "RPG - Magic VFX: Void",
+              "machine_name": "rpg_magicvfx_void",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "RPG - Magic VFX: Fire",
+              "machine_name": "rpg_magicvfx_fire",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "RPG - Magic VFX: Lightning",
+              "machine_name": "rpg_magicvfx_lightning",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "RPG - Magic VFX: Darkness",
+              "machine_name": "rpg_magicvfx_darkness",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Volcano Environment VFX",
+              "machine_name": "volcanoenvironmentvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Slime VFX",
+              "machine_name": "slimevfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "RPG - Crafting & Environment VFX",
+              "machine_name": "rpg_craftingandenvironmentvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "RPG - Loot VFX",
+              "machine_name": "rpg_lootvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Tabletop & RPG - Cinematic Card & Dice VFX",
+              "machine_name": "tabletopandrpg_cinematiccardanddicevfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Magic VFX",
+              "machine_name": "magicvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Magic VFX 2",
+              "machine_name": "magicvfx2",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Explosion VFX",
+              "machine_name": "explosionvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Explosion VFX 2",
+              "machine_name": "explosionvfx2",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Car VFX",
+              "machine_name": "carvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Stylized VFX - Smoke",
+              "machine_name": "stylizedvfx_smoke",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Stylized VFX - Smoke 2",
+              "machine_name": "stylizedvfx_smoke2",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Stylized VFX - Smoke 3",
+              "machine_name": "stylizedvfx_smoke3",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Stylized VFX - Smoke 4",
+              "machine_name": "stylizedvfx_smoke4",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Stylized VFX - Smoke 5",
+              "machine_name": "stylizedvfx_smoke5",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Stylized VFX - Smoke 6",
+              "machine_name": "stylizedvfx_smoke6",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Stylized VFX - Water",
+              "machine_name": "stylizedvfx_water",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Magic Decals",
+              "machine_name": "magicdecals",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Screen FX",
+              "machine_name": "screenfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Radiation VFX",
+              "machine_name": "radiationvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Ground Impact VFX 2",
+              "machine_name": "groundimpactvfx2",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Gas Explosion VFX",
+              "machine_name": "gasexplosionvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Magic Cast VFX",
+              "machine_name": "magiccastvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Realistic Blood VFX",
+              "machine_name": "realisticbloodvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Realistic Blood Decals",
+              "machine_name": "realisticblooddecals",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Cinematic Weapon VFX",
+              "machine_name": "cinematicweaponvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Skill Set VFX",
+              "machine_name": "skillsetvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Realistic Environment VFX",
+              "machine_name": "realisticenvironmentvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Laser Beams VFX Pack",
+              "machine_name": "laserbeamsvfxpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Vampire Lair",
+              "machine_name": "vampirelair",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Lightning VFX Bundle",
+              "machine_name": "lightningvfxbundle",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Flame VFX Bundle",
+              "machine_name": "flamevfxbundle",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Magic Rune VFX",
+              "machine_name": "magicrunevfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Portal VFX Enhanced",
+              "machine_name": "portalvfxenhanced",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Medieval Tavern Props",
+              "machine_name": "medievaltavernprops",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Medieval Tavern Environment",
+              "machine_name": "medievaltavernenvironment",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Ground Explosion VFX",
+              "machine_name": "groundexplosionvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Vampire Props",
+              "machine_name": "vampireprops",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Magic Books VFX",
+              "machine_name": "magicbooksvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Meteor VFX",
+              "machine_name": "meteorvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Attack Spells VFX",
+              "machine_name": "attackspellsvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Magic Shields VFX",
+              "machine_name": "magicshieldsvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Magic Aura VFX",
+              "machine_name": "magicauravfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Car VFX Pack",
+              "machine_name": "carvfxpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Ground Impact VFX",
+              "machine_name": "groundimpactvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Stylized VFX - Lightning",
+              "machine_name": "stylizedvfx_lightning",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 13.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Stylized VFX - Fire",
+              "machine_name": "stylizedvfx_fire",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 13.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Graffiti Decals - Weapons",
+              "machine_name": "graffitidecals_weapons",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 13.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Graffiti Decals - Cars",
+              "machine_name": "graffitidecals_cars",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 13.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Graffiti Decals - Anime Girls",
+              "machine_name": "graffitidecals_animegirls",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 13.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Supernova VFX",
+              "machine_name": "supernovavfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 13.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Elemental Spells VFX",
+              "machine_name": "elementalspellsvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 13.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Elemental Auras VFX Pack",
+              "machine_name": "elementalaurasvfxpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Magical Staff Auras VFX Pack",
+              "machine_name": "magicalstaffaurasvfxpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Realistic Weapons VFX Pack",
+              "machine_name": "realisticweaponsvfxpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Mystic Portals / Explosion VFX Pack",
+              "machine_name": "mysticportalsandexplosionvfxpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Magical Portals / Explosions VFX",
+              "machine_name": "magicalportalsandexplosionsvfx",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The John Scalzi Collection: Old Man's War & More by TOR Books",
+      "category": "books",
+      "url": "https://humblebundle.com/books/john-scalzi-collection-old-mans-war-more-tor-books-books",
+      "machine_name": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
+      "end_at": "2026-07-25T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 22.37
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Old Man's War",
+              "machine_name": "oldmanswar_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt10",
+          "header": "Pay $10 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 10.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 22.37
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "The Ghost Brigades",
+              "machine_name": "ghostbrigades_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Last Colony",
+              "machine_name": "lastcolony_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Zoe's Tale",
+              "machine_name": "zoestale_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Old Man's War",
+              "machine_name": "oldmanswar_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt18",
+          "header": "Pay $18 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 18.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 22.37
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "After the Coup",
+              "machine_name": "afterthecoup_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Agent to the Stars",
+              "machine_name": "agenttothestars_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Android's Dream",
+              "machine_name": "androidsdream_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Collapsing Empire",
+              "machine_name": "collapsingempire_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Consuming Fire",
+              "machine_name": "consumingfire_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The End of All Things",
+              "machine_name": "endofallthings_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Fuzzy Nation",
+              "machine_name": "fuzzynation_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Head On",
+              "machine_name": "headon_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Human Division",
+              "machine_name": "humandivision_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Kaiju Preservation Society",
+              "machine_name": "kaijupreservationsociety_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Last Emperox",
+              "machine_name": "lastemperox_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Lock In",
+              "machine_name": "lockin_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The President's Brain is Missing",
+              "machine_name": "presidentsbrainismissing_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Redshirts",
+              "machine_name": "redshirts_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Shadow War of the Night Dragons, Book One: The Dead City: Prologue",
+              "machine_name": "shadowwarofthenightdragons_bookone_thedeadcity_prologue_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Starter Villain",
+              "machine_name": "startervillain",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Unlocked",
+              "machine_name": "unlocked_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Your Hate Mail Will Be Graded",
+              "machine_name": "yourhatemailwillbegraded_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Ghost Brigades",
+              "machine_name": "ghostbrigades_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Last Colony",
+              "machine_name": "lastcolony_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Zoe's Tale",
+              "machine_name": "zoestale_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Old Man's War",
+              "machine_name": "oldmanswar_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Summer Games Done Quick 2026",
       "category": "games",
       "url": "https://humblebundle.com/games/summer-games-done-quick-2026",
@@ -17,7 +2078,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 14.24
+            "amount": 14.01
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -172,7 +2233,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 14.24
+            "amount": 14.01
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -381,309 +2442,6 @@
       ]
     },
     {
-      "title": "Complete Character Creation for Games",
-      "category": "software",
-      "url": "https://humblebundle.com/software/complete-character-creation-for-games-software",
-      "machine_name": "completecharactercreationforgames_softwarebundle",
-      "end_at": "2026-07-23T18:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $5 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 5.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 26.85
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Blender Alpha Brush Pack: Skin & Scales",
-              "machine_name": "blenderalphabrushpack_skinscales",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Blender Dragon Sculpting Course",
-              "machine_name": "blenderdragonsculptingcourse",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt15",
-          "header": "Pay $15 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 15.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 26.85
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Blender Low Poly Characters Course",
-              "machine_name": "blenderlowpolycharacterscourse",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Blender 2D Sprites Course",
-              "machine_name": "blender2dspritescourse",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Blender Alpha Brush Pack: Skin & Scales",
-              "machine_name": "blenderalphabrushpack_skinscales",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Blender Dragon Sculpting Course",
-              "machine_name": "blenderdragonsculptingcourse",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt25",
-          "header": "Pay $25 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 25.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 26.85
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Blender Animation & Rigging Course",
-              "machine_name": "blenderanimationandriggingcourse",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Create Anime Characters In Blender Course",
-              "machine_name": "createanimecharactersinblendercourse",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Blender Character Creator for Video Games Course",
-              "machine_name": "blendercharactercreatorforvideogamescourse",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "From Blender to Godot Course",
-              "machine_name": "fromblendertogodotcourse",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "From Blender to Unity Course",
-              "machine_name": "fromblendertounitycourse",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "From Blender to Unreal Course",
-              "machine_name": "fromblendertounrealcourse",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Blender Low Poly Characters Course",
-              "machine_name": "blenderlowpolycharacterscourse",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Blender 2D Sprites Course",
-              "machine_name": "blender2dspritescourse",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Blender Alpha Brush Pack: Skin & Scales",
-              "machine_name": "blenderalphabrushpack_skinscales",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Blender Dragon Sculpting Course",
-              "machine_name": "blenderdragonsculptingcourse",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "AI Foundations and Applications by Manning",
       "category": "books",
       "url": "https://humblebundle.com/books/ai-foundations-and-applications-manning-books",
@@ -699,7 +2457,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 56.21
+            "amount": 56.43
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -808,7 +2566,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 56.21
+            "amount": 56.43
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -1177,7 +2935,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 56.21
+            "amount": 56.43
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -1700,7 +3458,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.1
+            "amount": 27.2
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -1748,7 +3506,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.1
+            "amount": 27.2
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -1856,7 +3614,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.1
+            "amount": 27.2
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -2618,6 +4376,486 @@
       ]
     },
     {
+      "title": "Complete Character Creation for Games",
+      "category": "software",
+      "url": "https://humblebundle.com/software/complete-character-creation-for-games-software",
+      "machine_name": "completecharactercreationforgames_softwarebundle",
+      "end_at": "2026-07-23T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 26.83
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Blender Alpha Brush Pack: Skin & Scales",
+              "machine_name": "blenderalphabrushpack_skinscales",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender Dragon Sculpting Course",
+              "machine_name": "blenderdragonsculptingcourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt15",
+          "header": "Pay $15 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 15.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 26.83
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Blender Low Poly Characters Course",
+              "machine_name": "blenderlowpolycharacterscourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender 2D Sprites Course",
+              "machine_name": "blender2dspritescourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender Alpha Brush Pack: Skin & Scales",
+              "machine_name": "blenderalphabrushpack_skinscales",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender Dragon Sculpting Course",
+              "machine_name": "blenderdragonsculptingcourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt25",
+          "header": "Pay $25 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 25.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 26.83
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Blender Animation & Rigging Course",
+              "machine_name": "blenderanimationandriggingcourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Create Anime Characters In Blender Course",
+              "machine_name": "createanimecharactersinblendercourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender Character Creator for Video Games Course",
+              "machine_name": "blendercharactercreatorforvideogamescourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "From Blender to Godot Course",
+              "machine_name": "fromblendertogodotcourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "From Blender to Unity Course",
+              "machine_name": "fromblendertounitycourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "From Blender to Unreal Course",
+              "machine_name": "fromblendertounrealcourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender Low Poly Characters Course",
+              "machine_name": "blenderlowpolycharacterscourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender 2D Sprites Course",
+              "machine_name": "blender2dspritescourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender Alpha Brush Pack: Skin & Scales",
+              "machine_name": "blenderalphabrushpack_skinscales",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender Dragon Sculpting Course",
+              "machine_name": "blenderdragonsculptingcourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
+      "category": "software",
+      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
+      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
+      "end_at": "2026-07-22T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $25 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 25.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 27.98
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Clip Studio Paint Pro Version 5.0 - 12 month license",
+              "machine_name": "clipstudiopaintproversion50_12monthlicense",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Ultimate Brush Pack",
+              "machine_name": "ultimatebrushpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Superhero Brush Pack",
+              "machine_name": "superherobrushpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Comic Brush Pack",
+              "machine_name": "comicbrushpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "3D Models Pack",
+              "machine_name": "3dmodelspack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "3D Poses Pack",
+              "machine_name": "3dposespack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Speech Bubbles Pack",
+              "machine_name": "speechbubblespack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Comic & Manga Panel Frames Pack",
+              "machine_name": "comicandmangapanelframespack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Storyboard Assets Pack",
+              "machine_name": "storyboardassetspack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Moho Debut 12.5",
+              "machine_name": "mohodebut125",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Craft Your Cosplay Dreams",
       "category": "books",
       "url": "https://humblebundle.com/books/craft-your-cosplay-dreams-books",
@@ -2633,7 +4871,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.91
+            "amount": 20.9
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -3197,183 +5435,6 @@
       ]
     },
     {
-      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
-      "category": "software",
-      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
-      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
-      "end_at": "2026-07-22T18:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $25 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 25.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 27.93
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Clip Studio Paint Pro Version 5.0 - 12 month license",
-              "machine_name": "clipstudiopaintproversion50_12monthlicense",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Ultimate Brush Pack",
-              "machine_name": "ultimatebrushpack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Superhero Brush Pack",
-              "machine_name": "superherobrushpack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Comic Brush Pack",
-              "machine_name": "comicbrushpack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "3D Models Pack",
-              "machine_name": "3dmodelspack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "3D Poses Pack",
-              "machine_name": "3dposespack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Speech Bubbles Pack",
-              "machine_name": "speechbubblespack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Comic & Manga Panel Frames Pack",
-              "machine_name": "comicandmangapanelframespack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Storyboard Assets Pack",
-              "machine_name": "storyboardassetspack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Moho Debut 12.5",
-              "machine_name": "mohodebut125",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Let's Go Gambling!...aw dang it.",
       "category": "games",
       "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
@@ -3389,7 +5450,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 12.56
+            "amount": 12.61
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -3509,7 +5570,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 12.56
+            "amount": 12.61
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -4424,7 +6485,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.34
+            "amount": 20.36
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -4617,7 +6678,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.34
+            "amount": 20.36
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -4870,7 +6931,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.34
+            "amount": 20.36
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5192,7 +7253,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 31.74
+            "amount": 31.68
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -5606,7 +7667,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 31.74
+            "amount": 31.68
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -6578,7 +8639,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 31.74
+            "amount": 31.68
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -8483,7 +10544,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.88
+            "amount": 23.72
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -8621,7 +10682,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.88
+            "amount": 23.72
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -9179,7 +11240,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.88
+            "amount": 23.72
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -10589,7 +12650,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.42
+            "amount": 19.43
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -10652,7 +12713,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.42
+            "amount": 19.43
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -10760,7 +12821,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.42
+            "amount": 19.43
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -11192,7 +13253,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 12.33
+            "amount": 12.34
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -11268,7 +13329,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 12.33
+            "amount": 12.34
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -11407,7 +13468,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 12.33
+            "amount": 12.34
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -11636,7 +13697,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.07
+            "amount": 20.06
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -11708,7 +13769,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.07
+            "amount": 20.06
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -11834,7 +13895,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.07
+            "amount": 20.06
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -12239,7 +14300,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.65
+            "amount": 27.72
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -12302,7 +14363,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.65
+            "amount": 27.72
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -12395,7 +14456,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.65
+            "amount": 27.72
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -13007,6 +15068,840 @@
       ]
     },
     {
+      "title": "Premium Sci-Fi Design Training Bundle",
+      "category": "software",
+      "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
+      "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
+      "end_at": "2026-07-08T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 26.85
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Designing Futuristic Visuals",
+              "machine_name": "designingfuturisticvisuals",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Fusion Basics",
+              "machine_name": "fusionbasics",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt18",
+          "header": "Pay $18 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 18.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 26.85
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Armada Concept Art",
+              "machine_name": "armadaconceptart",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Cinematic Concept Design",
+              "machine_name": "cinematicconceptdesign",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Concept Architecture",
+              "machine_name": "conceptarchitecture",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Hard Surface Modeling",
+              "machine_name": "hardsurfacemodeling",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Industrial Design Foundations",
+              "machine_name": "industrialdesignfoundations",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Designing Futuristic Visuals",
+              "machine_name": "designingfuturisticvisuals",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Fusion Basics",
+              "machine_name": "fusionbasics",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt25",
+          "header": "Pay $25 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 25.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 26.85
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Concepting in ZBrush",
+              "machine_name": "conceptinginzbrush",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Dynamic Concept Art I",
+              "machine_name": "dynamicconceptarti",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Futuristic Character Design",
+              "machine_name": "futuristiccharacterdesign",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Hard Surface Design",
+              "machine_name": "hardsurfacedesign",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Mastering Film UI",
+              "machine_name": "masteringfilmui",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Rethinking Weapon Design",
+              "machine_name": "rethinkingweapondesign",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Starship Design",
+              "machine_name": "starshipdesign",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "UI and Data Design for Film",
+              "machine_name": "uianddatadesignforfilm",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Vehicle Concept Art",
+              "machine_name": "vehicleconceptart",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Armada Concept Art",
+              "machine_name": "armadaconceptart",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Cinematic Concept Design",
+              "machine_name": "cinematicconceptdesign",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Concept Architecture",
+              "machine_name": "conceptarchitecture",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Hard Surface Modeling",
+              "machine_name": "hardsurfacemodeling",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Industrial Design Foundations",
+              "machine_name": "industrialdesignfoundations",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Designing Futuristic Visuals",
+              "machine_name": "designingfuturisticvisuals",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Fusion Basics",
+              "machine_name": "fusionbasics",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Upload VR Summer 2026",
+      "category": "games",
+      "url": "https://humblebundle.com/games/upload-vr-summer-2026",
+      "machine_name": "uploadvrsummer2026_bundle",
+      "end_at": "2026-07-09T01:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $10 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 10.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.51
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Among Us 3D: VR",
+              "machine_name": "amongus3d_vr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Zero Caliber VR",
+              "machine_name": "zerocalibervr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "mobile": {},
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt15",
+          "header": "Pay $15 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 15.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.51
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Tactical Assault VR",
+              "machine_name": "tacticalassaultvr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Ancient Dungeon",
+              "machine_name": "ancientdungeon",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Arizona Sunshine Remake",
+              "machine_name": "arizonasunshineremake",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 29.99
+              },
+              "platforms_and_oses": {
+                "mobile": {},
+                "game": {
+                  "steam": [
+                    "windows",
+                    "oculus-rift",
+                    "vive"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Among Us 3D: VR",
+              "machine_name": "amongus3d_vr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Zero Caliber VR",
+              "machine_name": "zerocalibervr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "mobile": {},
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt18",
+          "header": "Pay $18 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 18.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.51
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "VTOL VR",
+              "machine_name": "vtolvr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 29.99
+              },
+              "platforms_and_oses": {
+                "mobile": {},
+                "game": {
+                  "steam": [
+                    "windows",
+                    "oculus-rift",
+                    "vive"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Zero Caliber 2 Remastered",
+              "machine_name": "zerocaliber2remastered",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Metro Awakening",
+              "machine_name": "metroawakening",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 39.99
+              },
+              "platforms_and_oses": {
+                "mobile": {},
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Thief VR: Legacy of Shadow",
+              "machine_name": "thiefvr_legacyofshadow",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Tactical Assault VR",
+              "machine_name": "tacticalassaultvr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Ancient Dungeon",
+              "machine_name": "ancientdungeon",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Arizona Sunshine Remake",
+              "machine_name": "arizonasunshineremake",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 29.99
+              },
+              "platforms_and_oses": {
+                "mobile": {},
+                "game": {
+                  "steam": [
+                    "windows",
+                    "oculus-rift",
+                    "vive"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Among Us 3D: VR",
+              "machine_name": "amongus3d_vr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Zero Caliber VR",
+              "machine_name": "zerocalibervr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "mobile": {},
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Dungeon Defenders II Complete DLC Chest",
       "category": "games",
       "url": "https://humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
@@ -13452,840 +16347,6 @@
       ]
     },
     {
-      "title": "Upload VR Summer 2026",
-      "category": "games",
-      "url": "https://humblebundle.com/games/upload-vr-summer-2026",
-      "machine_name": "uploadvrsummer2026_bundle",
-      "end_at": "2026-07-09T01:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $10 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 10.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 19.52
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Among Us 3D: VR",
-              "machine_name": "amongus3d_vr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Zero Caliber VR",
-              "machine_name": "zerocalibervr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt15",
-          "header": "Pay $15 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 15.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 19.52
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Tactical Assault VR",
-              "machine_name": "tacticalassaultvr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Ancient Dungeon",
-              "machine_name": "ancientdungeon",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Arizona Sunshine Remake",
-              "machine_name": "arizonasunshineremake",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 29.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows",
-                    "oculus-rift",
-                    "vive"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Among Us 3D: VR",
-              "machine_name": "amongus3d_vr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Zero Caliber VR",
-              "machine_name": "zerocalibervr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt18",
-          "header": "Pay $18 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 18.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 19.52
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "VTOL VR",
-              "machine_name": "vtolvr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 29.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows",
-                    "oculus-rift",
-                    "vive"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Zero Caliber 2 Remastered",
-              "machine_name": "zerocaliber2remastered",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Metro Awakening",
-              "machine_name": "metroawakening",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 39.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Thief VR: Legacy of Shadow",
-              "machine_name": "thiefvr_legacyofshadow",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Tactical Assault VR",
-              "machine_name": "tacticalassaultvr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Ancient Dungeon",
-              "machine_name": "ancientdungeon",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Arizona Sunshine Remake",
-              "machine_name": "arizonasunshineremake",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 29.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows",
-                    "oculus-rift",
-                    "vive"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Among Us 3D: VR",
-              "machine_name": "amongus3d_vr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Zero Caliber VR",
-              "machine_name": "zerocalibervr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Premium Sci-Fi Design Training Bundle",
-      "category": "software",
-      "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
-      "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
-      "end_at": "2026-07-08T18:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $5 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 5.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 26.83
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Designing Futuristic Visuals",
-              "machine_name": "designingfuturisticvisuals",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Fusion Basics",
-              "machine_name": "fusionbasics",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt18",
-          "header": "Pay $18 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 18.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 26.83
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Armada Concept Art",
-              "machine_name": "armadaconceptart",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Cinematic Concept Design",
-              "machine_name": "cinematicconceptdesign",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Concept Architecture",
-              "machine_name": "conceptarchitecture",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Hard Surface Modeling",
-              "machine_name": "hardsurfacemodeling",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Industrial Design Foundations",
-              "machine_name": "industrialdesignfoundations",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Designing Futuristic Visuals",
-              "machine_name": "designingfuturisticvisuals",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Fusion Basics",
-              "machine_name": "fusionbasics",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt25",
-          "header": "Pay $25 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 25.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 26.83
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Concepting in ZBrush",
-              "machine_name": "conceptinginzbrush",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Dynamic Concept Art I",
-              "machine_name": "dynamicconceptarti",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Futuristic Character Design",
-              "machine_name": "futuristiccharacterdesign",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Hard Surface Design",
-              "machine_name": "hardsurfacedesign",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Mastering Film UI",
-              "machine_name": "masteringfilmui",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Rethinking Weapon Design",
-              "machine_name": "rethinkingweapondesign",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Starship Design",
-              "machine_name": "starshipdesign",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "UI and Data Design for Film",
-              "machine_name": "uianddatadesignforfilm",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Vehicle Concept Art",
-              "machine_name": "vehicleconceptart",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Armada Concept Art",
-              "machine_name": "armadaconceptart",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Cinematic Concept Design",
-              "machine_name": "cinematicconceptdesign",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Concept Architecture",
-              "machine_name": "conceptarchitecture",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Hard Surface Modeling",
-              "machine_name": "hardsurfacemodeling",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Industrial Design Foundations",
-              "machine_name": "industrialdesignfoundations",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Designing Futuristic Visuals",
-              "machine_name": "designingfuturisticvisuals",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Fusion Basics",
-              "machine_name": "fusionbasics",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Hip Hop, Lofi & Trap Mega Bundle",
       "category": "software",
       "url": "https://humblebundle.com/software/hip-hop-lofi-trap-mega-bundle-software",
@@ -14301,7 +16362,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 28.2
+            "amount": 28.25
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -14394,7 +16455,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 28.2
+            "amount": 28.25
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -14607,7 +16668,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 28.2
+            "amount": 28.25
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -15945,7 +18006,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.91
+            "amount": 32.9
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -16001,7 +18062,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.91
+            "amount": 32.9
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -16190,7 +18251,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.91
+            "amount": 32.9
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -17167,7 +19228,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.01
+            "amount": 19.04
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -17902,7 +19963,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.65
+            "amount": 26.66
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -17995,7 +20056,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.65
+            "amount": 26.66
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -18163,7 +20224,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.65
+            "amount": 26.66
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -18889,6 +20950,596 @@
                     "windows",
                     "mac",
                     "linux"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
+      "category": "books",
+      "url": "https://humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books",
+      "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
+      "end_at": "2026-07-07T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.96
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "BROTHERS OF THE WIND",
+              "machine_name": "brothersofthewind",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "TAILCHASER'S SONG",
+              "machine_name": "tailchaserssong",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "WAR OF THE FLOWERS",
+              "machine_name": "waroftheflowers",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt10",
+          "header": "Pay $10 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 10.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.96
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "DIRTY STREETS OF HEAVEN",
+              "machine_name": "dirtystreetsofheaven",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "DRAGONBONE CHAIR",
+              "machine_name": "dragonbonechair",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "OTHERLAND 1: CITY OF GOLDEN SHAD",
+              "machine_name": "otherland1_cityofgoldenshad",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "BROTHERS OF THE WIND",
+              "machine_name": "brothersofthewind",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "TAILCHASER'S SONG",
+              "machine_name": "tailchaserssong",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "WAR OF THE FLOWERS",
+              "machine_name": "waroftheflowers",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt18",
+          "header": "Pay $18 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 18.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.96
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "EMPIRE OF GRASS",
+              "machine_name": "empireofgrass",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "HAPPY HOUR IN HELL",
+              "machine_name": "happyhourinhell",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "HEART OF WHAT WAS LOST",
+              "machine_name": "heartofwhatwaslost",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "INTO THE NARROWDARK",
+              "machine_name": "intothenarrowdark",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "OTHERLAND 2: RIVER OF BLUE FIR",
+              "machine_name": "otherland2_riverofbluefire",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "OTHERLAND 3: MOUNTAIN OF BLACK",
+              "machine_name": "otherland3_mountainofblack",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "OTHERLAND 4: SEA OF SILVER LIGHT",
+              "machine_name": "otherland4_seaofsilverlight",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SHADOWHEART",
+              "machine_name": "shadowheart",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SHADOWMARCH",
+              "machine_name": "shadowmarch_vol1",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SHADOWPLAY",
+              "machine_name": "shadowplay",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SHADOWRISE",
+              "machine_name": "shadowrise",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SLEEPING LATE ON JUDGEMENT DAY",
+              "machine_name": "sleepinglateonjudgementday",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "STONE OF FAREWELL",
+              "machine_name": "stoneoffarewell",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "THE NAVIGATOR'S CHILDREN",
+              "machine_name": "navigatorschildren",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "TO GREEN ANGEL TOWER",
+              "machine_name": "togreenangeltower",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "WITCHWOOD CROWN",
+              "machine_name": "witchwoodcrown",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "DIRTY STREETS OF HEAVEN",
+              "machine_name": "dirtystreetsofheaven",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "DRAGONBONE CHAIR",
+              "machine_name": "dragonbonechair",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "OTHERLAND 1: CITY OF GOLDEN SHAD",
+              "machine_name": "otherland1_cityofgoldenshad",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "BROTHERS OF THE WIND",
+              "machine_name": "brothersofthewind",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "TAILCHASER'S SONG",
+              "machine_name": "tailchaserssong",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "WAR OF THE FLOWERS",
+              "machine_name": "waroftheflowers",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
                   ]
                 }
               }
@@ -20230,596 +22881,6 @@
       ]
     },
     {
-      "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
-      "category": "books",
-      "url": "https://humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books",
-      "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
-      "end_at": "2026-07-07T18:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $5 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 5.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 19.97
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "BROTHERS OF THE WIND",
-              "machine_name": "brothersofthewind",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "TAILCHASER'S SONG",
-              "machine_name": "tailchaserssong",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "WAR OF THE FLOWERS",
-              "machine_name": "waroftheflowers",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt10",
-          "header": "Pay $10 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 10.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 19.97
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "DIRTY STREETS OF HEAVEN",
-              "machine_name": "dirtystreetsofheaven",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "DRAGONBONE CHAIR",
-              "machine_name": "dragonbonechair",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "OTHERLAND 1: CITY OF GOLDEN SHAD",
-              "machine_name": "otherland1_cityofgoldenshad",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "BROTHERS OF THE WIND",
-              "machine_name": "brothersofthewind",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "TAILCHASER'S SONG",
-              "machine_name": "tailchaserssong",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "WAR OF THE FLOWERS",
-              "machine_name": "waroftheflowers",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt18",
-          "header": "Pay $18 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 18.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 19.97
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "EMPIRE OF GRASS",
-              "machine_name": "empireofgrass",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "HAPPY HOUR IN HELL",
-              "machine_name": "happyhourinhell",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "HEART OF WHAT WAS LOST",
-              "machine_name": "heartofwhatwaslost",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "INTO THE NARROWDARK",
-              "machine_name": "intothenarrowdark",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "OTHERLAND 2: RIVER OF BLUE FIR",
-              "machine_name": "otherland2_riverofbluefire",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "OTHERLAND 3: MOUNTAIN OF BLACK",
-              "machine_name": "otherland3_mountainofblack",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "OTHERLAND 4: SEA OF SILVER LIGHT",
-              "machine_name": "otherland4_seaofsilverlight",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SHADOWHEART",
-              "machine_name": "shadowheart",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SHADOWMARCH",
-              "machine_name": "shadowmarch_vol1",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SHADOWPLAY",
-              "machine_name": "shadowplay",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SHADOWRISE",
-              "machine_name": "shadowrise",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SLEEPING LATE ON JUDGEMENT DAY",
-              "machine_name": "sleepinglateonjudgementday",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "STONE OF FAREWELL",
-              "machine_name": "stoneoffarewell",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "THE NAVIGATOR'S CHILDREN",
-              "machine_name": "navigatorschildren",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "TO GREEN ANGEL TOWER",
-              "machine_name": "togreenangeltower",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "WITCHWOOD CROWN",
-              "machine_name": "witchwoodcrown",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "DIRTY STREETS OF HEAVEN",
-              "machine_name": "dirtystreetsofheaven",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "DRAGONBONE CHAIR",
-              "machine_name": "dragonbonechair",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "OTHERLAND 1: CITY OF GOLDEN SHAD",
-              "machine_name": "otherland1_cityofgoldenshad",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "BROTHERS OF THE WIND",
-              "machine_name": "brothersofthewind",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "TAILCHASER'S SONG",
-              "machine_name": "tailchaserssong",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "WAR OF THE FLOWERS",
-              "machine_name": "waroftheflowers",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Vast Fantasy Worlds Game Dev Bundle",
       "category": "software",
       "url": "https://humblebundle.com/software/vast-fantasy-worlds-game-dev-bundle-software",
@@ -20835,7 +22896,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.83
+            "amount": 32.84
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -20871,7 +22932,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.83
+            "amount": 32.84
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -21096,7 +23157,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.41
+            "amount": 27.38
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -21189,7 +23250,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.41
+            "amount": 27.38
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -21867,7 +23928,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.41
+            "amount": 27.38
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -23460,7 +25521,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.41
+            "amount": 27.38
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -25077,7 +27138,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.2
+            "amount": 27.26
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -25110,7 +27171,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.2
+            "amount": 27.26
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -25158,7 +27219,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.2
+            "amount": 27.26
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -25537,302 +27598,6 @@
               "platforms_and_oses": {
                 "software": {
                   "other-key": []
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Redline Racing Bundle",
-      "category": "games",
-      "url": "https://humblebundle.com/games/redline-racing-bundle",
-      "machine_name": "redlineracingbundle_bundle",
-      "end_at": "2026-07-04T01:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $5 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 5.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 10.25
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Descenders",
-              "machine_name": "descenders",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Parking Garage Rally Circuit",
-              "machine_name": "parkinggaragerallycircuit",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "MudRunner",
-              "machine_name": "spintires_mudrunner",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "JDM: Japanese Drift Master 50% Off",
-              "machine_name": "jdmjapanesedriftmaster50off",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt10",
-          "header": "Pay $10 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 10.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 10.25
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Assetto Corsa Competizione",
-              "machine_name": "assettocorsacompetizione",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 39.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows",
-                    "oculus-rift",
-                    "vive"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "art of rally",
-              "machine_name": "artofrally",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Trail Out",
-              "machine_name": "trailout",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "DRIFT CE",
-              "machine_name": "driftce",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 29.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Descenders",
-              "machine_name": "descenders",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Parking Garage Rally Circuit",
-              "machine_name": "parkinggaragerallycircuit",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "MudRunner",
-              "machine_name": "spintires_mudrunner",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "JDM: Japanese Drift Master 50% Off",
-              "machine_name": "jdmjapanesedriftmaster50off",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
                 }
               }
             }

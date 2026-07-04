@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-07-03T19:44:04Z",
-  "updated_at": "2026-07-03T19:44:29Z",
+  "generated_at": "2026-07-04T19:34:06Z",
+  "updated_at": "2026-07-04T19:34:34Z",
   "items": [
+    {
+      "key": "vfxmasterbundleforunreal_softwarebundle",
+      "url": "https://humblebundle.com/software/vfx-masterbundle-for-unreal-software",
+      "machine_name": "vfxmasterbundleforunreal_softwarebundle",
+      "title": "VFX Master-Bundle For Unreal",
+      "category": "software",
+      "end_at": "2026-07-25T18:00:00"
+    },
+    {
+      "key": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
+      "url": "https://humblebundle.com/books/john-scalzi-collection-old-mans-war-more-tor-books-books",
+      "machine_name": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
+      "title": "The John Scalzi Collection: Old Man's War & More by TOR Books",
+      "category": "books",
+      "end_at": "2026-07-25T18:00:00"
+    },
     {
       "key": "summergamesdonequick2026_bundle",
       "url": "https://humblebundle.com/games/summer-games-done-quick-2026",
@@ -9,14 +25,6 @@
       "title": "Summer Games Done Quick 2026",
       "category": "games",
       "end_at": "2026-07-25T01:00:00"
-    },
-    {
-      "key": "completecharactercreationforgames_softwarebundle",
-      "url": "https://humblebundle.com/software/complete-character-creation-for-games-software",
-      "machine_name": "completecharactercreationforgames_softwarebundle",
-      "title": "Complete Character Creation for Games",
-      "category": "software",
-      "end_at": "2026-07-23T18:00:00"
     },
     {
       "key": "aifoundationsandapplicationsmanning_softwarebundle",
@@ -35,12 +43,12 @@
       "end_at": "2026-07-23T18:00:00"
     },
     {
-      "key": "craftyourcosplaydreams_bookbundle",
-      "url": "https://humblebundle.com/books/craft-your-cosplay-dreams-books",
-      "machine_name": "craftyourcosplaydreams_bookbundle",
-      "title": "Craft Your Cosplay Dreams",
-      "category": "books",
-      "end_at": "2026-07-22T18:00:00"
+      "key": "completecharactercreationforgames_softwarebundle",
+      "url": "https://humblebundle.com/software/complete-character-creation-for-games-software",
+      "machine_name": "completecharactercreationforgames_softwarebundle",
+      "title": "Complete Character Creation for Games",
+      "category": "software",
+      "end_at": "2026-07-23T18:00:00"
     },
     {
       "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
@@ -48,6 +56,14 @@
       "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
       "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
       "category": "software",
+      "end_at": "2026-07-22T18:00:00"
+    },
+    {
+      "key": "craftyourcosplaydreams_bookbundle",
+      "url": "https://humblebundle.com/books/craft-your-cosplay-dreams-books",
+      "machine_name": "craftyourcosplaydreams_bookbundle",
+      "title": "Craft Your Cosplay Dreams",
+      "category": "books",
       "end_at": "2026-07-22T18:00:00"
     },
     {
@@ -139,12 +155,12 @@
       "end_at": "2026-07-09T18:00:00"
     },
     {
-      "key": "dungeondefendersiicompletedlcchest_bundle",
-      "url": "https://humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
-      "machine_name": "dungeondefendersiicompletedlcchest_bundle",
-      "title": "Dungeon Defenders II Complete DLC Chest",
-      "category": "games",
-      "end_at": "2026-07-09T01:00:00"
+      "key": "premiumscifidesigntrainingbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
+      "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
+      "title": "Premium Sci-Fi Design Training Bundle",
+      "category": "software",
+      "end_at": "2026-07-08T18:00:00"
     },
     {
       "key": "uploadvrsummer2026_bundle",
@@ -155,12 +171,12 @@
       "end_at": "2026-07-09T01:00:00"
     },
     {
-      "key": "premiumscifidesigntrainingbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
-      "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
-      "title": "Premium Sci-Fi Design Training Bundle",
-      "category": "software",
-      "end_at": "2026-07-08T18:00:00"
+      "key": "dungeondefendersiicompletedlcchest_bundle",
+      "url": "https://humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
+      "machine_name": "dungeondefendersiicompletedlcchest_bundle",
+      "title": "Dungeon Defenders II Complete DLC Chest",
+      "category": "games",
+      "end_at": "2026-07-09T01:00:00"
     },
     {
       "key": "hiphoplofitrapmegabundle_softwarebundle",
@@ -211,20 +227,20 @@
       "end_at": "2026-07-09T01:00:00"
     },
     {
-      "key": "biggerbetterbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/bigger-better-bundle-software",
-      "machine_name": "biggerbetterbundle_softwarebundle",
-      "title": "Bigger Better Bundle",
-      "category": "software",
-      "end_at": "2026-07-14T18:00:00"
-    },
-    {
       "key": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
       "url": "https://humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books",
       "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
       "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
       "category": "books",
       "end_at": "2026-07-07T18:00:00"
+    },
+    {
+      "key": "biggerbetterbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/bigger-better-bundle-software",
+      "machine_name": "biggerbetterbundle_softwarebundle",
+      "title": "Bigger Better Bundle",
+      "category": "software",
+      "end_at": "2026-07-14T18:00:00"
     },
     {
       "key": "vastfantasyworldsgamedevbundle_softwarebundle",
@@ -249,14 +265,6 @@
       "title": "The Complete Unity AI Bundle",
       "category": "software",
       "end_at": "2026-07-07T18:00:00"
-    },
-    {
-      "key": "redlineracingbundle_bundle",
-      "url": "https://humblebundle.com/games/redline-racing-bundle",
-      "machine_name": "redlineracingbundle_bundle",
-      "title": "Redline Racing Bundle",
-      "category": "games",
-      "end_at": "2026-07-04T01:00:00"
     },
     {
       "key": "2026learnunitygamedevelopmentbundle_softwarebundle",
