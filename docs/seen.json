@@ -1,14 +1,22 @@
 {
-  "generated_at": "2026-07-05T19:39:56Z",
-  "updated_at": "2026-07-05T19:40:28Z",
+  "generated_at": "2026-07-06T20:10:44Z",
+  "updated_at": "2026-07-06T20:11:12Z",
   "items": [
     {
-      "key": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
-      "url": "https://humblebundle.com/books/john-scalzi-collection-old-mans-war-more-tor-books-books",
-      "machine_name": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
-      "title": "The John Scalzi Collection: Old Man's War & More by TOR Books",
+      "key": "gameaudiocollectionaccesstoover300000musictracksandsoundeffects_softwarebundle",
+      "url": "https://humblebundle.com/software/game-audio-collection-access-to-over-300000-music-tracks-and-sound-effects-software",
+      "machine_name": "gameaudiocollectionaccesstoover300000musictracksandsoundeffects_softwarebundle",
+      "title": "Game Audio Collection - Access to over 300,000 music tracks and sound effects",
+      "category": "software",
+      "end_at": "2026-07-27T18:00:00"
+    },
+    {
+      "key": "redteamblueteamhackerscompleteplaybookpackt_bookbundle",
+      "url": "https://humblebundle.com/books/red-team-blue-team-hackers-complete-playbook-packt-books",
+      "machine_name": "redteamblueteamhackerscompleteplaybookpackt_bookbundle",
+      "title": "Red Team & Blue Team: The Hacker's Complete Playbook by Packt",
       "category": "books",
-      "end_at": "2026-07-25T18:00:00"
+      "end_at": "2026-07-27T18:00:00"
     },
     {
       "key": "vfxmasterbundleforunreal_softwarebundle",
@@ -19,12 +27,28 @@
       "end_at": "2026-07-25T18:00:00"
     },
     {
+      "key": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
+      "url": "https://humblebundle.com/books/john-scalzi-collection-old-mans-war-more-tor-books-books",
+      "machine_name": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
+      "title": "The John Scalzi Collection: Old Man's War & More by TOR Books",
+      "category": "books",
+      "end_at": "2026-07-25T18:00:00"
+    },
+    {
       "key": "summergamesdonequick2026_bundle",
       "url": "https://humblebundle.com/games/summer-games-done-quick-2026",
       "machine_name": "summergamesdonequick2026_bundle",
       "title": "Summer Games Done Quick 2026",
       "category": "games",
       "end_at": "2026-07-25T01:00:00"
+    },
+    {
+      "key": "completecharactercreationforgames_softwarebundle",
+      "url": "https://humblebundle.com/software/complete-character-creation-for-games-software",
+      "machine_name": "completecharactercreationforgames_softwarebundle",
+      "title": "Complete Character Creation for Games",
+      "category": "software",
+      "end_at": "2026-07-23T18:00:00"
     },
     {
       "key": "itai500certificationexams_softwarebundle",
@@ -43,22 +67,6 @@
       "end_at": "2026-07-23T18:00:00"
     },
     {
-      "key": "completecharactercreationforgames_softwarebundle",
-      "url": "https://humblebundle.com/software/complete-character-creation-for-games-software",
-      "machine_name": "completecharactercreationforgames_softwarebundle",
-      "title": "Complete Character Creation for Games",
-      "category": "software",
-      "end_at": "2026-07-23T18:00:00"
-    },
-    {
-      "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
-      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
-      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
-      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
-      "category": "software",
-      "end_at": "2026-07-22T18:00:00"
-    },
-    {
       "key": "letsgogamblingawdangit_bundle",
       "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
       "machine_name": "letsgogamblingawdangit_bundle",
@@ -72,6 +80,14 @@
       "machine_name": "craftyourcosplaydreams_bookbundle",
       "title": "Craft Your Cosplay Dreams",
       "category": "books",
+      "end_at": "2026-07-22T18:00:00"
+    },
+    {
+      "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
+      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
+      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
+      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
+      "category": "software",
       "end_at": "2026-07-22T18:00:00"
     },
     {
@@ -139,14 +155,6 @@
       "end_at": "2026-07-11T01:00:00"
     },
     {
-      "key": "professionaldeveloperpathwaysbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
-      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
-      "title": "Professional Developer Pathways Bundle",
-      "category": "software",
-      "end_at": "2026-07-09T18:00:00"
-    },
-    {
       "key": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
       "url": "https://humblebundle.com/books/and-winner-is-award-winning-fantasy-science-fiction-horror-from-tachyon-books",
       "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
@@ -155,12 +163,12 @@
       "end_at": "2026-07-09T18:00:00"
     },
     {
-      "key": "dungeondefendersiicompletedlcchest_bundle",
-      "url": "https://humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
-      "machine_name": "dungeondefendersiicompletedlcchest_bundle",
-      "title": "Dungeon Defenders II Complete DLC Chest",
-      "category": "games",
-      "end_at": "2026-07-09T01:00:00"
+      "key": "professionaldeveloperpathwaysbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
+      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
+      "title": "Professional Developer Pathways Bundle",
+      "category": "software",
+      "end_at": "2026-07-09T18:00:00"
     },
     {
       "key": "premiumscifidesigntrainingbundle_softwarebundle",
@@ -179,12 +187,12 @@
       "end_at": "2026-07-09T01:00:00"
     },
     {
-      "key": "hiphoplofitrapmegabundle_softwarebundle",
-      "url": "https://humblebundle.com/software/hip-hop-lofi-trap-mega-bundle-software",
-      "machine_name": "hiphoplofitrapmegabundle_softwarebundle",
-      "title": "Hip Hop, Lofi & Trap Mega Bundle",
-      "category": "software",
-      "end_at": "2026-07-06T19:00:00"
+      "key": "dungeondefendersiicompletedlcchest_bundle",
+      "url": "https://humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
+      "machine_name": "dungeondefendersiicompletedlcchest_bundle",
+      "title": "Dungeon Defenders II Complete DLC Chest",
+      "category": "games",
+      "end_at": "2026-07-09T01:00:00"
     },
     {
       "key": "allinoneunrealunitygamedevbundle_softwarebundle",
@@ -192,7 +200,7 @@
       "machine_name": "allinoneunrealunitygamedevbundle_softwarebundle",
       "title": "The All-in-One Unreal & Unity GameDev Bundle",
       "category": "software",
-      "end_at": "2026-07-06T18:00:00"
+      "end_at": "2026-07-20T18:00:00"
     },
     {
       "key": "robyncarrsvirginriver_bookbundle",
@@ -211,14 +219,6 @@
       "end_at": "2026-07-16T18:00:00"
     },
     {
-      "key": "yuriinluckwaifusforlaifus_bundle",
-      "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
-      "machine_name": "yuriinluckwaifusforlaifus_bundle",
-      "title": "Yuri in Luck: Waifus for Laifus",
-      "category": "games",
-      "end_at": "2026-07-09T01:00:00"
-    },
-    {
       "key": "creatureandcharactercreationbundle_softwarebundle",
       "url": "https://humblebundle.com/software/creature-and-character-creation-bundle-software",
       "machine_name": "creatureandcharactercreationbundle_softwarebundle",
@@ -227,12 +227,12 @@
       "end_at": "2026-07-15T18:00:00"
     },
     {
-      "key": "biggerbetterbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/bigger-better-bundle-software",
-      "machine_name": "biggerbetterbundle_softwarebundle",
-      "title": "Bigger Better Bundle",
-      "category": "software",
-      "end_at": "2026-07-14T18:00:00"
+      "key": "yuriinluckwaifusforlaifus_bundle",
+      "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
+      "machine_name": "yuriinluckwaifusforlaifus_bundle",
+      "title": "Yuri in Luck: Waifus for Laifus",
+      "category": "games",
+      "end_at": "2026-07-09T01:00:00"
     },
     {
       "key": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
@@ -243,20 +243,20 @@
       "end_at": "2026-07-07T18:00:00"
     },
     {
+      "key": "biggerbetterbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/bigger-better-bundle-software",
+      "machine_name": "biggerbetterbundle_softwarebundle",
+      "title": "Bigger Better Bundle",
+      "category": "software",
+      "end_at": "2026-07-14T18:00:00"
+    },
+    {
       "key": "vastfantasyworldsgamedevbundle_softwarebundle",
       "url": "https://humblebundle.com/software/vast-fantasy-worlds-game-dev-bundle-software",
       "machine_name": "vastfantasyworldsgamedevbundle_softwarebundle",
       "title": "Vast Fantasy Worlds Game Dev Bundle",
       "category": "software",
       "end_at": "2026-07-13T18:00:00"
-    },
-    {
-      "key": "professordmsdungeoncrawlclassicsessentialsbundlepresenteddungeoncraft_bookbundle",
-      "url": "https://humblebundle.com/books/professor-dms-dungeon-crawl-classics-essentials-bundle-presented-dungeon-craft-books",
-      "machine_name": "professordmsdungeoncrawlclassicsessentialsbundlepresenteddungeoncraft_bookbundle",
-      "title": "Professor DM's Dungeon Crawl Classics Essentials Bundle Presented by Dungeon Craft",
-      "category": "books",
-      "end_at": "2026-07-06T16:00:00"
     },
     {
       "key": "completeunityaibundle_softwarebundle",
@@ -273,14 +273,6 @@
       "title": "The 2026 Learn Unity Game Development Bundle",
       "category": "software",
       "end_at": "2026-07-09T18:00:00"
-    },
-    {
-      "key": "fantasygamedevassetssynty_softwarebundle",
-      "url": "https://humblebundle.com/software/fantasy-game-dev-assets-synty-software",
-      "machine_name": "fantasygamedevassetssynty_softwarebundle",
-      "title": "Fantasy Game Dev Assets By Synty",
-      "category": "software",
-      "end_at": "2026-07-06T18:00:00"
     }
   ]
 }
