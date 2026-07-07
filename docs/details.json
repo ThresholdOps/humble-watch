@@ -2,6 +2,664 @@
   "schema": "humble-watch-details-v1",
   "items": [
     {
+      "title": "The Tanith Lee Collection by DAW Books",
+      "category": "books",
+      "url": "https://humblebundle.com/books/tanith-lee-collection-daw-books-books",
+      "machine_name": "tanithleecollectiondawbooks_bookbundle",
+      "end_at": "2026-07-28T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.54
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Night's Master",
+              "machine_name": "nightsmaster",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Birthgrave",
+              "machine_name": "birthgrave",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Storm Lord",
+              "machine_name": "stormlord",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt10",
+          "header": "Pay $10 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 10.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.54
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Dark Castle, White Horse",
+              "machine_name": "darkcastlewhitehorse",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Day by Night",
+              "machine_name": "daybynight",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Lycanthia",
+              "machine_name": "lycanthia",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Night's Master",
+              "machine_name": "nightsmaster",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Birthgrave",
+              "machine_name": "birthgrave",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Storm Lord",
+              "machine_name": "stormlord",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt18",
+          "header": "Pay $18 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 18.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.54
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "A Heroine of the World",
+              "machine_name": "aheroineoftheworld",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Anackire",
+              "machine_name": "anackire",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Companions on the Road",
+              "machine_name": "companionsontheroad",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Cyrion",
+              "machine_name": "cyrion",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Days of Grass",
+              "machine_name": "daysofgrass",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Death's Master",
+              "machine_name": "deathsmaster",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Delirium's Mistress",
+              "machine_name": "deliriumsmistress",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Delusion's Master",
+              "machine_name": "delusionsmaster",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Electric Forest",
+              "machine_name": "electricforest",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Hunting the White Witch",
+              "machine_name": "huntingthewhitewitch",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Kill the Dead",
+              "machine_name": "killthedead",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Night's Sorceries",
+              "machine_name": "nightssorceries",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Redder than Blood",
+              "machine_name": "redderthanblood",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Sabella",
+              "machine_name": "sabella",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Shadowfire",
+              "machine_name": "shadowfire",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Sung in Shadow",
+              "machine_name": "sunginshadow",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Tamastara",
+              "machine_name": "tamastara",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Gorgon and Other Beastly Tales",
+              "machine_name": "gorgonandotherbeastlytales",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The White Serpent",
+              "machine_name": "whiteserpent",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Volkhavaar",
+              "machine_name": "volkhavaar",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Dark Castle, White Horse",
+              "machine_name": "darkcastlewhitehorse",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Day by Night",
+              "machine_name": "daybynight",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Lycanthia",
+              "machine_name": "lycanthia",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Night's Master",
+              "machine_name": "nightsmaster",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Birthgrave",
+              "machine_name": "birthgrave",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Storm Lord",
+              "machine_name": "stormlord",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Game Audio Collection - Access to over 300,000 music tracks and sound effects",
       "category": "software",
       "url": "https://humblebundle.com/software/game-audio-collection-access-to-over-300000-music-tracks-and-sound-effects-software",
@@ -17,7 +675,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 0.0
+            "amount": 22.77
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -65,7 +723,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 0.0
+            "amount": 22.77
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -203,7 +861,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 0.0
+            "amount": 22.77
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -1775,7 +2433,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.33
+            "amount": 20.29
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -1849,7 +2507,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.33
+            "amount": 20.29
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -2035,7 +2693,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.33
+            "amount": 20.29
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -2453,7 +3111,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.5
+            "amount": 22.48
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -2561,7 +3219,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.5
+            "amount": 22.48
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -2795,7 +3453,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.5
+            "amount": 22.48
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -3992,7 +4650,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.46
+            "amount": 22.33
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -4027,7 +4685,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.46
+            "amount": 22.33
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -4113,7 +4771,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.46
+            "amount": 22.33
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -4514,7 +5172,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 13.95
+            "amount": 14.08
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -4669,7 +5327,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 13.95
+            "amount": 14.08
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5196,7 +5854,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.35
+            "amount": 27.31
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -5244,7 +5902,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.35
+            "amount": 27.31
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5352,7 +6010,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.35
+            "amount": 27.31
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -6129,7 +6787,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 56.77
+            "amount": 56.64
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -6238,7 +6896,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 56.77
+            "amount": 56.64
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -6607,7 +7265,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 56.77
+            "amount": 56.64
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -7130,7 +7788,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 12.65
+            "amount": 12.67
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -7250,7 +7908,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 12.65
+            "amount": 12.67
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -7442,7 +8100,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.86
+            "amount": 20.85
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -8021,7 +8679,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.83
+            "amount": 27.82
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -8198,7 +8856,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.43
+            "amount": 19.44
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -8276,7 +8934,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.43
+            "amount": 19.44
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -8444,7 +9102,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.43
+            "amount": 19.44
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -9689,7 +10347,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 10.66
+            "amount": 10.67
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -9793,7 +10451,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 10.66
+            "amount": 10.67
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -10001,7 +10659,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 31.7
+            "amount": 31.65
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -10415,7 +11073,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 31.7
+            "amount": 31.65
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -11387,7 +12045,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 31.7
+            "amount": 31.65
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -12980,7 +13638,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.75
+            "amount": 23.74
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -13118,7 +13776,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.75
+            "amount": 23.74
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -13676,7 +14334,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.75
+            "amount": 23.74
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -14258,7 +14916,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.41
+            "amount": 20.37
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -14366,7 +15024,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.41
+            "amount": 20.37
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -14609,7 +15267,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.41
+            "amount": 20.37
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -15086,7 +15744,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.41
+            "amount": 19.4
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -15149,7 +15807,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.41
+            "amount": 19.4
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -15257,7 +15915,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.41
+            "amount": 19.4
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -16118,609 +16776,6 @@
       ]
     },
     {
-      "title": "And the Winner Is: Award Winning Fantasy, Science Fiction, & Horror from Tachyon",
-      "category": "books",
-      "url": "https://humblebundle.com/books/and-winner-is-award-winning-fantasy-science-fiction-horror-from-tachyon-books",
-      "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
-      "end_at": "2026-07-09T18:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $5 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 5.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 20.04
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Apes of Wrath",
-              "machine_name": "apesofwrath",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Central Station",
-              "machine_name": "centralstation",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The New Voices of Fantasy",
-              "machine_name": "thenewvoicesoffantasy",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt10",
-          "header": "Pay $10 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 10.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 20.04
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Portable Childhoods",
-              "machine_name": "portablechildhoods",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Bible Repairman",
-              "machine_name": "biblerepairman",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Essential Horror of Joe R. Lansdale",
-              "machine_name": "essentialhorrorofjoerlansdale",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Apes of Wrath",
-              "machine_name": "apesofwrath",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Central Station",
-              "machine_name": "centralstation",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The New Voices of Fantasy",
-              "machine_name": "thenewvoicesoffantasy",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt18",
-          "header": "Pay $18 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 18.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 20.04
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "After the Fall, Before the Fall, During the Fall",
-              "machine_name": "afterthefall_beforethefall_duringthefall",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Beyond the Rift",
-              "machine_name": "beyondtherift",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Burn",
-              "machine_name": "burn",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Dreams of Distant Shores",
-              "machine_name": "dreamsofdistantshores",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Emerald Circus",
-              "machine_name": "emeraldcircus",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "How to Fracture a Fairy Tale",
-              "machine_name": "howtofractureafairytale",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Reading the Bones",
-              "machine_name": "readingthebones",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Shambling Towards Hiroshima",
-              "machine_name": "shamblingtowardshiroshima",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Adventures of Mary Darling",
-              "machine_name": "adventuresofmarydarling",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Asylum of Dr. Caligari",
-              "machine_name": "asylumofdrcaligari",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Essential Patricia A. McKillip",
-              "machine_name": "essentialpatriciaamckillip",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Four Profound Weaves",
-              "machine_name": "fourprofoundweaves",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Freeze-Frame Revolution",
-              "machine_name": "freeze-framerevolution",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Very Best of F&SF 2",
-              "machine_name": "verybestoffandsf2",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Yesterday's Kin",
-              "machine_name": "yesterdayskin",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Portable Childhoods",
-              "machine_name": "portablechildhoods",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Bible Repairman",
-              "machine_name": "biblerepairman",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Essential Horror of Joe R. Lansdale",
-              "machine_name": "essentialhorrorofjoerlansdale",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Apes of Wrath",
-              "machine_name": "apesofwrath",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Central Station",
-              "machine_name": "centralstation",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The New Voices of Fantasy",
-              "machine_name": "thenewvoicesoffantasy",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Professional Developer Pathways Bundle",
       "category": "software",
       "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
@@ -16736,7 +16791,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.79
+            "amount": 27.84
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -16799,7 +16854,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.79
+            "amount": 27.84
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -16892,7 +16947,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.79
+            "amount": 27.84
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -17504,6 +17559,1450 @@
       ]
     },
     {
+      "title": "And the Winner Is: Award Winning Fantasy, Science Fiction, & Horror from Tachyon",
+      "category": "books",
+      "url": "https://humblebundle.com/books/and-winner-is-award-winning-fantasy-science-fiction-horror-from-tachyon-books",
+      "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
+      "end_at": "2026-07-09T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 20.01
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Apes of Wrath",
+              "machine_name": "apesofwrath",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Central Station",
+              "machine_name": "centralstation",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The New Voices of Fantasy",
+              "machine_name": "thenewvoicesoffantasy",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt10",
+          "header": "Pay $10 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 10.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 20.01
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Portable Childhoods",
+              "machine_name": "portablechildhoods",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Bible Repairman",
+              "machine_name": "biblerepairman",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Essential Horror of Joe R. Lansdale",
+              "machine_name": "essentialhorrorofjoerlansdale",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Apes of Wrath",
+              "machine_name": "apesofwrath",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Central Station",
+              "machine_name": "centralstation",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The New Voices of Fantasy",
+              "machine_name": "thenewvoicesoffantasy",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt18",
+          "header": "Pay $18 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 18.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 20.01
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "After the Fall, Before the Fall, During the Fall",
+              "machine_name": "afterthefall_beforethefall_duringthefall",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Beyond the Rift",
+              "machine_name": "beyondtherift",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Burn",
+              "machine_name": "burn",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Dreams of Distant Shores",
+              "machine_name": "dreamsofdistantshores",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Emerald Circus",
+              "machine_name": "emeraldcircus",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "How to Fracture a Fairy Tale",
+              "machine_name": "howtofractureafairytale",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Reading the Bones",
+              "machine_name": "readingthebones",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Shambling Towards Hiroshima",
+              "machine_name": "shamblingtowardshiroshima",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Adventures of Mary Darling",
+              "machine_name": "adventuresofmarydarling",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Asylum of Dr. Caligari",
+              "machine_name": "asylumofdrcaligari",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Essential Patricia A. McKillip",
+              "machine_name": "essentialpatriciaamckillip",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Four Profound Weaves",
+              "machine_name": "fourprofoundweaves",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Freeze-Frame Revolution",
+              "machine_name": "freeze-framerevolution",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Very Best of F&SF 2",
+              "machine_name": "verybestoffandsf2",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Yesterday's Kin",
+              "machine_name": "yesterdayskin",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Portable Childhoods",
+              "machine_name": "portablechildhoods",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Bible Repairman",
+              "machine_name": "biblerepairman",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Essential Horror of Joe R. Lansdale",
+              "machine_name": "essentialhorrorofjoerlansdale",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Apes of Wrath",
+              "machine_name": "apesofwrath",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Central Station",
+              "machine_name": "centralstation",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The New Voices of Fantasy",
+              "machine_name": "thenewvoicesoffantasy",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dungeon Defenders II Complete DLC Chest",
+      "category": "games",
+      "url": "https://humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
+      "machine_name": "dungeondefendersiicompletedlcchest_bundle",
+      "end_at": "2026-07-09T01:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 21.4
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Adventurer's Arsenal Pack",
+              "machine_name": "adventurersarsenalpack_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Burning Souls Pack",
+              "machine_name": "burningsoulspack_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "500 Gem Bundle",
+              "machine_name": "500gembundle_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "game": {
+                  "other-key": [
+                    "windows"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt12",
+          "header": "Pay $12 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 12.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 21.4
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Imperial Cache Pack",
+              "machine_name": "imperialcachepack_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 39.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Bundle of the Beast",
+              "machine_name": "bundleofthebeast_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 29.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Treasure Trove Pack",
+              "machine_name": "treasuretrovepack_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "1000 Gem Bundle",
+              "machine_name": "1000gembundle_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "game": {
+                  "other-key": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Adventurer's Arsenal Pack",
+              "machine_name": "adventurersarsenalpack_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Burning Souls Pack",
+              "machine_name": "burningsoulspack_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "500 Gem Bundle",
+              "machine_name": "500gembundle_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "game": {
+                  "other-key": [
+                    "windows"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt20",
+          "header": "Pay $20 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 20.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 21.4
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Golden Headless Horseman Pet",
+              "machine_name": "goldenheadlesshorsemanpet_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "game": {
+                  "other-key": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Celestial Vault Pack",
+              "machine_name": "celestialvaultpack_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 99.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Ethereal Trove Pack",
+              "machine_name": "etherealtrovepack_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 20.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 64.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Imperial Cache Pack",
+              "machine_name": "imperialcachepack_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 39.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Bundle of the Beast",
+              "machine_name": "bundleofthebeast_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 29.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Treasure Trove Pack",
+              "machine_name": "treasuretrovepack_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "1000 Gem Bundle",
+              "machine_name": "1000gembundle_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "game": {
+                  "other-key": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Adventurer's Arsenal Pack",
+              "machine_name": "adventurersarsenalpack_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Burning Souls Pack",
+              "machine_name": "burningsoulspack_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "500 Gem Bundle",
+              "machine_name": "500gembundle_dungeondefendersii",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "game": {
+                  "other-key": [
+                    "windows"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Upload VR Summer 2026",
+      "category": "games",
+      "url": "https://humblebundle.com/games/upload-vr-summer-2026",
+      "machine_name": "uploadvrsummer2026_bundle",
+      "end_at": "2026-07-09T01:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $10 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 10.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.52
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Among Us 3D: VR",
+              "machine_name": "amongus3d_vr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Zero Caliber VR",
+              "machine_name": "zerocalibervr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "mobile": {},
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt15",
+          "header": "Pay $15 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 15.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.52
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Tactical Assault VR",
+              "machine_name": "tacticalassaultvr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Ancient Dungeon",
+              "machine_name": "ancientdungeon",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Arizona Sunshine Remake",
+              "machine_name": "arizonasunshineremake",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 29.99
+              },
+              "platforms_and_oses": {
+                "mobile": {},
+                "game": {
+                  "steam": [
+                    "windows",
+                    "oculus-rift",
+                    "vive"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Among Us 3D: VR",
+              "machine_name": "amongus3d_vr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Zero Caliber VR",
+              "machine_name": "zerocalibervr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "mobile": {},
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt18",
+          "header": "Pay $18 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 18.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.52
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "VTOL VR",
+              "machine_name": "vtolvr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 29.99
+              },
+              "platforms_and_oses": {
+                "mobile": {},
+                "game": {
+                  "steam": [
+                    "windows",
+                    "oculus-rift",
+                    "vive"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Zero Caliber 2 Remastered",
+              "machine_name": "zerocaliber2remastered",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Metro Awakening",
+              "machine_name": "metroawakening",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 39.99
+              },
+              "platforms_and_oses": {
+                "mobile": {},
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Thief VR: Legacy of Shadow",
+              "machine_name": "thiefvr_legacyofshadow",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Tactical Assault VR",
+              "machine_name": "tacticalassaultvr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Ancient Dungeon",
+              "machine_name": "ancientdungeon",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Arizona Sunshine Remake",
+              "machine_name": "arizonasunshineremake",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 29.99
+              },
+              "platforms_and_oses": {
+                "mobile": {},
+                "game": {
+                  "steam": [
+                    "windows",
+                    "oculus-rift",
+                    "vive"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Among Us 3D: VR",
+              "machine_name": "amongus3d_vr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Zero Caliber VR",
+              "machine_name": "zerocalibervr",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "mobile": {},
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Premium Sci-Fi Design Training Bundle",
       "category": "software",
       "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
@@ -17519,7 +19018,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.92
+            "amount": 26.87
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -17567,7 +19066,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.92
+            "amount": 26.87
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -17690,7 +19189,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.92
+            "amount": 26.87
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -17934,847 +19433,6 @@
               "platforms_and_oses": {
                 "software": {
                   "other-key": []
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Upload VR Summer 2026",
-      "category": "games",
-      "url": "https://humblebundle.com/games/upload-vr-summer-2026",
-      "machine_name": "uploadvrsummer2026_bundle",
-      "end_at": "2026-07-09T01:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $10 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 10.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 19.51
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Among Us 3D: VR",
-              "machine_name": "amongus3d_vr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Zero Caliber VR",
-              "machine_name": "zerocalibervr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt15",
-          "header": "Pay $15 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 15.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 19.51
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Tactical Assault VR",
-              "machine_name": "tacticalassaultvr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Ancient Dungeon",
-              "machine_name": "ancientdungeon",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Arizona Sunshine Remake",
-              "machine_name": "arizonasunshineremake",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 29.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows",
-                    "oculus-rift",
-                    "vive"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Among Us 3D: VR",
-              "machine_name": "amongus3d_vr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Zero Caliber VR",
-              "machine_name": "zerocalibervr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt18",
-          "header": "Pay $18 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 18.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 19.51
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "VTOL VR",
-              "machine_name": "vtolvr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 29.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows",
-                    "oculus-rift",
-                    "vive"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Zero Caliber 2 Remastered",
-              "machine_name": "zerocaliber2remastered",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Metro Awakening",
-              "machine_name": "metroawakening",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 39.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Thief VR: Legacy of Shadow",
-              "machine_name": "thiefvr_legacyofshadow",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Tactical Assault VR",
-              "machine_name": "tacticalassaultvr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Ancient Dungeon",
-              "machine_name": "ancientdungeon",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Arizona Sunshine Remake",
-              "machine_name": "arizonasunshineremake",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 29.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows",
-                    "oculus-rift",
-                    "vive"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Among Us 3D: VR",
-              "machine_name": "amongus3d_vr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Zero Caliber VR",
-              "machine_name": "zerocalibervr",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "mobile": {},
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Dungeon Defenders II Complete DLC Chest",
-      "category": "games",
-      "url": "https://humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
-      "machine_name": "dungeondefendersiicompletedlcchest_bundle",
-      "end_at": "2026-07-09T01:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $5 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 5.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 21.42
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Adventurer's Arsenal Pack",
-              "machine_name": "adventurersarsenalpack_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Burning Souls Pack",
-              "machine_name": "burningsoulspack_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "500 Gem Bundle",
-              "machine_name": "500gembundle_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "game": {
-                  "other-key": [
-                    "windows"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt12",
-          "header": "Pay $12 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 12.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 21.42
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Imperial Cache Pack",
-              "machine_name": "imperialcachepack_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 39.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Bundle of the Beast",
-              "machine_name": "bundleofthebeast_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 29.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Treasure Trove Pack",
-              "machine_name": "treasuretrovepack_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "1000 Gem Bundle",
-              "machine_name": "1000gembundle_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "game": {
-                  "other-key": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Adventurer's Arsenal Pack",
-              "machine_name": "adventurersarsenalpack_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Burning Souls Pack",
-              "machine_name": "burningsoulspack_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "500 Gem Bundle",
-              "machine_name": "500gembundle_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "game": {
-                  "other-key": [
-                    "windows"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt20",
-          "header": "Pay $20 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 20.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 21.42
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Golden Headless Horseman Pet",
-              "machine_name": "goldenheadlesshorsemanpet_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "game": {
-                  "other-key": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Celestial Vault Pack",
-              "machine_name": "celestialvaultpack_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 99.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Ethereal Trove Pack",
-              "machine_name": "etherealtrovepack_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 64.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Imperial Cache Pack",
-              "machine_name": "imperialcachepack_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 39.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Bundle of the Beast",
-              "machine_name": "bundleofthebeast_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 29.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Treasure Trove Pack",
-              "machine_name": "treasuretrovepack_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "1000 Gem Bundle",
-              "machine_name": "1000gembundle_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "game": {
-                  "other-key": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Adventurer's Arsenal Pack",
-              "machine_name": "adventurersarsenalpack_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Burning Souls Pack",
-              "machine_name": "burningsoulspack_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "500 Gem Bundle",
-              "machine_name": "500gembundle_dungeondefendersii",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "game": {
-                  "other-key": [
-                    "windows"
-                  ]
                 }
               }
             }
@@ -20020,7 +20678,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.07
+            "amount": 19.04
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -20740,6 +21398,369 @@
       ]
     },
     {
+      "title": "Yuri in Luck: Waifus for Laifus",
+      "category": "games",
+      "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
+      "machine_name": "yuriinluckwaifusforlaifus_bundle",
+      "end_at": "2026-07-09T01:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 13.25
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Blackberry Honey",
+              "machine_name": "blackberryhoney",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 12.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Night Cascades",
+              "machine_name": "nightcascades",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Highway Blossoms",
+              "machine_name": "highwayblossoms",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 12.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Highway Blossoms: Next Exit DLC",
+              "machine_name": "highwayblossoms_nextexitdlc",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt12",
+          "header": "Pay $12 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 12.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 13.25
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Kindred Spirits on the Roof",
+              "machine_name": "kindredspiritsontheroof",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 34.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Lilycle Rainbow Stage!!!",
+              "machine_name": "lilyclerainbowstage",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Letters From a Rainy Day -Oceans and Lace-",
+              "machine_name": "lettersfromarainyday-oceansandlace",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 16.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "OshiRabu: Waifus Over Husbandos",
+              "machine_name": "oshirabu_waifusoverhusbandos",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Please Be Happy",
+              "machine_name": "pleasebehappy",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SeaBed",
+              "machine_name": "seabed",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Fatal Twelve",
+              "machine_name": "fataltwelve",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Blackberry Honey",
+              "machine_name": "blackberryhoney",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 12.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Night Cascades",
+              "machine_name": "nightcascades",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Highway Blossoms",
+              "machine_name": "highwayblossoms",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 12.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Highway Blossoms: Next Exit DLC",
+              "machine_name": "highwayblossoms_nextexitdlc",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Creature and Character Creation Bundle",
       "category": "software",
       "url": "https://humblebundle.com/software/creature-and-character-creation-bundle-software",
@@ -20755,7 +21776,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.57
+            "amount": 26.52
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -20848,7 +21869,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.57
+            "amount": 26.52
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -21016,7 +22037,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.57
+            "amount": 26.52
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -21388,374 +22409,11 @@
       ]
     },
     {
-      "title": "Yuri in Luck: Waifus for Laifus",
-      "category": "games",
-      "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
-      "machine_name": "yuriinluckwaifusforlaifus_bundle",
-      "end_at": "2026-07-09T01:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $5 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 5.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 13.24
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Blackberry Honey",
-              "machine_name": "blackberryhoney",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 12.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Night Cascades",
-              "machine_name": "nightcascades",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Highway Blossoms",
-              "machine_name": "highwayblossoms",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 12.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Highway Blossoms: Next Exit DLC",
-              "machine_name": "highwayblossoms_nextexitdlc",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt12",
-          "header": "Pay $12 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 12.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 13.24
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Kindred Spirits on the Roof",
-              "machine_name": "kindredspiritsontheroof",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 34.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Lilycle Rainbow Stage!!!",
-              "machine_name": "lilyclerainbowstage",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Letters From a Rainy Day -Oceans and Lace-",
-              "machine_name": "lettersfromarainyday-oceansandlace",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 16.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "OshiRabu: Waifus Over Husbandos",
-              "machine_name": "oshirabu_waifusoverhusbandos",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Please Be Happy",
-              "machine_name": "pleasebehappy",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SeaBed",
-              "machine_name": "seabed",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Fatal Twelve",
-              "machine_name": "fataltwelve",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Blackberry Honey",
-              "machine_name": "blackberryhoney",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 12.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Night Cascades",
-              "machine_name": "nightcascades",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Highway Blossoms",
-              "machine_name": "highwayblossoms",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 12.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Highway Blossoms: Next Exit DLC",
-              "machine_name": "highwayblossoms_nextexitdlc",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
       "category": "books",
       "url": "https://humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books",
       "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
-      "end_at": "2026-07-07T18:00:00",
+      "end_at": "2026-07-14T18:00:00",
       "tiers": [
         {
           "key": "initial",
@@ -21766,7 +22424,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.94
+            "amount": 19.92
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -21835,7 +22493,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.94
+            "amount": 19.92
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -21955,7 +22613,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.94
+            "amount": 19.92
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -22356,7 +23014,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.79
+            "amount": 22.78
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -22449,7 +23107,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.79
+            "amount": 22.78
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -22653,7 +23311,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.79
+            "amount": 22.78
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -23688,7 +24346,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.85
+            "amount": 32.86
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -23724,7 +24382,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.85
+            "amount": 32.86
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -23938,7 +24596,7 @@
       "category": "software",
       "url": "https://humblebundle.com/software/complete-unity-ai-bundle-software",
       "machine_name": "completeunityaibundle_softwarebundle",
-      "end_at": "2026-07-07T18:00:00",
+      "end_at": "2026-07-14T18:00:00",
       "tiers": [
         {
           "key": "initial",
@@ -23949,7 +24607,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.28
+            "amount": 27.26
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -23982,7 +24640,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.28
+            "amount": 27.26
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -24030,7 +24688,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.28
+            "amount": 27.26
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -24432,7 +25090,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.53
+            "amount": 27.5
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -24480,7 +25138,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.53
+            "amount": 27.5
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -24558,7 +25216,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.53
+            "amount": 27.5
           },
           "is_initial_tier": false,
           "is_bta": false,
