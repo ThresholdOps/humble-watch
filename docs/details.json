@@ -2,6 +2,774 @@
   "schema": "humble-watch-details-v1",
   "items": [
     {
+      "title": "Linux: All the Things by O'Reilly",
+      "category": "books",
+      "url": "https://humblebundle.com/books/linux-all-things-oreilly-books",
+      "machine_name": "linuxallthingsoreilly_bookbundle",
+      "end_at": "2026-07-29T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 24.01
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Linux Observability with BPF",
+              "machine_name": "linuxobservabilitywithbpf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub",
+                    "pdf"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Git for Teams",
+              "machine_name": "gitforteams",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Git Pocket Guide",
+              "machine_name": "gitpocketguide",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Linux System Programming",
+              "machine_name": "linuxsystemprogramming",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Understanding the Linux Kernel",
+              "machine_name": "understandingthelinuxkernel",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub",
+                    "pdf"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt25",
+          "header": "Pay $25 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 25.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 24.01
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Learning Kali Linux",
+              "machine_name": "learningkalilinux",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Linux Pocket Guide",
+              "machine_name": "linuxpocketguide",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Learning Git",
+              "machine_name": "learninggit",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Practical Linux System Administration",
+              "machine_name": "practicallinuxsystemadministration",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Version Control with Git",
+              "machine_name": "versioncontrolwithgit",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Kubernetes: Up and Running",
+              "machine_name": "kubernetes_upandrunning",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Network Programmability and Automation",
+              "machine_name": "networkprogrammabilityandautomation",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Learning Modern Linux",
+              "machine_name": "learningmodernlinux",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Efficient Linux at the Command Line",
+              "machine_name": "efficientlinuxatthecommandline",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Linux Cookbook",
+              "machine_name": "linuxcookbook",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Linux Observability with BPF",
+              "machine_name": "linuxobservabilitywithbpf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub",
+                    "pdf"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Git for Teams",
+              "machine_name": "gitforteams",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Git Pocket Guide",
+              "machine_name": "gitpocketguide",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Linux System Programming",
+              "machine_name": "linuxsystemprogramming",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Understanding the Linux Kernel",
+              "machine_name": "understandingthelinuxkernel",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub",
+                    "pdf"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Complete Claude AI for Blender Bundle",
+      "category": "software",
+      "url": "https://humblebundle.com/software/complete-claude-ai-for-blender-bundle-software",
+      "machine_name": "completeclaudeaiforblenderbundle_softwarebundle",
+      "end_at": "2026-07-29T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 31.25
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Master Blender: Unleashing the Power of 3D Modeling",
+              "machine_name": "masterblender_unleashingthepowerof3dmodeling",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt15",
+          "header": "Pay $15 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 15.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 31.25
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Mastering Realistic Portraits: Advanced Human Head Sculpting",
+              "machine_name": "masteringrealisticportraits_advancedhumanheadsculpting",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Master Blender: Unleashing the Power of 3D Modeling",
+              "machine_name": "masterblender_unleashingthepowerof3dmodeling",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt30",
+          "header": "Pay $30 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 30.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 31.25
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "AI Box Modeling with Blender in Claude Code",
+              "machine_name": "aiboxmodelingwithblenderinclaudecodefirst-timeexclusivehumblebundl",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Hard-Surface Modeling with Blender in Claude Code ",
+              "machine_name": "hard-surfacemodelingwithblenderinclaudecodefirst-timeexclusivehumb",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Generate Asset Libraries with Blender in Claude Code ",
+              "machine_name": "generateassetlibrarieswithblenderinclaudecodefirst-timeexclusivehu",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Digital Sculpting Basics with Blender in Claude Code ",
+              "machine_name": "digitalsculptingbasicswithblenderinclaudecodefirst-timeexclusivehu",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Low-Poly Stylization with Blender in Claude Code ",
+              "machine_name": "low-polystylizationwithblenderinclaudecodefirst-timeexclusivehumbl",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Environment Modeling with Blender using Claude Code ",
+              "machine_name": "environmentmodelingwithblenderusingclaudecodefirst-timeexclusivehu",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Vehicle Modeling Principles with Blender in Claude Code",
+              "machine_name": "vehiclemodelingprincipleswithblenderinclaudecodefirst-timeexclusiv",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Boolean & Non-Destructive Modeling with Blender in Claude Code ",
+              "machine_name": "booleanandnon-destructivemodelingwithblenderinclaudecodefirst-time",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Introduction to 3D Modeling with Blender and Claude Code ",
+              "machine_name": "introductionto3dmodelingwithblenderandclaudecodefirst-timeexclusiv",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "PBR Material Authoring with Blender in Claude Code ",
+              "machine_name": "pbrmaterialauthoringwithblenderinclaudecodefirst-timeexclusivehumb",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Rigging and Animation with Blender in Claude Code ",
+              "machine_name": "riggingandanimationwithblenderinclaudecodefirst-timeexclusivehumbl",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Primitive Modeling Fundamentals in Claude Code ",
+              "machine_name": "primitivemodelingfundamentalsinclaudecodefirst-timeexclusivehumble",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender Scene Building and Rendering with Claude Code ",
+              "machine_name": "blenderscenebuildingandrenderingwithclaudecodefirst-timeexclusiveh",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Illuminating Mastery: Advanced Lighting Techniques",
+              "machine_name": "illuminatingmastery_advancedlightingtechniques",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Unveil the Perfect Glow: Advanced Portrait Lighting",
+              "machine_name": "unveiltheperfectglow_advancedportraitlighting",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Mastering Realistic Portraits: Advanced Human Head Sculpting",
+              "machine_name": "masteringrealisticportraits_advancedhumanheadsculpting",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Master Blender: Unleashing the Power of 3D Modeling",
+              "machine_name": "masterblender_unleashingthepowerof3dmodeling",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "The Tanith Lee Collection by DAW Books",
       "category": "books",
       "url": "https://humblebundle.com/books/tanith-lee-collection-daw-books-books",
@@ -17,7 +785,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.54
+            "amount": 20.66
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -86,7 +854,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.54
+            "amount": 20.66
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -206,7 +974,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.54
+            "amount": 20.66
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -675,7 +1443,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.77
+            "amount": 22.54
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -723,7 +1491,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.77
+            "amount": 22.54
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -861,7 +1629,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.77
+            "amount": 22.54
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -2433,7 +3201,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.29
+            "amount": 20.28
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -2507,7 +3275,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.29
+            "amount": 20.28
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -2693,7 +3461,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.29
+            "amount": 20.28
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -3111,7 +3879,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.48
+            "amount": 22.55
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -3219,7 +3987,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.48
+            "amount": 22.55
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -3453,7 +4221,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.48
+            "amount": 22.55
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -4650,7 +5418,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.33
+            "amount": 22.25
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -4685,7 +5453,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.33
+            "amount": 22.25
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -4771,7 +5539,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.33
+            "amount": 22.25
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5172,7 +5940,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 14.08
+            "amount": 14.14
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -5327,7 +6095,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 14.08
+            "amount": 14.14
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5551,7 +6319,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.97
+            "amount": 26.88
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -5599,7 +6367,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.97
+            "amount": 26.88
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5677,7 +6445,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.97
+            "amount": 26.88
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5854,7 +6622,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.31
+            "amount": 27.39
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -5902,7 +6670,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.31
+            "amount": 27.39
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -6010,7 +6778,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.31
+            "amount": 27.39
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -6787,7 +7555,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 56.64
+            "amount": 56.73
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -6896,7 +7664,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 56.64
+            "amount": 56.73
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -7265,7 +8033,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 56.64
+            "amount": 56.73
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -7773,318 +8541,6 @@
       ]
     },
     {
-      "title": "Let's Go Gambling!...aw dang it.",
-      "category": "games",
-      "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
-      "machine_name": "letsgogamblingawdangit_bundle",
-      "end_at": "2026-07-23T04:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $7 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 7.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 12.67
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "This Ain't Even Poker, Ya Joker",
-              "machine_name": "thisaintevenpokeryajoker",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 5.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Dice of Kalma",
-              "machine_name": "diceofkalma",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 4.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Explosive Odds",
-              "machine_name": "explosiveodds",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 4.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Treasure Tiger",
-              "machine_name": "treasuretiger",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 4.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SuperTaxCity",
-              "machine_name": "supertaxcity",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt12",
-          "header": "Pay $12 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 12.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 12.67
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Dicealot",
-              "machine_name": "dicealtot",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Pip My Dice",
-              "machine_name": "pipmydice",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 10.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Dicey Dungeons",
-              "machine_name": "diceydungeons",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "This Ain't Even Poker, Ya Joker",
-              "machine_name": "thisaintevenpokeryajoker",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 5.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Dice of Kalma",
-              "machine_name": "diceofkalma",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 4.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Explosive Odds",
-              "machine_name": "explosiveodds",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 4.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Treasure Tiger",
-              "machine_name": "treasuretiger",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 4.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SuperTaxCity",
-              "machine_name": "supertaxcity",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Craft Your Cosplay Dreams",
       "category": "books",
       "url": "https://humblebundle.com/books/craft-your-cosplay-dreams-books",
@@ -8100,7 +8556,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.85
+            "amount": 20.82
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -8664,6 +9120,318 @@
       ]
     },
     {
+      "title": "Let's Go Gambling!...aw dang it.",
+      "category": "games",
+      "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
+      "machine_name": "letsgogamblingawdangit_bundle",
+      "end_at": "2026-07-23T04:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $7 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 7.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 12.67
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "This Ain't Even Poker, Ya Joker",
+              "machine_name": "thisaintevenpokeryajoker",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 7.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 5.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Dice of Kalma",
+              "machine_name": "diceofkalma",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 7.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 4.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Explosive Odds",
+              "machine_name": "explosiveodds",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 7.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 4.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Treasure Tiger",
+              "machine_name": "treasuretiger",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 7.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 4.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SuperTaxCity",
+              "machine_name": "supertaxcity",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 7.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt12",
+          "header": "Pay $12 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 12.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 12.67
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Dicealot",
+              "machine_name": "dicealtot",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Pip My Dice",
+              "machine_name": "pipmydice",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 10.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Dicey Dungeons",
+              "machine_name": "diceydungeons",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 12.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "This Ain't Even Poker, Ya Joker",
+              "machine_name": "thisaintevenpokeryajoker",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 7.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 5.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Dice of Kalma",
+              "machine_name": "diceofkalma",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 7.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 4.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Explosive Odds",
+              "machine_name": "explosiveodds",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 7.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 4.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Treasure Tiger",
+              "machine_name": "treasuretiger",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 7.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 4.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SuperTaxCity",
+              "machine_name": "supertaxcity",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 7.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
       "category": "software",
       "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
@@ -8679,7 +9447,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.82
+            "amount": 27.76
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -8856,7 +9624,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.44
+            "amount": 19.43
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -8934,7 +9702,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.44
+            "amount": 19.43
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -9102,7 +9870,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.44
+            "amount": 19.43
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -9568,7 +10336,7 @@
       "category": "games",
       "url": "https://humblebundle.com/games/arc-system-works-evo-collection",
       "machine_name": "arcsystemworksevocollection_bundle",
-      "end_at": "2026-07-18T01:00:00",
+      "end_at": "2026-07-18T04:00:00",
       "tiers": [
         {
           "key": "initial",
@@ -9579,7 +10347,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.38
+            "amount": 20.37
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -9772,7 +10540,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.38
+            "amount": 20.37
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -10025,7 +10793,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.38
+            "amount": 20.37
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -10324,318 +11092,6 @@
               "platforms_and_oses": {
                 "game": {
                   "steam": []
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Going Rogue: A Lite Heavy Bundle",
-      "category": "games",
-      "url": "https://humblebundle.com/games/going-rogue-lite-heavy-bundle",
-      "machine_name": "goingrogueliteheavybundle_bundle",
-      "end_at": "2026-07-16T01:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $5 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 5.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 10.67
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "None Shall Intrude",
-              "machine_name": "noneshallintrude",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Rogue Legacy",
-              "machine_name": "roguelegacy",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "download": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ],
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "UnderMine",
-              "machine_name": "undermine",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Lynked: Banner of the Spark Coupon for Supporter Pack: Battle Ready DLC 40% Off",
-              "machine_name": "lynked_bannerofthesparkcouponforsupporterbattlepackdlc40off",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt10",
-          "header": "Pay $10 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 10.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 10.67
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Brutal Orchestra",
-              "machine_name": "brutalorchestra",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Moros Protocol",
-              "machine_name": "morosprotocol",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Nightmare Reaper",
-              "machine_name": "nightmarereaper",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Home Behind 2",
-              "machine_name": "homebehind2",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Lynked: Banner of the Spark",
-              "machine_name": "lynked_bannerofthespark",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "None Shall Intrude",
-              "machine_name": "noneshallintrude",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Rogue Legacy",
-              "machine_name": "roguelegacy",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "download": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ],
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "UnderMine",
-              "machine_name": "undermine",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Lynked: Banner of the Spark Coupon for Supporter Pack: Battle Ready DLC 40% Off",
-              "machine_name": "lynked_bannerofthesparkcouponforsupporterbattlepackdlc40off",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
                 }
               }
             }
@@ -13623,6 +14079,318 @@
       ]
     },
     {
+      "title": "Going Rogue: A Lite Heavy Bundle",
+      "category": "games",
+      "url": "https://humblebundle.com/games/going-rogue-lite-heavy-bundle",
+      "machine_name": "goingrogueliteheavybundle_bundle",
+      "end_at": "2026-07-16T01:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 10.68
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "None Shall Intrude",
+              "machine_name": "noneshallintrude",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Rogue Legacy",
+              "machine_name": "roguelegacy",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "download": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ],
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "UnderMine",
+              "machine_name": "undermine",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Lynked: Banner of the Spark Coupon for Supporter Pack: Battle Ready DLC 40% Off",
+              "machine_name": "lynked_bannerofthesparkcouponforsupporterbattlepackdlc40off",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt10",
+          "header": "Pay $10 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 10.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 10.68
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Brutal Orchestra",
+              "machine_name": "brutalorchestra",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Moros Protocol",
+              "machine_name": "morosprotocol",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Nightmare Reaper",
+              "machine_name": "nightmarereaper",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Home Behind 2",
+              "machine_name": "homebehind2",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Lynked: Banner of the Spark",
+              "machine_name": "lynked_bannerofthespark",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "None Shall Intrude",
+              "machine_name": "noneshallintrude",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Rogue Legacy",
+              "machine_name": "roguelegacy",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "download": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ],
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "UnderMine",
+              "machine_name": "undermine",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Lynked: Banner of the Spark Coupon for Supporter Pack: Battle Ready DLC 40% Off",
+              "machine_name": "lynked_bannerofthesparkcouponforsupporterbattlepackdlc40off",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "LIFETIME ACCESS CREATOR",
       "category": "software",
       "url": "https://humblebundle.com/software/lifetime-access-creator-software",
@@ -13638,7 +14406,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.74
+            "amount": 23.77
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -13776,7 +14544,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.74
+            "amount": 23.77
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -14334,7 +15102,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.74
+            "amount": 23.77
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -14916,7 +15684,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.37
+            "amount": 20.39
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -15024,7 +15792,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.37
+            "amount": 20.39
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -15267,7 +16035,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.37
+            "amount": 20.39
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -16776,6 +17544,609 @@
       ]
     },
     {
+      "title": "And the Winner Is: Award Winning Fantasy, Science Fiction, & Horror from Tachyon",
+      "category": "books",
+      "url": "https://humblebundle.com/books/and-winner-is-award-winning-fantasy-science-fiction-horror-from-tachyon-books",
+      "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
+      "end_at": "2026-07-09T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.95
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Apes of Wrath",
+              "machine_name": "apesofwrath",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Central Station",
+              "machine_name": "centralstation",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The New Voices of Fantasy",
+              "machine_name": "thenewvoicesoffantasy",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt10",
+          "header": "Pay $10 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 10.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.95
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Portable Childhoods",
+              "machine_name": "portablechildhoods",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Bible Repairman",
+              "machine_name": "biblerepairman",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Essential Horror of Joe R. Lansdale",
+              "machine_name": "essentialhorrorofjoerlansdale",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Apes of Wrath",
+              "machine_name": "apesofwrath",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Central Station",
+              "machine_name": "centralstation",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The New Voices of Fantasy",
+              "machine_name": "thenewvoicesoffantasy",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt18",
+          "header": "Pay $18 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 18.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.95
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "After the Fall, Before the Fall, During the Fall",
+              "machine_name": "afterthefall_beforethefall_duringthefall",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Beyond the Rift",
+              "machine_name": "beyondtherift",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Burn",
+              "machine_name": "burn",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Dreams of Distant Shores",
+              "machine_name": "dreamsofdistantshores",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Emerald Circus",
+              "machine_name": "emeraldcircus",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "How to Fracture a Fairy Tale",
+              "machine_name": "howtofractureafairytale",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Reading the Bones",
+              "machine_name": "readingthebones",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Shambling Towards Hiroshima",
+              "machine_name": "shamblingtowardshiroshima",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Adventures of Mary Darling",
+              "machine_name": "adventuresofmarydarling",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Asylum of Dr. Caligari",
+              "machine_name": "asylumofdrcaligari",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Essential Patricia A. McKillip",
+              "machine_name": "essentialpatriciaamckillip",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Four Profound Weaves",
+              "machine_name": "fourprofoundweaves",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Freeze-Frame Revolution",
+              "machine_name": "freeze-framerevolution",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Very Best of F&SF 2",
+              "machine_name": "verybestoffandsf2",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Yesterday's Kin",
+              "machine_name": "yesterdayskin",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Portable Childhoods",
+              "machine_name": "portablechildhoods",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Bible Repairman",
+              "machine_name": "biblerepairman",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Essential Horror of Joe R. Lansdale",
+              "machine_name": "essentialhorrorofjoerlansdale",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Apes of Wrath",
+              "machine_name": "apesofwrath",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Central Station",
+              "machine_name": "centralstation",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The New Voices of Fantasy",
+              "machine_name": "thenewvoicesoffantasy",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Professional Developer Pathways Bundle",
       "category": "software",
       "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
@@ -16791,7 +18162,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.84
+            "amount": 27.8
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -16854,7 +18225,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.84
+            "amount": 27.8
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -16947,7 +18318,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.84
+            "amount": 27.8
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -17559,609 +18930,6 @@
       ]
     },
     {
-      "title": "And the Winner Is: Award Winning Fantasy, Science Fiction, & Horror from Tachyon",
-      "category": "books",
-      "url": "https://humblebundle.com/books/and-winner-is-award-winning-fantasy-science-fiction-horror-from-tachyon-books",
-      "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
-      "end_at": "2026-07-09T18:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $5 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 5.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 20.01
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Apes of Wrath",
-              "machine_name": "apesofwrath",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Central Station",
-              "machine_name": "centralstation",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The New Voices of Fantasy",
-              "machine_name": "thenewvoicesoffantasy",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt10",
-          "header": "Pay $10 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 10.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 20.01
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Portable Childhoods",
-              "machine_name": "portablechildhoods",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Bible Repairman",
-              "machine_name": "biblerepairman",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Essential Horror of Joe R. Lansdale",
-              "machine_name": "essentialhorrorofjoerlansdale",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Apes of Wrath",
-              "machine_name": "apesofwrath",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Central Station",
-              "machine_name": "centralstation",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The New Voices of Fantasy",
-              "machine_name": "thenewvoicesoffantasy",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt18",
-          "header": "Pay $18 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 18.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 20.01
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "After the Fall, Before the Fall, During the Fall",
-              "machine_name": "afterthefall_beforethefall_duringthefall",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Beyond the Rift",
-              "machine_name": "beyondtherift",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Burn",
-              "machine_name": "burn",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Dreams of Distant Shores",
-              "machine_name": "dreamsofdistantshores",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Emerald Circus",
-              "machine_name": "emeraldcircus",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "How to Fracture a Fairy Tale",
-              "machine_name": "howtofractureafairytale",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Reading the Bones",
-              "machine_name": "readingthebones",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Shambling Towards Hiroshima",
-              "machine_name": "shamblingtowardshiroshima",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Adventures of Mary Darling",
-              "machine_name": "adventuresofmarydarling",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Asylum of Dr. Caligari",
-              "machine_name": "asylumofdrcaligari",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Essential Patricia A. McKillip",
-              "machine_name": "essentialpatriciaamckillip",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Four Profound Weaves",
-              "machine_name": "fourprofoundweaves",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Freeze-Frame Revolution",
-              "machine_name": "freeze-framerevolution",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Very Best of F&SF 2",
-              "machine_name": "verybestoffandsf2",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Yesterday's Kin",
-              "machine_name": "yesterdayskin",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Portable Childhoods",
-              "machine_name": "portablechildhoods",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Bible Repairman",
-              "machine_name": "biblerepairman",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Essential Horror of Joe R. Lansdale",
-              "machine_name": "essentialhorrorofjoerlansdale",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Apes of Wrath",
-              "machine_name": "apesofwrath",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Central Station",
-              "machine_name": "centralstation",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The New Voices of Fantasy",
-              "machine_name": "thenewvoicesoffantasy",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Dungeon Defenders II Complete DLC Chest",
       "category": "games",
       "url": "https://humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
@@ -18177,7 +18945,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 21.4
+            "amount": 21.36
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -18252,7 +19020,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 21.4
+            "amount": 21.36
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -18404,7 +19172,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 21.4
+            "amount": 21.36
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -18611,7 +19379,7 @@
       "category": "games",
       "url": "https://humblebundle.com/games/upload-vr-summer-2026",
       "machine_name": "uploadvrsummer2026_bundle",
-      "end_at": "2026-07-09T01:00:00",
+      "end_at": "2026-07-09T04:00:00",
       "tiers": [
         {
           "key": "initial",
@@ -18622,7 +19390,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.52
+            "amount": 19.49
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -18681,7 +19449,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.52
+            "amount": 19.49
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -18803,7 +19571,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.52
+            "amount": 19.49
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -19007,7 +19775,7 @@
       "category": "software",
       "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
       "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
-      "end_at": "2026-07-08T18:00:00",
+      "end_at": "2026-07-15T18:00:00",
       "tiers": [
         {
           "key": "initial",
@@ -19018,7 +19786,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.87
+            "amount": 26.82
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -19066,7 +19834,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.87
+            "amount": 26.82
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -19189,7 +19957,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.87
+            "amount": 26.82
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -19456,7 +20224,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.97
+            "amount": 32.96
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -19512,7 +20280,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.97
+            "amount": 32.96
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -19701,7 +20469,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.97
+            "amount": 32.96
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -20678,7 +21446,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.04
+            "amount": 19.05
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -21020,7 +21788,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 33.01
+            "amount": 33.02
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -21083,7 +21851,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 33.01
+            "amount": 33.02
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -21206,7 +21974,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 33.01
+            "amount": 33.02
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -21413,7 +22181,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 13.25
+            "amount": 13.22
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -21517,7 +22285,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 13.25
+            "amount": 13.22
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -21776,7 +22544,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.52
+            "amount": 26.51
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -21869,7 +22637,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.52
+            "amount": 26.51
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -22037,7 +22805,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.52
+            "amount": 26.51
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -24607,7 +25375,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.26
+            "amount": 27.23
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -24640,7 +25408,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.26
+            "amount": 27.23
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -24688,7 +25456,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.26
+            "amount": 27.23
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -25090,7 +25858,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.5
+            "amount": 27.47
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -25138,7 +25906,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.5
+            "amount": 27.47
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -25216,7 +25984,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.5
+            "amount": 27.47
           },
           "is_initial_tier": false,
           "is_bta": false,

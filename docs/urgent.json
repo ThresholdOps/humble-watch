@@ -1,36 +1,6 @@
 {
-  "generated_at": "2026-07-07T20:09:35Z",
+  "generated_at": "2026-07-08T19:50:15Z",
   "expires_today": [
-    {
-      "category": "software",
-      "title": "Premium Sci-Fi Design Training Bundle",
-      "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
-      "description": "Master modern staples of game development",
-      "long_description": "Curious about game design? Then you need the Premium Sci-Fi Design Training Bundle by Learn Squared! Go from game lover to developer when you study under the best—learn how to bring your artistic side into the digital world with \u003cem\u003eConcepting in ZBrush\u003c/em\u003e, jump into your own vessel of the stars with \u003cem\u003eStarship Design\u003c/em\u003e, create original protagonists with \u003cem\u003eFuturistic Character Design\u003c/em\u003e, and more. Get the expert instruction and knowledge you seek, and help support Girls Who Code with your purchase! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys Expire. Please redeem before July 7th, 2027. \u003c/span\u003e",
-      "start_at": "2026-06-17T18:00:00",
-      "end_at": "2026-07-08T18:00:00",
-      "days_left": 0.91,
-      "hours_left": 21.8,
-      "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
-      "bundles_sold": 637,
-      "tile_stamp": "software"
-    }
-  ],
-  "expires_tomorrow": [
-    {
-      "category": "software",
-      "title": "Professional Developer Pathways Bundle",
-      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
-      "description": "Build modern developer skills",
-      "long_description": "Learn practical programming, cloud, and web development skills with the Professional Developer Pathways Bundle. Build real projects with Python, JavaScript, Rust, C++, C#, React, Next.js, Django, Flask, and more while exploring Git \u0026 GitHub workflows, SQL databases, AWS and Azure developer skills, and modern AI-powered coding workflows with Claude Code. Pay what you want for a massive software development bundle from Zenva and support Alzheimer’s Research UK while building practical skills for today’s rapidly evolving developer landscape.",
-      "start_at": "2026-06-18T18:00:00",
-      "end_at": "2026-07-09T18:00:00",
-      "days_left": 1.91,
-      "hours_left": 45.8,
-      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
-      "bundles_sold": 972,
-      "tile_stamp": "software"
-    },
     {
       "category": "books",
       "title": "And the Winner Is: Award Winning Fantasy, Science Fiction, \u0026 Horror from Tachyon",
@@ -39,11 +9,25 @@
       "long_description": "Here at Humble, we only want to give you the best of the best, and for our more discerning readers we’ve crafted a bundle of sci-fi, fantasy, and horror ebooks from Tachyon that aren’t just great reads, but award-winning modern classics! Dive into tales of technology and terror from genre-blending master Peter Watts in his short story collection \u003cem\u003eBeyond the Rift\u003c/em\u003e! Wartime history and B-movie schlock combine in James Morrow’s World War II kaiju extravaganza \u003cem\u003eShambling Towards Hiroshima\u003c/em\u003e! An utterly unique voice takes on worlds beyond our own in Ellen Klages’ haunting short story collection \u003c/em\u003ePortable Childhoods\u003c/em\u003e! There is so much more to discover in this collection of fiction from some of today’s most daring authors, so grab these books while you can at the price of your choice, and support Doctors Without Borders with your purchase!",
       "start_at": "2026-06-18T18:00:00",
       "end_at": "2026-07-09T18:00:00",
-      "days_left": 1.91,
-      "hours_left": 45.8,
+      "days_left": 0.92,
+      "hours_left": 22.2,
       "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
-      "bundles_sold": 3538,
+      "bundles_sold": 3939,
       "tile_stamp": "books"
+    },
+    {
+      "category": "software",
+      "title": "Professional Developer Pathways Bundle",
+      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
+      "description": "Build modern developer skills",
+      "long_description": "Learn practical programming, cloud, and web development skills with the Professional Developer Pathways Bundle. Build real projects with Python, JavaScript, Rust, C++, C#, React, Next.js, Django, Flask, and more while exploring Git \u0026 GitHub workflows, SQL databases, AWS and Azure developer skills, and modern AI-powered coding workflows with Claude Code. Pay what you want for a massive software development bundle from Zenva and support Alzheimer’s Research UK while building practical skills for today’s rapidly evolving developer landscape.",
+      "start_at": "2026-06-18T18:00:00",
+      "end_at": "2026-07-09T18:00:00",
+      "days_left": 0.92,
+      "hours_left": 22.2,
+      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
+      "bundles_sold": 1053,
+      "tile_stamp": "software"
     },
     {
       "category": "games",
@@ -53,10 +37,10 @@
       "long_description": "Are you ready to join the fight for Etheria? If you’re enjoying the free-to-play \u003cem\u003eDungeon Defenders II\u003c/em\u003e and want to level up your game, we’ve got all of the DLC in one bundle at a great discount! Take to the stars with the Celestial Vault Pack, bask in the eldritch glow of the Ethereal Trove Pack, equip your heroes with the Adventurer’s Arsenal Pack, and more! This bundle even includes a Golden Headless Horseman Premium Pet that will plague your enemies with tormented thoughts! Grab this bundle while you can to level up your forces and save your lands from evil, pay whatever price you want, and support coral reef ecosystem nonprofit Coral Guardian with your purchase!\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before July 8th, 2027. \u003c/span\u003e",
       "start_at": "2026-06-17T18:00:00",
       "end_at": "2026-07-09T01:00:00",
-      "days_left": 1.2,
-      "hours_left": 28.8,
+      "days_left": 0.22,
+      "hours_left": 5.2,
       "machine_name": "dungeondefendersiicompletedlcchest_bundle",
-      "bundles_sold": 3173,
+      "bundles_sold": 3445,
       "tile_stamp": "games"
     },
     {
@@ -66,11 +50,11 @@
       "description": "VR—The next frontier of fun",
       "long_description": "\u003cdiv\u003e\u003ciframe width=\"400\" height=\"315\" src=\"https://www.youtube.com/embed/IesuwbesXLc?si=nJCeXuG1nxgr542o\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen\u003e\u003c/iframe\u003e\u003c/div\u003eFreshen up your VR collection with an epic bundle of titles perfect for any platform. Jump into the cockpit of a wide variety of aircraft in \u003cem\u003eVTOL VR\u003c/em\u003e, a near-futuristic combat flight game built to get your heart pumping! Brave \u003cem\u003eMetro Awakening\u003c/em\u003e, a story-driven VR adventure that blends exploration and FPS gameplay to deliver a completely immersive experience. Or get a lil’ strange with \u003cem\u003eAmong Us 3D\u003c/em\u003e, a new twist on the original game’s formula that drops you into chaos! Step out of reality and into a world of savings—plus, your purchase helps support Kiss the Ground! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before July 8th, 2027. \u003c/span\u003e",
       "start_at": "2026-06-17T18:00:00",
-      "end_at": "2026-07-09T01:00:00",
-      "days_left": 1.2,
-      "hours_left": 28.8,
+      "end_at": "2026-07-09T04:00:00",
+      "days_left": 0.34,
+      "hours_left": 8.2,
       "machine_name": "uploadvrsummer2026_bundle",
-      "bundles_sold": 25818,
+      "bundles_sold": 28081,
       "tile_stamp": "games"
     },
     {
@@ -81,10 +65,10 @@
       "long_description": "\u003ca style=\"color: #ef9741;\"\u003e\u003cstrong\u003eThe content in this bundle is intended for mature audiences.\u003c/strong\u003e\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eFind love, companionship, and maybe a little romance with the Yuri in Luck: Waifus for Laifus Bundle—a colorful collection of LGBTQ+-themed yuri titles! Play “Yuri Cupid” in \u003cem\u003eKindred Spirits on the Roof\u003c/em\u003e, a slice-of-life tale of love, loss, lust, and friendship. Lead a romantic cat-and-mouse game with a supernatural spin across a gorgeous watercolor-style backdrop in \u003cem\u003eOshiRabu: Waifus Over Husbandos\u003c/em\u003e. Or lose yourself in \u003cem\u003eSeaBed\u003c/em\u003e, a deep psychological mystery visual novel told through the perspectives of three unique characters. Plus, your purchase helps support our friends at Dames 4 Games.\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before July 1st, 2027. \u003c/span\u003e",
       "start_at": "2026-06-10T18:00:00",
       "end_at": "2026-07-09T01:00:00",
-      "days_left": 1.2,
-      "hours_left": 28.8,
+      "days_left": 0.22,
+      "hours_left": 5.2,
       "machine_name": "yuriinluckwaifusforlaifus_bundle",
-      "bundles_sold": 23764,
+      "bundles_sold": 24978,
       "tile_stamp": "games"
     },
     {
@@ -95,27 +79,57 @@
       "long_description": "Your new career in game development is only a click away with The 2026 Learn Unity Game Development Bundle! No prior knowledge is needed for this curated collection of lessons from GameDev.tv—just come prepared with a curious mind and a passion for gaming. Get started today and create your own RPG, 2D adventure, and more with courses like \u003cem\u003eUnity Turn Based Strategy Course\u003c/em\u003e and \u003cem\u003eUnity Real Time Strategy Course\u003c/em\u003e. Get the expert instruction you need from pros in the field, and help support Trees, Water \u0026 People with your purchase! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. All titles should be redeemed before June 25th, 2027. \u003c/span\u003e",
       "start_at": "2026-06-04T18:00:00",
       "end_at": "2026-07-09T18:00:00",
-      "days_left": 1.91,
-      "hours_left": 45.8,
+      "days_left": 0.92,
+      "hours_left": 22.2,
       "machine_name": "2026learnunitygamedevelopmentbundle_softwarebundle",
-      "bundles_sold": 1340,
+      "bundles_sold": 1383,
       "tile_stamp": "software"
+    }
+  ],
+  "expires_tomorrow": [
+    {
+      "category": "books",
+      "title": "Robyn Carr's Virgin River",
+      "url": "https://humblebundle.com/books/robyn-carrs-virgin-river-books",
+      "description": "Welcome to Virgin River",
+      "long_description": "Enter a quiet mountain town where things are a lot more complicated than they seem on the surface with this 21-ebook bundle of Robyn Carr’s bestselling \u003cem\u003eVirgin River\u003c/em\u003e—the series that inspired the hit Netflix show! Meet a recently widowed nurse as she attempts to fit in with the residents of the remote California town while also caring for an abandoned infant in the very first novel \u003cem\u003eVirgin River\u003c/em\u003e. Follow along as a former Marine saves a woman on the run with her young child in \u003cem\u003eShelter Mountain\u003c/em\u003e. Root for the town’s first resident cop as he attempts to settle down with the gal who’s stolen his heart in \u003cem\u003eWhispering Rock\u003c/em\u003e. Imagine yourself cozied up by the fire inside the mountain cabin of your dreams with a hot chocolate in one hand and this ebook bundle in the other. Pay what you want for the entire series, and support Room to Read with your purchase! \u003cbr\u003e\u003cbr\u003e\u003ca style=\"color: #EF9741;\"\u003e\u003cstrong\u003e\u003cem\u003eThe titles in this bundle are available through Kobo.com. To access the content, create or log in to your Kobo.com account. \u003c/em\u003e\u003c/strong\u003e\u003c/a\u003e\u003c/p\u003e",
+      "start_at": "2026-06-12T18:00:00",
+      "end_at": "2026-07-10T18:00:00",
+      "days_left": 1.92,
+      "hours_left": 46.2,
+      "machine_name": "robyncarrsvirginriver_bookbundle",
+      "bundles_sold": 349,
+      "tile_stamp": "books"
     }
   ],
   "expires_within_72h": [
     {
-      "category": "software",
-      "title": "Professional Developer Pathways Bundle",
-      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
-      "description": "Build modern developer skills",
-      "long_description": "Learn practical programming, cloud, and web development skills with the Professional Developer Pathways Bundle. Build real projects with Python, JavaScript, Rust, C++, C#, React, Next.js, Django, Flask, and more while exploring Git \u0026 GitHub workflows, SQL databases, AWS and Azure developer skills, and modern AI-powered coding workflows with Claude Code. Pay what you want for a massive software development bundle from Zenva and support Alzheimer’s Research UK while building practical skills for today’s rapidly evolving developer landscape.",
-      "start_at": "2026-06-18T18:00:00",
-      "end_at": "2026-07-09T18:00:00",
-      "days_left": 1.91,
-      "hours_left": 45.8,
-      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
-      "bundles_sold": 972,
-      "tile_stamp": "software"
+      "category": "books",
+      "title": "Sonic 35th Anniversary Megabundle by IDW",
+      "url": "https://humblebundle.com/books/sonic-35th-anniversary-megabundle-idw-books",
+      "description": "Gotta read fast!",
+      "long_description": "Celebrate 35 years of Sonic the Hedgehog with this megabundle of Sonic comics from IDW! What kinds of mischief have Sonic, his pals, and Dr. Eggman gotten into outside of the video games? Now you can find out! Catch the Blue Blur speeding through the pages of the official \u003cem\u003eSonic the Hedgehog\u003c/em\u003e comic series, collected together in 21 volumes of adventure and fun! Stay up to speed on all the Sonic mini-series like \u003cem\u003eImposter Syndrome\u003c/em\u003e, \u003cem\u003eTangle \u0026 Whisper\u003c/em\u003e, and \u003cem\u003eFang the Hunter\u003c/em\u003e! Enjoy all your favorite stories plus all the bonus content featured in Sonic’s 30th Anniversary Deluxe Edition! This bundle is perfect for diehard Sonic fans and newcomers alike, so snag it at the price of your choosing before it speeds away, and support Children’s Miracle Network with your purchase! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. All titles should be redeemed before July 11, 2027. \u003c/span\u003e",
+      "start_at": "2026-06-20T18:00:00",
+      "end_at": "2026-07-11T18:00:00",
+      "days_left": 2.92,
+      "hours_left": 70.2,
+      "machine_name": "sonic35thanniversarymegabundleidw_bookbundle",
+      "bundles_sold": 4500,
+      "tile_stamp": "books"
+    },
+    {
+      "category": "games",
+      "title": "June 2unes",
+      "url": "https://humblebundle.com/games/june-2unes",
+      "description": "Time to face the music",
+      "long_description": "Get the beats bumping and the tunes thumping with this bundle of rhythm games that really jam! Slay monsters with the power of music to find your lost voice in \u003cem\u003eEverhood 2\u003c/em\u003e! Toot your own horn and solve the mysteries of the Trombiverse in \u003cem\u003eTrombone Champ\u003c/em\u003e! Test your color matching skills and enter the Rhythm Dimension in retro arcade game \u003cem\u003eSpin Rhythm XD\u003c/em\u003e! There’s even more music and mayhem to enjoy in this mixtape of our favorite rhythm games, so grab them now at the price of your choosing, and support StackUp with your purchase! \u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before July 10th, 2027. \u003c/span\u003e",
+      "start_at": "2026-06-19T18:00:00",
+      "end_at": "2026-07-11T01:00:00",
+      "days_left": 2.22,
+      "hours_left": 53.2,
+      "machine_name": "june2unes_bundle",
+      "bundles_sold": 7794,
+      "tile_stamp": "games"
     },
     {
       "category": "books",
@@ -125,11 +139,25 @@
       "long_description": "Here at Humble, we only want to give you the best of the best, and for our more discerning readers we’ve crafted a bundle of sci-fi, fantasy, and horror ebooks from Tachyon that aren’t just great reads, but award-winning modern classics! Dive into tales of technology and terror from genre-blending master Peter Watts in his short story collection \u003cem\u003eBeyond the Rift\u003c/em\u003e! Wartime history and B-movie schlock combine in James Morrow’s World War II kaiju extravaganza \u003cem\u003eShambling Towards Hiroshima\u003c/em\u003e! An utterly unique voice takes on worlds beyond our own in Ellen Klages’ haunting short story collection \u003c/em\u003ePortable Childhoods\u003c/em\u003e! There is so much more to discover in this collection of fiction from some of today’s most daring authors, so grab these books while you can at the price of your choice, and support Doctors Without Borders with your purchase!",
       "start_at": "2026-06-18T18:00:00",
       "end_at": "2026-07-09T18:00:00",
-      "days_left": 1.91,
-      "hours_left": 45.8,
+      "days_left": 0.92,
+      "hours_left": 22.2,
       "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
-      "bundles_sold": 3538,
+      "bundles_sold": 3939,
       "tile_stamp": "books"
+    },
+    {
+      "category": "software",
+      "title": "Professional Developer Pathways Bundle",
+      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
+      "description": "Build modern developer skills",
+      "long_description": "Learn practical programming, cloud, and web development skills with the Professional Developer Pathways Bundle. Build real projects with Python, JavaScript, Rust, C++, C#, React, Next.js, Django, Flask, and more while exploring Git \u0026 GitHub workflows, SQL databases, AWS and Azure developer skills, and modern AI-powered coding workflows with Claude Code. Pay what you want for a massive software development bundle from Zenva and support Alzheimer’s Research UK while building practical skills for today’s rapidly evolving developer landscape.",
+      "start_at": "2026-06-18T18:00:00",
+      "end_at": "2026-07-09T18:00:00",
+      "days_left": 0.92,
+      "hours_left": 22.2,
+      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
+      "bundles_sold": 1053,
+      "tile_stamp": "software"
     },
     {
       "category": "games",
@@ -139,10 +167,10 @@
       "long_description": "Are you ready to join the fight for Etheria? If you’re enjoying the free-to-play \u003cem\u003eDungeon Defenders II\u003c/em\u003e and want to level up your game, we’ve got all of the DLC in one bundle at a great discount! Take to the stars with the Celestial Vault Pack, bask in the eldritch glow of the Ethereal Trove Pack, equip your heroes with the Adventurer’s Arsenal Pack, and more! This bundle even includes a Golden Headless Horseman Premium Pet that will plague your enemies with tormented thoughts! Grab this bundle while you can to level up your forces and save your lands from evil, pay whatever price you want, and support coral reef ecosystem nonprofit Coral Guardian with your purchase!\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before July 8th, 2027. \u003c/span\u003e",
       "start_at": "2026-06-17T18:00:00",
       "end_at": "2026-07-09T01:00:00",
-      "days_left": 1.2,
-      "hours_left": 28.8,
+      "days_left": 0.22,
+      "hours_left": 5.2,
       "machine_name": "dungeondefendersiicompletedlcchest_bundle",
-      "bundles_sold": 3173,
+      "bundles_sold": 3445,
       "tile_stamp": "games"
     },
     {
@@ -152,26 +180,12 @@
       "description": "VR—The next frontier of fun",
       "long_description": "\u003cdiv\u003e\u003ciframe width=\"400\" height=\"315\" src=\"https://www.youtube.com/embed/IesuwbesXLc?si=nJCeXuG1nxgr542o\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen\u003e\u003c/iframe\u003e\u003c/div\u003eFreshen up your VR collection with an epic bundle of titles perfect for any platform. Jump into the cockpit of a wide variety of aircraft in \u003cem\u003eVTOL VR\u003c/em\u003e, a near-futuristic combat flight game built to get your heart pumping! Brave \u003cem\u003eMetro Awakening\u003c/em\u003e, a story-driven VR adventure that blends exploration and FPS gameplay to deliver a completely immersive experience. Or get a lil’ strange with \u003cem\u003eAmong Us 3D\u003c/em\u003e, a new twist on the original game’s formula that drops you into chaos! Step out of reality and into a world of savings—plus, your purchase helps support Kiss the Ground! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before July 8th, 2027. \u003c/span\u003e",
       "start_at": "2026-06-17T18:00:00",
-      "end_at": "2026-07-09T01:00:00",
-      "days_left": 1.2,
-      "hours_left": 28.8,
+      "end_at": "2026-07-09T04:00:00",
+      "days_left": 0.34,
+      "hours_left": 8.2,
       "machine_name": "uploadvrsummer2026_bundle",
-      "bundles_sold": 25818,
+      "bundles_sold": 28081,
       "tile_stamp": "games"
-    },
-    {
-      "category": "software",
-      "title": "Premium Sci-Fi Design Training Bundle",
-      "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
-      "description": "Master modern staples of game development",
-      "long_description": "Curious about game design? Then you need the Premium Sci-Fi Design Training Bundle by Learn Squared! Go from game lover to developer when you study under the best—learn how to bring your artistic side into the digital world with \u003cem\u003eConcepting in ZBrush\u003c/em\u003e, jump into your own vessel of the stars with \u003cem\u003eStarship Design\u003c/em\u003e, create original protagonists with \u003cem\u003eFuturistic Character Design\u003c/em\u003e, and more. Get the expert instruction and knowledge you seek, and help support Girls Who Code with your purchase! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys Expire. Please redeem before July 7th, 2027. \u003c/span\u003e",
-      "start_at": "2026-06-17T18:00:00",
-      "end_at": "2026-07-08T18:00:00",
-      "days_left": 0.91,
-      "hours_left": 21.8,
-      "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
-      "bundles_sold": 637,
-      "tile_stamp": "software"
     },
     {
       "category": "books",
@@ -181,10 +195,10 @@
       "long_description": "Enter a quiet mountain town where things are a lot more complicated than they seem on the surface with this 21-ebook bundle of Robyn Carr’s bestselling \u003cem\u003eVirgin River\u003c/em\u003e—the series that inspired the hit Netflix show! Meet a recently widowed nurse as she attempts to fit in with the residents of the remote California town while also caring for an abandoned infant in the very first novel \u003cem\u003eVirgin River\u003c/em\u003e. Follow along as a former Marine saves a woman on the run with her young child in \u003cem\u003eShelter Mountain\u003c/em\u003e. Root for the town’s first resident cop as he attempts to settle down with the gal who’s stolen his heart in \u003cem\u003eWhispering Rock\u003c/em\u003e. Imagine yourself cozied up by the fire inside the mountain cabin of your dreams with a hot chocolate in one hand and this ebook bundle in the other. Pay what you want for the entire series, and support Room to Read with your purchase! \u003cbr\u003e\u003cbr\u003e\u003ca style=\"color: #EF9741;\"\u003e\u003cstrong\u003e\u003cem\u003eThe titles in this bundle are available through Kobo.com. To access the content, create or log in to your Kobo.com account. \u003c/em\u003e\u003c/strong\u003e\u003c/a\u003e\u003c/p\u003e",
       "start_at": "2026-06-12T18:00:00",
       "end_at": "2026-07-10T18:00:00",
-      "days_left": 2.91,
-      "hours_left": 69.8,
+      "days_left": 1.92,
+      "hours_left": 46.2,
       "machine_name": "robyncarrsvirginriver_bookbundle",
-      "bundles_sold": 340,
+      "bundles_sold": 349,
       "tile_stamp": "books"
     },
     {
@@ -195,10 +209,10 @@
       "long_description": "\u003ca style=\"color: #ef9741;\"\u003e\u003cstrong\u003eThe content in this bundle is intended for mature audiences.\u003c/strong\u003e\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eFind love, companionship, and maybe a little romance with the Yuri in Luck: Waifus for Laifus Bundle—a colorful collection of LGBTQ+-themed yuri titles! Play “Yuri Cupid” in \u003cem\u003eKindred Spirits on the Roof\u003c/em\u003e, a slice-of-life tale of love, loss, lust, and friendship. Lead a romantic cat-and-mouse game with a supernatural spin across a gorgeous watercolor-style backdrop in \u003cem\u003eOshiRabu: Waifus Over Husbandos\u003c/em\u003e. Or lose yourself in \u003cem\u003eSeaBed\u003c/em\u003e, a deep psychological mystery visual novel told through the perspectives of three unique characters. Plus, your purchase helps support our friends at Dames 4 Games.\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before July 1st, 2027. \u003c/span\u003e",
       "start_at": "2026-06-10T18:00:00",
       "end_at": "2026-07-09T01:00:00",
-      "days_left": 1.2,
-      "hours_left": 28.8,
+      "days_left": 0.22,
+      "hours_left": 5.2,
       "machine_name": "yuriinluckwaifusforlaifus_bundle",
-      "bundles_sold": 23764,
+      "bundles_sold": 24978,
       "tile_stamp": "games"
     },
     {
@@ -209,10 +223,10 @@
       "long_description": "Your new career in game development is only a click away with The 2026 Learn Unity Game Development Bundle! No prior knowledge is needed for this curated collection of lessons from GameDev.tv—just come prepared with a curious mind and a passion for gaming. Get started today and create your own RPG, 2D adventure, and more with courses like \u003cem\u003eUnity Turn Based Strategy Course\u003c/em\u003e and \u003cem\u003eUnity Real Time Strategy Course\u003c/em\u003e. Get the expert instruction you need from pros in the field, and help support Trees, Water \u0026 People with your purchase! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. All titles should be redeemed before June 25th, 2027. \u003c/span\u003e",
       "start_at": "2026-06-04T18:00:00",
       "end_at": "2026-07-09T18:00:00",
-      "days_left": 1.91,
-      "hours_left": 45.8,
+      "days_left": 0.92,
+      "hours_left": 22.2,
       "machine_name": "2026learnunitygamedevelopmentbundle_softwarebundle",
-      "bundles_sold": 1340,
+      "bundles_sold": 1383,
       "tile_stamp": "software"
     }
   ]

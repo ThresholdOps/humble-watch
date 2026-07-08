@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-07-07T20:09:35Z",
-  "updated_at": "2026-07-07T20:10:01Z",
+  "generated_at": "2026-07-08T19:50:15Z",
+  "updated_at": "2026-07-08T19:50:44Z",
   "items": [
+    {
+      "key": "linuxallthingsoreilly_bookbundle",
+      "url": "https://humblebundle.com/books/linux-all-things-oreilly-books",
+      "machine_name": "linuxallthingsoreilly_bookbundle",
+      "title": "Linux: All the Things by O'Reilly",
+      "category": "books",
+      "end_at": "2026-07-29T18:00:00"
+    },
+    {
+      "key": "completeclaudeaiforblenderbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/complete-claude-ai-for-blender-bundle-software",
+      "machine_name": "completeclaudeaiforblenderbundle_softwarebundle",
+      "title": "The Complete Claude AI for Blender Bundle",
+      "category": "software",
+      "end_at": "2026-07-29T18:00:00"
+    },
     {
       "key": "tanithleecollectiondawbooks_bookbundle",
       "url": "https://humblebundle.com/books/tanith-lee-collection-daw-books-books",
@@ -75,20 +91,20 @@
       "end_at": "2026-07-23T18:00:00"
     },
     {
-      "key": "letsgogamblingawdangit_bundle",
-      "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
-      "machine_name": "letsgogamblingawdangit_bundle",
-      "title": "Let's Go Gambling!...aw dang it.",
-      "category": "games",
-      "end_at": "2026-07-23T04:00:00"
-    },
-    {
       "key": "craftyourcosplaydreams_bookbundle",
       "url": "https://humblebundle.com/books/craft-your-cosplay-dreams-books",
       "machine_name": "craftyourcosplaydreams_bookbundle",
       "title": "Craft Your Cosplay Dreams",
       "category": "books",
       "end_at": "2026-07-22T18:00:00"
+    },
+    {
+      "key": "letsgogamblingawdangit_bundle",
+      "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
+      "machine_name": "letsgogamblingawdangit_bundle",
+      "title": "Let's Go Gambling!...aw dang it.",
+      "category": "games",
+      "end_at": "2026-07-23T04:00:00"
     },
     {
       "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
@@ -112,15 +128,7 @@
       "machine_name": "arcsystemworksevocollection_bundle",
       "title": "Arc System Works: Evo Collection",
       "category": "games",
-      "end_at": "2026-07-18T01:00:00"
-    },
-    {
-      "key": "goingrogueliteheavybundle_bundle",
-      "url": "https://humblebundle.com/games/going-rogue-lite-heavy-bundle",
-      "machine_name": "goingrogueliteheavybundle_bundle",
-      "title": "Going Rogue: A Lite Heavy Bundle",
-      "category": "games",
-      "end_at": "2026-07-16T01:00:00"
+      "end_at": "2026-07-18T04:00:00"
     },
     {
       "key": "worldbuildersamericana_softwarebundle",
@@ -129,6 +137,14 @@
       "title": "World Builders: Americana",
       "category": "software",
       "end_at": "2026-07-15T18:00:00"
+    },
+    {
+      "key": "goingrogueliteheavybundle_bundle",
+      "url": "https://humblebundle.com/games/going-rogue-lite-heavy-bundle",
+      "machine_name": "goingrogueliteheavybundle_bundle",
+      "title": "Going Rogue: A Lite Heavy Bundle",
+      "category": "games",
+      "end_at": "2026-07-16T01:00:00"
     },
     {
       "key": "lifetimeaccesscreator_softwarebundle",
@@ -163,19 +179,19 @@
       "end_at": "2026-07-11T01:00:00"
     },
     {
-      "key": "professionaldeveloperpathwaysbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
-      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
-      "title": "Professional Developer Pathways Bundle",
-      "category": "software",
-      "end_at": "2026-07-09T18:00:00"
-    },
-    {
       "key": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
       "url": "https://humblebundle.com/books/and-winner-is-award-winning-fantasy-science-fiction-horror-from-tachyon-books",
       "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
       "title": "And the Winner Is: Award Winning Fantasy, Science Fiction, & Horror from Tachyon",
       "category": "books",
+      "end_at": "2026-07-09T18:00:00"
+    },
+    {
+      "key": "professionaldeveloperpathwaysbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
+      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
+      "title": "Professional Developer Pathways Bundle",
+      "category": "software",
       "end_at": "2026-07-09T18:00:00"
     },
     {
@@ -192,7 +208,7 @@
       "machine_name": "uploadvrsummer2026_bundle",
       "title": "Upload VR Summer 2026",
       "category": "games",
-      "end_at": "2026-07-09T01:00:00"
+      "end_at": "2026-07-09T04:00:00"
     },
     {
       "key": "premiumscifidesigntrainingbundle_softwarebundle",
@@ -200,7 +216,7 @@
       "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
       "title": "Premium Sci-Fi Design Training Bundle",
       "category": "software",
-      "end_at": "2026-07-08T18:00:00"
+      "end_at": "2026-07-15T18:00:00"
     },
     {
       "key": "allinoneunrealunitygamedevbundle_softwarebundle",
