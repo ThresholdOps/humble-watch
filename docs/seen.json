@@ -1,14 +1,22 @@
 {
-  "generated_at": "2026-07-08T19:50:15Z",
-  "updated_at": "2026-07-08T19:50:44Z",
+  "generated_at": "2026-07-09T20:01:02Z",
+  "updated_at": "2026-07-09T20:01:31Z",
   "items": [
     {
-      "key": "linuxallthingsoreilly_bookbundle",
-      "url": "https://humblebundle.com/books/linux-all-things-oreilly-books",
-      "machine_name": "linuxallthingsoreilly_bookbundle",
-      "title": "Linux: All the Things by O'Reilly",
+      "key": "learntomakegamesinunity2026bundle_softwarebundle",
+      "url": "https://humblebundle.com/software/learn-to-make-games-in-unity-2026-bundle-software",
+      "machine_name": "learntomakegamesinunity2026bundle_softwarebundle",
+      "title": "Learn to Make Games in Unity 2026 Bundle",
+      "category": "software",
+      "end_at": "2026-07-30T18:00:00"
+    },
+    {
+      "key": "bladerunnercollectiontitancomics_bookbundle",
+      "url": "https://humblebundle.com/books/blade-runner-collection-titan-comics-books",
+      "machine_name": "bladerunnercollectiontitancomics_bookbundle",
+      "title": "The Blade Runner Collection by Titan Comics",
       "category": "books",
-      "end_at": "2026-07-29T18:00:00"
+      "end_at": "2026-07-30T18:00:00"
     },
     {
       "key": "completeclaudeaiforblenderbundle_softwarebundle",
@@ -16,6 +24,14 @@
       "machine_name": "completeclaudeaiforblenderbundle_softwarebundle",
       "title": "The Complete Claude AI for Blender Bundle",
       "category": "software",
+      "end_at": "2026-07-29T18:00:00"
+    },
+    {
+      "key": "linuxallthingsoreilly_bookbundle",
+      "url": "https://humblebundle.com/books/linux-all-things-oreilly-books",
+      "machine_name": "linuxallthingsoreilly_bookbundle",
+      "title": "Linux: All the Things by O'Reilly",
+      "category": "books",
       "end_at": "2026-07-29T18:00:00"
     },
     {
@@ -43,19 +59,19 @@
       "end_at": "2026-07-27T18:00:00"
     },
     {
-      "key": "vfxmasterbundleforunreal_softwarebundle",
-      "url": "https://humblebundle.com/software/vfx-masterbundle-for-unreal-software",
-      "machine_name": "vfxmasterbundleforunreal_softwarebundle",
-      "title": "VFX Master-Bundle For Unreal",
-      "category": "software",
-      "end_at": "2026-07-25T18:00:00"
-    },
-    {
       "key": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
       "url": "https://humblebundle.com/books/john-scalzi-collection-old-mans-war-more-tor-books-books",
       "machine_name": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
       "title": "The John Scalzi Collection: Old Man's War & More by TOR Books",
       "category": "books",
+      "end_at": "2026-07-25T18:00:00"
+    },
+    {
+      "key": "vfxmasterbundleforunreal_softwarebundle",
+      "url": "https://humblebundle.com/software/vfx-masterbundle-for-unreal-software",
+      "machine_name": "vfxmasterbundleforunreal_softwarebundle",
+      "title": "VFX Master-Bundle For Unreal",
+      "category": "software",
       "end_at": "2026-07-25T18:00:00"
     },
     {
@@ -65,6 +81,14 @@
       "title": "Summer Games Done Quick 2026",
       "category": "games",
       "end_at": "2026-07-25T01:00:00"
+    },
+    {
+      "key": "aifoundationsandapplicationsmanning_softwarebundle",
+      "url": "https://humblebundle.com/books/ai-foundations-and-applications-manning-books",
+      "machine_name": "aifoundationsandapplicationsmanning_softwarebundle",
+      "title": "AI Foundations and Applications by Manning",
+      "category": "books",
+      "end_at": "2026-07-23T18:00:00"
     },
     {
       "key": "completecharactercreationforgames_softwarebundle",
@@ -80,14 +104,6 @@
       "machine_name": "itai500certificationexams_softwarebundle",
       "title": "IT & AI: 500+ Certification Exams",
       "category": "software",
-      "end_at": "2026-07-23T18:00:00"
-    },
-    {
-      "key": "aifoundationsandapplicationsmanning_softwarebundle",
-      "url": "https://humblebundle.com/books/ai-foundations-and-applications-manning-books",
-      "machine_name": "aifoundationsandapplicationsmanning_softwarebundle",
-      "title": "AI Foundations and Applications by Manning",
-      "category": "books",
       "end_at": "2026-07-23T18:00:00"
     },
     {
@@ -131,20 +147,20 @@
       "end_at": "2026-07-18T04:00:00"
     },
     {
-      "key": "worldbuildersamericana_softwarebundle",
-      "url": "https://humblebundle.com/software/world-builders-americana-software",
-      "machine_name": "worldbuildersamericana_softwarebundle",
-      "title": "World Builders: Americana",
-      "category": "software",
-      "end_at": "2026-07-15T18:00:00"
-    },
-    {
       "key": "goingrogueliteheavybundle_bundle",
       "url": "https://humblebundle.com/games/going-rogue-lite-heavy-bundle",
       "machine_name": "goingrogueliteheavybundle_bundle",
       "title": "Going Rogue: A Lite Heavy Bundle",
       "category": "games",
       "end_at": "2026-07-16T01:00:00"
+    },
+    {
+      "key": "worldbuildersamericana_softwarebundle",
+      "url": "https://humblebundle.com/software/world-builders-americana-software",
+      "machine_name": "worldbuildersamericana_softwarebundle",
+      "title": "World Builders: Americana",
+      "category": "software",
+      "end_at": "2026-07-15T18:00:00"
     },
     {
       "key": "lifetimeaccesscreator_softwarebundle",
@@ -184,23 +200,7 @@
       "machine_name": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
       "title": "And the Winner Is: Award Winning Fantasy, Science Fiction, & Horror from Tachyon",
       "category": "books",
-      "end_at": "2026-07-09T18:00:00"
-    },
-    {
-      "key": "professionaldeveloperpathwaysbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/professional-developer-pathways-bundle-software",
-      "machine_name": "professionaldeveloperpathwaysbundle_softwarebundle",
-      "title": "Professional Developer Pathways Bundle",
-      "category": "software",
-      "end_at": "2026-07-09T18:00:00"
-    },
-    {
-      "key": "dungeondefendersiicompletedlcchest_bundle",
-      "url": "https://humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
-      "machine_name": "dungeondefendersiicompletedlcchest_bundle",
-      "title": "Dungeon Defenders II Complete DLC Chest",
-      "category": "games",
-      "end_at": "2026-07-09T01:00:00"
+      "end_at": "2026-07-16T18:00:00"
     },
     {
       "key": "uploadvrsummer2026_bundle",
@@ -208,7 +208,7 @@
       "machine_name": "uploadvrsummer2026_bundle",
       "title": "Upload VR Summer 2026",
       "category": "games",
-      "end_at": "2026-07-09T04:00:00"
+      "end_at": "2026-07-16T04:00:00"
     },
     {
       "key": "premiumscifidesigntrainingbundle_softwarebundle",
@@ -241,14 +241,6 @@
       "title": "Unreal Environment Bundle",
       "category": "software",
       "end_at": "2026-07-16T18:00:00"
-    },
-    {
-      "key": "yuriinluckwaifusforlaifus_bundle",
-      "url": "https://humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
-      "machine_name": "yuriinluckwaifusforlaifus_bundle",
-      "title": "Yuri in Luck: Waifus for Laifus",
-      "category": "games",
-      "end_at": "2026-07-09T01:00:00"
     },
     {
       "key": "creatureandcharactercreationbundle_softwarebundle",
@@ -289,14 +281,6 @@
       "title": "The Complete Unity AI Bundle",
       "category": "software",
       "end_at": "2026-07-14T18:00:00"
-    },
-    {
-      "key": "2026learnunitygamedevelopmentbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/2026-learn-unity-game-development-bundle-software",
-      "machine_name": "2026learnunitygamedevelopmentbundle_softwarebundle",
-      "title": "The 2026 Learn Unity Game Development Bundle",
-      "category": "software",
-      "end_at": "2026-07-09T18:00:00"
     }
   ]
 }
