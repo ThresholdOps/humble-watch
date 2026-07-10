@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-07-09T20:01:02Z",
-  "updated_at": "2026-07-09T20:01:31Z",
+  "generated_at": "2026-07-10T19:47:51Z",
+  "updated_at": "2026-07-10T19:48:22Z",
   "items": [
+    {
+      "key": "squadgoals_bundle",
+      "url": "https://humblebundle.com/games/squad-goals",
+      "machine_name": "squadgoals_bundle",
+      "title": "Squad Goals",
+      "category": "games",
+      "end_at": "2026-08-01T04:00:00"
+    },
+    {
+      "key": "narrative12for10bundle_bundle",
+      "url": "https://humblebundle.com/games/narrative-12-for-10-bundle",
+      "machine_name": "narrative12for10bundle_bundle",
+      "title": "Narrative 12 for $10 Bundle",
+      "category": "games",
+      "end_at": "2026-08-01T04:00:00"
+    },
+    {
+      "key": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
+      "url": "https://humblebundle.com/software/freedom-to-create-with-corel-graphics-suite-2025-software",
+      "machine_name": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
+      "title": "Freedom to Create with COREL Graphics Suite 2025",
+      "category": "software",
+      "end_at": "2026-07-31T18:00:00"
+    },
+    {
+      "key": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
+      "url": "https://humblebundle.com/books/pathfinder-second-edition-bundle-frogs-paizo-inc-books",
+      "machine_name": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
+      "title": "Pathfinder Second Edition Bundle of Frogs! By Paizo Inc.",
+      "category": "books",
+      "end_at": "2026-07-31T18:00:00"
+    },
     {
       "key": "learntomakegamesinunity2026bundle_softwarebundle",
       "url": "https://humblebundle.com/software/learn-to-make-games-in-unity-2026-bundle-software",
@@ -19,19 +51,19 @@
       "end_at": "2026-07-30T18:00:00"
     },
     {
-      "key": "completeclaudeaiforblenderbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/complete-claude-ai-for-blender-bundle-software",
-      "machine_name": "completeclaudeaiforblenderbundle_softwarebundle",
-      "title": "The Complete Claude AI for Blender Bundle",
-      "category": "software",
-      "end_at": "2026-07-29T18:00:00"
-    },
-    {
       "key": "linuxallthingsoreilly_bookbundle",
       "url": "https://humblebundle.com/books/linux-all-things-oreilly-books",
       "machine_name": "linuxallthingsoreilly_bookbundle",
       "title": "Linux: All the Things by O'Reilly",
       "category": "books",
+      "end_at": "2026-07-29T18:00:00"
+    },
+    {
+      "key": "completeclaudeaiforblenderbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/complete-claude-ai-for-blender-bundle-software",
+      "machine_name": "completeclaudeaiforblenderbundle_softwarebundle",
+      "title": "The Complete Claude AI for Blender Bundle",
+      "category": "software",
       "end_at": "2026-07-29T18:00:00"
     },
     {
@@ -115,20 +147,20 @@
       "end_at": "2026-07-22T18:00:00"
     },
     {
-      "key": "letsgogamblingawdangit_bundle",
-      "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
-      "machine_name": "letsgogamblingawdangit_bundle",
-      "title": "Let's Go Gambling!...aw dang it.",
-      "category": "games",
-      "end_at": "2026-07-23T04:00:00"
-    },
-    {
       "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
       "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
       "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
       "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
       "category": "software",
       "end_at": "2026-07-22T18:00:00"
+    },
+    {
+      "key": "letsgogamblingawdangit_bundle",
+      "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
+      "machine_name": "letsgogamblingawdangit_bundle",
+      "title": "Let's Go Gambling!...aw dang it.",
+      "category": "games",
+      "end_at": "2026-07-23T04:00:00"
     },
     {
       "key": "supergirlwomantomorrowandmoredccomics_bookbundle",
@@ -227,14 +259,6 @@
       "end_at": "2026-07-20T18:00:00"
     },
     {
-      "key": "robyncarrsvirginriver_bookbundle",
-      "url": "https://humblebundle.com/books/robyn-carrs-virgin-river-books",
-      "machine_name": "robyncarrsvirginriver_bookbundle",
-      "title": "Robyn Carr's Virgin River",
-      "category": "books",
-      "end_at": "2026-07-10T18:00:00"
-    },
-    {
       "key": "unrealenvironmentbundle_softwarebundle",
       "url": "https://humblebundle.com/software/unreal-environment-bundle-software",
       "machine_name": "unrealenvironmentbundle_softwarebundle",
@@ -251,19 +275,19 @@
       "end_at": "2026-07-15T18:00:00"
     },
     {
-      "key": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
-      "url": "https://humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books",
-      "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
-      "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
-      "category": "books",
-      "end_at": "2026-07-14T18:00:00"
-    },
-    {
       "key": "biggerbetterbundle_softwarebundle",
       "url": "https://humblebundle.com/software/bigger-better-bundle-software",
       "machine_name": "biggerbetterbundle_softwarebundle",
       "title": "Bigger Better Bundle",
       "category": "software",
+      "end_at": "2026-07-14T18:00:00"
+    },
+    {
+      "key": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
+      "url": "https://humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books",
+      "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
+      "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
+      "category": "books",
       "end_at": "2026-07-14T18:00:00"
     },
     {

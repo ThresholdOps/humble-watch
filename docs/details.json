@@ -2,6 +2,2355 @@
   "schema": "humble-watch-details-v1",
   "items": [
     {
+      "title": "Squad Goals",
+      "category": "games",
+      "url": "https://humblebundle.com/games/squad-goals",
+      "machine_name": "squadgoals_bundle",
+      "end_at": "2026-08-01T04:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $10 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 10.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 11.04
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "TMNT: Splintered Fate",
+              "machine_name": "teenagemutantninjaturtles_splinteredfate",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 29.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "TMNT: Splintered Fate + Metalhead DLC",
+              "machine_name": "tmnt_splinteredfate-metalhead",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 3.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "PlateUp!",
+              "machine_name": "plateup",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Murky Divers",
+              "machine_name": "murkydivers",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 7.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "KeyWe",
+              "machine_name": "keywe",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Kitchen Wars",
+              "machine_name": "kitchenwars",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 4.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Content Warning",
+              "machine_name": "contentwarning",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 7.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Human Fall Flat",
+              "machine_name": "human_fallflat",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "PHOGS!",
+              "machine_name": "phogs",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Kritter: Defend Together",
+              "machine_name": "kritter_defendtogether",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Pratfall Coupon 30%",
+              "machine_name": "pratfallcoupon30",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Narrative 12 for $10 Bundle",
+      "category": "games",
+      "url": "https://humblebundle.com/games/narrative-12-for-10-bundle",
+      "machine_name": "narrative12for10bundle_bundle",
+      "end_at": "2026-08-01T04:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $10 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 10.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 11.28
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Roadwarden",
+              "machine_name": "roadwarden",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 10.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "White Shadows",
+              "machine_name": "whiteshadows",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Gone Home",
+              "machine_name": "gonehome",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Neo Cab",
+              "machine_name": "neocab",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Darkside Detective: A Fumble in the Dark",
+              "machine_name": "thedarksidedetective_afumbleinthedark",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Stillness of the Wind",
+              "machine_name": "thestillnessofthewind",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 12.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Procession to Calvary",
+              "machine_name": "theprocessiontocalvary",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "No Longer Home",
+              "machine_name": "nolongerhome",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Without a Dawn",
+              "machine_name": "withoutadawn",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 7.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Hiveswap Friendsim",
+              "machine_name": "hiveswapfriendsim",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 12.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Mythwrecked: Ambrosia Island",
+              "machine_name": "mythwrecked_ambrosiaisland",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Over the Alps",
+              "machine_name": "overthealps",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 7.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Freedom to Create with COREL Graphics Suite 2025",
+      "category": "software",
+      "url": "https://humblebundle.com/software/freedom-to-create-with-corel-graphics-suite-2025-software",
+      "machine_name": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
+      "end_at": "2026-07-31T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $70 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 70.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 83.11
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Corel DRAW Graphics Suite 2025",
+              "machine_name": "coreldrawgraphicssuite2025",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 70.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "CorelDRAW",
+              "machine_name": "coreldraw",
+              "type": null,
+              "min_price": {
+                "currency": "USD",
+                "amount": 70.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {}
+            },
+            {
+              "title": "Corel Font Manager",
+              "machine_name": "corelfontmanager",
+              "type": null,
+              "min_price": {
+                "currency": "USD",
+                "amount": 70.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {}
+            },
+            {
+              "title": "CAPTURE",
+              "machine_name": "corelcapture",
+              "type": null,
+              "min_price": {
+                "currency": "USD",
+                "amount": 70.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {}
+            },
+            {
+              "title": "Corel PHOTO-PAINT",
+              "machine_name": "corelphoto-paint",
+              "type": null,
+              "min_price": {
+                "currency": "USD",
+                "amount": 70.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pathfinder Second Edition Bundle of Frogs! By Paizo Inc.",
+      "category": "books",
+      "url": "https://humblebundle.com/books/pathfinder-second-edition-bundle-frogs-paizo-inc-books",
+      "machine_name": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
+      "end_at": "2026-07-31T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 37.71
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Pathfinder Tales: The Swamp Warden (ePub)",
+              "machine_name": "pathfindertales_theswampwardenepub",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder: Swampsong (ePub)",
+              "machine_name": "pathfinder_swampsongepub",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat: Bayou Hideout (PDF/JPG)",
+              "machine_name": "pathfinderflip-mat_bayouhideoutpdfandjpg",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Paizo Printables: Welcome Pack Demo Adventure: Last Croak (PDF)",
+              "machine_name": "paizoprintables_welcomepackdemoadventure_lastcroakpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Character Sheet Pack (PDF)",
+              "machine_name": "pathfindercharactersheetpackpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Core GM Screen (PDF)",
+              "machine_name": "pathfindercoregmscreenpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Second Edition Beginner Box: Remastered Edition (PDF)",
+              "machine_name": "pathfindersecondeditionbeginnerbox_remasterededition",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt15",
+          "header": "Pay $15 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 15.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 37.71
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Pathfinder Flip-Mat Classics: Anceint Dungeon (PDF/JPG)",
+              "machine_name": "pathfinderflip-matclassics_anceintdungeon",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Intro #1: The Second Confirmation (PDF)",
+              "machine_name": "pathfindersocietyintro_issue1_thesecondconfirmation",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat Classics: Woodlands (PDF/JPG)",
+              "machine_name": "pathfinderflip-matclassics_woodlandspdfandjpg",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Scenario 2-17: Lost Maid of Anactoria (PDF)",
+              "machine_name": "pathfindersocietyscenario2-17_lostmaidofanactoriapdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat: Ambush Sites Multi-Pack (PDF/JPG)",
+              "machine_name": "pathfinderflip-mat_ambushsitesmulti-pack",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Scenario #1-24: Lightning Strikes, Stars Fall (PDF)",
+              "machine_name": "pathfindersocietyscenario_issues1-24_lightningstrikesstarsfallpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip Mat Classics: Falls & Rapids (PDF/JPG)",
+              "machine_name": "pathfinderflipmatclassics_fallsandrapid",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat: Wicked Dungeon (PDF/JPG)",
+              "machine_name": "pathfinderflip-mat_wickeddungeonpdfandjpg",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat: Planar Tavern (PDF/JPG)",
+              "machine_name": "pathfinderflip-mat_planartavernpdfandjpg",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat Classics: Deep Forest (PDF/JPG)",
+              "machine_name": "pathfinderflip-matclassics_deepforest",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat: Swamp Ruins (PDF/JPG)",
+              "machine_name": "pathfinderflip-mat_swampruinspdfandjpg",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Scenario #6-14: Twice in Steel (PDF)",
+              "machine_name": "pathfindersocietyscenario_issues6-14_twiceinsteelpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Scenario #5-02: The Blackwood Lost (PDF)",
+              "machine_name": "pathfindersocietyscenario_issues5-02_theblackwoodlostpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Scenario #1-05: Trailblazer's Bounty (PDF)",
+              "machine_name": "pathfindersocietyscenario_issues1-05_trailblazersbountypdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Monster Core (PDF)",
+              "machine_name": "pathfindermonstercorepdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder GM Core (PDF)",
+              "machine_name": "pathfindergmcorepdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Player Core (PDF)",
+              "machine_name": "pathfinderplayercorepdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Tales: The Swamp Warden (ePub)",
+              "machine_name": "pathfindertales_theswampwardenepub",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder: Swampsong (ePub)",
+              "machine_name": "pathfinder_swampsongepub",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat: Bayou Hideout (PDF/JPG)",
+              "machine_name": "pathfinderflip-mat_bayouhideoutpdfandjpg",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Paizo Printables: Welcome Pack Demo Adventure: Last Croak (PDF)",
+              "machine_name": "paizoprintables_welcomepackdemoadventure_lastcroakpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Character Sheet Pack (PDF)",
+              "machine_name": "pathfindercharactersheetpackpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Core GM Screen (PDF)",
+              "machine_name": "pathfindercoregmscreenpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Second Edition Beginner Box: Remastered Edition (PDF)",
+              "machine_name": "pathfindersecondeditionbeginnerbox_remasterededition",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt30",
+          "header": "Pay $30 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 30.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 37.71
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Paizo Printables: Dawn of the Frogs Miniatures Bundle (STL)",
+              "machine_name": "paizoprintables_dawnofthefrogsminiaturesbundlestl",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Paizo Printables: Welcome Pack Demo Adventure: Last Croak (Foundry VTT)",
+              "machine_name": "paizoprintables_welcomepackdemoadventure_lastcroakfoundryvtt",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Adventure Path: The Apocalypse Prophet (Extinction Curse 6 of 6)(PDF)",
+              "machine_name": "pathfinderadventurepath_theapocalypseprophetextinctioncurse6of6pdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Adventure Path: Lord of the Black Sands (Extinction Curse 5 of 6)(PDF)",
+              "machine_name": "pathfinderadventurepath_lordoftheblacksandsextinctioncurse5of6pdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Adventure Path: Siege of the Dinosaurs (Extinction Curse 4 of 6)(PDF)",
+              "machine_name": "pathfinderadventurepath_siegeofthedinosaursextinctioncurse4of6pdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Adventure Path: Life's Long Shadow (Extinction Curse 3 of 6)(PDF)",
+              "machine_name": "pathfinderadventurepath_lifeslongshadowextinctioncurse3of6pdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Adventure Path: Legacy of the Lost God (Extinction Curse 2 of 6)(PDF)",
+              "machine_name": "pathfinderadventurepath_legacyofthelostgodextinctioncurse2of6pdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Adventure Path: The Show Must Go On (Extinction Curse 1 of 6)(PDF)",
+              "machine_name": "pathfinderadventurepath_theshowmustgoonextinctioncurse1of6pdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Game Night: Dawn of the Frogs (PDF)",
+              "machine_name": "pathfindergamenight_dawnofthefrogs",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Lost Omens Character Guide (PDF)",
+              "machine_name": "pathfinderlostomenscharacterguidepdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Lost Omens World Guide (PDF)",
+              "machine_name": "pathfinderlostomensworldguidepdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder: Tales of the Zoetrope (ePub)",
+              "machine_name": "pathfinder_talesofthezoetropeepub",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Howl of the Wild (PDF)",
+              "machine_name": "pathfinderhowlofthewildpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Player Core 2 (PDF)",
+              "machine_name": "pathfinderplayercore2pdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Adventure Path: Extinction Curse Player's Guide (PDF)",
+              "machine_name": "pathfinderadventurepath_extinctioncurseplayersguidepdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat Classics: Anceint Dungeon (PDF/JPG)",
+              "machine_name": "pathfinderflip-matclassics_anceintdungeon",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Intro #1: The Second Confirmation (PDF)",
+              "machine_name": "pathfindersocietyintro_issue1_thesecondconfirmation",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat Classics: Woodlands (PDF/JPG)",
+              "machine_name": "pathfinderflip-matclassics_woodlandspdfandjpg",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Scenario 2-17: Lost Maid of Anactoria (PDF)",
+              "machine_name": "pathfindersocietyscenario2-17_lostmaidofanactoriapdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat: Ambush Sites Multi-Pack (PDF/JPG)",
+              "machine_name": "pathfinderflip-mat_ambushsitesmulti-pack",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Scenario #1-24: Lightning Strikes, Stars Fall (PDF)",
+              "machine_name": "pathfindersocietyscenario_issues1-24_lightningstrikesstarsfallpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip Mat Classics: Falls & Rapids (PDF/JPG)",
+              "machine_name": "pathfinderflipmatclassics_fallsandrapid",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat: Wicked Dungeon (PDF/JPG)",
+              "machine_name": "pathfinderflip-mat_wickeddungeonpdfandjpg",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat: Planar Tavern (PDF/JPG)",
+              "machine_name": "pathfinderflip-mat_planartavernpdfandjpg",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat Classics: Deep Forest (PDF/JPG)",
+              "machine_name": "pathfinderflip-matclassics_deepforest",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat: Swamp Ruins (PDF/JPG)",
+              "machine_name": "pathfinderflip-mat_swampruinspdfandjpg",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Scenario #6-14: Twice in Steel (PDF)",
+              "machine_name": "pathfindersocietyscenario_issues6-14_twiceinsteelpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Scenario #5-02: The Blackwood Lost (PDF)",
+              "machine_name": "pathfindersocietyscenario_issues5-02_theblackwoodlostpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Scenario #1-05: Trailblazer's Bounty (PDF)",
+              "machine_name": "pathfindersocietyscenario_issues1-05_trailblazersbountypdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Monster Core (PDF)",
+              "machine_name": "pathfindermonstercorepdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder GM Core (PDF)",
+              "machine_name": "pathfindergmcorepdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Player Core (PDF)",
+              "machine_name": "pathfinderplayercorepdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Tales: The Swamp Warden (ePub)",
+              "machine_name": "pathfindertales_theswampwardenepub",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder: Swampsong (ePub)",
+              "machine_name": "pathfinder_swampsongepub",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat: Bayou Hideout (PDF/JPG)",
+              "machine_name": "pathfinderflip-mat_bayouhideoutpdfandjpg",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Paizo Printables: Welcome Pack Demo Adventure: Last Croak (PDF)",
+              "machine_name": "paizoprintables_welcomepackdemoadventure_lastcroakpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Character Sheet Pack (PDF)",
+              "machine_name": "pathfindercharactersheetpackpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Core GM Screen (PDF)",
+              "machine_name": "pathfindercoregmscreenpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Second Edition Beginner Box: Remastered Edition (PDF)",
+              "machine_name": "pathfindersecondeditionbeginnerbox_remasterededition",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt40",
+          "header": "Pay $40 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 40.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 37.71
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Pathfinder Game Night: Dawn of the Frogs (boxed set)",
+              "machine_name": "pathfindergamenight_dawnofthefrogs_boxedset",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 40.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "game": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Paizo Printables: Dawn of the Frogs Miniatures Bundle (STL)",
+              "machine_name": "paizoprintables_dawnofthefrogsminiaturesbundlestl",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Paizo Printables: Welcome Pack Demo Adventure: Last Croak (Foundry VTT)",
+              "machine_name": "paizoprintables_welcomepackdemoadventure_lastcroakfoundryvtt",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Adventure Path: The Apocalypse Prophet (Extinction Curse 6 of 6)(PDF)",
+              "machine_name": "pathfinderadventurepath_theapocalypseprophetextinctioncurse6of6pdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Adventure Path: Lord of the Black Sands (Extinction Curse 5 of 6)(PDF)",
+              "machine_name": "pathfinderadventurepath_lordoftheblacksandsextinctioncurse5of6pdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Adventure Path: Siege of the Dinosaurs (Extinction Curse 4 of 6)(PDF)",
+              "machine_name": "pathfinderadventurepath_siegeofthedinosaursextinctioncurse4of6pdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Adventure Path: Life's Long Shadow (Extinction Curse 3 of 6)(PDF)",
+              "machine_name": "pathfinderadventurepath_lifeslongshadowextinctioncurse3of6pdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Adventure Path: Legacy of the Lost God (Extinction Curse 2 of 6)(PDF)",
+              "machine_name": "pathfinderadventurepath_legacyofthelostgodextinctioncurse2of6pdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Adventure Path: The Show Must Go On (Extinction Curse 1 of 6)(PDF)",
+              "machine_name": "pathfinderadventurepath_theshowmustgoonextinctioncurse1of6pdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Game Night: Dawn of the Frogs (PDF)",
+              "machine_name": "pathfindergamenight_dawnofthefrogs",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Lost Omens Character Guide (PDF)",
+              "machine_name": "pathfinderlostomenscharacterguidepdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Lost Omens World Guide (PDF)",
+              "machine_name": "pathfinderlostomensworldguidepdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder: Tales of the Zoetrope (ePub)",
+              "machine_name": "pathfinder_talesofthezoetropeepub",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Howl of the Wild (PDF)",
+              "machine_name": "pathfinderhowlofthewildpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Player Core 2 (PDF)",
+              "machine_name": "pathfinderplayercore2pdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Adventure Path: Extinction Curse Player's Guide (PDF)",
+              "machine_name": "pathfinderadventurepath_extinctioncurseplayersguidepdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat Classics: Anceint Dungeon (PDF/JPG)",
+              "machine_name": "pathfinderflip-matclassics_anceintdungeon",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Intro #1: The Second Confirmation (PDF)",
+              "machine_name": "pathfindersocietyintro_issue1_thesecondconfirmation",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat Classics: Woodlands (PDF/JPG)",
+              "machine_name": "pathfinderflip-matclassics_woodlandspdfandjpg",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Scenario 2-17: Lost Maid of Anactoria (PDF)",
+              "machine_name": "pathfindersocietyscenario2-17_lostmaidofanactoriapdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat: Ambush Sites Multi-Pack (PDF/JPG)",
+              "machine_name": "pathfinderflip-mat_ambushsitesmulti-pack",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Scenario #1-24: Lightning Strikes, Stars Fall (PDF)",
+              "machine_name": "pathfindersocietyscenario_issues1-24_lightningstrikesstarsfallpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip Mat Classics: Falls & Rapids (PDF/JPG)",
+              "machine_name": "pathfinderflipmatclassics_fallsandrapid",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat: Wicked Dungeon (PDF/JPG)",
+              "machine_name": "pathfinderflip-mat_wickeddungeonpdfandjpg",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat: Planar Tavern (PDF/JPG)",
+              "machine_name": "pathfinderflip-mat_planartavernpdfandjpg",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat Classics: Deep Forest (PDF/JPG)",
+              "machine_name": "pathfinderflip-matclassics_deepforest",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat: Swamp Ruins (PDF/JPG)",
+              "machine_name": "pathfinderflip-mat_swampruinspdfandjpg",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Scenario #6-14: Twice in Steel (PDF)",
+              "machine_name": "pathfindersocietyscenario_issues6-14_twiceinsteelpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Scenario #5-02: The Blackwood Lost (PDF)",
+              "machine_name": "pathfindersocietyscenario_issues5-02_theblackwoodlostpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Society Scenario #1-05: Trailblazer's Bounty (PDF)",
+              "machine_name": "pathfindersocietyscenario_issues1-05_trailblazersbountypdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Monster Core (PDF)",
+              "machine_name": "pathfindermonstercorepdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder GM Core (PDF)",
+              "machine_name": "pathfindergmcorepdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Player Core (PDF)",
+              "machine_name": "pathfinderplayercorepdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Tales: The Swamp Warden (ePub)",
+              "machine_name": "pathfindertales_theswampwardenepub",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder: Swampsong (ePub)",
+              "machine_name": "pathfinder_swampsongepub",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Flip-Mat: Bayou Hideout (PDF/JPG)",
+              "machine_name": "pathfinderflip-mat_bayouhideoutpdfandjpg",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Paizo Printables: Welcome Pack Demo Adventure: Last Croak (PDF)",
+              "machine_name": "paizoprintables_welcomepackdemoadventure_lastcroakpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Character Sheet Pack (PDF)",
+              "machine_name": "pathfindercharactersheetpackpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Core GM Screen (PDF)",
+              "machine_name": "pathfindercoregmscreenpdf",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Pathfinder Second Edition Beginner Box: Remastered Edition (PDF)",
+              "machine_name": "pathfindersecondeditionbeginnerbox_remasterededition",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Learn to Make Games in Unity 2026 Bundle",
       "category": "software",
       "url": "https://humblebundle.com/software/learn-to-make-games-in-unity-2026-bundle-software",
@@ -17,7 +2366,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.11
+            "amount": 28.53
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -65,7 +2414,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.11
+            "amount": 28.53
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -158,7 +2507,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.11
+            "amount": 28.53
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -710,7 +3059,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.6
+            "amount": 19.4
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -782,7 +3131,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.6
+            "amount": 19.4
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -908,7 +3257,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.6
+            "amount": 19.4
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -1226,369 +3575,6 @@
       ]
     },
     {
-      "title": "The Complete Claude AI for Blender Bundle",
-      "category": "software",
-      "url": "https://humblebundle.com/software/complete-claude-ai-for-blender-bundle-software",
-      "machine_name": "completeclaudeaiforblenderbundle_softwarebundle",
-      "end_at": "2026-07-29T18:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $5 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 5.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 32.75
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Master Blender: Unleashing the Power of 3D Modeling",
-              "machine_name": "masterblender_unleashingthepowerof3dmodeling",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt15",
-          "header": "Pay $15 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 15.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 32.75
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Mastering Realistic Portraits: Advanced Human Head Sculpting",
-              "machine_name": "masteringrealisticportraits_advancedhumanheadsculpting",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Master Blender: Unleashing the Power of 3D Modeling",
-              "machine_name": "masterblender_unleashingthepowerof3dmodeling",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt30",
-          "header": "Pay $30 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 30.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 32.75
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "AI Box Modeling with Blender in Claude Code",
-              "machine_name": "aiboxmodelingwithblenderinclaudecodefirst-timeexclusivehumblebundl",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Hard-Surface Modeling with Blender in Claude Code ",
-              "machine_name": "hard-surfacemodelingwithblenderinclaudecodefirst-timeexclusivehumb",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Generate Asset Libraries with Blender in Claude Code ",
-              "machine_name": "generateassetlibrarieswithblenderinclaudecodefirst-timeexclusivehu",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Digital Sculpting Basics with Blender in Claude Code ",
-              "machine_name": "digitalsculptingbasicswithblenderinclaudecodefirst-timeexclusivehu",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Low-Poly Stylization with Blender in Claude Code ",
-              "machine_name": "low-polystylizationwithblenderinclaudecodefirst-timeexclusivehumbl",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Environment Modeling with Blender using Claude Code ",
-              "machine_name": "environmentmodelingwithblenderusingclaudecodefirst-timeexclusivehu",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Vehicle Modeling Principles with Blender in Claude Code",
-              "machine_name": "vehiclemodelingprincipleswithblenderinclaudecodefirst-timeexclusiv",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Boolean & Non-Destructive Modeling with Blender in Claude Code ",
-              "machine_name": "booleanandnon-destructivemodelingwithblenderinclaudecodefirst-time",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Introduction to 3D Modeling with Blender and Claude Code ",
-              "machine_name": "introductionto3dmodelingwithblenderandclaudecodefirst-timeexclusiv",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "PBR Material Authoring with Blender in Claude Code ",
-              "machine_name": "pbrmaterialauthoringwithblenderinclaudecodefirst-timeexclusivehumb",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Rigging and Animation with Blender in Claude Code ",
-              "machine_name": "riggingandanimationwithblenderinclaudecodefirst-timeexclusivehumbl",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Primitive Modeling Fundamentals in Claude Code ",
-              "machine_name": "primitivemodelingfundamentalsinclaudecodefirst-timeexclusivehumble",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Blender Scene Building and Rendering with Claude Code ",
-              "machine_name": "blenderscenebuildingandrenderingwithclaudecodefirst-timeexclusiveh",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Illuminating Mastery: Advanced Lighting Techniques",
-              "machine_name": "illuminatingmastery_advancedlightingtechniques",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Unveil the Perfect Glow: Advanced Portrait Lighting",
-              "machine_name": "unveiltheperfectglow_advancedportraitlighting",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Mastering Realistic Portraits: Advanced Human Head Sculpting",
-              "machine_name": "masteringrealisticportraits_advancedhumanheadsculpting",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Master Blender: Unleashing the Power of 3D Modeling",
-              "machine_name": "masterblender_unleashingthepowerof3dmodeling",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Linux: All the Things by O'Reilly",
       "category": "books",
       "url": "https://humblebundle.com/books/linux-all-things-oreilly-books",
@@ -1604,7 +3590,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.61
+            "amount": 23.46
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -1712,7 +3698,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.61
+            "amount": 23.46
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -1994,6 +3980,369 @@
       ]
     },
     {
+      "title": "The Complete Claude AI for Blender Bundle",
+      "category": "software",
+      "url": "https://humblebundle.com/software/complete-claude-ai-for-blender-bundle-software",
+      "machine_name": "completeclaudeaiforblenderbundle_softwarebundle",
+      "end_at": "2026-07-29T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 32.71
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Master Blender: Unleashing the Power of 3D Modeling",
+              "machine_name": "masterblender_unleashingthepowerof3dmodeling",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt15",
+          "header": "Pay $15 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 15.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 32.71
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Mastering Realistic Portraits: Advanced Human Head Sculpting",
+              "machine_name": "masteringrealisticportraits_advancedhumanheadsculpting",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Master Blender: Unleashing the Power of 3D Modeling",
+              "machine_name": "masterblender_unleashingthepowerof3dmodeling",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt30",
+          "header": "Pay $30 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 30.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 32.71
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "AI Box Modeling with Blender in Claude Code",
+              "machine_name": "aiboxmodelingwithblenderinclaudecodefirst-timeexclusivehumblebundl",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Hard-Surface Modeling with Blender in Claude Code ",
+              "machine_name": "hard-surfacemodelingwithblenderinclaudecodefirst-timeexclusivehumb",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Generate Asset Libraries with Blender in Claude Code ",
+              "machine_name": "generateassetlibrarieswithblenderinclaudecodefirst-timeexclusivehu",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Digital Sculpting Basics with Blender in Claude Code ",
+              "machine_name": "digitalsculptingbasicswithblenderinclaudecodefirst-timeexclusivehu",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Low-Poly Stylization with Blender in Claude Code ",
+              "machine_name": "low-polystylizationwithblenderinclaudecodefirst-timeexclusivehumbl",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Environment Modeling with Blender using Claude Code ",
+              "machine_name": "environmentmodelingwithblenderusingclaudecodefirst-timeexclusivehu",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Vehicle Modeling Principles with Blender in Claude Code",
+              "machine_name": "vehiclemodelingprincipleswithblenderinclaudecodefirst-timeexclusiv",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Boolean & Non-Destructive Modeling with Blender in Claude Code ",
+              "machine_name": "booleanandnon-destructivemodelingwithblenderinclaudecodefirst-time",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Introduction to 3D Modeling with Blender and Claude Code ",
+              "machine_name": "introductionto3dmodelingwithblenderandclaudecodefirst-timeexclusiv",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "PBR Material Authoring with Blender in Claude Code ",
+              "machine_name": "pbrmaterialauthoringwithblenderinclaudecodefirst-timeexclusivehumb",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Rigging and Animation with Blender in Claude Code ",
+              "machine_name": "riggingandanimationwithblenderinclaudecodefirst-timeexclusivehumbl",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Primitive Modeling Fundamentals in Claude Code ",
+              "machine_name": "primitivemodelingfundamentalsinclaudecodefirst-timeexclusivehumble",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender Scene Building and Rendering with Claude Code ",
+              "machine_name": "blenderscenebuildingandrenderingwithclaudecodefirst-timeexclusiveh",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Illuminating Mastery: Advanced Lighting Techniques",
+              "machine_name": "illuminatingmastery_advancedlightingtechniques",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Unveil the Perfect Glow: Advanced Portrait Lighting",
+              "machine_name": "unveiltheperfectglow_advancedportraitlighting",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Mastering Realistic Portraits: Advanced Human Head Sculpting",
+              "machine_name": "masteringrealisticportraits_advancedhumanheadsculpting",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Master Blender: Unleashing the Power of 3D Modeling",
+              "machine_name": "masterblender_unleashingthepowerof3dmodeling",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "The Tanith Lee Collection by DAW Books",
       "category": "books",
       "url": "https://humblebundle.com/books/tanith-lee-collection-daw-books-books",
@@ -2009,7 +4358,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.67
+            "amount": 20.61
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -2078,7 +4427,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.67
+            "amount": 20.61
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -2198,7 +4547,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.67
+            "amount": 20.61
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -2667,7 +5016,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.52
+            "amount": 22.51
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -2715,7 +5064,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.52
+            "amount": 22.51
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -2853,7 +5202,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.52
+            "amount": 22.51
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -4425,7 +6774,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.33
+            "amount": 20.36
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -4499,7 +6848,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.33
+            "amount": 20.36
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -4685,7 +7034,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.33
+            "amount": 20.36
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5103,7 +7452,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.18
+            "amount": 22.07
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -5138,7 +7487,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.18
+            "amount": 22.07
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5224,7 +7573,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.18
+            "amount": 22.07
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5625,7 +7974,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.3
+            "amount": 22.27
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -5733,7 +8082,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.3
+            "amount": 22.27
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5967,7 +8316,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.3
+            "amount": 22.27
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -7164,7 +9513,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 14.2
+            "amount": 14.21
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -7319,7 +9668,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 14.2
+            "amount": 14.21
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -8544,7 +10893,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.66
+            "amount": 26.69
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -8592,7 +10941,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.66
+            "amount": 26.69
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -8670,7 +11019,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.66
+            "amount": 26.69
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -8847,7 +11196,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.31
+            "amount": 27.3
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -8895,7 +11244,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.31
+            "amount": 27.3
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -9003,7 +11352,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.31
+            "amount": 27.3
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -9780,7 +12129,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.82
+            "amount": 20.81
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -10344,6 +12693,183 @@
       ]
     },
     {
+      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
+      "category": "software",
+      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
+      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
+      "end_at": "2026-07-22T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $25 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 25.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 27.71
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Clip Studio Paint Pro Version 5.0 - 12 month license",
+              "machine_name": "clipstudiopaintproversion50_12monthlicense",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Ultimate Brush Pack",
+              "machine_name": "ultimatebrushpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Superhero Brush Pack",
+              "machine_name": "superherobrushpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Comic Brush Pack",
+              "machine_name": "comicbrushpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "3D Models Pack",
+              "machine_name": "3dmodelspack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "3D Poses Pack",
+              "machine_name": "3dposespack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Speech Bubbles Pack",
+              "machine_name": "speechbubblespack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Comic & Manga Panel Frames Pack",
+              "machine_name": "comicandmangapanelframespack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Storyboard Assets Pack",
+              "machine_name": "storyboardassetspack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Moho Debut 12.5",
+              "machine_name": "mohodebut125",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Let's Go Gambling!...aw dang it.",
       "category": "games",
       "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
@@ -10459,6 +12985,26 @@
               "msrp_price": {
                 "currency": "USD",
                 "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SIDE EFFECTS",
+              "machine_name": "sideeffects",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 7.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 4.99
               },
               "platforms_and_oses": {
                 "game": {
@@ -10650,181 +13196,24 @@
                   ]
                 }
               }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
-      "category": "software",
-      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
-      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
-      "end_at": "2026-07-22T18:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $25 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 25.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 27.77
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Clip Studio Paint Pro Version 5.0 - 12 month license",
-              "machine_name": "clipstudiopaintproversion50_12monthlicense",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
             },
             {
-              "title": "Ultimate Brush Pack",
-              "machine_name": "ultimatebrushpack",
-              "type": "software",
+              "title": "SIDE EFFECTS",
+              "machine_name": "sideeffects",
+              "type": "game",
               "min_price": {
                 "currency": "USD",
-                "amount": 25.0
+                "amount": 7.0
               },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Superhero Brush Pack",
-              "machine_name": "superherobrushpack",
-              "type": "software",
-              "min_price": {
+              "msrp_price": {
                 "currency": "USD",
-                "amount": 25.0
+                "amount": 4.99
               },
-              "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Comic Brush Pack",
-              "machine_name": "comicbrushpack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "3D Models Pack",
-              "machine_name": "3dmodelspack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "3D Poses Pack",
-              "machine_name": "3dposespack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Speech Bubbles Pack",
-              "machine_name": "speechbubblespack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Comic & Manga Panel Frames Pack",
-              "machine_name": "comicandmangapanelframespack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Storyboard Assets Pack",
-              "machine_name": "storyboardassetspack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Moho Debut 12.5",
-              "machine_name": "mohodebut125",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
                 }
               }
             }
@@ -10848,7 +13237,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.42
+            "amount": 19.41
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -10926,7 +13315,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.42
+            "amount": 19.41
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -11094,7 +13483,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.42
+            "amount": 19.41
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -11571,7 +13960,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.37
+            "amount": 20.36
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -11764,7 +14153,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.37
+            "amount": 20.36
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -12017,7 +14406,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.37
+            "amount": 20.36
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -12651,7 +15040,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 31.67
+            "amount": 31.69
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -13065,7 +15454,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 31.67
+            "amount": 31.69
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -14037,7 +16426,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 31.67
+            "amount": 31.69
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -15630,7 +18019,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.75
+            "amount": 23.76
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -15768,7 +18157,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.75
+            "amount": 23.76
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -16326,7 +18715,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.75
+            "amount": 23.76
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -16908,7 +19297,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.36
+            "amount": 20.41
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -17016,7 +19405,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.36
+            "amount": 20.41
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -17259,7 +19648,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.36
+            "amount": 20.41
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -17736,7 +20125,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.4
+            "amount": 19.39
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -17799,7 +20188,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.4
+            "amount": 19.39
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -17907,7 +20296,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.4
+            "amount": 19.39
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -21427,348 +23816,6 @@
       ]
     },
     {
-      "title": "Robyn Carr's Virgin River",
-      "category": "books",
-      "url": "https://humblebundle.com/books/robyn-carrs-virgin-river-books",
-      "machine_name": "robyncarrsvirginriver_bookbundle",
-      "end_at": "2026-07-10T18:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $18 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 18.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 19.04
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "VIRGIN RIVER",
-              "machine_name": "virginriver",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "SHELTER MOUNTAIN",
-              "machine_name": "shelter_mountain",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "WHISPERING ROCK",
-              "machine_name": "whisperingrock",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "A VIRGIN RIVER CHRISTMAS",
-              "machine_name": "avirginriverchristmas",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "SECOND CHANCE PASS",
-              "machine_name": "secondchancepass",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "TEMPTATION RIDGE",
-              "machine_name": "temptationridge",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "PARADISE VALLEY",
-              "machine_name": "paradisevalley",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "UNDER THE CHRISTMAS TREE",
-              "machine_name": "underthechristmastree",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "FORBIDDEN FALLS",
-              "machine_name": "forbiddenfalls",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "ANGEL'S PEAK",
-              "machine_name": "angels_peak",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "MOONLIGHT ROAD",
-              "machine_name": "moonlightroad",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "MIDNIGHT CONFESSIONS",
-              "machine_name": "midnightconfessions",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "PROMISE CANYON",
-              "machine_name": "promisecanyon",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "WILD MAN CREEK",
-              "machine_name": "wildmancreek",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "HARVEST MOON",
-              "machine_name": "harvestmoon",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "BRING ME HOME FOR CHRISTMAS",
-              "machine_name": "bringmehomeforchristmas",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "HIDDEN SUMMIT",
-              "machine_name": "hiddensummit",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "REDWOOD BEND",
-              "machine_name": "redwoodbend",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "SUNRISE POINT",
-              "machine_name": "sunrisepoint",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "MY KIND OF CHRISTMAS",
-              "machine_name": "mykindofchristmas",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "RETURN TO VIRGIN RIVER",
-              "machine_name": "returntovirginriver",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "other-key": []
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Unreal Environment Bundle",
       "category": "software",
       "url": "https://humblebundle.com/software/unreal-environment-bundle-software",
@@ -21784,7 +23831,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.99
+            "amount": 33.0
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -21847,7 +23894,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.99
+            "amount": 33.0
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -21970,7 +24017,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.99
+            "amount": 33.0
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -22177,7 +24224,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.49
+            "amount": 26.51
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -22270,7 +24317,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.49
+            "amount": 26.51
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -22438,7 +24485,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.49
+            "amount": 26.51
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -22810,596 +24857,6 @@
       ]
     },
     {
-      "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
-      "category": "books",
-      "url": "https://humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books",
-      "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
-      "end_at": "2026-07-14T18:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $5 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 5.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 19.9
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "BROTHERS OF THE WIND",
-              "machine_name": "brothersofthewind",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "TAILCHASER'S SONG",
-              "machine_name": "tailchaserssong",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "WAR OF THE FLOWERS",
-              "machine_name": "waroftheflowers",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt10",
-          "header": "Pay $10 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 10.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 19.9
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "DIRTY STREETS OF HEAVEN",
-              "machine_name": "dirtystreetsofheaven",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "DRAGONBONE CHAIR",
-              "machine_name": "dragonbonechair",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "OTHERLAND 1: CITY OF GOLDEN SHAD",
-              "machine_name": "otherland1_cityofgoldenshad",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "BROTHERS OF THE WIND",
-              "machine_name": "brothersofthewind",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "TAILCHASER'S SONG",
-              "machine_name": "tailchaserssong",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "WAR OF THE FLOWERS",
-              "machine_name": "waroftheflowers",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt18",
-          "header": "Pay $18 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 18.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 19.9
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "EMPIRE OF GRASS",
-              "machine_name": "empireofgrass",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "HAPPY HOUR IN HELL",
-              "machine_name": "happyhourinhell",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "HEART OF WHAT WAS LOST",
-              "machine_name": "heartofwhatwaslost",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "INTO THE NARROWDARK",
-              "machine_name": "intothenarrowdark",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "OTHERLAND 2: RIVER OF BLUE FIR",
-              "machine_name": "otherland2_riverofbluefire",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "OTHERLAND 3: MOUNTAIN OF BLACK",
-              "machine_name": "otherland3_mountainofblack",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "OTHERLAND 4: SEA OF SILVER LIGHT",
-              "machine_name": "otherland4_seaofsilverlight",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SHADOWHEART",
-              "machine_name": "shadowheart",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SHADOWMARCH",
-              "machine_name": "shadowmarch_vol1",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SHADOWPLAY",
-              "machine_name": "shadowplay",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SHADOWRISE",
-              "machine_name": "shadowrise",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SLEEPING LATE ON JUDGEMENT DAY",
-              "machine_name": "sleepinglateonjudgementday",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "STONE OF FAREWELL",
-              "machine_name": "stoneoffarewell",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "THE NAVIGATOR'S CHILDREN",
-              "machine_name": "navigatorschildren",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "TO GREEN ANGEL TOWER",
-              "machine_name": "togreenangeltower",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "WITCHWOOD CROWN",
-              "machine_name": "witchwoodcrown",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "DIRTY STREETS OF HEAVEN",
-              "machine_name": "dirtystreetsofheaven",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "DRAGONBONE CHAIR",
-              "machine_name": "dragonbonechair",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "OTHERLAND 1: CITY OF GOLDEN SHAD",
-              "machine_name": "otherland1_cityofgoldenshad",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "BROTHERS OF THE WIND",
-              "machine_name": "brothersofthewind",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "TAILCHASER'S SONG",
-              "machine_name": "tailchaserssong",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "WAR OF THE FLOWERS",
-              "machine_name": "waroftheflowers",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Bigger Better Bundle",
       "category": "software",
       "url": "https://humblebundle.com/software/bigger-better-bundle-software",
@@ -23415,7 +24872,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.77
+            "amount": 22.78
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -23508,7 +24965,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.77
+            "amount": 22.78
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -23712,7 +25169,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.77
+            "amount": 22.78
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -24732,6 +26189,596 @@
       ]
     },
     {
+      "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
+      "category": "books",
+      "url": "https://humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books",
+      "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
+      "end_at": "2026-07-14T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.89
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "BROTHERS OF THE WIND",
+              "machine_name": "brothersofthewind",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "TAILCHASER'S SONG",
+              "machine_name": "tailchaserssong",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "WAR OF THE FLOWERS",
+              "machine_name": "waroftheflowers",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt10",
+          "header": "Pay $10 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 10.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.89
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "DIRTY STREETS OF HEAVEN",
+              "machine_name": "dirtystreetsofheaven",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "DRAGONBONE CHAIR",
+              "machine_name": "dragonbonechair",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "OTHERLAND 1: CITY OF GOLDEN SHAD",
+              "machine_name": "otherland1_cityofgoldenshad",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "BROTHERS OF THE WIND",
+              "machine_name": "brothersofthewind",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "TAILCHASER'S SONG",
+              "machine_name": "tailchaserssong",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "WAR OF THE FLOWERS",
+              "machine_name": "waroftheflowers",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt18",
+          "header": "Pay $18 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 18.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 19.89
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "EMPIRE OF GRASS",
+              "machine_name": "empireofgrass",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "HAPPY HOUR IN HELL",
+              "machine_name": "happyhourinhell",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "HEART OF WHAT WAS LOST",
+              "machine_name": "heartofwhatwaslost",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "INTO THE NARROWDARK",
+              "machine_name": "intothenarrowdark",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "OTHERLAND 2: RIVER OF BLUE FIR",
+              "machine_name": "otherland2_riverofbluefire",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "OTHERLAND 3: MOUNTAIN OF BLACK",
+              "machine_name": "otherland3_mountainofblack",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "OTHERLAND 4: SEA OF SILVER LIGHT",
+              "machine_name": "otherland4_seaofsilverlight",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SHADOWHEART",
+              "machine_name": "shadowheart",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SHADOWMARCH",
+              "machine_name": "shadowmarch_vol1",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SHADOWPLAY",
+              "machine_name": "shadowplay",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SHADOWRISE",
+              "machine_name": "shadowrise",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SLEEPING LATE ON JUDGEMENT DAY",
+              "machine_name": "sleepinglateonjudgementday",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "STONE OF FAREWELL",
+              "machine_name": "stoneoffarewell",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "THE NAVIGATOR'S CHILDREN",
+              "machine_name": "navigatorschildren",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "TO GREEN ANGEL TOWER",
+              "machine_name": "togreenangeltower",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "WITCHWOOD CROWN",
+              "machine_name": "witchwoodcrown",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "DIRTY STREETS OF HEAVEN",
+              "machine_name": "dirtystreetsofheaven",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "DRAGONBONE CHAIR",
+              "machine_name": "dragonbonechair",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "OTHERLAND 1: CITY OF GOLDEN SHAD",
+              "machine_name": "otherland1_cityofgoldenshad",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "BROTHERS OF THE WIND",
+              "machine_name": "brothersofthewind",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "TAILCHASER'S SONG",
+              "machine_name": "tailchaserssong",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "WAR OF THE FLOWERS",
+              "machine_name": "waroftheflowers",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Vast Fantasy Worlds Game Dev Bundle",
       "category": "software",
       "url": "https://humblebundle.com/software/vast-fantasy-worlds-game-dev-bundle-software",
@@ -24747,7 +26794,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.85
+            "amount": 32.84
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -24783,7 +26830,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.85
+            "amount": 32.84
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -25008,7 +27055,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.19
+            "amount": 27.18
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -25041,7 +27088,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.19
+            "amount": 27.18
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -25089,7 +27136,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.19
+            "amount": 27.18
           },
           "is_initial_tier": false,
           "is_bta": false,
