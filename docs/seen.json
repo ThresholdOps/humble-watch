@@ -1,14 +1,30 @@
 {
-  "generated_at": "2026-07-10T19:47:51Z",
-  "updated_at": "2026-07-10T19:48:22Z",
+  "generated_at": "2026-07-11T19:21:28Z",
+  "updated_at": "2026-07-11T19:21:55Z",
   "items": [
     {
-      "key": "squadgoals_bundle",
-      "url": "https://humblebundle.com/games/squad-goals",
-      "machine_name": "squadgoals_bundle",
-      "title": "Squad Goals",
-      "category": "games",
-      "end_at": "2026-08-01T04:00:00"
+      "key": "cosmoseclipsegamedevassetstoolsbundleunrealunitygodot_softwarebundle",
+      "url": "https://humblebundle.com/software/cosmos-eclipse-game-dev-assets-tools-bundle-unreal-unity-godot-software",
+      "machine_name": "cosmoseclipsegamedevassetstoolsbundleunrealunitygodot_softwarebundle",
+      "title": "Cosmos Eclipse Game Dev Assets & Tools bundle (Unreal + Unity + Godot)",
+      "category": "software",
+      "end_at": "2026-08-01T18:00:00"
+    },
+    {
+      "key": "picoshatsandmoreraspberrypipress_bookbundle",
+      "url": "https://humblebundle.com/books/picos-hats-and-more-raspberry-pi-press-books",
+      "machine_name": "picoshatsandmoreraspberrypipress_bookbundle",
+      "title": "Picos, HATs, and More by Raspberry Pi Press",
+      "category": "books",
+      "end_at": "2026-08-01T18:00:00"
+    },
+    {
+      "key": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
+      "url": "https://humblebundle.com/books/pathfinder-second-edition-bundle-frogs-paizo-inc-books",
+      "machine_name": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
+      "title": "Pathfinder Second Edition Bundle of Frogs! By Paizo Inc.",
+      "category": "books",
+      "end_at": "2026-07-31T18:00:00"
     },
     {
       "key": "narrative12for10bundle_bundle",
@@ -19,19 +35,19 @@
       "end_at": "2026-08-01T04:00:00"
     },
     {
+      "key": "squadgoals_bundle",
+      "url": "https://humblebundle.com/games/squad-goals",
+      "machine_name": "squadgoals_bundle",
+      "title": "Squad Goals",
+      "category": "games",
+      "end_at": "2026-08-01T04:00:00"
+    },
+    {
       "key": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
       "url": "https://humblebundle.com/software/freedom-to-create-with-corel-graphics-suite-2025-software",
       "machine_name": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
       "title": "Freedom to Create with COREL Graphics Suite 2025",
       "category": "software",
-      "end_at": "2026-07-31T18:00:00"
-    },
-    {
-      "key": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
-      "url": "https://humblebundle.com/books/pathfinder-second-edition-bundle-frogs-paizo-inc-books",
-      "machine_name": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
-      "title": "Pathfinder Second Edition Bundle of Frogs! By Paizo Inc.",
-      "category": "books",
       "end_at": "2026-07-31T18:00:00"
     },
     {
@@ -51,19 +67,19 @@
       "end_at": "2026-07-30T18:00:00"
     },
     {
-      "key": "linuxallthingsoreilly_bookbundle",
-      "url": "https://humblebundle.com/books/linux-all-things-oreilly-books",
-      "machine_name": "linuxallthingsoreilly_bookbundle",
-      "title": "Linux: All the Things by O'Reilly",
-      "category": "books",
-      "end_at": "2026-07-29T18:00:00"
-    },
-    {
       "key": "completeclaudeaiforblenderbundle_softwarebundle",
       "url": "https://humblebundle.com/software/complete-claude-ai-for-blender-bundle-software",
       "machine_name": "completeclaudeaiforblenderbundle_softwarebundle",
       "title": "The Complete Claude AI for Blender Bundle",
       "category": "software",
+      "end_at": "2026-07-29T18:00:00"
+    },
+    {
+      "key": "linuxallthingsoreilly_bookbundle",
+      "url": "https://humblebundle.com/books/linux-all-things-oreilly-books",
+      "machine_name": "linuxallthingsoreilly_bookbundle",
+      "title": "Linux: All the Things by O'Reilly",
+      "category": "books",
       "end_at": "2026-07-29T18:00:00"
     },
     {
@@ -91,19 +107,19 @@
       "end_at": "2026-07-27T18:00:00"
     },
     {
-      "key": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
-      "url": "https://humblebundle.com/books/john-scalzi-collection-old-mans-war-more-tor-books-books",
-      "machine_name": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
-      "title": "The John Scalzi Collection: Old Man's War & More by TOR Books",
-      "category": "books",
-      "end_at": "2026-07-25T18:00:00"
-    },
-    {
       "key": "vfxmasterbundleforunreal_softwarebundle",
       "url": "https://humblebundle.com/software/vfx-masterbundle-for-unreal-software",
       "machine_name": "vfxmasterbundleforunreal_softwarebundle",
       "title": "VFX Master-Bundle For Unreal",
       "category": "software",
+      "end_at": "2026-07-25T18:00:00"
+    },
+    {
+      "key": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
+      "url": "https://humblebundle.com/books/john-scalzi-collection-old-mans-war-more-tor-books-books",
+      "machine_name": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
+      "title": "The John Scalzi Collection: Old Man's War & More by TOR Books",
+      "category": "books",
       "end_at": "2026-07-25T18:00:00"
     },
     {
@@ -113,6 +129,14 @@
       "title": "Summer Games Done Quick 2026",
       "category": "games",
       "end_at": "2026-07-25T01:00:00"
+    },
+    {
+      "key": "itai500certificationexams_softwarebundle",
+      "url": "https://humblebundle.com/software/it-ai-500-certification-exams-software",
+      "machine_name": "itai500certificationexams_softwarebundle",
+      "title": "IT & AI: 500+ Certification Exams",
+      "category": "software",
+      "end_at": "2026-07-23T18:00:00"
     },
     {
       "key": "aifoundationsandapplicationsmanning_softwarebundle",
@@ -131,27 +155,11 @@
       "end_at": "2026-07-23T18:00:00"
     },
     {
-      "key": "itai500certificationexams_softwarebundle",
-      "url": "https://humblebundle.com/software/it-ai-500-certification-exams-software",
-      "machine_name": "itai500certificationexams_softwarebundle",
-      "title": "IT & AI: 500+ Certification Exams",
-      "category": "software",
-      "end_at": "2026-07-23T18:00:00"
-    },
-    {
       "key": "craftyourcosplaydreams_bookbundle",
       "url": "https://humblebundle.com/books/craft-your-cosplay-dreams-books",
       "machine_name": "craftyourcosplaydreams_bookbundle",
       "title": "Craft Your Cosplay Dreams",
       "category": "books",
-      "end_at": "2026-07-22T18:00:00"
-    },
-    {
-      "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
-      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
-      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
-      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
-      "category": "software",
       "end_at": "2026-07-22T18:00:00"
     },
     {
@@ -161,6 +169,14 @@
       "title": "Let's Go Gambling!...aw dang it.",
       "category": "games",
       "end_at": "2026-07-23T04:00:00"
+    },
+    {
+      "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
+      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
+      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
+      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
+      "category": "software",
+      "end_at": "2026-07-22T18:00:00"
     },
     {
       "key": "supergirlwomantomorrowandmoredccomics_bookbundle",
@@ -216,15 +232,7 @@
       "machine_name": "sonic35thanniversarymegabundleidw_bookbundle",
       "title": "Sonic 35th Anniversary Megabundle by IDW",
       "category": "books",
-      "end_at": "2026-07-11T18:00:00"
-    },
-    {
-      "key": "june2unes_bundle",
-      "url": "https://humblebundle.com/games/june-2unes",
-      "machine_name": "june2unes_bundle",
-      "title": "June 2unes",
-      "category": "games",
-      "end_at": "2026-07-11T01:00:00"
+      "end_at": "2026-07-18T18:00:00"
     },
     {
       "key": "andwinnerisawardwinningfantasysciencefictionhorrorfromtachyon_bookbundle",
@@ -235,20 +243,20 @@
       "end_at": "2026-07-16T18:00:00"
     },
     {
-      "key": "uploadvrsummer2026_bundle",
-      "url": "https://humblebundle.com/games/upload-vr-summer-2026",
-      "machine_name": "uploadvrsummer2026_bundle",
-      "title": "Upload VR Summer 2026",
-      "category": "games",
-      "end_at": "2026-07-16T04:00:00"
-    },
-    {
       "key": "premiumscifidesigntrainingbundle_softwarebundle",
       "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
       "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
       "title": "Premium Sci-Fi Design Training Bundle",
       "category": "software",
       "end_at": "2026-07-15T18:00:00"
+    },
+    {
+      "key": "uploadvrsummer2026_bundle",
+      "url": "https://humblebundle.com/games/upload-vr-summer-2026",
+      "machine_name": "uploadvrsummer2026_bundle",
+      "title": "Upload VR Summer 2026",
+      "category": "games",
+      "end_at": "2026-07-16T04:00:00"
     },
     {
       "key": "allinoneunrealunitygamedevbundle_softwarebundle",
