@@ -17,7 +17,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 31.88
+            "amount": 33.8
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -130,7 +130,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 31.88
+            "amount": 33.8
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -414,7 +414,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 31.88
+            "amount": 33.8
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -1847,7 +1847,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.75
+            "amount": 26.67
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -1901,7 +1901,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.75
+            "amount": 26.67
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -2009,7 +2009,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.75
+            "amount": 26.67
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -2309,6 +2309,624 @@
       ]
     },
     {
+      "title": "Freedom to Create with COREL Graphics Suite 2025",
+      "category": "software",
+      "url": "https://humblebundle.com/software/freedom-to-create-with-corel-graphics-suite-2025-software",
+      "machine_name": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
+      "end_at": "2026-07-31T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $70 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 70.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 78.28
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Corel DRAW Graphics Suite 2025",
+              "machine_name": "coreldrawgraphicssuite2025",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 70.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "CorelDRAW",
+              "machine_name": "coreldraw",
+              "type": null,
+              "min_price": {
+                "currency": "USD",
+                "amount": 70.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {}
+            },
+            {
+              "title": "Corel Font Manager",
+              "machine_name": "corelfontmanager",
+              "type": null,
+              "min_price": {
+                "currency": "USD",
+                "amount": 70.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {}
+            },
+            {
+              "title": "CAPTURE",
+              "machine_name": "corelcapture",
+              "type": null,
+              "min_price": {
+                "currency": "USD",
+                "amount": 70.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {}
+            },
+            {
+              "title": "Corel PHOTO-PAINT",
+              "machine_name": "corelphoto-paint",
+              "type": null,
+              "min_price": {
+                "currency": "USD",
+                "amount": 70.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Narrative 12 for $10 Bundle",
+      "category": "games",
+      "url": "https://humblebundle.com/games/narrative-12-for-10-bundle",
+      "machine_name": "narrative12for10bundle_bundle",
+      "end_at": "2026-08-01T04:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $10 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 10.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 11.56
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Roadwarden",
+              "machine_name": "roadwarden",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 10.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "White Shadows",
+              "machine_name": "whiteshadows",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Gone Home",
+              "machine_name": "gonehome",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Neo Cab",
+              "machine_name": "neocab",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Darkside Detective: A Fumble in the Dark",
+              "machine_name": "thedarksidedetective_afumbleinthedark",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Stillness of the Wind",
+              "machine_name": "thestillnessofthewind",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 12.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Procession to Calvary",
+              "machine_name": "theprocessiontocalvary",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "No Longer Home",
+              "machine_name": "nolongerhome",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Without a Dawn",
+              "machine_name": "withoutadawn",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 7.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Hiveswap Friendsim",
+              "machine_name": "hiveswapfriendsim",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 12.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Mythwrecked: Ambrosia Island",
+              "machine_name": "mythwrecked_ambrosiaisland",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Over the Alps",
+              "machine_name": "overthealps",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 7.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Squad Goals",
+      "category": "games",
+      "url": "https://humblebundle.com/games/squad-goals",
+      "machine_name": "squadgoals_bundle",
+      "end_at": "2026-08-01T04:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $10 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 10.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 10.9
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "TMNT: Splintered Fate",
+              "machine_name": "teenagemutantninjaturtles_splinteredfate",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 29.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "TMNT: Splintered Fate + Metalhead DLC",
+              "machine_name": "tmnt_splinteredfate-metalhead",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 3.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "PlateUp!",
+              "machine_name": "plateup",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 19.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Murky Divers",
+              "machine_name": "murkydivers",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 7.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "KeyWe",
+              "machine_name": "keywe",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Kitchen Wars",
+              "machine_name": "kitchenwars",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 4.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Content Warning",
+              "machine_name": "contentwarning",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 7.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Human Fall Flat",
+              "machine_name": "human_fallflat",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "PHOGS!",
+              "machine_name": "phogs",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 24.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Kritter: Defend Together",
+              "machine_name": "kritter_defendtogether",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Pratfall Coupon 30%",
+              "machine_name": "pratfallcoupon30",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Pathfinder Second Edition Bundle of Frogs! By Paizo Inc.",
       "category": "books",
       "url": "https://humblebundle.com/books/pathfinder-second-edition-bundle-frogs-paizo-inc-books",
@@ -2324,7 +2942,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 35.44
+            "amount": 35.53
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -2447,7 +3065,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 35.44
+            "amount": 35.53
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -2825,7 +3443,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 35.44
+            "amount": 35.53
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -3428,7 +4046,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 35.44
+            "amount": 35.53
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -4040,624 +4658,6 @@
       ]
     },
     {
-      "title": "Narrative 12 for $10 Bundle",
-      "category": "games",
-      "url": "https://humblebundle.com/games/narrative-12-for-10-bundle",
-      "machine_name": "narrative12for10bundle_bundle",
-      "end_at": "2026-08-01T04:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $10 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 10.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 11.58
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Roadwarden",
-              "machine_name": "roadwarden",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 10.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "White Shadows",
-              "machine_name": "whiteshadows",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Gone Home",
-              "machine_name": "gonehome",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Neo Cab",
-              "machine_name": "neocab",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Darkside Detective: A Fumble in the Dark",
-              "machine_name": "thedarksidedetective_afumbleinthedark",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Stillness of the Wind",
-              "machine_name": "thestillnessofthewind",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 12.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Procession to Calvary",
-              "machine_name": "theprocessiontocalvary",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "No Longer Home",
-              "machine_name": "nolongerhome",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Without a Dawn",
-              "machine_name": "withoutadawn",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 7.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Hiveswap Friendsim",
-              "machine_name": "hiveswapfriendsim",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 12.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Mythwrecked: Ambrosia Island",
-              "machine_name": "mythwrecked_ambrosiaisland",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Over the Alps",
-              "machine_name": "overthealps",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 7.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac"
-                  ]
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Squad Goals",
-      "category": "games",
-      "url": "https://humblebundle.com/games/squad-goals",
-      "machine_name": "squadgoals_bundle",
-      "end_at": "2026-08-01T04:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $10 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 10.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 10.88
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "TMNT: Splintered Fate",
-              "machine_name": "teenagemutantninjaturtles_splinteredfate",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 29.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "TMNT: Splintered Fate + Metalhead DLC",
-              "machine_name": "tmnt_splinteredfate-metalhead",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 3.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "PlateUp!",
-              "machine_name": "plateup",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 19.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Murky Divers",
-              "machine_name": "murkydivers",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 7.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "KeyWe",
-              "machine_name": "keywe",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Kitchen Wars",
-              "machine_name": "kitchenwars",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 4.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Content Warning",
-              "machine_name": "contentwarning",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 7.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Human Fall Flat",
-              "machine_name": "human_fallflat",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "PHOGS!",
-              "machine_name": "phogs",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 24.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Kritter: Defend Together",
-              "machine_name": "kritter_defendtogether",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Pratfall Coupon 30%",
-              "machine_name": "pratfallcoupon30",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Freedom to Create with COREL Graphics Suite 2025",
-      "category": "software",
-      "url": "https://humblebundle.com/software/freedom-to-create-with-corel-graphics-suite-2025-software",
-      "machine_name": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
-      "end_at": "2026-07-31T18:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $70 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 70.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 77.88
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Corel DRAW Graphics Suite 2025",
-              "machine_name": "coreldrawgraphicssuite2025",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 70.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "CorelDRAW",
-              "machine_name": "coreldraw",
-              "type": null,
-              "min_price": {
-                "currency": "USD",
-                "amount": 70.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {}
-            },
-            {
-              "title": "Corel Font Manager",
-              "machine_name": "corelfontmanager",
-              "type": null,
-              "min_price": {
-                "currency": "USD",
-                "amount": 70.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {}
-            },
-            {
-              "title": "CAPTURE",
-              "machine_name": "corelcapture",
-              "type": null,
-              "min_price": {
-                "currency": "USD",
-                "amount": 70.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {}
-            },
-            {
-              "title": "Corel PHOTO-PAINT",
-              "machine_name": "corelphoto-paint",
-              "type": null,
-              "min_price": {
-                "currency": "USD",
-                "amount": 70.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {}
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Learn to Make Games in Unity 2026 Bundle",
       "category": "software",
       "url": "https://humblebundle.com/software/learn-to-make-games-in-unity-2026-bundle-software",
@@ -4673,7 +4673,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 28.36
+            "amount": 28.04
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -4721,7 +4721,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 28.36
+            "amount": 28.04
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -4814,7 +4814,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 28.36
+            "amount": 28.04
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5366,7 +5366,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.47
+            "amount": 19.48
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -5438,7 +5438,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.47
+            "amount": 19.48
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5564,7 +5564,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.47
+            "amount": 19.48
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5897,7 +5897,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.51
+            "amount": 32.55
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -5930,7 +5930,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.51
+            "amount": 32.55
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5978,7 +5978,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.51
+            "amount": 32.55
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -6260,7 +6260,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.51
+            "amount": 23.55
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -6368,7 +6368,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.51
+            "amount": 23.55
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -6665,7 +6665,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.65
+            "amount": 20.63
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -6734,7 +6734,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.65
+            "amount": 20.63
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -6854,7 +6854,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.65
+            "amount": 20.63
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -7323,7 +7323,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.4
+            "amount": 22.46
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -7371,7 +7371,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.4
+            "amount": 22.46
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -7509,7 +7509,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.4
+            "amount": 22.46
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -9081,7 +9081,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.33
+            "amount": 20.3
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -9155,7 +9155,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.33
+            "amount": 20.3
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -9341,7 +9341,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.33
+            "amount": 20.3
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -9759,7 +9759,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.19
+            "amount": 22.13
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -9867,7 +9867,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.19
+            "amount": 22.13
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -10101,7 +10101,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.19
+            "amount": 22.13
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -11298,7 +11298,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.04
+            "amount": 22.01
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -11333,7 +11333,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.04
+            "amount": 22.01
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -11419,7 +11419,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.04
+            "amount": 22.01
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -11820,7 +11820,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 14.23
+            "amount": 14.22
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -11975,7 +11975,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 14.23
+            "amount": 14.22
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -12184,6 +12184,309 @@
       ]
     },
     {
+      "title": "Complete Character Creation for Games",
+      "category": "software",
+      "url": "https://humblebundle.com/software/complete-character-creation-for-games-software",
+      "machine_name": "completecharactercreationforgames_softwarebundle",
+      "end_at": "2026-07-23T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 26.65
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Blender Alpha Brush Pack: Skin & Scales",
+              "machine_name": "blenderalphabrushpack_skinscales",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender Dragon Sculpting Course",
+              "machine_name": "blenderdragonsculptingcourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt15",
+          "header": "Pay $15 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 15.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 26.65
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Blender Low Poly Characters Course",
+              "machine_name": "blenderlowpolycharacterscourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender 2D Sprites Course",
+              "machine_name": "blender2dspritescourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender Alpha Brush Pack: Skin & Scales",
+              "machine_name": "blenderalphabrushpack_skinscales",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender Dragon Sculpting Course",
+              "machine_name": "blenderdragonsculptingcourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt25",
+          "header": "Pay $25 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 25.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 26.65
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Blender Animation & Rigging Course",
+              "machine_name": "blenderanimationandriggingcourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Create Anime Characters In Blender Course",
+              "machine_name": "createanimecharactersinblendercourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender Character Creator for Video Games Course",
+              "machine_name": "blendercharactercreatorforvideogamescourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "From Blender to Godot Course",
+              "machine_name": "fromblendertogodotcourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "From Blender to Unity Course",
+              "machine_name": "fromblendertounitycourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "From Blender to Unreal Course",
+              "machine_name": "fromblendertounrealcourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender Low Poly Characters Course",
+              "machine_name": "blenderlowpolycharacterscourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender 2D Sprites Course",
+              "machine_name": "blender2dspritescourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender Alpha Brush Pack: Skin & Scales",
+              "machine_name": "blenderalphabrushpack_skinscales",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Blender Dragon Sculpting Course",
+              "machine_name": "blenderdragonsculptingcourse",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "IT & AI: 500+ Certification Exams",
       "category": "software",
       "url": "https://humblebundle.com/software/it-ai-500-certification-exams-software",
@@ -12199,7 +12502,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.28
+            "amount": 27.23
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -12247,7 +12550,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.28
+            "amount": 27.23
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -12355,7 +12658,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.28
+            "amount": 27.23
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -13132,7 +13435,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 56.96
+            "amount": 56.99
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -13241,7 +13544,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 56.96
+            "amount": 56.99
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -13610,7 +13913,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 56.96
+            "amount": 56.99
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -14118,22 +14421,22 @@
       ]
     },
     {
-      "title": "Complete Character Creation for Games",
-      "category": "software",
-      "url": "https://humblebundle.com/software/complete-character-creation-for-games-software",
-      "machine_name": "completecharactercreationforgames_softwarebundle",
-      "end_at": "2026-07-23T18:00:00",
+      "title": "Let's Go Gambling!...aw dang it.",
+      "category": "games",
+      "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
+      "machine_name": "letsgogamblingawdangit_bundle",
+      "end_at": "2026-07-23T04:00:00",
       "tiers": [
         {
           "key": "initial",
-          "header": "Pay $5 to unlock!",
+          "header": "Pay $7 to unlock!",
           "price": {
             "currency": "USD",
-            "amount": 5.0
+            "amount": 7.0
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.6
+            "amount": 12.67
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -14141,47 +14444,139 @@
           "sold_out": false,
           "items": [
             {
-              "title": "Blender Alpha Brush Pack: Skin & Scales",
-              "machine_name": "blenderalphabrushpack_skinscales",
-              "type": "software",
+              "title": "This Ain't Even Poker, Ya Joker",
+              "machine_name": "thisaintevenpokeryajoker",
+              "type": "game",
               "min_price": {
                 "currency": "USD",
-                "amount": 5.0
+                "amount": 7.0
               },
-              "msrp_price": null,
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 5.99
+              },
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
                 }
               }
             },
             {
-              "title": "Blender Dragon Sculpting Course",
-              "machine_name": "blenderdragonsculptingcourse",
-              "type": "software",
+              "title": "Dice of Kalma",
+              "machine_name": "diceofkalma",
+              "type": "game",
               "min_price": {
                 "currency": "USD",
-                "amount": 5.0
+                "amount": 7.0
               },
-              "msrp_price": null,
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 4.99
+              },
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Explosive Odds",
+              "machine_name": "explosiveodds",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 7.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 4.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Treasure Tiger",
+              "machine_name": "treasuretiger",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 7.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 4.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SuperTaxCity",
+              "machine_name": "supertaxcity",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 7.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SIDE EFFECTS",
+              "machine_name": "sideeffects",
+              "type": "game",
+              "min_price": {
+                "currency": "USD",
+                "amount": 7.0
+              },
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 4.99
+              },
+              "platforms_and_oses": {
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
                 }
               }
             }
           ]
         },
         {
-          "key": "bt15",
-          "header": "Pay $15 or more to also unlock!",
+          "key": "bt12",
+          "header": "Pay $12 or more to also unlock!",
           "price": {
             "currency": "USD",
-            "amount": 15.0
+            "amount": 12.0
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.6
+            "amount": 12.67
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -14189,230 +14584,187 @@
           "sold_out": false,
           "items": [
             {
-              "title": "Blender Low Poly Characters Course",
-              "machine_name": "blenderlowpolycharacterscourse",
-              "type": "software",
+              "title": "Dicealot",
+              "machine_name": "dicealtot",
+              "type": "game",
               "min_price": {
                 "currency": "USD",
-                "amount": 15.0
+                "amount": 12.0
               },
-              "msrp_price": null,
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
                 }
               }
             },
             {
-              "title": "Blender 2D Sprites Course",
-              "machine_name": "blender2dspritescourse",
-              "type": "software",
+              "title": "Pip My Dice",
+              "machine_name": "pipmydice",
+              "type": "game",
               "min_price": {
                 "currency": "USD",
-                "amount": 15.0
+                "amount": 12.0
               },
-              "msrp_price": null,
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 10.99
+              },
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "game": {
+                  "steam": [
+                    "windows",
+                    "linux"
+                  ]
                 }
               }
             },
             {
-              "title": "Blender Alpha Brush Pack: Skin & Scales",
-              "machine_name": "blenderalphabrushpack_skinscales",
-              "type": "software",
+              "title": "Dicey Dungeons",
+              "machine_name": "diceydungeons",
+              "type": "game",
               "min_price": {
                 "currency": "USD",
-                "amount": 5.0
+                "amount": 12.0
               },
-              "msrp_price": null,
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 14.99
+              },
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
                 }
               }
             },
             {
-              "title": "Blender Dragon Sculpting Course",
-              "machine_name": "blenderdragonsculptingcourse",
-              "type": "software",
+              "title": "This Ain't Even Poker, Ya Joker",
+              "machine_name": "thisaintevenpokeryajoker",
+              "type": "game",
               "min_price": {
                 "currency": "USD",
-                "amount": 5.0
+                "amount": 7.0
               },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt25",
-          "header": "Pay $25 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 25.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 26.6
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Blender Animation & Rigging Course",
-              "machine_name": "blenderanimationandriggingcourse",
-              "type": "software",
-              "min_price": {
+              "msrp_price": {
                 "currency": "USD",
-                "amount": 25.0
+                "amount": 5.99
               },
-              "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
                 }
               }
             },
             {
-              "title": "Create Anime Characters In Blender Course",
-              "machine_name": "createanimecharactersinblendercourse",
-              "type": "software",
+              "title": "Dice of Kalma",
+              "machine_name": "diceofkalma",
+              "type": "game",
               "min_price": {
                 "currency": "USD",
-                "amount": 25.0
+                "amount": 7.0
               },
-              "msrp_price": null,
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 4.99
+              },
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "game": {
+                  "steam": [
+                    "windows",
+                    "mac",
+                    "linux"
+                  ]
                 }
               }
             },
             {
-              "title": "Blender Character Creator for Video Games Course",
-              "machine_name": "blendercharactercreatorforvideogamescourse",
-              "type": "software",
+              "title": "Explosive Odds",
+              "machine_name": "explosiveodds",
+              "type": "game",
               "min_price": {
                 "currency": "USD",
-                "amount": 25.0
+                "amount": 7.0
               },
-              "msrp_price": null,
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 4.99
+              },
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
                 }
               }
             },
             {
-              "title": "From Blender to Godot Course",
-              "machine_name": "fromblendertogodotcourse",
-              "type": "software",
+              "title": "Treasure Tiger",
+              "machine_name": "treasuretiger",
+              "type": "game",
               "min_price": {
                 "currency": "USD",
-                "amount": 25.0
+                "amount": 7.0
               },
-              "msrp_price": null,
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 4.99
+              },
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
                 }
               }
             },
             {
-              "title": "From Blender to Unity Course",
-              "machine_name": "fromblendertounitycourse",
-              "type": "software",
+              "title": "SuperTaxCity",
+              "machine_name": "supertaxcity",
+              "type": "game",
               "min_price": {
                 "currency": "USD",
-                "amount": 25.0
+                "amount": 7.0
               },
-              "msrp_price": null,
+              "msrp_price": {
+                "currency": "USD",
+                "amount": 9.99
+              },
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
                 }
               }
             },
             {
-              "title": "From Blender to Unreal Course",
-              "machine_name": "fromblendertounrealcourse",
-              "type": "software",
+              "title": "SIDE EFFECTS",
+              "machine_name": "sideeffects",
+              "type": "game",
               "min_price": {
                 "currency": "USD",
-                "amount": 25.0
+                "amount": 7.0
               },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Blender Low Poly Characters Course",
-              "machine_name": "blenderlowpolycharacterscourse",
-              "type": "software",
-              "min_price": {
+              "msrp_price": {
                 "currency": "USD",
-                "amount": 15.0
+                "amount": 4.99
               },
-              "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Blender 2D Sprites Course",
-              "machine_name": "blender2dspritescourse",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Blender Alpha Brush Pack: Skin & Scales",
-              "machine_name": "blenderalphabrushpack_skinscales",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Blender Dragon Sculpting Course",
-              "machine_name": "blenderdragonsculptingcourse",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "game": {
+                  "steam": [
+                    "windows"
+                  ]
                 }
               }
             }
@@ -14436,7 +14788,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.84
+            "amount": 20.83
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -15000,358 +15352,6 @@
       ]
     },
     {
-      "title": "Let's Go Gambling!...aw dang it.",
-      "category": "games",
-      "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
-      "machine_name": "letsgogamblingawdangit_bundle",
-      "end_at": "2026-07-23T04:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $7 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 7.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 12.67
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "This Ain't Even Poker, Ya Joker",
-              "machine_name": "thisaintevenpokeryajoker",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 5.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Dice of Kalma",
-              "machine_name": "diceofkalma",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 4.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Explosive Odds",
-              "machine_name": "explosiveodds",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 4.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Treasure Tiger",
-              "machine_name": "treasuretiger",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 4.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SuperTaxCity",
-              "machine_name": "supertaxcity",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SIDE EFFECTS",
-              "machine_name": "sideeffects",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 4.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt12",
-          "header": "Pay $12 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 12.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 12.67
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Dicealot",
-              "machine_name": "dicealtot",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Pip My Dice",
-              "machine_name": "pipmydice",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 10.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Dicey Dungeons",
-              "machine_name": "diceydungeons",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 12.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 14.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "This Ain't Even Poker, Ya Joker",
-              "machine_name": "thisaintevenpokeryajoker",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 5.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Dice of Kalma",
-              "machine_name": "diceofkalma",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 4.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Explosive Odds",
-              "machine_name": "explosiveodds",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 4.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Treasure Tiger",
-              "machine_name": "treasuretiger",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 4.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SuperTaxCity",
-              "machine_name": "supertaxcity",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 9.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "SIDE EFFECTS",
-              "machine_name": "sideeffects",
-              "type": "game",
-              "min_price": {
-                "currency": "USD",
-                "amount": 7.0
-              },
-              "msrp_price": {
-                "currency": "USD",
-                "amount": 4.99
-              },
-              "platforms_and_oses": {
-                "game": {
-                  "steam": [
-                    "windows"
-                  ]
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
       "category": "software",
       "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
@@ -15367,7 +15367,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.69
+            "amount": 27.7
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -17035,7 +17035,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 10.67
+            "amount": 10.66
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -17139,7 +17139,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 10.67
+            "amount": 10.66
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -20326,7 +20326,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.76
+            "amount": 23.75
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -20464,7 +20464,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.76
+            "amount": 23.75
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -21022,7 +21022,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.76
+            "amount": 23.75
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -21604,7 +21604,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.42
+            "amount": 20.41
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -21712,7 +21712,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.42
+            "amount": 20.41
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -21955,7 +21955,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.42
+            "amount": 20.41
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -22432,7 +22432,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.35
+            "amount": 19.34
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -22495,7 +22495,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.35
+            "amount": 19.34
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -22603,7 +22603,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.35
+            "amount": 19.34
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -23638,7 +23638,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.78
+            "amount": 26.82
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -23686,7 +23686,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.78
+            "amount": 26.82
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -23809,7 +23809,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.78
+            "amount": 26.82
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -26087,7 +26087,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.52
+            "amount": 26.56
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -26180,7 +26180,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.52
+            "amount": 26.56
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -26348,7 +26348,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.52
+            "amount": 26.56
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -28657,7 +28657,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.84
+            "amount": 32.81
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -28693,7 +28693,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.84
+            "amount": 32.81
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -28918,7 +28918,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.19
+            "amount": 27.2
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -28951,7 +28951,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.19
+            "amount": 27.2
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -28999,7 +28999,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.19
+            "amount": 27.2
           },
           "is_initial_tier": false,
           "is_bta": false,

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T19:21:28Z",
-  "updated_at": "2026-07-11T19:21:55Z",
+  "generated_at": "2026-07-12T19:19:54Z",
+  "updated_at": "2026-07-12T19:20:28Z",
   "items": [
     {
       "key": "cosmoseclipsegamedevassetstoolsbundleunrealunitygodot_softwarebundle",
@@ -19,11 +19,11 @@
       "end_at": "2026-08-01T18:00:00"
     },
     {
-      "key": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
-      "url": "https://humblebundle.com/books/pathfinder-second-edition-bundle-frogs-paizo-inc-books",
-      "machine_name": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
-      "title": "Pathfinder Second Edition Bundle of Frogs! By Paizo Inc.",
-      "category": "books",
+      "key": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
+      "url": "https://humblebundle.com/software/freedom-to-create-with-corel-graphics-suite-2025-software",
+      "machine_name": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
+      "title": "Freedom to Create with COREL Graphics Suite 2025",
+      "category": "software",
       "end_at": "2026-07-31T18:00:00"
     },
     {
@@ -43,11 +43,11 @@
       "end_at": "2026-08-01T04:00:00"
     },
     {
-      "key": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
-      "url": "https://humblebundle.com/software/freedom-to-create-with-corel-graphics-suite-2025-software",
-      "machine_name": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
-      "title": "Freedom to Create with COREL Graphics Suite 2025",
-      "category": "software",
+      "key": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
+      "url": "https://humblebundle.com/books/pathfinder-second-edition-bundle-frogs-paizo-inc-books",
+      "machine_name": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
+      "title": "Pathfinder Second Edition Bundle of Frogs! By Paizo Inc.",
+      "category": "books",
       "end_at": "2026-07-31T18:00:00"
     },
     {
@@ -131,6 +131,14 @@
       "end_at": "2026-07-25T01:00:00"
     },
     {
+      "key": "completecharactercreationforgames_softwarebundle",
+      "url": "https://humblebundle.com/software/complete-character-creation-for-games-software",
+      "machine_name": "completecharactercreationforgames_softwarebundle",
+      "title": "Complete Character Creation for Games",
+      "category": "software",
+      "end_at": "2026-07-23T18:00:00"
+    },
+    {
       "key": "itai500certificationexams_softwarebundle",
       "url": "https://humblebundle.com/software/it-ai-500-certification-exams-software",
       "machine_name": "itai500certificationexams_softwarebundle",
@@ -147,12 +155,12 @@
       "end_at": "2026-07-23T18:00:00"
     },
     {
-      "key": "completecharactercreationforgames_softwarebundle",
-      "url": "https://humblebundle.com/software/complete-character-creation-for-games-software",
-      "machine_name": "completecharactercreationforgames_softwarebundle",
-      "title": "Complete Character Creation for Games",
-      "category": "software",
-      "end_at": "2026-07-23T18:00:00"
+      "key": "letsgogamblingawdangit_bundle",
+      "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
+      "machine_name": "letsgogamblingawdangit_bundle",
+      "title": "Let's Go Gambling!...aw dang it.",
+      "category": "games",
+      "end_at": "2026-07-23T04:00:00"
     },
     {
       "key": "craftyourcosplaydreams_bookbundle",
@@ -161,14 +169,6 @@
       "title": "Craft Your Cosplay Dreams",
       "category": "books",
       "end_at": "2026-07-22T18:00:00"
-    },
-    {
-      "key": "letsgogamblingawdangit_bundle",
-      "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
-      "machine_name": "letsgogamblingawdangit_bundle",
-      "title": "Let's Go Gambling!...aw dang it.",
-      "category": "games",
-      "end_at": "2026-07-23T04:00:00"
     },
     {
       "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
