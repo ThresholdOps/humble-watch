@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-07-13T19:43:19Z",
-  "updated_at": "2026-07-13T19:43:52Z",
+  "generated_at": "2026-07-14T19:40:01Z",
+  "updated_at": "2026-07-14T19:40:31Z",
   "items": [
+    {
+      "key": "2026awsazurecomptiacloudcertificationpracticeexambundle_softwarebundle",
+      "url": "https://humblebundle.com/software/2026-aws-azure-comptia-cloud-certification-practice-exam-bundle-software",
+      "machine_name": "2026awsazurecomptiacloudcertificationpracticeexambundle_softwarebundle",
+      "title": "The 2026 AWS, Azure, CompTIA Cloud Certification & Practice Exam Bundle",
+      "category": "software",
+      "end_at": "2026-08-04T18:00:00"
+    },
+    {
+      "key": "roboticsandelectronicsfrombeginnertoexpertapress_bookbundle",
+      "url": "https://humblebundle.com/books/robotics-and-electronics-from-beginner-to-expert-apress-books",
+      "machine_name": "roboticsandelectronicsfrombeginnertoexpertapress_bookbundle",
+      "title": "Robotics and Electronics from Beginner to Expert by Apress",
+      "category": "books",
+      "end_at": "2026-08-04T18:00:00"
+    },
+    {
+      "key": "camerasandphotographyfordummieswiley_bookbundle",
+      "url": "https://humblebundle.com/books/cameras-and-photography-for-dummies-wiley-books",
+      "machine_name": "camerasandphotographyfordummieswiley_bookbundle",
+      "title": "Cameras and Photography for Dummies by Wiley",
+      "category": "books",
+      "end_at": "2026-08-03T18:00:00"
+    },
     {
       "key": "unchartedfrontiersenvironmentpack_softwarebundle",
       "url": "https://humblebundle.com/software/uncharted-frontiers-environment-pack-software",
@@ -16,14 +40,6 @@
       "machine_name": "ultimateiosdevelopmentbundle_softwarebundle",
       "title": "The Ultimate iOS Development Bundle",
       "category": "software",
-      "end_at": "2026-08-03T18:00:00"
-    },
-    {
-      "key": "camerasandphotographyfordummieswiley_bookbundle",
-      "url": "https://humblebundle.com/books/cameras-and-photography-for-dummies-wiley-books",
-      "machine_name": "camerasandphotographyfordummieswiley_bookbundle",
-      "title": "Cameras and Photography for Dummies by Wiley",
-      "category": "books",
       "end_at": "2026-08-03T18:00:00"
     },
     {
@@ -43,14 +59,6 @@
       "end_at": "2026-08-01T18:00:00"
     },
     {
-      "key": "squadgoals_bundle",
-      "url": "https://humblebundle.com/games/squad-goals",
-      "machine_name": "squadgoals_bundle",
-      "title": "Squad Goals",
-      "category": "games",
-      "end_at": "2026-08-01T04:00:00"
-    },
-    {
       "key": "narrative12for10bundle_bundle",
       "url": "https://humblebundle.com/games/narrative-12-for-10-bundle",
       "machine_name": "narrative12for10bundle_bundle",
@@ -67,6 +75,14 @@
       "end_at": "2026-07-31T18:00:00"
     },
     {
+      "key": "squadgoals_bundle",
+      "url": "https://humblebundle.com/games/squad-goals",
+      "machine_name": "squadgoals_bundle",
+      "title": "Squad Goals",
+      "category": "games",
+      "end_at": "2026-08-01T04:00:00"
+    },
+    {
       "key": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
       "url": "https://humblebundle.com/books/pathfinder-second-edition-bundle-frogs-paizo-inc-books",
       "machine_name": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
@@ -75,19 +91,19 @@
       "end_at": "2026-07-31T18:00:00"
     },
     {
-      "key": "bladerunnercollectiontitancomics_bookbundle",
-      "url": "https://humblebundle.com/books/blade-runner-collection-titan-comics-books",
-      "machine_name": "bladerunnercollectiontitancomics_bookbundle",
-      "title": "The Blade Runner Collection by Titan Comics",
-      "category": "books",
-      "end_at": "2026-07-30T18:00:00"
-    },
-    {
       "key": "learntomakegamesinunity2026bundle_softwarebundle",
       "url": "https://humblebundle.com/software/learn-to-make-games-in-unity-2026-bundle-software",
       "machine_name": "learntomakegamesinunity2026bundle_softwarebundle",
       "title": "Learn to Make Games in Unity 2026 Bundle",
       "category": "software",
+      "end_at": "2026-07-30T18:00:00"
+    },
+    {
+      "key": "bladerunnercollectiontitancomics_bookbundle",
+      "url": "https://humblebundle.com/books/blade-runner-collection-titan-comics-books",
+      "machine_name": "bladerunnercollectiontitancomics_bookbundle",
+      "title": "The Blade Runner Collection by Titan Comics",
+      "category": "books",
       "end_at": "2026-07-30T18:00:00"
     },
     {
@@ -155,19 +171,19 @@
       "end_at": "2026-07-25T01:00:00"
     },
     {
-      "key": "completecharactercreationforgames_softwarebundle",
-      "url": "https://humblebundle.com/software/complete-character-creation-for-games-software",
-      "machine_name": "completecharactercreationforgames_softwarebundle",
-      "title": "Complete Character Creation for Games",
-      "category": "software",
-      "end_at": "2026-07-23T18:00:00"
-    },
-    {
       "key": "aifoundationsandapplicationsmanning_softwarebundle",
       "url": "https://humblebundle.com/books/ai-foundations-and-applications-manning-books",
       "machine_name": "aifoundationsandapplicationsmanning_softwarebundle",
       "title": "AI Foundations and Applications by Manning",
       "category": "books",
+      "end_at": "2026-07-23T18:00:00"
+    },
+    {
+      "key": "completecharactercreationforgames_softwarebundle",
+      "url": "https://humblebundle.com/software/complete-character-creation-for-games-software",
+      "machine_name": "completecharactercreationforgames_softwarebundle",
+      "title": "Complete Character Creation for Games",
+      "category": "software",
       "end_at": "2026-07-23T18:00:00"
     },
     {
@@ -179,20 +195,20 @@
       "end_at": "2026-07-23T18:00:00"
     },
     {
-      "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
-      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
-      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
-      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
-      "category": "software",
-      "end_at": "2026-07-22T18:00:00"
-    },
-    {
       "key": "letsgogamblingawdangit_bundle",
       "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
       "machine_name": "letsgogamblingawdangit_bundle",
       "title": "Let's Go Gambling!...aw dang it.",
       "category": "games",
       "end_at": "2026-07-23T04:00:00"
+    },
+    {
+      "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
+      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
+      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
+      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
+      "category": "software",
+      "end_at": "2026-07-22T18:00:00"
     },
     {
       "key": "craftyourcosplaydreams_bookbundle",
@@ -219,14 +235,6 @@
       "end_at": "2026-07-18T04:00:00"
     },
     {
-      "key": "goingrogueliteheavybundle_bundle",
-      "url": "https://humblebundle.com/games/going-rogue-lite-heavy-bundle",
-      "machine_name": "goingrogueliteheavybundle_bundle",
-      "title": "Going Rogue: A Lite Heavy Bundle",
-      "category": "games",
-      "end_at": "2026-07-16T01:00:00"
-    },
-    {
       "key": "worldbuildersamericana_softwarebundle",
       "url": "https://humblebundle.com/software/world-builders-americana-software",
       "machine_name": "worldbuildersamericana_softwarebundle",
@@ -235,12 +243,20 @@
       "end_at": "2026-07-15T18:00:00"
     },
     {
+      "key": "goingrogueliteheavybundle_bundle",
+      "url": "https://humblebundle.com/games/going-rogue-lite-heavy-bundle",
+      "machine_name": "goingrogueliteheavybundle_bundle",
+      "title": "Going Rogue: A Lite Heavy Bundle",
+      "category": "games",
+      "end_at": "2026-07-16T01:00:00"
+    },
+    {
       "key": "lifetimeaccesscreator_softwarebundle",
       "url": "https://humblebundle.com/software/lifetime-access-creator-software",
       "machine_name": "lifetimeaccesscreator_softwarebundle",
       "title": "LIFETIME ACCESS CREATOR",
       "category": "software",
-      "end_at": "2026-07-14T18:00:00"
+      "end_at": "2026-07-28T18:00:00"
     },
     {
       "key": "gamedevelopmentmegabundle_softwarebundle",
@@ -267,20 +283,20 @@
       "end_at": "2026-07-16T18:00:00"
     },
     {
-      "key": "uploadvrsummer2026_bundle",
-      "url": "https://humblebundle.com/games/upload-vr-summer-2026",
-      "machine_name": "uploadvrsummer2026_bundle",
-      "title": "Upload VR Summer 2026",
-      "category": "games",
-      "end_at": "2026-07-16T04:00:00"
-    },
-    {
       "key": "premiumscifidesigntrainingbundle_softwarebundle",
       "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
       "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
       "title": "Premium Sci-Fi Design Training Bundle",
       "category": "software",
       "end_at": "2026-07-15T18:00:00"
+    },
+    {
+      "key": "uploadvrsummer2026_bundle",
+      "url": "https://humblebundle.com/games/upload-vr-summer-2026",
+      "machine_name": "uploadvrsummer2026_bundle",
+      "title": "Upload VR Summer 2026",
+      "category": "games",
+      "end_at": "2026-07-16T04:00:00"
     },
     {
       "key": "allinoneunrealunitygamedevbundle_softwarebundle",
@@ -307,28 +323,12 @@
       "end_at": "2026-07-15T18:00:00"
     },
     {
-      "key": "biggerbetterbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/bigger-better-bundle-software",
-      "machine_name": "biggerbetterbundle_softwarebundle",
-      "title": "Bigger Better Bundle",
-      "category": "software",
-      "end_at": "2026-07-14T18:00:00"
-    },
-    {
-      "key": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
-      "url": "https://humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books",
-      "machine_name": "tadwilliamsotherlandostenardandmoredawbooks_bookbundle",
-      "title": "Tad Williams: Otherland, Osten Ard, and More by DAW Books",
-      "category": "books",
-      "end_at": "2026-07-14T18:00:00"
-    },
-    {
       "key": "completeunityaibundle_softwarebundle",
       "url": "https://humblebundle.com/software/complete-unity-ai-bundle-software",
       "machine_name": "completeunityaibundle_softwarebundle",
       "title": "The Complete Unity AI Bundle",
       "category": "software",
-      "end_at": "2026-07-14T18:00:00"
+      "end_at": "2026-07-21T18:00:00"
     }
   ]
 }
