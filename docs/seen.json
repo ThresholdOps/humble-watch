@@ -1,14 +1,30 @@
 {
-  "generated_at": "2026-07-14T19:40:01Z",
-  "updated_at": "2026-07-14T19:40:31Z",
+  "generated_at": "2026-07-15T19:33:23Z",
+  "updated_at": "2026-07-15T19:33:58Z",
   "items": [
     {
-      "key": "2026awsazurecomptiacloudcertificationpracticeexambundle_softwarebundle",
-      "url": "https://humblebundle.com/software/2026-aws-azure-comptia-cloud-certification-practice-exam-bundle-software",
-      "machine_name": "2026awsazurecomptiacloudcertificationpracticeexambundle_softwarebundle",
-      "title": "The 2026 AWS, Azure, CompTIA Cloud Certification & Practice Exam Bundle",
-      "category": "software",
-      "end_at": "2026-08-04T18:00:00"
+      "key": "humanoidsmegabundleuniversesunboundpart1humanoids_bookbundle",
+      "url": "https://humblebundle.com/books/humanoids-megabundle-universes-unbound-part-1-humanoids-books",
+      "machine_name": "humanoidsmegabundleuniversesunboundpart1humanoids_bookbundle",
+      "title": "The Humanoids Megabundle: Universes Unbound, Part 1 by Humanoids",
+      "category": "books",
+      "end_at": "2026-08-05T18:00:00"
+    },
+    {
+      "key": "handheldsbundle_bundle",
+      "url": "https://humblebundle.com/games/handhelds-bundle",
+      "machine_name": "handheldsbundle_bundle",
+      "title": "Handhelds Bundle",
+      "category": "games",
+      "end_at": "2026-08-06T04:00:00"
+    },
+    {
+      "key": "liminalspaces_bundle",
+      "url": "https://humblebundle.com/games/liminal-spaces",
+      "machine_name": "liminalspaces_bundle",
+      "title": "Liminal Spaces",
+      "category": "games",
+      "end_at": "2026-08-06T04:00:00"
     },
     {
       "key": "roboticsandelectronicsfrombeginnertoexpertapress_bookbundle",
@@ -19,12 +35,12 @@
       "end_at": "2026-08-04T18:00:00"
     },
     {
-      "key": "camerasandphotographyfordummieswiley_bookbundle",
-      "url": "https://humblebundle.com/books/cameras-and-photography-for-dummies-wiley-books",
-      "machine_name": "camerasandphotographyfordummieswiley_bookbundle",
-      "title": "Cameras and Photography for Dummies by Wiley",
-      "category": "books",
-      "end_at": "2026-08-03T18:00:00"
+      "key": "2026awsazurecomptiacloudcertificationpracticeexambundle_softwarebundle",
+      "url": "https://humblebundle.com/software/2026-aws-azure-comptia-cloud-certification-practice-exam-bundle-software",
+      "machine_name": "2026awsazurecomptiacloudcertificationpracticeexambundle_softwarebundle",
+      "title": "The 2026 AWS, Azure, CompTIA Cloud Certification & Practice Exam Bundle",
+      "category": "software",
+      "end_at": "2026-08-04T18:00:00"
     },
     {
       "key": "unchartedfrontiersenvironmentpack_softwarebundle",
@@ -43,12 +59,12 @@
       "end_at": "2026-08-03T18:00:00"
     },
     {
-      "key": "cosmoseclipsegamedevassetstoolsbundleunrealunitygodot_softwarebundle",
-      "url": "https://humblebundle.com/software/cosmos-eclipse-game-dev-assets-tools-bundle-unreal-unity-godot-software",
-      "machine_name": "cosmoseclipsegamedevassetstoolsbundleunrealunitygodot_softwarebundle",
-      "title": "Cosmos Eclipse Game Dev Assets & Tools bundle (Unreal + Unity + Godot)",
-      "category": "software",
-      "end_at": "2026-08-01T18:00:00"
+      "key": "camerasandphotographyfordummieswiley_bookbundle",
+      "url": "https://humblebundle.com/books/cameras-and-photography-for-dummies-wiley-books",
+      "machine_name": "camerasandphotographyfordummieswiley_bookbundle",
+      "title": "Cameras and Photography for Dummies by Wiley",
+      "category": "books",
+      "end_at": "2026-08-03T18:00:00"
     },
     {
       "key": "picoshatsandmoreraspberrypipress_bookbundle",
@@ -59,26 +75,18 @@
       "end_at": "2026-08-01T18:00:00"
     },
     {
+      "key": "cosmoseclipsegamedevassetstoolsbundleunrealunitygodot_softwarebundle",
+      "url": "https://humblebundle.com/software/cosmos-eclipse-game-dev-assets-tools-bundle-unreal-unity-godot-software",
+      "machine_name": "cosmoseclipsegamedevassetstoolsbundleunrealunitygodot_softwarebundle",
+      "title": "Cosmos Eclipse Game Dev Assets & Tools bundle (Unreal + Unity + Godot)",
+      "category": "software",
+      "end_at": "2026-08-01T18:00:00"
+    },
+    {
       "key": "narrative12for10bundle_bundle",
       "url": "https://humblebundle.com/games/narrative-12-for-10-bundle",
       "machine_name": "narrative12for10bundle_bundle",
       "title": "Narrative 12 for $10 Bundle",
-      "category": "games",
-      "end_at": "2026-08-01T04:00:00"
-    },
-    {
-      "key": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
-      "url": "https://humblebundle.com/software/freedom-to-create-with-corel-graphics-suite-2025-software",
-      "machine_name": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
-      "title": "Freedom to Create with COREL Graphics Suite 2025",
-      "category": "software",
-      "end_at": "2026-07-31T18:00:00"
-    },
-    {
-      "key": "squadgoals_bundle",
-      "url": "https://humblebundle.com/games/squad-goals",
-      "machine_name": "squadgoals_bundle",
-      "title": "Squad Goals",
       "category": "games",
       "end_at": "2026-08-01T04:00:00"
     },
@@ -91,12 +99,20 @@
       "end_at": "2026-07-31T18:00:00"
     },
     {
-      "key": "learntomakegamesinunity2026bundle_softwarebundle",
-      "url": "https://humblebundle.com/software/learn-to-make-games-in-unity-2026-bundle-software",
-      "machine_name": "learntomakegamesinunity2026bundle_softwarebundle",
-      "title": "Learn to Make Games in Unity 2026 Bundle",
+      "key": "squadgoals_bundle",
+      "url": "https://humblebundle.com/games/squad-goals",
+      "machine_name": "squadgoals_bundle",
+      "title": "Squad Goals",
+      "category": "games",
+      "end_at": "2026-08-01T04:00:00"
+    },
+    {
+      "key": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
+      "url": "https://humblebundle.com/software/freedom-to-create-with-corel-graphics-suite-2025-software",
+      "machine_name": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
+      "title": "Freedom to Create with COREL Graphics Suite 2025",
       "category": "software",
-      "end_at": "2026-07-30T18:00:00"
+      "end_at": "2026-07-31T18:00:00"
     },
     {
       "key": "bladerunnercollectiontitancomics_bookbundle",
@@ -107,12 +123,12 @@
       "end_at": "2026-07-30T18:00:00"
     },
     {
-      "key": "linuxallthingsoreilly_bookbundle",
-      "url": "https://humblebundle.com/books/linux-all-things-oreilly-books",
-      "machine_name": "linuxallthingsoreilly_bookbundle",
-      "title": "Linux: All the Things by O'Reilly",
-      "category": "books",
-      "end_at": "2026-07-29T18:00:00"
+      "key": "learntomakegamesinunity2026bundle_softwarebundle",
+      "url": "https://humblebundle.com/software/learn-to-make-games-in-unity-2026-bundle-software",
+      "machine_name": "learntomakegamesinunity2026bundle_softwarebundle",
+      "title": "Learn to Make Games in Unity 2026 Bundle",
+      "category": "software",
+      "end_at": "2026-07-30T18:00:00"
     },
     {
       "key": "completeclaudeaiforblenderbundle_softwarebundle",
@@ -120,6 +136,14 @@
       "machine_name": "completeclaudeaiforblenderbundle_softwarebundle",
       "title": "The Complete Claude AI for Blender Bundle",
       "category": "software",
+      "end_at": "2026-07-29T18:00:00"
+    },
+    {
+      "key": "linuxallthingsoreilly_bookbundle",
+      "url": "https://humblebundle.com/books/linux-all-things-oreilly-books",
+      "machine_name": "linuxallthingsoreilly_bookbundle",
+      "title": "Linux: All the Things by O'Reilly",
+      "category": "books",
       "end_at": "2026-07-29T18:00:00"
     },
     {
@@ -171,14 +195,6 @@
       "end_at": "2026-07-25T01:00:00"
     },
     {
-      "key": "aifoundationsandapplicationsmanning_softwarebundle",
-      "url": "https://humblebundle.com/books/ai-foundations-and-applications-manning-books",
-      "machine_name": "aifoundationsandapplicationsmanning_softwarebundle",
-      "title": "AI Foundations and Applications by Manning",
-      "category": "books",
-      "end_at": "2026-07-23T18:00:00"
-    },
-    {
       "key": "completecharactercreationforgames_softwarebundle",
       "url": "https://humblebundle.com/software/complete-character-creation-for-games-software",
       "machine_name": "completecharactercreationforgames_softwarebundle",
@@ -195,6 +211,22 @@
       "end_at": "2026-07-23T18:00:00"
     },
     {
+      "key": "aifoundationsandapplicationsmanning_softwarebundle",
+      "url": "https://humblebundle.com/books/ai-foundations-and-applications-manning-books",
+      "machine_name": "aifoundationsandapplicationsmanning_softwarebundle",
+      "title": "AI Foundations and Applications by Manning",
+      "category": "books",
+      "end_at": "2026-07-23T18:00:00"
+    },
+    {
+      "key": "craftyourcosplaydreams_bookbundle",
+      "url": "https://humblebundle.com/books/craft-your-cosplay-dreams-books",
+      "machine_name": "craftyourcosplaydreams_bookbundle",
+      "title": "Craft Your Cosplay Dreams",
+      "category": "books",
+      "end_at": "2026-07-22T18:00:00"
+    },
+    {
       "key": "letsgogamblingawdangit_bundle",
       "url": "https://humblebundle.com/games/lets-go-gamblingaw-dang-it",
       "machine_name": "letsgogamblingawdangit_bundle",
@@ -208,14 +240,6 @@
       "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
       "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
       "category": "software",
-      "end_at": "2026-07-22T18:00:00"
-    },
-    {
-      "key": "craftyourcosplaydreams_bookbundle",
-      "url": "https://humblebundle.com/books/craft-your-cosplay-dreams-books",
-      "machine_name": "craftyourcosplaydreams_bookbundle",
-      "title": "Craft Your Cosplay Dreams",
-      "category": "books",
       "end_at": "2026-07-22T18:00:00"
     },
     {
@@ -235,20 +259,20 @@
       "end_at": "2026-07-18T04:00:00"
     },
     {
-      "key": "worldbuildersamericana_softwarebundle",
-      "url": "https://humblebundle.com/software/world-builders-americana-software",
-      "machine_name": "worldbuildersamericana_softwarebundle",
-      "title": "World Builders: Americana",
-      "category": "software",
-      "end_at": "2026-07-15T18:00:00"
-    },
-    {
       "key": "goingrogueliteheavybundle_bundle",
       "url": "https://humblebundle.com/games/going-rogue-lite-heavy-bundle",
       "machine_name": "goingrogueliteheavybundle_bundle",
       "title": "Going Rogue: A Lite Heavy Bundle",
       "category": "games",
       "end_at": "2026-07-16T01:00:00"
+    },
+    {
+      "key": "worldbuildersamericana_softwarebundle",
+      "url": "https://humblebundle.com/software/world-builders-americana-software",
+      "machine_name": "worldbuildersamericana_softwarebundle",
+      "title": "World Builders: Americana",
+      "category": "software",
+      "end_at": "2026-07-29T18:00:00"
     },
     {
       "key": "lifetimeaccesscreator_softwarebundle",
@@ -283,14 +307,6 @@
       "end_at": "2026-07-16T18:00:00"
     },
     {
-      "key": "premiumscifidesigntrainingbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/premium-scifi-design-training-bundle-software",
-      "machine_name": "premiumscifidesigntrainingbundle_softwarebundle",
-      "title": "Premium Sci-Fi Design Training Bundle",
-      "category": "software",
-      "end_at": "2026-07-15T18:00:00"
-    },
-    {
       "key": "uploadvrsummer2026_bundle",
       "url": "https://humblebundle.com/games/upload-vr-summer-2026",
       "machine_name": "uploadvrsummer2026_bundle",
@@ -320,7 +336,7 @@
       "machine_name": "creatureandcharactercreationbundle_softwarebundle",
       "title": "Creature and Character Creation Bundle",
       "category": "software",
-      "end_at": "2026-07-15T18:00:00"
+      "end_at": "2026-07-22T18:00:00"
     },
     {
       "key": "completeunityaibundle_softwarebundle",
