@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-07-16T19:31:46Z",
-  "updated_at": "2026-07-16T19:32:17Z",
+  "generated_at": "2026-07-17T19:23:22Z",
+  "updated_at": "2026-07-17T19:23:54Z",
   "items": [
+    {
+      "key": "2kmegahits2026bundle_bundle",
+      "url": "https://humblebundle.com/games/2k-megahits-2026-bundle",
+      "machine_name": "2kmegahits2026bundle_bundle",
+      "title": "2K Megahits 2026 Bundle",
+      "category": "games",
+      "end_at": "2026-08-08T04:00:00"
+    },
+    {
+      "key": "evensteamiersakuraspecial_bundle",
+      "url": "https://humblebundle.com/games/even-steamier-sakura-special",
+      "machine_name": "evensteamiersakuraspecial_bundle",
+      "title": "Even Steamier Sakura Special",
+      "category": "games",
+      "end_at": "2026-08-08T04:00:00"
+    },
+    {
+      "key": "soundsnap1000soundeffectsbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/soundsnap-1000-sound-effects-bundle-software",
+      "machine_name": "soundsnap1000soundeffectsbundle_softwarebundle",
+      "title": "Soundsnap 1,000 Sound Effects Bundle",
+      "category": "software",
+      "end_at": "2026-08-07T18:00:00"
+    },
     {
       "key": "framingcarpentryandfinewoodworkingtauntonpress_bookbundle",
       "url": "https://humblebundle.com/books/framing-carpentry-and-fine-woodworking-taunton-press-books",
@@ -14,7 +38,15 @@
       "key": "handheldsbundle_bundle",
       "url": "https://humblebundle.com/games/handhelds-bundle",
       "machine_name": "handheldsbundle_bundle",
-      "title": "Handhelds Bundle",
+      "title": "Humble Handhelds",
+      "category": "games",
+      "end_at": "2026-08-06T04:00:00"
+    },
+    {
+      "key": "liminalspaces_bundle",
+      "url": "https://humblebundle.com/games/liminal-spaces",
+      "machine_name": "liminalspaces_bundle",
+      "title": "Liminal Spaces",
       "category": "games",
       "end_at": "2026-08-06T04:00:00"
     },
@@ -25,14 +57,6 @@
       "title": "The Humanoids Megabundle: Universes Unbound, Part 1 by Humanoids",
       "category": "books",
       "end_at": "2026-08-05T18:00:00"
-    },
-    {
-      "key": "liminalspaces_bundle",
-      "url": "https://humblebundle.com/games/liminal-spaces",
-      "machine_name": "liminalspaces_bundle",
-      "title": "Liminal Spaces",
-      "category": "games",
-      "end_at": "2026-08-06T04:00:00"
     },
     {
       "key": "2026awsazurecomptiacloudcertificationpracticeexambundle_softwarebundle",
@@ -51,18 +75,18 @@
       "end_at": "2026-08-04T18:00:00"
     },
     {
-      "key": "ultimateiosdevelopmentbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/ultimate-ios-development-bundle-software",
-      "machine_name": "ultimateiosdevelopmentbundle_softwarebundle",
-      "title": "The Ultimate iOS Development Bundle",
-      "category": "software",
-      "end_at": "2026-08-03T18:00:00"
-    },
-    {
       "key": "unchartedfrontiersenvironmentpack_softwarebundle",
       "url": "https://humblebundle.com/software/uncharted-frontiers-environment-pack-software",
       "machine_name": "unchartedfrontiersenvironmentpack_softwarebundle",
       "title": "Uncharted Frontiers Environment Pack",
+      "category": "software",
+      "end_at": "2026-08-03T18:00:00"
+    },
+    {
+      "key": "ultimateiosdevelopmentbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/ultimate-ios-development-bundle-software",
+      "machine_name": "ultimateiosdevelopmentbundle_softwarebundle",
+      "title": "The Ultimate iOS Development Bundle",
       "category": "software",
       "end_at": "2026-08-03T18:00:00"
     },
@@ -75,19 +99,19 @@
       "end_at": "2026-08-03T18:00:00"
     },
     {
-      "key": "picoshatsandmoreraspberrypipress_bookbundle",
-      "url": "https://humblebundle.com/books/picos-hats-and-more-raspberry-pi-press-books",
-      "machine_name": "picoshatsandmoreraspberrypipress_bookbundle",
-      "title": "Picos, HATs, and More by Raspberry Pi Press",
-      "category": "books",
-      "end_at": "2026-08-01T18:00:00"
-    },
-    {
       "key": "cosmoseclipsegamedevassetstoolsbundleunrealunitygodot_softwarebundle",
       "url": "https://humblebundle.com/software/cosmos-eclipse-game-dev-assets-tools-bundle-unreal-unity-godot-software",
       "machine_name": "cosmoseclipsegamedevassetstoolsbundleunrealunitygodot_softwarebundle",
       "title": "Cosmos Eclipse Game Dev Assets & Tools bundle (Unreal + Unity + Godot)",
       "category": "software",
+      "end_at": "2026-08-01T18:00:00"
+    },
+    {
+      "key": "picoshatsandmoreraspberrypipress_bookbundle",
+      "url": "https://humblebundle.com/books/picos-hats-and-more-raspberry-pi-press-books",
+      "machine_name": "picoshatsandmoreraspberrypipress_bookbundle",
+      "title": "Picos, HATs, and More by Raspberry Pi Press",
+      "category": "books",
       "end_at": "2026-08-01T18:00:00"
     },
     {
@@ -107,14 +131,6 @@
       "end_at": "2026-07-31T18:00:00"
     },
     {
-      "key": "squadgoals_bundle",
-      "url": "https://humblebundle.com/games/squad-goals",
-      "machine_name": "squadgoals_bundle",
-      "title": "Squad Goals",
-      "category": "games",
-      "end_at": "2026-08-01T04:00:00"
-    },
-    {
       "key": "narrative12for10bundle_bundle",
       "url": "https://humblebundle.com/games/narrative-12-for-10-bundle",
       "machine_name": "narrative12for10bundle_bundle",
@@ -123,12 +139,12 @@
       "end_at": "2026-08-01T04:00:00"
     },
     {
-      "key": "learntomakegamesinunity2026bundle_softwarebundle",
-      "url": "https://humblebundle.com/software/learn-to-make-games-in-unity-2026-bundle-software",
-      "machine_name": "learntomakegamesinunity2026bundle_softwarebundle",
-      "title": "Learn to Make Games in Unity 2026 Bundle",
-      "category": "software",
-      "end_at": "2026-07-30T18:00:00"
+      "key": "squadgoals_bundle",
+      "url": "https://humblebundle.com/games/squad-goals",
+      "machine_name": "squadgoals_bundle",
+      "title": "Squad Goals",
+      "category": "games",
+      "end_at": "2026-08-01T04:00:00"
     },
     {
       "key": "bladerunnercollectiontitancomics_bookbundle",
@@ -139,12 +155,12 @@
       "end_at": "2026-07-30T18:00:00"
     },
     {
-      "key": "linuxallthingsoreilly_bookbundle",
-      "url": "https://humblebundle.com/books/linux-all-things-oreilly-books",
-      "machine_name": "linuxallthingsoreilly_bookbundle",
-      "title": "Linux: All the Things by O'Reilly",
-      "category": "books",
-      "end_at": "2026-07-29T18:00:00"
+      "key": "learntomakegamesinunity2026bundle_softwarebundle",
+      "url": "https://humblebundle.com/software/learn-to-make-games-in-unity-2026-bundle-software",
+      "machine_name": "learntomakegamesinunity2026bundle_softwarebundle",
+      "title": "Learn to Make Games in Unity 2026 Bundle",
+      "category": "software",
+      "end_at": "2026-07-30T18:00:00"
     },
     {
       "key": "completeclaudeaiforblenderbundle_softwarebundle",
@@ -152,6 +168,14 @@
       "machine_name": "completeclaudeaiforblenderbundle_softwarebundle",
       "title": "The Complete Claude AI for Blender Bundle",
       "category": "software",
+      "end_at": "2026-07-29T18:00:00"
+    },
+    {
+      "key": "linuxallthingsoreilly_bookbundle",
+      "url": "https://humblebundle.com/books/linux-all-things-oreilly-books",
+      "machine_name": "linuxallthingsoreilly_bookbundle",
+      "title": "Linux: All the Things by O'Reilly",
+      "category": "books",
       "end_at": "2026-07-29T18:00:00"
     },
     {
@@ -203,11 +227,11 @@
       "end_at": "2026-07-25T01:00:00"
     },
     {
-      "key": "itai500certificationexams_softwarebundle",
-      "url": "https://humblebundle.com/software/it-ai-500-certification-exams-software",
-      "machine_name": "itai500certificationexams_softwarebundle",
-      "title": "IT & AI: 500+ Certification Exams",
-      "category": "software",
+      "key": "aifoundationsandapplicationsmanning_softwarebundle",
+      "url": "https://humblebundle.com/books/ai-foundations-and-applications-manning-books",
+      "machine_name": "aifoundationsandapplicationsmanning_softwarebundle",
+      "title": "AI Foundations and Applications by Manning",
+      "category": "books",
       "end_at": "2026-07-23T18:00:00"
     },
     {
@@ -219,11 +243,11 @@
       "end_at": "2026-07-23T18:00:00"
     },
     {
-      "key": "aifoundationsandapplicationsmanning_softwarebundle",
-      "url": "https://humblebundle.com/books/ai-foundations-and-applications-manning-books",
-      "machine_name": "aifoundationsandapplicationsmanning_softwarebundle",
-      "title": "AI Foundations and Applications by Manning",
-      "category": "books",
+      "key": "itai500certificationexams_softwarebundle",
+      "url": "https://humblebundle.com/software/it-ai-500-certification-exams-software",
+      "machine_name": "itai500certificationexams_softwarebundle",
+      "title": "IT & AI: 500+ Certification Exams",
+      "category": "software",
       "end_at": "2026-07-23T18:00:00"
     },
     {
