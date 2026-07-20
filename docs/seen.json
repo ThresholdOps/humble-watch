@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-19T19:21:19Z",
-  "updated_at": "2026-07-19T19:21:50Z",
+  "generated_at": "2026-07-20T19:54:11Z",
+  "updated_at": "2026-07-20T19:54:47Z",
   "items": [
     {
-      "key": "ultimatestylizedbundlesicsgames_softwarebundle",
-      "url": "https://humblebundle.com/software/ultimate-stylized-bundle-sics-games-software",
-      "machine_name": "ultimatestylizedbundlesicsgames_softwarebundle",
-      "title": "Ultimate Stylized Bundle by SICS Games",
-      "category": "software",
-      "end_at": "2026-08-08T18:00:00"
+      "key": "aimlanddecisionenginespragmatic_bookbundle",
+      "url": "https://humblebundle.com/books/ai-ml-and-decision-engines-pragmatic-books",
+      "machine_name": "aimlanddecisionenginespragmatic_bookbundle",
+      "title": "AI, ML, and Decision Engines by Pragmatic",
+      "category": "books",
+      "end_at": "2026-08-10T18:00:00"
     },
     {
       "key": "ultimatepythondevelopmentbundlepackt_bookbundle",
@@ -16,6 +16,14 @@
       "machine_name": "ultimatepythondevelopmentbundlepackt_bookbundle",
       "title": "The Ultimate Python Development Bundle by Packt",
       "category": "books",
+      "end_at": "2026-08-08T18:00:00"
+    },
+    {
+      "key": "ultimatestylizedbundlesicsgames_softwarebundle",
+      "url": "https://humblebundle.com/software/ultimate-stylized-bundle-sics-games-software",
+      "machine_name": "ultimatestylizedbundlesicsgames_softwarebundle",
+      "title": "Ultimate Stylized Bundle by SICS Games",
+      "category": "software",
       "end_at": "2026-08-08T18:00:00"
     },
     {
@@ -91,11 +99,11 @@
       "end_at": "2026-08-04T18:00:00"
     },
     {
-      "key": "unchartedfrontiersenvironmentpack_softwarebundle",
-      "url": "https://humblebundle.com/software/uncharted-frontiers-environment-pack-software",
-      "machine_name": "unchartedfrontiersenvironmentpack_softwarebundle",
-      "title": "Uncharted Frontiers Environment Pack",
-      "category": "software",
+      "key": "camerasandphotographyfordummieswiley_bookbundle",
+      "url": "https://humblebundle.com/books/cameras-and-photography-for-dummies-wiley-books",
+      "machine_name": "camerasandphotographyfordummieswiley_bookbundle",
+      "title": "Cameras and Photography for Dummies by Wiley",
+      "category": "books",
       "end_at": "2026-08-03T18:00:00"
     },
     {
@@ -107,20 +115,12 @@
       "end_at": "2026-08-03T18:00:00"
     },
     {
-      "key": "camerasandphotographyfordummieswiley_bookbundle",
-      "url": "https://humblebundle.com/books/cameras-and-photography-for-dummies-wiley-books",
-      "machine_name": "camerasandphotographyfordummieswiley_bookbundle",
-      "title": "Cameras and Photography for Dummies by Wiley",
-      "category": "books",
-      "end_at": "2026-08-03T18:00:00"
-    },
-    {
-      "key": "cosmoseclipsegamedevassetstoolsbundleunrealunitygodot_softwarebundle",
-      "url": "https://humblebundle.com/software/cosmos-eclipse-game-dev-assets-tools-bundle-unreal-unity-godot-software",
-      "machine_name": "cosmoseclipsegamedevassetstoolsbundleunrealunitygodot_softwarebundle",
-      "title": "Cosmos Eclipse Game Dev Assets & Tools bundle (Unreal + Unity + Godot)",
+      "key": "unchartedfrontiersenvironmentpack_softwarebundle",
+      "url": "https://humblebundle.com/software/uncharted-frontiers-environment-pack-software",
+      "machine_name": "unchartedfrontiersenvironmentpack_softwarebundle",
+      "title": "Uncharted Frontiers Environment Pack",
       "category": "software",
-      "end_at": "2026-08-01T18:00:00"
+      "end_at": "2026-08-03T18:00:00"
     },
     {
       "key": "picoshatsandmoreraspberrypipress_bookbundle",
@@ -128,6 +128,14 @@
       "machine_name": "picoshatsandmoreraspberrypipress_bookbundle",
       "title": "Picos, HATs, and More by Raspberry Pi Press",
       "category": "books",
+      "end_at": "2026-08-01T18:00:00"
+    },
+    {
+      "key": "cosmoseclipsegamedevassetstoolsbundleunrealunitygodot_softwarebundle",
+      "url": "https://humblebundle.com/software/cosmos-eclipse-game-dev-assets-tools-bundle-unreal-unity-godot-software",
+      "machine_name": "cosmoseclipsegamedevassetstoolsbundleunrealunitygodot_softwarebundle",
+      "title": "Cosmos Eclipse Game Dev Assets & Tools bundle (Unreal + Unity + Godot)",
+      "category": "software",
       "end_at": "2026-08-01T18:00:00"
     },
     {
@@ -219,19 +227,19 @@
       "end_at": "2026-07-27T18:00:00"
     },
     {
-      "key": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
-      "url": "https://humblebundle.com/books/john-scalzi-collection-old-mans-war-more-tor-books-books",
-      "machine_name": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
-      "title": "The John Scalzi Collection: Old Man's War & More by TOR Books",
-      "category": "books",
-      "end_at": "2026-07-25T18:00:00"
-    },
-    {
       "key": "vfxmasterbundleforunreal_softwarebundle",
       "url": "https://humblebundle.com/software/vfx-masterbundle-for-unreal-software",
       "machine_name": "vfxmasterbundleforunreal_softwarebundle",
       "title": "VFX Master-Bundle For Unreal",
       "category": "software",
+      "end_at": "2026-07-25T18:00:00"
+    },
+    {
+      "key": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
+      "url": "https://humblebundle.com/books/john-scalzi-collection-old-mans-war-more-tor-books-books",
+      "machine_name": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
+      "title": "The John Scalzi Collection: Old Man's War & More by TOR Books",
+      "category": "books",
       "end_at": "2026-07-25T18:00:00"
     },
     {
@@ -267,14 +275,6 @@
       "end_at": "2026-07-23T18:00:00"
     },
     {
-      "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
-      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
-      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
-      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
-      "category": "software",
-      "end_at": "2026-07-22T18:00:00"
-    },
-    {
       "key": "craftyourcosplaydreams_bookbundle",
       "url": "https://humblebundle.com/books/craft-your-cosplay-dreams-books",
       "machine_name": "craftyourcosplaydreams_bookbundle",
@@ -289,6 +289,14 @@
       "title": "Let's Go Gambling!...aw dang it.",
       "category": "games",
       "end_at": "2026-07-23T04:00:00"
+    },
+    {
+      "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
+      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
+      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
+      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
+      "category": "software",
+      "end_at": "2026-07-22T18:00:00"
     },
     {
       "key": "supergirlwomantomorrowandmoredccomics_bookbundle",
@@ -337,14 +345,6 @@
       "title": "Sonic 35th Anniversary Megabundle by IDW",
       "category": "books",
       "end_at": "2026-07-25T18:00:00"
-    },
-    {
-      "key": "allinoneunrealunitygamedevbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/allinone-unreal-unity-gamedev-bundle-software",
-      "machine_name": "allinoneunrealunitygamedevbundle_softwarebundle",
-      "title": "The All-in-One Unreal & Unity GameDev Bundle",
-      "category": "software",
-      "end_at": "2026-07-20T18:00:00"
     },
     {
       "key": "creatureandcharactercreationbundle_softwarebundle",

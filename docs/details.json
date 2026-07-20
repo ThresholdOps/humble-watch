@@ -2,11 +2,11 @@
   "schema": "humble-watch-details-v1",
   "items": [
     {
-      "title": "Ultimate Stylized Bundle by SICS Games",
-      "category": "software",
-      "url": "https://humblebundle.com/software/ultimate-stylized-bundle-sics-games-software",
-      "machine_name": "ultimatestylizedbundlesicsgames_softwarebundle",
-      "end_at": "2026-08-08T18:00:00",
+      "title": "AI, ML, and Decision Engines by Pragmatic",
+      "category": "books",
+      "url": "https://humblebundle.com/books/ai-ml-and-decision-engines-pragmatic-books",
+      "machine_name": "aimlanddecisionenginespragmatic_bookbundle",
+      "end_at": "2026-08-10T18:00:00",
       "tiers": [
         {
           "key": "initial",
@@ -17,7 +17,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 24.37
+            "amount": 25.91
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -25,47 +25,89 @@
           "sold_out": false,
           "items": [
             {
-              "title": "Toon Suburban Pack",
-              "machine_name": "toonsuburbanpack",
-              "type": "software",
+              "title": "Web Development with ReasonML",
+              "machine_name": "webdevelopmentwithreasonml",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
                 "amount": 5.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "Toon City",
-              "machine_name": "tooncity",
-              "type": "software",
+              "title": "Genetic Algorithms and Machine Learning for Programmers",
+              "machine_name": "geneticalgorithmsandmachinelearningforprogrammers",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
                 "amount": 5.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Data Science Essentials in Python",
+              "machine_name": "datascienceessentialsinpython",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Good Math",
+              "machine_name": "goodmath",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             }
           ]
         },
         {
-          "key": "bt15",
-          "header": "Pay $15 or more to also unlock!",
+          "key": "bt25",
+          "header": "Pay $25 or more to also unlock!",
           "price": {
             "currency": "USD",
-            "amount": 15.0
+            "amount": 25.0
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 24.37
+            "amount": 25.91
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -73,320 +115,308 @@
           "sold_out": false,
           "items": [
             {
-              "title": "Toon Fantasy Nature",
-              "machine_name": "toonfantasynature",
-              "type": "software",
+              "title": "Process Over Magic: Beyond Vibe Coding",
+              "machine_name": "processovermagic_beyondvibecoding",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
-                "amount": 15.0
+                "amount": 25.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "EXPLORER - Stone Age",
-              "machine_name": "explorer_stoneage",
-              "type": "software",
+              "title": "A Common-Sense Guide to AI Engineering",
+              "machine_name": "acommon-senseguidetoaiengineering",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
-                "amount": 15.0
+                "amount": 25.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "Toon Suburban Pack",
-              "machine_name": "toonsuburbanpack",
-              "type": "software",
+              "title": "Vector Search with JavaScript",
+              "machine_name": "vectorsearchwithjavascript",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "A Common-Sense Guide to Data Structures and Algorithms in Python, Volume 2",
+              "machine_name": "acommon-senseguidetodatastructuresandalgorithmsinpythonvolume2",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Next-Level A/B Testing",
+              "machine_name": "next-levelaandbtesting",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Serverless Apps on Cloudflare",
+              "machine_name": "serverlessappsoncloudflare",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Machine Learning in Elixir",
+              "machine_name": "machinelearninginelixir",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Practical A/B Testing",
+              "machine_name": "practicalaandbtesting",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Designing Data Governance from the Ground Up",
+              "machine_name": "designingdatagovernancefromthegroundup",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "A Common-Sense Guide to Data Structures and Algorithms in Python, Volume 1",
+              "machine_name": "acommon-senseguidetodatastructuresandalgorithmsinpythonvolume1",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Pandas Brain Teasers",
+              "machine_name": "pandasbrainteasers",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Genetic Algorithms in Elixir",
+              "machine_name": "geneticalgorithmsinelixir",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Programming Machine Learning",
+              "machine_name": "programmingmachinelearning",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Web Development with ReasonML",
+              "machine_name": "webdevelopmentwithreasonml",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
                 "amount": 5.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "Toon City",
-              "machine_name": "tooncity",
-              "type": "software",
+              "title": "Genetic Algorithms and Machine Learning for Programmers",
+              "machine_name": "geneticalgorithmsandmachinelearningforprogrammers",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
                 "amount": 5.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt22",
-          "header": "Pay $22 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 22.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 24.37
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Toon Adventure Island",
-              "machine_name": "toonadventureisland",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 22.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "Toon Enchanted Meadow",
-              "machine_name": "toonenchantedmeadow",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 22.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Toon Farm Pack",
-              "machine_name": "toonfarmpack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 22.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Toon Deserted Temples",
-              "machine_name": "toondesertedtemples",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 22.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Toon Vehicles",
-              "machine_name": "toonvehiclespack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 22.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Toon Racing",
-              "machine_name": "toonracing",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 22.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Toon Harbor Pack",
-              "machine_name": "toonharborpack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 22.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Toon Industries",
-              "machine_name": "toonindustries",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 22.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Toon Planes Pack",
-              "machine_name": "toonplanespack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 22.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Toon City People",
-              "machine_name": "tooncitypeople",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 22.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Toon Nature Assets",
-              "machine_name": "toonnatureassets",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 22.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Toon Desert",
-              "machine_name": "toondesert",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 22.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Toon Fantasy Nature",
-              "machine_name": "toonfantasynature",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "EXPLORER - Stone Age",
-              "machine_name": "explorer_stoneage",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Toon Suburban Pack",
-              "machine_name": "toonsuburbanpack",
-              "type": "software",
+              "title": "Data Science Essentials in Python",
+              "machine_name": "datascienceessentialsinpython",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
                 "amount": 5.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "Toon City",
-              "machine_name": "tooncity",
-              "type": "software",
+              "title": "Good Math",
+              "machine_name": "goodmath",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
                 "amount": 5.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             }
@@ -410,7 +440,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.19
+            "amount": 20.14
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -482,7 +512,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.19
+            "amount": 20.14
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -608,7 +638,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.19
+            "amount": 20.14
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -998,6 +1028,399 @@
       ]
     },
     {
+      "title": "Ultimate Stylized Bundle by SICS Games",
+      "category": "software",
+      "url": "https://humblebundle.com/software/ultimate-stylized-bundle-sics-games-software",
+      "machine_name": "ultimatestylizedbundlesicsgames_softwarebundle",
+      "end_at": "2026-08-08T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 24.2
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Toon Suburban Pack",
+              "machine_name": "toonsuburbanpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon City",
+              "machine_name": "tooncity",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt15",
+          "header": "Pay $15 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 15.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 24.2
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Toon Fantasy Nature",
+              "machine_name": "toonfantasynature",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "EXPLORER - Stone Age",
+              "machine_name": "explorer_stoneage",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon Suburban Pack",
+              "machine_name": "toonsuburbanpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon City",
+              "machine_name": "tooncity",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt22",
+          "header": "Pay $22 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 22.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 24.2
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Toon Adventure Island",
+              "machine_name": "toonadventureisland",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 22.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon Enchanted Meadow",
+              "machine_name": "toonenchantedmeadow",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 22.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon Farm Pack",
+              "machine_name": "toonfarmpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 22.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon Deserted Temples",
+              "machine_name": "toondesertedtemples",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 22.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon Vehicles",
+              "machine_name": "toonvehiclespack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 22.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon Racing",
+              "machine_name": "toonracing",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 22.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon Harbor Pack",
+              "machine_name": "toonharborpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 22.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon Industries",
+              "machine_name": "toonindustries",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 22.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon Planes Pack",
+              "machine_name": "toonplanespack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 22.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon City People",
+              "machine_name": "tooncitypeople",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 22.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon Nature Assets",
+              "machine_name": "toonnatureassets",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 22.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon Desert",
+              "machine_name": "toondesert",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 22.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon Fantasy Nature",
+              "machine_name": "toonfantasynature",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "EXPLORER - Stone Age",
+              "machine_name": "explorer_stoneage",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon Suburban Pack",
+              "machine_name": "toonsuburbanpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Toon City",
+              "machine_name": "tooncity",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Soundsnap 1,000 Sound Effects Bundle",
       "category": "software",
       "url": "https://humblebundle.com/software/soundsnap-1000-sound-effects-bundle-software",
@@ -1013,7 +1436,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 17.22
+            "amount": 17.17
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -1055,7 +1478,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 16.19
+            "amount": 16.21
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -1462,7 +1885,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 16.19
+            "amount": 16.21
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -1974,7 +2397,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 16.19
+            "amount": 16.21
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -2624,7 +3047,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 15.79
+            "amount": 15.7
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -2956,7 +3379,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.35
+            "amount": 26.4
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -3025,7 +3448,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.35
+            "amount": 26.4
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -3307,7 +3730,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 11.03
+            "amount": 11.02
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -3454,7 +3877,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 10.61
+            "amount": 10.6
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -3514,7 +3937,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 10.61
+            "amount": 10.6
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -3615,7 +4038,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 10.61
+            "amount": 10.6
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -3785,7 +4208,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 21.47
+            "amount": 21.48
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -3990,7 +4413,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 21.47
+            "amount": 21.48
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -4416,7 +4839,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 21.47
+            "amount": 21.48
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5038,7 +5461,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.25
+            "amount": 27.24
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -5086,7 +5509,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.25
+            "amount": 27.24
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -5164,7 +5587,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.25
+            "amount": 27.24
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -6027,22 +6450,22 @@
       ]
     },
     {
-      "title": "Uncharted Frontiers Environment Pack",
-      "category": "software",
-      "url": "https://humblebundle.com/software/uncharted-frontiers-environment-pack-software",
-      "machine_name": "unchartedfrontiersenvironmentpack_softwarebundle",
+      "title": "Cameras and Photography for Dummies by Wiley",
+      "category": "books",
+      "url": "https://humblebundle.com/books/cameras-and-photography-for-dummies-wiley-books",
+      "machine_name": "camerasandphotographyfordummieswiley_bookbundle",
       "end_at": "2026-08-03T18:00:00",
       "tiers": [
         {
           "key": "initial",
-          "header": "Pay $10 to unlock!",
+          "header": "Pay $5 to unlock!",
           "price": {
             "currency": "USD",
-            "amount": 10.0
+            "amount": 5.0
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 33.01
+            "amount": 23.65
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -6050,32 +6473,107 @@
           "sold_out": false,
           "items": [
             {
-              "title": "Construction Vehicles Excavator",
-              "machine_name": "constructionvehiclesexcavator",
-              "type": "software",
+              "title": "GoPro Cameras For Dummies",
+              "machine_name": "goprocamerasfordummies2ndedition",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
-                "amount": 10.0
+                "amount": 5.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Nikon D7500 For Dummies",
+              "machine_name": "nikond7500fordummies",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Digital SLR Cameras & Photography For Dummies",
+              "machine_name": "digitalslrcamerasandphotographyfordummies5thedition",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Digital Portrait Photography For Dummies",
+              "machine_name": "digitalportraitphotographyfordummies",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Digital Photography For Dummies",
+              "machine_name": "digitalphotographyfordummies9thedition",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             }
           ]
         },
         {
-          "key": "bt30",
-          "header": "Pay $30 or more to also unlock!",
+          "key": "bt25",
+          "header": "Pay $25 or more to also unlock!",
           "price": {
             "currency": "USD",
-            "amount": 30.0
+            "amount": 25.0
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 33.01
+            "amount": 23.65
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -6083,197 +6581,254 @@
           "sold_out": false,
           "items": [
             {
-              "title": "Valhalla",
-              "machine_name": "valhalla",
-              "type": "software",
+              "title": "Aesthetics in Digital Photography",
+              "machine_name": "aestheticsindigitalphotography",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
-                "amount": 30.0
+                "amount": 25.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "Outpost",
-              "machine_name": "outpost",
-              "type": "software",
+              "title": "Digital SLR Photography All-in-One For Dummies",
+              "machine_name": "digitalslrphotographyall-in-onefordummies4thedition",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
-                "amount": 30.0
+                "amount": 25.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "Treasure Island",
-              "machine_name": "treasureislandmappack",
-              "type": "software",
+              "title": "From Photon to Pixel: The Digital Camera Handbook",
+              "machine_name": "fromphotontopixel_thedigitalcamerahandbook2ndedition",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
-                "amount": 30.0
+                "amount": 25.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "Neo Dubai",
-              "machine_name": "neodubai",
-              "type": "software",
+              "title": "Photoshop Elements 2025 For Dummies",
+              "machine_name": "photoshopelements2025fordummies",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
-                "amount": 30.0
+                "amount": 25.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "High Tech Streets",
-              "machine_name": "hightechstreets",
-              "type": "software",
+              "title": "Canon EOS R50 For Dummies",
+              "machine_name": "canoneosr50fordummies",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
-                "amount": 30.0
+                "amount": 25.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "Valhalla Materials",
-              "machine_name": "valhallamaterials",
-              "type": "software",
+              "title": "Nikon Z fc For Dummies",
+              "machine_name": "nikonzfcfordummies",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
-                "amount": 30.0
+                "amount": 25.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "Outpost Materials",
-              "machine_name": "outpostmaterials",
-              "type": "software",
+              "title": "Android Smartphone Photography For Dummies",
+              "machine_name": "androidsmartphonephotographyfordummies",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
-                "amount": 30.0
+                "amount": 25.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "Treasure Island Materials",
-              "machine_name": "treasureislandmaterials",
-              "type": "software",
+              "title": "iPhone Photography For Dummies",
+              "machine_name": "iphonephotographyfordummies",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
-                "amount": 30.0
+                "amount": 25.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "Neo Dubai Materials",
-              "machine_name": "neodubaimaterials",
-              "type": "software",
+              "title": "Digital Photography All-in-One Desk Reference For Dummies",
+              "machine_name": "digitalphotographyall-in-onedeskreferencefordummies4thedition",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
-                "amount": 30.0
+                "amount": 25.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "High Tech Streets Materials",
-              "machine_name": "hightechstreetsmaterials",
-              "type": "software",
+              "title": "GoPro Cameras For Dummies",
+              "machine_name": "goprocamerasfordummies2ndedition",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
-                "amount": 30.0
+                "amount": 5.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "Hearth and Stone",
-              "machine_name": "hearthandstone",
-              "type": "software",
+              "title": "Nikon D7500 For Dummies",
+              "machine_name": "nikond7500fordummies",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
-                "amount": 30.0
+                "amount": 5.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "Spaceships Armada Destroyer",
-              "machine_name": "spaceshipsarmadadestroyer",
-              "type": "software",
+              "title": "Digital SLR Cameras & Photography For Dummies",
+              "machine_name": "digitalslrcamerasandphotographyfordummies5thedition",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
-                "amount": 30.0
+                "amount": 5.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             },
             {
-              "title": "Construction Vehicles Excavator",
-              "machine_name": "constructionvehiclesexcavator",
-              "type": "software",
+              "title": "Digital Portrait Photography For Dummies",
+              "machine_name": "digitalportraitphotographyfordummies",
+              "type": "ebook",
               "min_price": {
                 "currency": "USD",
-                "amount": 10.0
+                "amount": 5.0
               },
               "msrp_price": null,
               "platforms_and_oses": {
-                "software": {
-                  "other-key": []
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Digital Photography For Dummies",
+              "machine_name": "digitalphotographyfordummies9thedition",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
                 }
               }
             }
@@ -6297,7 +6852,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.75
+            "amount": 19.68
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -6360,7 +6915,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.75
+            "amount": 19.68
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -6498,7 +7053,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.75
+            "amount": 19.68
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -6810,11 +7365,266 @@
       ]
     },
     {
-      "title": "Cameras and Photography for Dummies by Wiley",
-      "category": "books",
-      "url": "https://humblebundle.com/books/cameras-and-photography-for-dummies-wiley-books",
-      "machine_name": "camerasandphotographyfordummieswiley_bookbundle",
+      "title": "Uncharted Frontiers Environment Pack",
+      "category": "software",
+      "url": "https://humblebundle.com/software/uncharted-frontiers-environment-pack-software",
+      "machine_name": "unchartedfrontiersenvironmentpack_softwarebundle",
       "end_at": "2026-08-03T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $10 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 10.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 33.07
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Construction Vehicles Excavator",
+              "machine_name": "constructionvehiclesexcavator",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt30",
+          "header": "Pay $30 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 30.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 33.07
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Valhalla",
+              "machine_name": "valhalla",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Outpost",
+              "machine_name": "outpost",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Treasure Island",
+              "machine_name": "treasureislandmappack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Neo Dubai",
+              "machine_name": "neodubai",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "High Tech Streets",
+              "machine_name": "hightechstreets",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Valhalla Materials",
+              "machine_name": "valhallamaterials",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Outpost Materials",
+              "machine_name": "outpostmaterials",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Treasure Island Materials",
+              "machine_name": "treasureislandmaterials",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Neo Dubai Materials",
+              "machine_name": "neodubaimaterials",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "High Tech Streets Materials",
+              "machine_name": "hightechstreetsmaterials",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Hearth and Stone",
+              "machine_name": "hearthandstone",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Spaceships Armada Destroyer",
+              "machine_name": "spaceshipsarmadadestroyer",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 30.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Construction Vehicles Excavator",
+              "machine_name": "constructionvehiclesexcavator",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Picos, HATs, and More by Raspberry Pi Press",
+      "category": "books",
+      "url": "https://humblebundle.com/books/picos-hats-and-more-raspberry-pi-press-books",
+      "machine_name": "picoshatsandmoreraspberrypipress_bookbundle",
+      "end_at": "2026-08-01T18:00:00",
       "tiers": [
         {
           "key": "initial",
@@ -6825,7 +7635,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.63
+            "amount": 26.45
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -6833,8 +7643,8 @@
           "sold_out": false,
           "items": [
             {
-              "title": "GoPro Cameras For Dummies",
-              "machine_name": "goprocamerasfordummies2ndedition",
+              "title": "Retro Gaming with Raspberry Pi",
+              "machine_name": "retrogamingwithraspberrypi",
               "type": "ebook",
               "min_price": {
                 "currency": "USD",
@@ -6851,8 +7661,98 @@
               }
             },
             {
-              "title": "Nikon D7500 For Dummies",
-              "machine_name": "nikond7500fordummies",
+              "title": "An Introduction to C & GUI Programming",
+              "machine_name": "anintroductiontocandguiprogramming",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt15",
+          "header": "Pay $15 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 15.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 26.45
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "The Official Raspberry Pi Handbook 2025",
+              "machine_name": "officialraspberrypihandbook2025",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The official Raspberry Pi Camera guide",
+              "machine_name": "officialraspberrypicameraguide",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Design an RP2040 board with KiCad",
+              "machine_name": "designanrp2040boardwithkicad",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Retro Gaming with Raspberry Pi",
+              "machine_name": "retrogamingwithraspberrypi",
               "type": "ebook",
               "min_price": {
                 "currency": "USD",
@@ -6869,44 +7769,8 @@
               }
             },
             {
-              "title": "Digital SLR Cameras & Photography For Dummies",
-              "machine_name": "digitalslrcamerasandphotographyfordummies5thedition",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Digital Portrait Photography For Dummies",
-              "machine_name": "digitalportraitphotographyfordummies",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Digital Photography For Dummies",
-              "machine_name": "digitalphotographyfordummies9thedition",
+              "title": "An Introduction to C & GUI Programming",
+              "machine_name": "anintroductiontocandguiprogramming",
               "type": "ebook",
               "min_price": {
                 "currency": "USD",
@@ -6933,7 +7797,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 23.63
+            "amount": 26.45
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -6941,8 +7805,8 @@
           "sold_out": false,
           "items": [
             {
-              "title": "Aesthetics in Digital Photography",
-              "machine_name": "aestheticsindigitalphotography",
+              "title": "The Official Raspberry Pi Handbook 2026",
+              "machine_name": "officialraspberrypihandbook2026",
               "type": "ebook",
               "min_price": {
                 "currency": "USD",
@@ -6959,8 +7823,8 @@
               }
             },
             {
-              "title": "Digital SLR Photography All-in-One For Dummies",
-              "machine_name": "digitalslrphotographyall-in-onefordummies4thedition",
+              "title": "AI Projects with Raspberry Pi",
+              "machine_name": "aiprojectswithraspberrypi",
               "type": "ebook",
               "min_price": {
                 "currency": "USD",
@@ -6977,8 +7841,8 @@
               }
             },
             {
-              "title": "From Photon to Pixel: The Digital Camera Handbook",
-              "machine_name": "fromphotontopixel_thedigitalcamerahandbook2ndedition",
+              "title": "Experiment with the Sense HAT",
+              "machine_name": "experimentwiththesensehat",
               "type": "ebook",
               "min_price": {
                 "currency": "USD",
@@ -6995,8 +7859,8 @@
               }
             },
             {
-              "title": "Photoshop Elements 2025 For Dummies",
-              "machine_name": "photoshopelements2025fordummies",
+              "title": "Get started with MicroPython on Raspberry Pi Pico",
+              "machine_name": "getstartedwithmicropythononraspberrypipico",
               "type": "ebook",
               "min_price": {
                 "currency": "USD",
@@ -7013,8 +7877,8 @@
               }
             },
             {
-              "title": "Canon EOS R50 For Dummies",
-              "machine_name": "canoneosr50fordummies",
+              "title": "Python Projects for Raspberry Pi",
+              "machine_name": "pythonprojectsforraspberrypi",
               "type": "ebook",
               "min_price": {
                 "currency": "USD",
@@ -7031,8 +7895,8 @@
               }
             },
             {
-              "title": "Nikon Z fc For Dummies",
-              "machine_name": "nikonzfcfordummies",
+              "title": "Simple Electronics with GPIO Zero",
+              "machine_name": "simpleelectronicswithgpiozero",
               "type": "ebook",
               "min_price": {
                 "currency": "USD",
@@ -7049,8 +7913,8 @@
               }
             },
             {
-              "title": "Android Smartphone Photography For Dummies",
-              "machine_name": "androidsmartphonephotographyfordummies",
+              "title": "Book of Making 2026",
+              "machine_name": "bookofmaking2026",
               "type": "ebook",
               "min_price": {
                 "currency": "USD",
@@ -7067,8 +7931,8 @@
               }
             },
             {
-              "title": "iPhone Photography For Dummies",
-              "machine_name": "iphonephotographyfordummies",
+              "title": "Make games with Python",
+              "machine_name": "makegameswithpython",
               "type": "ebook",
               "min_price": {
                 "currency": "USD",
@@ -7085,8 +7949,8 @@
               }
             },
             {
-              "title": "Digital Photography All-in-One Desk Reference For Dummies",
-              "machine_name": "digitalphotographyall-in-onedeskreferencefordummies4thedition",
+              "title": "The Official Raspberry Pi Beginner's Guide",
+              "machine_name": "officialraspberrypibeginnersguide_6thedition",
               "type": "ebook",
               "min_price": {
                 "currency": "USD",
@@ -7103,8 +7967,98 @@
               }
             },
             {
-              "title": "GoPro Cameras For Dummies",
-              "machine_name": "goprocamerasfordummies2ndedition",
+              "title": "Conquer the command line",
+              "machine_name": "conquerthecommandline",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Book of Making 2025",
+              "machine_name": "bookofmaking_2025",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Official Raspberry Pi Handbook 2025",
+              "machine_name": "officialraspberrypihandbook2025",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The official Raspberry Pi Camera guide",
+              "machine_name": "officialraspberrypicameraguide",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Design an RP2040 board with KiCad",
+              "machine_name": "designanrp2040boardwithkicad",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 15.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "pdf",
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Retro Gaming with Raspberry Pi",
+              "machine_name": "retrogamingwithraspberrypi",
               "type": "ebook",
               "min_price": {
                 "currency": "USD",
@@ -7121,62 +8075,8 @@
               }
             },
             {
-              "title": "Nikon D7500 For Dummies",
-              "machine_name": "nikond7500fordummies",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Digital SLR Cameras & Photography For Dummies",
-              "machine_name": "digitalslrcamerasandphotographyfordummies5thedition",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Digital Portrait Photography For Dummies",
-              "machine_name": "digitalportraitphotographyfordummies",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Digital Photography For Dummies",
-              "machine_name": "digitalphotographyfordummies9thedition",
+              "title": "An Introduction to C & GUI Programming",
+              "machine_name": "anintroductiontocandguiprogramming",
               "type": "ebook",
               "min_price": {
                 "currency": "USD",
@@ -7212,7 +8112,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 33.34
+            "amount": 33.38
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -7325,7 +8225,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 33.34
+            "amount": 33.38
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -7609,7 +8509,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 33.34
+            "amount": 33.38
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -9027,483 +9927,6 @@
       ]
     },
     {
-      "title": "Picos, HATs, and More by Raspberry Pi Press",
-      "category": "books",
-      "url": "https://humblebundle.com/books/picos-hats-and-more-raspberry-pi-press-books",
-      "machine_name": "picoshatsandmoreraspberrypipress_bookbundle",
-      "end_at": "2026-08-01T18:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $5 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 5.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 26.45
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Retro Gaming with Raspberry Pi",
-              "machine_name": "retrogamingwithraspberrypi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "An Introduction to C & GUI Programming",
-              "machine_name": "anintroductiontocandguiprogramming",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt15",
-          "header": "Pay $15 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 15.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 26.45
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "The Official Raspberry Pi Handbook 2025",
-              "machine_name": "officialraspberrypihandbook2025",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The official Raspberry Pi Camera guide",
-              "machine_name": "officialraspberrypicameraguide",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Design an RP2040 board with KiCad",
-              "machine_name": "designanrp2040boardwithkicad",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Retro Gaming with Raspberry Pi",
-              "machine_name": "retrogamingwithraspberrypi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "An Introduction to C & GUI Programming",
-              "machine_name": "anintroductiontocandguiprogramming",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt25",
-          "header": "Pay $25 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 25.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 26.45
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "The Official Raspberry Pi Handbook 2026",
-              "machine_name": "officialraspberrypihandbook2026",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "AI Projects with Raspberry Pi",
-              "machine_name": "aiprojectswithraspberrypi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Experiment with the Sense HAT",
-              "machine_name": "experimentwiththesensehat",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Get started with MicroPython on Raspberry Pi Pico",
-              "machine_name": "getstartedwithmicropythononraspberrypipico",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Python Projects for Raspberry Pi",
-              "machine_name": "pythonprojectsforraspberrypi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Simple Electronics with GPIO Zero",
-              "machine_name": "simpleelectronicswithgpiozero",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Book of Making 2026",
-              "machine_name": "bookofmaking2026",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Make games with Python",
-              "machine_name": "makegameswithpython",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Official Raspberry Pi Beginner's Guide",
-              "machine_name": "officialraspberrypibeginnersguide_6thedition",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Conquer the command line",
-              "machine_name": "conquerthecommandline",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Book of Making 2025",
-              "machine_name": "bookofmaking_2025",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Official Raspberry Pi Handbook 2025",
-              "machine_name": "officialraspberrypihandbook2025",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The official Raspberry Pi Camera guide",
-              "machine_name": "officialraspberrypicameraguide",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Design an RP2040 board with KiCad",
-              "machine_name": "designanrp2040boardwithkicad",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 15.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Retro Gaming with Raspberry Pi",
-              "machine_name": "retrogamingwithraspberrypi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "An Introduction to C & GUI Programming",
-              "machine_name": "anintroductiontocandguiprogramming",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "pdf",
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Pathfinder Second Edition Bundle of Frogs! By Paizo Inc.",
       "category": "books",
       "url": "https://humblebundle.com/books/pathfinder-second-edition-bundle-frogs-paizo-inc-books",
@@ -9519,7 +9942,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 35.73
+            "amount": 35.75
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -9642,7 +10065,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 35.73
+            "amount": 35.75
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -10020,7 +10443,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 35.73
+            "amount": 35.75
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -10623,7 +11046,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 35.73
+            "amount": 35.75
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -11250,7 +11673,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 10.76
+            "amount": 10.77
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -11497,7 +11920,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 11.5
+            "amount": 11.51
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -11779,7 +12202,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 78.4
+            "amount": 78.55
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -11868,7 +12291,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.9
+            "amount": 27.87
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -11916,7 +12339,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.9
+            "amount": 27.87
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -12009,7 +12432,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.9
+            "amount": 27.87
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -12561,7 +12984,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.46
+            "amount": 19.47
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -12633,7 +13056,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.46
+            "amount": 19.47
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -12759,7 +13182,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.46
+            "amount": 19.47
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -13092,7 +13515,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 24.61
+            "amount": 24.64
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -13200,7 +13623,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 24.61
+            "amount": 24.64
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -13497,7 +13920,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.5
+            "amount": 32.54
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -13530,7 +13953,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.5
+            "amount": 32.54
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -13578,7 +14001,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 32.5
+            "amount": 32.54
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -13860,7 +14283,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.54
+            "amount": 20.53
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -13929,7 +14352,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.54
+            "amount": 20.53
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -14049,7 +14472,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.54
+            "amount": 20.53
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -14518,7 +14941,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.47
+            "amount": 22.49
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -14566,7 +14989,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.47
+            "amount": 22.49
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -14704,7 +15127,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.47
+            "amount": 22.49
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -16276,7 +16699,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.25
+            "amount": 20.2
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -16350,7 +16773,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.25
+            "amount": 20.2
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -16536,7 +16959,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.25
+            "amount": 20.2
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -16939,528 +17362,6 @@
       ]
     },
     {
-      "title": "The John Scalzi Collection: Old Man's War & More by TOR Books",
-      "category": "books",
-      "url": "https://humblebundle.com/books/john-scalzi-collection-old-mans-war-more-tor-books-books",
-      "machine_name": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
-      "end_at": "2026-07-25T18:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $5 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 5.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 21.94
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Old Man's War",
-              "machine_name": "oldmanswar_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt10",
-          "header": "Pay $10 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 10.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 21.94
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "The Ghost Brigades",
-              "machine_name": "ghostbrigades_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Last Colony",
-              "machine_name": "lastcolony_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Zoe's Tale",
-              "machine_name": "zoestale_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Old Man's War",
-              "machine_name": "oldmanswar_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt18",
-          "header": "Pay $18 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 18.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 21.94
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "After the Coup",
-              "machine_name": "afterthecoup_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Agent to the Stars",
-              "machine_name": "agenttothestars_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Android's Dream",
-              "machine_name": "androidsdream_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Collapsing Empire",
-              "machine_name": "collapsingempire_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Consuming Fire",
-              "machine_name": "consumingfire_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The End of All Things",
-              "machine_name": "endofallthings_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Fuzzy Nation",
-              "machine_name": "fuzzynation_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Head On",
-              "machine_name": "headon_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Human Division",
-              "machine_name": "humandivision_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Kaiju Preservation Society",
-              "machine_name": "kaijupreservationsociety_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Last Emperox",
-              "machine_name": "lastemperox_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Lock In",
-              "machine_name": "lockin_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The President's Brain is Missing",
-              "machine_name": "presidentsbrainismissing_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Redshirts",
-              "machine_name": "redshirts_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Shadow War of the Night Dragons, Book One: The Dead City: Prologue",
-              "machine_name": "shadowwarofthenightdragons_bookone_thedeadcity_prologue_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Starter Villain",
-              "machine_name": "startervillain",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Unlocked",
-              "machine_name": "unlocked_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Your Hate Mail Will Be Graded",
-              "machine_name": "yourhatemailwillbegraded_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 18.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Ghost Brigades",
-              "machine_name": "ghostbrigades_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Last Colony",
-              "machine_name": "lastcolony_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Zoe's Tale",
-              "machine_name": "zoestale_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 10.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Old Man's War",
-              "machine_name": "oldmanswar_johnscalzi",
-              "type": "ebook",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "ebook": {
-                  "download": [
-                    "epub"
-                  ]
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "VFX Master-Bundle For Unreal",
       "category": "software",
       "url": "https://humblebundle.com/software/vfx-masterbundle-for-unreal-software",
@@ -17476,7 +17377,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.18
+            "amount": 22.19
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -17584,7 +17485,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.18
+            "amount": 22.19
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -17818,7 +17719,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 22.18
+            "amount": 22.19
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -19000,6 +18901,528 @@
       ]
     },
     {
+      "title": "The John Scalzi Collection: Old Man's War & More by TOR Books",
+      "category": "books",
+      "url": "https://humblebundle.com/books/john-scalzi-collection-old-mans-war-more-tor-books-books",
+      "machine_name": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
+      "end_at": "2026-07-25T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $5 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 5.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 21.93
+          },
+          "is_initial_tier": true,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Old Man's War",
+              "machine_name": "oldmanswar_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt10",
+          "header": "Pay $10 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 10.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 21.93
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "The Ghost Brigades",
+              "machine_name": "ghostbrigades_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Last Colony",
+              "machine_name": "lastcolony_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Zoe's Tale",
+              "machine_name": "zoestale_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Old Man's War",
+              "machine_name": "oldmanswar_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "key": "bt18",
+          "header": "Pay $18 or more to also unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 18.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 21.93
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "After the Coup",
+              "machine_name": "afterthecoup_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Agent to the Stars",
+              "machine_name": "agenttothestars_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Android's Dream",
+              "machine_name": "androidsdream_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Collapsing Empire",
+              "machine_name": "collapsingempire_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Consuming Fire",
+              "machine_name": "consumingfire_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The End of All Things",
+              "machine_name": "endofallthings_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Fuzzy Nation",
+              "machine_name": "fuzzynation_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Head On",
+              "machine_name": "headon_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Human Division",
+              "machine_name": "humandivision_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Kaiju Preservation Society",
+              "machine_name": "kaijupreservationsociety_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Last Emperox",
+              "machine_name": "lastemperox_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Lock In",
+              "machine_name": "lockin_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The President's Brain is Missing",
+              "machine_name": "presidentsbrainismissing_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Redshirts",
+              "machine_name": "redshirts_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Shadow War of the Night Dragons, Book One: The Dead City: Prologue",
+              "machine_name": "shadowwarofthenightdragons_bookone_thedeadcity_prologue_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Starter Villain",
+              "machine_name": "startervillain",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Unlocked",
+              "machine_name": "unlocked_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Your Hate Mail Will Be Graded",
+              "machine_name": "yourhatemailwillbegraded_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 18.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Ghost Brigades",
+              "machine_name": "ghostbrigades_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "The Last Colony",
+              "machine_name": "lastcolony_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Zoe's Tale",
+              "machine_name": "zoestale_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 10.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Old Man's War",
+              "machine_name": "oldmanswar_johnscalzi",
+              "type": "ebook",
+              "min_price": {
+                "currency": "USD",
+                "amount": 5.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "ebook": {
+                  "download": [
+                    "epub"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Summer Games Done Quick 2026",
       "category": "games",
       "url": "https://humblebundle.com/games/summer-games-done-quick-2026",
@@ -19015,7 +19438,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 14.08
+            "amount": 14.07
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -19170,7 +19593,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 14.08
+            "amount": 14.07
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -19394,7 +19817,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.64
+            "amount": 26.67
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -19442,7 +19865,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.64
+            "amount": 26.67
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -19520,7 +19943,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.64
+            "amount": 26.67
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -19697,7 +20120,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 57.2
+            "amount": 57.31
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -19806,7 +20229,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 57.2
+            "amount": 57.31
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -20175,7 +20598,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 57.2
+            "amount": 57.31
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -20698,7 +21121,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.22
+            "amount": 27.21
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -20746,7 +21169,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.22
+            "amount": 27.21
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -20854,7 +21277,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.22
+            "amount": 27.21
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -21616,183 +22039,6 @@
       ]
     },
     {
-      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
-      "category": "software",
-      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
-      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
-      "end_at": "2026-07-22T18:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $25 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 25.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 27.64
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Clip Studio Paint Pro Version 5.0 - 12 month license",
-              "machine_name": "clipstudiopaintproversion50_12monthlicense",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Ultimate Brush Pack",
-              "machine_name": "ultimatebrushpack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Superhero Brush Pack",
-              "machine_name": "superherobrushpack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Comic Brush Pack",
-              "machine_name": "comicbrushpack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "3D Models Pack",
-              "machine_name": "3dmodelspack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "3D Poses Pack",
-              "machine_name": "3dposespack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Speech Bubbles Pack",
-              "machine_name": "speechbubblespack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Comic & Manga Panel Frames Pack",
-              "machine_name": "comicandmangapanelframespack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Storyboard Assets Pack",
-              "machine_name": "storyboardassetspack",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            },
-            {
-              "title": "Moho Debut 12.5",
-              "machine_name": "mohodebut125",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 25.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": []
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Craft Your Cosplay Dreams",
       "category": "books",
       "url": "https://humblebundle.com/books/craft-your-cosplay-dreams-books",
@@ -21808,7 +22054,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 20.79
+            "amount": 20.77
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -22387,7 +22633,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 12.64
+            "amount": 12.63
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -22527,7 +22773,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 12.64
+            "amount": 12.63
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -22716,6 +22962,183 @@
                   "steam": [
                     "windows"
                   ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
+      "category": "software",
+      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
+      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
+      "end_at": "2026-07-22T18:00:00",
+      "tiers": [
+        {
+          "key": "initial",
+          "header": "Pay $25 to unlock!",
+          "price": {
+            "currency": "USD",
+            "amount": 25.0
+          },
+          "average_purchase_price": {
+            "currency": "USD",
+            "amount": 27.65
+          },
+          "is_initial_tier": false,
+          "is_bta": false,
+          "is_free": false,
+          "sold_out": false,
+          "items": [
+            {
+              "title": "Clip Studio Paint Pro Version 5.0 - 12 month license",
+              "machine_name": "clipstudiopaintproversion50_12monthlicense",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Ultimate Brush Pack",
+              "machine_name": "ultimatebrushpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Superhero Brush Pack",
+              "machine_name": "superherobrushpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Comic Brush Pack",
+              "machine_name": "comicbrushpack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "3D Models Pack",
+              "machine_name": "3dmodelspack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "3D Poses Pack",
+              "machine_name": "3dposespack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Speech Bubbles Pack",
+              "machine_name": "speechbubblespack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Comic & Manga Panel Frames Pack",
+              "machine_name": "comicandmangapanelframespack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Storyboard Assets Pack",
+              "machine_name": "storyboardassetspack",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
+                }
+              }
+            },
+            {
+              "title": "Moho Debut 12.5",
+              "machine_name": "mohodebut125",
+              "type": "software",
+              "min_price": {
+                "currency": "USD",
+                "amount": 25.0
+              },
+              "msrp_price": null,
+              "platforms_and_oses": {
+                "software": {
+                  "other-key": []
                 }
               }
             }
@@ -24230,7 +24653,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 31.72
+            "amount": 31.73
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -24644,7 +25067,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 31.72
+            "amount": 31.73
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -25616,7 +26039,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 31.72
+            "amount": 31.73
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -29315,7 +29738,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.32
+            "amount": 19.33
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -29378,7 +29801,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.32
+            "amount": 19.33
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -29486,7 +29909,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 19.32
+            "amount": 19.33
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -29903,1228 +30326,6 @@
       ]
     },
     {
-      "title": "The All-in-One Unreal & Unity GameDev Bundle",
-      "category": "software",
-      "url": "https://humblebundle.com/software/allinone-unreal-unity-gamedev-bundle-software",
-      "machine_name": "allinoneunrealunitygamedevbundle_softwarebundle",
-      "end_at": "2026-07-20T18:00:00",
-      "tiers": [
-        {
-          "key": "initial",
-          "header": "Pay $5 to unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 5.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 32.89
-          },
-          "is_initial_tier": true,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Japanese Old Shopping Mall Interior Environment ( Unreal Engine)",
-              "machine_name": "japaneseoldshoppingmallinteriorenvironmentunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Cyberpunk Bathroom - Brutalist ( Unity )",
-              "machine_name": "cyberpunkbathroom_brutalistunity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt20",
-          "header": "Pay $20 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 20.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 32.89
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Motel Room Interior Environment ( Unreal Engine )",
-              "machine_name": "motelroominteriorenvironmentunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Retro Sci-Fi Research Cabin Environment ( Unity )",
-              "machine_name": "retrosci-firesearchcabinenvironmentunity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Dungeon Ruins (Unreal Engine)",
-              "machine_name": "dungeonruinsunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Mega Marble Material 4K ( Unreal Engine )",
-              "machine_name": "megamarblematerial4kunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Magic Projectiles Vol.3 - Niagara (Unreal Engine)",
-              "machine_name": "magicprojectiles_vol3_niagaraunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "VFX Graph - Stylized Smoke - Vol. 1(Unity)",
-              "machine_name": "vfxgraph_stylizedsmoke_vol1unity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Stylized VFX - Water ( Unreal Engine)",
-              "machine_name": "stylizedvfx_water",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Japanese Old Shopping Mall Interior Environment ( Unreal Engine)",
-              "machine_name": "japaneseoldshoppingmallinteriorenvironmentunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Cyberpunk Bathroom - Brutalist ( Unity )",
-              "machine_name": "cyberpunkbathroom_brutalistunity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "key": "bt30",
-          "header": "Pay $30 or more to also unlock!",
-          "price": {
-            "currency": "USD",
-            "amount": 30.0
-          },
-          "average_purchase_price": {
-            "currency": "USD",
-            "amount": 32.89
-          },
-          "is_initial_tier": false,
-          "is_bta": false,
-          "is_free": false,
-          "sold_out": false,
-          "items": [
-            {
-              "title": "Cappadocia Anatolian Cave Hotel Environment ( Unreal Engine )",
-              "machine_name": "cappadociaanatoliancavehotelenvironmentunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Japanese Old Shopping Mall Environment ( Unity )",
-              "machine_name": "japaneseoldshoppingmallenvironmentunity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Motel Room Interior Environment ( Unity )",
-              "machine_name": "motelroominteriorenvironmentunity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Motel Reception Interior Environment ( Unreal Engine )",
-              "machine_name": "motelreceptioninteriorenvironmentunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Motel Reception Interior Environment ( Unity )",
-              "machine_name": "motelreceptioninteriorenvironmentunity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Sci-Fi Populate Environment ( Unity )",
-              "machine_name": "sci-fipopulateenvironmentunity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Sci-Fi Space Modular Environment ( Unity )",
-              "machine_name": "sci-fispacemodularenvironmentunity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Cyberpunk Hospital - Cyberpunk Clinic - Modular Cyberpunk Environment ( Unreal Engine )",
-              "machine_name": "cyberpunkhospital_cyberpunkclinic_modularcyberpunkenvironmentunrea",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Taiga Biome Environment / Boreal Tundra Forest ( Unity )",
-              "machine_name": "taigabiomeenvironmentandborealtundraforestunity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Arabic Fortress (Unreal Engine)",
-              "machine_name": "arabicfortressunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Ice Fortress (Unreal Engine)",
-              "machine_name": "icefortressunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Lords' Mansion (Unreal Engine)",
-              "machine_name": "lords_mansionunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Arabic Dock (Unreal Engine)",
-              "machine_name": "arabicdockunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "VFX Graph - Fireworks - Vol. 1 (Unity)",
-              "machine_name": "vfxgraph_fireworks_vol1unity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "VFX Graph - Weapon Effects - Vol. 1 (Unity)",
-              "machine_name": "vfxgraph_weaponeffects_vol1unity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Magic Cast VFX ( Unreal Engine)",
-              "machine_name": "magiccastvfxunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Gas Explosion VFX ( Unreal Engine)",
-              "machine_name": "gasexplosionvfxunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Explosion VFX 2 ( Unreal Engine)",
-              "machine_name": "explosionvfx2unrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Ground Explosion VFX ( Unreal Engine)",
-              "machine_name": "groundexplosionvfxunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Portal VFX Enhanced ( Unreal Engine)",
-              "machine_name": "portalvfxenhancedunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Vertical Warehouse (Unreal Engine)",
-              "machine_name": "verticalwarehouseunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Dark Village (Unreal Engine)",
-              "machine_name": "darkvillageunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "The Count's Church (Unreal Engine)",
-              "machine_name": "countschurchunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Abandoned Cabin (Unreal Engine)",
-              "machine_name": "abandonedcabinunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Oil Rig Liope (Unreal Engine)",
-              "machine_name": "oilrigliopeunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Middle Eastern Town ( Unreal Engine )",
-              "machine_name": "middleeasterntownunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "HANGAR-X ( Unreal Engine )",
-              "machine_name": "hangar-xunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Industrial Warehouse Night Environment - GARAGE ( Unreal Engine )",
-              "machine_name": "industrialwarehousenightenvironment_garageunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Container City ( Unreal Engine )",
-              "machine_name": "containercityunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Master Mega Dirty Wall Pack Material 4K ( Unreal Engine )",
-              "machine_name": "mastermegadirtywallpackmaterial4kunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Fabric Bundle Material ( Unreal Engine )",
-              "machine_name": "fabricbundlematerialunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Glass Bundle Material ( Unreal Engine )",
-              "machine_name": "glassbundlematerialunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Fireworks Vol. 1 - Niagara (Unreal Engine)",
-              "machine_name": "fireworks_vol1_niagaraunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Toon Abilities Vol.1 - Niagara (Unreal Engine)",
-              "machine_name": "toonabilities_vol1_niagaraunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Loot Drops Vol.2 - Niagara (Unreal Engine)",
-              "machine_name": "lootdrops_vol2_niagaraunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Magic Abilities Vol. 3 Niagara (Unreal Engine)",
-              "machine_name": "magicabilities_vol3niagaraunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Niagara Mega Pack Vol. 3 (Unreal Engine)",
-              "machine_name": "niagaramegapack_vol3unrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Unique Markers & Pings Vol. 1 (Unity)",
-              "machine_name": "uniquemarkersandpings_vol1unity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Unique Projectiles Vol. 4 (Unity)",
-              "machine_name": "uniqueprojectiles_vol4unity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Unique Loot Drops Vol. 1 (Unity)",
-              "machine_name": "uniquelootdrops_vol1unity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Steampunk Zeppelin Station - Victorian Airship Terminal Modular Environment ( Unreal Engine)",
-              "machine_name": "steampunkzeppelinstation-victorianairshipterminalmodularenvironmentunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 30.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Motel Room Interior Environment ( Unreal Engine )",
-              "machine_name": "motelroominteriorenvironmentunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Retro Sci-Fi Research Cabin Environment ( Unity )",
-              "machine_name": "retrosci-firesearchcabinenvironmentunity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Dungeon Ruins (Unreal Engine)",
-              "machine_name": "dungeonruinsunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Mega Marble Material 4K ( Unreal Engine )",
-              "machine_name": "megamarblematerial4kunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Magic Projectiles Vol.3 - Niagara (Unreal Engine)",
-              "machine_name": "magicprojectiles_vol3_niagaraunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "VFX Graph - Stylized Smoke - Vol. 1(Unity)",
-              "machine_name": "vfxgraph_stylizedsmoke_vol1unity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Stylized VFX - Water ( Unreal Engine)",
-              "machine_name": "stylizedvfx_water",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 20.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Japanese Old Shopping Mall Interior Environment ( Unreal Engine)",
-              "machine_name": "japaneseoldshoppingmallinteriorenvironmentunrealengine",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            },
-            {
-              "title": "Cyberpunk Bathroom - Brutalist ( Unity )",
-              "machine_name": "cyberpunkbathroom_brutalistunity",
-              "type": "software",
-              "min_price": {
-                "currency": "USD",
-                "amount": 5.0
-              },
-              "msrp_price": null,
-              "platforms_and_oses": {
-                "software": {
-                  "other-key": [
-                    "windows",
-                    "mac",
-                    "linux"
-                  ]
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Creature and Character Creation Bundle",
       "category": "software",
       "url": "https://humblebundle.com/software/creature-and-character-creation-bundle-software",
@@ -31140,7 +30341,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.73
+            "amount": 26.74
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -31233,7 +30434,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.73
+            "amount": 26.74
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -31401,7 +30602,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 26.73
+            "amount": 26.74
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -31788,7 +30989,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.23
+            "amount": 27.22
           },
           "is_initial_tier": true,
           "is_bta": false,
@@ -31821,7 +31022,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.23
+            "amount": 27.22
           },
           "is_initial_tier": false,
           "is_bta": false,
@@ -31869,7 +31070,7 @@
           },
           "average_purchase_price": {
             "currency": "USD",
-            "amount": 27.23
+            "amount": 27.22
           },
           "is_initial_tier": false,
           "is_bta": false,
