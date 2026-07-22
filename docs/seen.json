@@ -1,14 +1,30 @@
 {
-  "generated_at": "2026-07-21T19:46:29Z",
-  "updated_at": "2026-07-21T19:47:01Z",
+  "generated_at": "2026-07-22T19:39:37Z",
+  "updated_at": "2026-07-22T19:40:16Z",
   "items": [
     {
-      "key": "softwarearchitectureapress_bookbundle",
-      "url": "https://humblebundle.com/books/software-architecture-apress-books",
-      "machine_name": "softwarearchitectureapress_bookbundle",
-      "title": "Software Architecture by Apress",
+      "key": "pointclickpackage_bundle",
+      "url": "https://humblebundle.com/games/point-click-package",
+      "machine_name": "pointclickpackage_bundle",
+      "title": "Point Click Package",
+      "category": "games",
+      "end_at": "2026-08-13T04:00:00"
+    },
+    {
+      "key": "twinsailsinteractive2026_bundle",
+      "url": "https://humblebundle.com/games/twin-sails-interactive-2026",
+      "machine_name": "twinsailsinteractive2026_bundle",
+      "title": "Twin Sails Interactive 2026",
+      "category": "games",
+      "end_at": "2026-08-13T04:00:00"
+    },
+    {
+      "key": "teenagemutantninjaturtlesreturntonewyorkidw_bookbundle",
+      "url": "https://humblebundle.com/books/teenage-mutant-ninja-turtles-return-to-new-york-idw-books",
+      "machine_name": "teenagemutantninjaturtlesreturntonewyorkidw_bookbundle",
+      "title": "Teenage Mutant Ninja Turtles: Return to New York by IDW",
       "category": "books",
-      "end_at": "2026-08-10T18:00:00"
+      "end_at": "2026-08-12T18:00:00"
     },
     {
       "key": "mammothchroniclesstlmegabundle_softwarebundle",
@@ -25,6 +41,14 @@
       "title": "Massive Unreal Engine Bundle",
       "category": "software",
       "end_at": "2026-08-11T18:00:00"
+    },
+    {
+      "key": "softwarearchitectureapress_bookbundle",
+      "url": "https://humblebundle.com/books/software-architecture-apress-books",
+      "machine_name": "softwarearchitectureapress_bookbundle",
+      "title": "Software Architecture by Apress",
+      "category": "books",
+      "end_at": "2026-08-10T18:00:00"
     },
     {
       "key": "aimlanddecisionenginespragmatic_bookbundle",
@@ -51,6 +75,14 @@
       "end_at": "2026-08-08T18:00:00"
     },
     {
+      "key": "2kmegahits2026bundle_bundle",
+      "url": "https://humblebundle.com/games/2k-megahits-2026-bundle",
+      "machine_name": "2kmegahits2026bundle_bundle",
+      "title": "2K Megahits 2026 Bundle",
+      "category": "games",
+      "end_at": "2026-08-08T04:00:00"
+    },
+    {
       "key": "evensteamiersakuraspecial_bundle",
       "url": "https://humblebundle.com/games/even-steamier-sakura-special",
       "machine_name": "evensteamiersakuraspecial_bundle",
@@ -67,28 +99,12 @@
       "end_at": "2026-08-07T18:00:00"
     },
     {
-      "key": "2kmegahits2026bundle_bundle",
-      "url": "https://humblebundle.com/games/2k-megahits-2026-bundle",
-      "machine_name": "2kmegahits2026bundle_bundle",
-      "title": "2K Megahits 2026 Bundle",
-      "category": "games",
-      "end_at": "2026-08-08T04:00:00"
-    },
-    {
       "key": "framingcarpentryandfinewoodworkingtauntonpress_bookbundle",
       "url": "https://humblebundle.com/books/framing-carpentry-and-fine-woodworking-taunton-press-books",
       "machine_name": "framingcarpentryandfinewoodworkingtauntonpress_bookbundle",
       "title": "Framing, Carpentry, and Fine Woodworking by Taunton Press",
       "category": "books",
       "end_at": "2026-08-06T18:00:00"
-    },
-    {
-      "key": "handheldsbundle_bundle",
-      "url": "https://humblebundle.com/games/handhelds-bundle",
-      "machine_name": "handheldsbundle_bundle",
-      "title": "Humble Handhelds",
-      "category": "games",
-      "end_at": "2026-08-06T04:00:00"
     },
     {
       "key": "liminalspaces_bundle",
@@ -107,6 +123,14 @@
       "end_at": "2026-08-05T18:00:00"
     },
     {
+      "key": "handheldsbundle_bundle",
+      "url": "https://humblebundle.com/games/handhelds-bundle",
+      "machine_name": "handheldsbundle_bundle",
+      "title": "Humble Handhelds",
+      "category": "games",
+      "end_at": "2026-08-06T04:00:00"
+    },
+    {
       "key": "2026awsazurecomptiacloudcertificationpracticeexambundle_softwarebundle",
       "url": "https://humblebundle.com/software/2026-aws-azure-comptia-cloud-certification-practice-exam-bundle-software",
       "machine_name": "2026awsazurecomptiacloudcertificationpracticeexambundle_softwarebundle",
@@ -123,14 +147,6 @@
       "end_at": "2026-08-04T18:00:00"
     },
     {
-      "key": "ultimateiosdevelopmentbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/ultimate-ios-development-bundle-software",
-      "machine_name": "ultimateiosdevelopmentbundle_softwarebundle",
-      "title": "The Ultimate iOS Development Bundle",
-      "category": "software",
-      "end_at": "2026-08-03T18:00:00"
-    },
-    {
       "key": "unchartedfrontiersenvironmentpack_softwarebundle",
       "url": "https://humblebundle.com/software/uncharted-frontiers-environment-pack-software",
       "machine_name": "unchartedfrontiersenvironmentpack_softwarebundle",
@@ -144,6 +160,14 @@
       "machine_name": "camerasandphotographyfordummieswiley_bookbundle",
       "title": "Cameras and Photography for Dummies by Wiley",
       "category": "books",
+      "end_at": "2026-08-03T18:00:00"
+    },
+    {
+      "key": "ultimateiosdevelopmentbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/ultimate-ios-development-bundle-software",
+      "machine_name": "ultimateiosdevelopmentbundle_softwarebundle",
+      "title": "The Ultimate iOS Development Bundle",
+      "category": "software",
       "end_at": "2026-08-03T18:00:00"
     },
     {
@@ -163,11 +187,11 @@
       "end_at": "2026-08-01T18:00:00"
     },
     {
-      "key": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
-      "url": "https://humblebundle.com/books/pathfinder-second-edition-bundle-frogs-paizo-inc-books",
-      "machine_name": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
-      "title": "Pathfinder Second Edition Bundle of Frogs! By Paizo Inc.",
-      "category": "books",
+      "key": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
+      "url": "https://humblebundle.com/software/freedom-to-create-with-corel-graphics-suite-2025-software",
+      "machine_name": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
+      "title": "Freedom to Create with COREL Graphics Suite 2025",
+      "category": "software",
       "end_at": "2026-07-31T18:00:00"
     },
     {
@@ -179,20 +203,20 @@
       "end_at": "2026-08-01T04:00:00"
     },
     {
-      "key": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
-      "url": "https://humblebundle.com/software/freedom-to-create-with-corel-graphics-suite-2025-software",
-      "machine_name": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
-      "title": "Freedom to Create with COREL Graphics Suite 2025",
-      "category": "software",
-      "end_at": "2026-07-31T18:00:00"
-    },
-    {
       "key": "narrative12for10bundle_bundle",
       "url": "https://humblebundle.com/games/narrative-12-for-10-bundle",
       "machine_name": "narrative12for10bundle_bundle",
       "title": "Narrative 12 for $10 Bundle",
       "category": "games",
       "end_at": "2026-08-01T04:00:00"
+    },
+    {
+      "key": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
+      "url": "https://humblebundle.com/books/pathfinder-second-edition-bundle-frogs-paizo-inc-books",
+      "machine_name": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
+      "title": "Pathfinder Second Edition Bundle of Frogs! By Paizo Inc.",
+      "category": "books",
+      "end_at": "2026-07-31T18:00:00"
     },
     {
       "key": "learntomakegamesinunity2026bundle_softwarebundle",
@@ -251,19 +275,19 @@
       "end_at": "2026-07-27T18:00:00"
     },
     {
-      "key": "vfxmasterbundleforunreal_softwarebundle",
-      "url": "https://humblebundle.com/software/vfx-masterbundle-for-unreal-software",
-      "machine_name": "vfxmasterbundleforunreal_softwarebundle",
-      "title": "VFX Master-Bundle For Unreal",
-      "category": "software",
-      "end_at": "2026-07-25T18:00:00"
-    },
-    {
       "key": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
       "url": "https://humblebundle.com/books/john-scalzi-collection-old-mans-war-more-tor-books-books",
       "machine_name": "johnscalzicollectionoldmanswarmoretorbooks_bookbundle",
       "title": "The John Scalzi Collection: Old Man's War & More by TOR Books",
       "category": "books",
+      "end_at": "2026-07-25T18:00:00"
+    },
+    {
+      "key": "vfxmasterbundleforunreal_softwarebundle",
+      "url": "https://humblebundle.com/software/vfx-masterbundle-for-unreal-software",
+      "machine_name": "vfxmasterbundleforunreal_softwarebundle",
+      "title": "VFX Master-Bundle For Unreal",
+      "category": "software",
       "end_at": "2026-07-25T18:00:00"
     },
     {
@@ -304,7 +328,15 @@
       "machine_name": "craftyourcosplaydreams_bookbundle",
       "title": "Craft Your Cosplay Dreams",
       "category": "books",
-      "end_at": "2026-07-22T18:00:00"
+      "end_at": "2026-07-29T18:00:00"
+    },
+    {
+      "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
+      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
+      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
+      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
+      "category": "software",
+      "end_at": "2026-08-05T18:00:00"
     },
     {
       "key": "letsgogamblingawdangit_bundle",
@@ -313,14 +345,6 @@
       "title": "Let's Go Gambling!...aw dang it.",
       "category": "games",
       "end_at": "2026-07-23T04:00:00"
-    },
-    {
-      "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
-      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
-      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
-      "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
-      "category": "software",
-      "end_at": "2026-07-22T18:00:00"
     },
     {
       "key": "supergirlwomantomorrowandmoredccomics_bookbundle",
@@ -376,7 +400,7 @@
       "machine_name": "creatureandcharactercreationbundle_softwarebundle",
       "title": "Creature and Character Creation Bundle",
       "category": "software",
-      "end_at": "2026-07-22T18:00:00"
+      "end_at": "2026-07-29T18:00:00"
     }
   ]
 }
