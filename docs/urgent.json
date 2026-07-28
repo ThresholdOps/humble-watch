@@ -1,36 +1,6 @@
 {
-  "generated_at": "2026-07-27T19:48:43Z",
+  "generated_at": "2026-07-28T19:48:03Z",
   "expires_today": [
-    {
-      "category": "books",
-      "title": "The Tanith Lee Collection by DAW Books",
-      "url": "https://humblebundle.com/books/tanith-lee-collection-daw-books-books",
-      "description": "New worlds, strange visions",
-      "long_description": "Discover the unforgettable tales of one of science fiction and fantasy’s greatest authors in this bundle of Tanith Lee ebooks from DAW! Meet a Martian vampire desperate to evade the prying eyes of a private detective in \u003cem\u003eSabella\u003c/em\u003e. Follow people living on the dark side of a planet that might be about to contact another civilization in \u003cem\u003eDay by Night\u003c/em\u003e. Explore the mysteries of a medieval-inspired world with a reluctant goddess in \u003cem\u003eThe Birthgrave\u003c/em\u003e. There are 26 books in total in this bundle from the master fantasist, so grab them all now at the price of your choice, and support BINC with your purchase!",
-      "start_at": "2026-07-07T18:00:00",
-      "end_at": "2026-07-28T18:00:00",
-      "days_left": 0.92,
-      "hours_left": 22.2,
-      "machine_name": "tanithleecollectiondawbooks_bookbundle",
-      "bundles_sold": 6417,
-      "tile_stamp": "books"
-    },
-    {
-      "category": "software",
-      "title": "LIFETIME ACCESS CREATOR",
-      "url": "https://humblebundle.com/software/lifetime-access-creator-software",
-      "description": "A tailor-made SFX bundle",
-      "long_description": "Unlock a universe of professional sound effects—and keep it forever with the Lifetime Access Creator Bundle by Noise Alchemy! Perfect for game developers, film composers, content creators, and sound designers, this comprehensive SFX library offers 120+ handcrafted audio assets. Choose from three unique tiers that offer the perfect fit for any budget. Tier 1 gives you instant access to the bundle for 24 hours, Tier 2 gives you a full 30 days to explore the entire platform, and Tier 3 unlocks everything—for life. We’re talking permanent, unlimited access to the entire platform! Pay what you want for raw, flexible materials ready to be transformed into your next great audio project and help support Music Will with your purchase.  \u003cbr\u003e\u003cbr\u003e\u003ciframe width=\"400\" height=\"315\" src=\"https://www.youtube.com/embed/tMfqe-GyFKc?si=zsulNi18lREbmlmA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen\u003e\u003c/iframe\u003e",
-      "start_at": "2026-06-23T18:00:00",
-      "end_at": "2026-07-28T18:00:00",
-      "days_left": 0.92,
-      "hours_left": 22.2,
-      "machine_name": "lifetimeaccesscreator_softwarebundle",
-      "bundles_sold": 2538,
-      "tile_stamp": "software"
-    }
-  ],
-  "expires_tomorrow": [
     {
       "category": "software",
       "title": "The Complete Claude AI for Blender Bundle",
@@ -39,10 +9,10 @@
       "long_description": "Save development time, money, and sweat equity with The Complete Claude AI for Blender Bundle. Design unique characters, dynamic environments, and more with this curated 15+ course library. Led by \u003cem\u003eAI Box Modeling with Blender in Claude Code\u003c/em\u003e and \u003cem\u003eDigital Sculpting Basics with Blender in Claude Code\u003c/em\u003e, this bundle has everything you need to implement Claude AI into fundamental development processes with minimal friction. Reduce your development cycle with leading AI tools today, and help support Girls Who Code with your purchase! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem your keys before July 29th, 2027. \u003c/span\u003e ",
       "start_at": "2026-07-08T18:00:00",
       "end_at": "2026-07-29T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
+      "days_left": 0.92,
+      "hours_left": 22.2,
       "machine_name": "completeclaudeaiforblenderbundle_softwarebundle",
-      "bundles_sold": 2121,
+      "bundles_sold": 2273,
       "tile_stamp": "software"
     },
     {
@@ -53,10 +23,10 @@
       "long_description": "Tired of that stale operating system? Add color, customization, and optimization to your workstation with the all-new Linux: All the Things Bundle by O'Reilly! Master the fundamentals of Linux with 15 eBooks that cover everything you need to know. Pay what you want for an expertly curated Linux library designed to streamline your learning journey with foundational eBooks like \u003cem\u003eLearning Git\u003c/em\u003e, \u003cem\u003eLinux Pocket Guide\u003c/em\u003e, and \u003cem\u003ePractical Linux System Administration\u003c/em\u003e. Unlock what’s possible with Linux, and help support Code for America with your purchase! ",
       "start_at": "2026-07-08T18:00:00",
       "end_at": "2026-07-29T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
+      "days_left": 0.92,
+      "hours_left": 22.2,
       "machine_name": "linuxallthingsoreilly_bookbundle",
-      "bundles_sold": 5886,
+      "bundles_sold": 6292,
       "tile_stamp": "books"
     },
     {
@@ -67,10 +37,10 @@
       "long_description": "With this bundle of how-to books on crafting the perfect cosplay, you have everything you need to turn yourself into the main character! Or the charming sidekick. Or the character nobody understands better than you. Try your hand at blacksmithing without all the fuss and craft the swords, shields, and armor of your wildest imagination. Collect patterns for masks, ears, pouches, and witch hats. Learn the ins and outs of 3D printing, cosplay as a business, and how to give your photos the aura they deserve. There’s a lot more included in the pages of this bundle, so get it now at the price of your choice, and choose your own charity to support with your purchase! ",
       "start_at": "2026-07-01T18:00:00",
       "end_at": "2026-07-29T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
+      "days_left": 0.92,
+      "hours_left": 22.2,
       "machine_name": "craftyourcosplaydreams_bookbundle",
-      "bundles_sold": 6863,
+      "bundles_sold": 7018,
       "tile_stamp": "books"
     },
     {
@@ -81,10 +51,10 @@
       "long_description": "Celebrate the 250th birthday of the United States by adding a massive collection of A1 game assets to your personal library! Pay what you want for the World Builders: Americana Bundle and drop your players into a sinisterly simple suburban hellscape or a haunting hospital perfect for high-stakes sieges. Unlock 75+ themed asset packs like \u003cem\u003eMeridian 1988: Captain Jimmy's Seafood - Modular Environment (VOL 6)\u003c/em\u003e and \u003cem\u003eMeridian 1988: Genie Service Station - Modular Environment (VOL 16)\u003c/em\u003e, and add detailed retro realism to your next project! As always, a portion of your purchase helps support the Forest School Foundation. \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys Expire. Please redeem before December 21, 2027.\u003c/span\u003e",
       "start_at": "2026-06-24T18:00:00",
       "end_at": "2026-07-29T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
+      "days_left": 0.92,
+      "hours_left": 22.2,
       "machine_name": "worldbuildersamericana_softwarebundle",
-      "bundles_sold": 2505,
+      "bundles_sold": 2566,
       "tile_stamp": "software"
     },
     {
@@ -95,14 +65,14 @@
       "long_description": "Bring monstrosities, blood-dripping creatures, and ghastly ghouls to life with a curated bundle of assets designed to get your players’ hearts pumping! Pay what you want for hundreds of specialized asset packs that work seamlessly with your preferred creation platforms, such as VDM Blender and ZBrush, including \u003cem\u003eFaceit: Facial Expressions and Performance Capture\u003c/em\u003e and \u003cem\u003eBase Mesh Mega Pack 3D Models - Human, Anime \u0026 Cartoon Animals\u003c/em\u003e. Plus, your purchase includes 44 ears, 44 teeth, 44 noses, and much, much more. Create amazing monsters before it’s too late, and help support Save the Children with your purchase! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem your keys before October 31, 2026. \u003c/span\u003e",
       "start_at": "2026-06-10T18:00:00",
       "end_at": "2026-07-29T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
+      "days_left": 0.92,
+      "hours_left": 22.2,
       "machine_name": "creatureandcharactercreationbundle_softwarebundle",
-      "bundles_sold": 7534,
+      "bundles_sold": 7652,
       "tile_stamp": "software"
     }
   ],
-  "expires_within_72h": [
+  "expires_tomorrow": [
     {
       "category": "books",
       "title": "The Blade Runner Collection by Titan Comics",
@@ -111,10 +81,10 @@
       "long_description": "Are you on the side of humanity or technology? Lose yourself in the renowned \u003cem\u003eBlade Runner\u003c/em\u003e comic series in this bundle from Titan Comics! Follow the continued stories of Rick Deckard and Roy Batty alongside new original characters in thrilling graphic novels and comics like \u003cem\u003eBlade Runner Black Lotus: Las Vegas #1\u003c/em\u003e and \u003cem\u003eBlade Runner 2019: Vol. 1: Los Angeles\u003c/em\u003e, and see a new side of this iconic dystopian universe. Uncover what’s new with the Tyrell Corporation, and help support Direct Relief with your purchase!",
       "start_at": "2026-07-09T18:00:00",
       "end_at": "2026-07-30T18:00:00",
-      "days_left": 2.92,
-      "hours_left": 70.2,
+      "days_left": 1.92,
+      "hours_left": 46.2,
       "machine_name": "bladerunnercollectiontitancomics_bookbundle",
-      "bundles_sold": 4995,
+      "bundles_sold": 5255,
       "tile_stamp": "books"
     },
     {
@@ -125,53 +95,11 @@
       "long_description": "Take your first steps into game development with one of the world’s most popular game engines, Unity. Whether you’re completely new to coding and game creation or ready to build bigger and more advanced projects, this bundle gives you the tools to grow your skills through hands-on learning. Start with beginner-friendly courses like Create Your First 2D Game in Unity and Create Your First 3D Game in Unity, then continue into larger projects like Complete Action RPG, Farming RPG, Tower Defense, and Construct a First Person Shooter. Along the way, you’ll learn C# programming, game systems, debugging, optimization, multiplayer, VR, and more. Pay what you want for a complete Unity learning bundle that can help turn your passion for games into real development skills  and help support Alzheimer's Research UK with your purchase. \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem your keys before July 30th, 2027. \u003c/span\u003e",
       "start_at": "2026-07-09T18:00:00",
       "end_at": "2026-07-30T18:00:00",
-      "days_left": 2.92,
-      "hours_left": 70.2,
+      "days_left": 1.92,
+      "hours_left": 46.2,
       "machine_name": "learntomakegamesinunity2026bundle_softwarebundle",
-      "bundles_sold": 430,
+      "bundles_sold": 457,
       "tile_stamp": "software"
-    },
-    {
-      "category": "software",
-      "title": "The Complete Claude AI for Blender Bundle",
-      "url": "https://humblebundle.com/software/complete-claude-ai-for-blender-bundle-software",
-      "description": "Clear your calendar with Claude AI ",
-      "long_description": "Save development time, money, and sweat equity with The Complete Claude AI for Blender Bundle. Design unique characters, dynamic environments, and more with this curated 15+ course library. Led by \u003cem\u003eAI Box Modeling with Blender in Claude Code\u003c/em\u003e and \u003cem\u003eDigital Sculpting Basics with Blender in Claude Code\u003c/em\u003e, this bundle has everything you need to implement Claude AI into fundamental development processes with minimal friction. Reduce your development cycle with leading AI tools today, and help support Girls Who Code with your purchase! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem your keys before July 29th, 2027. \u003c/span\u003e ",
-      "start_at": "2026-07-08T18:00:00",
-      "end_at": "2026-07-29T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
-      "machine_name": "completeclaudeaiforblenderbundle_softwarebundle",
-      "bundles_sold": 2121,
-      "tile_stamp": "software"
-    },
-    {
-      "category": "books",
-      "title": "Linux: All the Things by O'Reilly",
-      "url": "https://humblebundle.com/books/linux-all-things-oreilly-books",
-      "description": "Learn Linux with O’Reilly",
-      "long_description": "Tired of that stale operating system? Add color, customization, and optimization to your workstation with the all-new Linux: All the Things Bundle by O'Reilly! Master the fundamentals of Linux with 15 eBooks that cover everything you need to know. Pay what you want for an expertly curated Linux library designed to streamline your learning journey with foundational eBooks like \u003cem\u003eLearning Git\u003c/em\u003e, \u003cem\u003eLinux Pocket Guide\u003c/em\u003e, and \u003cem\u003ePractical Linux System Administration\u003c/em\u003e. Unlock what’s possible with Linux, and help support Code for America with your purchase! ",
-      "start_at": "2026-07-08T18:00:00",
-      "end_at": "2026-07-29T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
-      "machine_name": "linuxallthingsoreilly_bookbundle",
-      "bundles_sold": 5886,
-      "tile_stamp": "books"
-    },
-    {
-      "category": "books",
-      "title": "The Tanith Lee Collection by DAW Books",
-      "url": "https://humblebundle.com/books/tanith-lee-collection-daw-books-books",
-      "description": "New worlds, strange visions",
-      "long_description": "Discover the unforgettable tales of one of science fiction and fantasy’s greatest authors in this bundle of Tanith Lee ebooks from DAW! Meet a Martian vampire desperate to evade the prying eyes of a private detective in \u003cem\u003eSabella\u003c/em\u003e. Follow people living on the dark side of a planet that might be about to contact another civilization in \u003cem\u003eDay by Night\u003c/em\u003e. Explore the mysteries of a medieval-inspired world with a reluctant goddess in \u003cem\u003eThe Birthgrave\u003c/em\u003e. There are 26 books in total in this bundle from the master fantasist, so grab them all now at the price of your choice, and support BINC with your purchase!",
-      "start_at": "2026-07-07T18:00:00",
-      "end_at": "2026-07-28T18:00:00",
-      "days_left": 0.92,
-      "hours_left": 22.2,
-      "machine_name": "tanithleecollectiondawbooks_bookbundle",
-      "bundles_sold": 6417,
-      "tile_stamp": "books"
     },
     {
       "category": "books",
@@ -181,10 +109,10 @@
       "long_description": "Looking for a leg up on apps and AI? We’ve partnered with Manning Publications to curate the perfect summer reading series for curious, tech-focused minds! It all begins with the AI Foundations and Applications Bundle—embark on your learning journey with \u003cem\u003eAI-Powered Search\u003c/em\u003e, \u003cem\u003eBuild a Large Language Model (From Scratch)\u003c/em\u003e, or \u003cem\u003eDeep Learning with Python, 3e\u003c/em\u003e and watch your confidence grow in these red-hot fields of tech. Make summer ’26 the season of growth for your career, and help support Feeding America with your purchase. ",
       "start_at": "2026-07-02T18:00:00",
       "end_at": "2026-07-30T18:00:00",
-      "days_left": 2.92,
-      "hours_left": 70.2,
+      "days_left": 1.92,
+      "hours_left": 46.2,
       "machine_name": "aifoundationsandapplicationsmanning_softwarebundle",
-      "bundles_sold": 5043,
+      "bundles_sold": 5161,
       "tile_stamp": "books"
     },
     {
@@ -195,10 +123,124 @@
       "long_description": "Dying to design your own epic game but have no idea where to begin? Been poking around in Blender but haven’t figured out all the tips and tricks? This bundle of Blender software courses will have you creating awesome boss fights and unique characters like you’ve been doing it for years! Learn the basics of character creation with courses on 3D, anime, and even low-poly characters! Bring them to life with comprehensive guides on animation and rigging! Let your imagination run wild sculpting orcs, dragons, mechs, and more! Get hours of resources and advice about all the details of game creation for the low price of your choosing, and support Girls Who Code with your purchase!\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before July 23rd, 2027.\u003c/span\u003e",
       "start_at": "2026-07-02T18:00:00",
       "end_at": "2026-07-30T18:00:00",
+      "days_left": 1.92,
+      "hours_left": 46.2,
+      "machine_name": "completecharactercreationforgames_softwarebundle",
+      "bundles_sold": 1124,
+      "tile_stamp": "software"
+    }
+  ],
+  "expires_within_72h": [
+    {
+      "category": "software",
+      "title": "Freedom to Create with COREL Graphics Suite 2025",
+      "url": "https://humblebundle.com/software/freedom-to-create-with-corel-graphics-suite-2025-software",
+      "description": "Unlock your creativity",
+      "long_description": "Feel like your graphic design projects could use a little more pizzazz? Take your art to the next level with the 2025 edition of CorelDRAW Graphics Suite—professional quality graphic design software with all the bells and whistles. For a massive discount you’ll get everything this CorelDRAW suite has to offer, from vector illustration software, image processing, font and layout managers, and more! Whether you’re creating your own art pieces or designing for a brand, these programs will help you bring your ideas to life and give them energy and style. You won’t find a deal this good for software this essential anywhere else, so grab it now at the price of your choosing, and support Extra Life charity through Children’s Miracle Network Hospitals with your purchase!\u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem your keys before July 31st, 2027. Permanent Perpetual License \u003c/span\u003e ",
+      "start_at": "2026-07-10T18:00:00",
+      "end_at": "2026-07-31T18:00:00",
       "days_left": 2.92,
       "hours_left": 70.2,
+      "machine_name": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
+      "bundles_sold": 2290,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "books",
+      "title": "Pathfinder Second Edition Bundle of Frogs! By Paizo Inc.",
+      "url": "https://humblebundle.com/books/pathfinder-second-edition-bundle-frogs-paizo-inc-books",
+      "description": "Hop to your next adventure!",
+      "long_description": "If your tabletop game nights are croaking, you could use a frog-themed boost from this bundle of Pathfinder Second Edition TTRPG adventures and miniature printable sets from Paizo! This bundle includes the ribbiting–erm, \u003cem\u003eriveting\u003c/em\u003e \u003cem\u003eDawn of the Frogs\u003c/em\u003e, a mystery set in the swampy mires of Bog Bottom, both in PDF form and as a physical boxed set (miniature printables included)! If frogs aren’t your speed, try out the \u003cem\u003eExtinction Curse\u003c/em\u003e storyline, beginning with the circus-set murder mystery \u003cem\u003eThe Show Must Go On\u003c/em\u003e! Or take to the skies in a flying airship and search the wilderness for magical beasts in \u003cem\u003eHowl of the Wild\u003c/em\u003e! There are whole worlds to explore in this giant Pathfinder bundle, so get a crew together, grab it while it’s hot at the price of your choosing, and support the Craft Emergency Relief Fund with your purchase!  \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys Expire. Please redeem before December 31st 2026. \u003c/span\u003e",
+      "start_at": "2026-07-10T18:00:00",
+      "end_at": "2026-07-31T18:00:00",
+      "days_left": 2.92,
+      "hours_left": 70.2,
+      "machine_name": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
+      "bundles_sold": 3767,
+      "tile_stamp": "books"
+    },
+    {
+      "category": "books",
+      "title": "The Blade Runner Collection by Titan Comics",
+      "url": "https://humblebundle.com/books/blade-runner-collection-titan-comics-books",
+      "description": "Discover the next chapter of Blade Runner’s story",
+      "long_description": "Are you on the side of humanity or technology? Lose yourself in the renowned \u003cem\u003eBlade Runner\u003c/em\u003e comic series in this bundle from Titan Comics! Follow the continued stories of Rick Deckard and Roy Batty alongside new original characters in thrilling graphic novels and comics like \u003cem\u003eBlade Runner Black Lotus: Las Vegas #1\u003c/em\u003e and \u003cem\u003eBlade Runner 2019: Vol. 1: Los Angeles\u003c/em\u003e, and see a new side of this iconic dystopian universe. Uncover what’s new with the Tyrell Corporation, and help support Direct Relief with your purchase!",
+      "start_at": "2026-07-09T18:00:00",
+      "end_at": "2026-07-30T18:00:00",
+      "days_left": 1.92,
+      "hours_left": 46.2,
+      "machine_name": "bladerunnercollectiontitancomics_bookbundle",
+      "bundles_sold": 5255,
+      "tile_stamp": "books"
+    },
+    {
+      "category": "software",
+      "title": "Learn to Make Games in Unity 2026 Bundle",
+      "url": "https://humblebundle.com/software/learn-to-make-games-in-unity-2026-bundle-software",
+      "description": "Learn to make games with Unity",
+      "long_description": "Take your first steps into game development with one of the world’s most popular game engines, Unity. Whether you’re completely new to coding and game creation or ready to build bigger and more advanced projects, this bundle gives you the tools to grow your skills through hands-on learning. Start with beginner-friendly courses like Create Your First 2D Game in Unity and Create Your First 3D Game in Unity, then continue into larger projects like Complete Action RPG, Farming RPG, Tower Defense, and Construct a First Person Shooter. Along the way, you’ll learn C# programming, game systems, debugging, optimization, multiplayer, VR, and more. Pay what you want for a complete Unity learning bundle that can help turn your passion for games into real development skills  and help support Alzheimer's Research UK with your purchase. \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem your keys before July 30th, 2027. \u003c/span\u003e",
+      "start_at": "2026-07-09T18:00:00",
+      "end_at": "2026-07-30T18:00:00",
+      "days_left": 1.92,
+      "hours_left": 46.2,
+      "machine_name": "learntomakegamesinunity2026bundle_softwarebundle",
+      "bundles_sold": 457,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "software",
+      "title": "The Complete Claude AI for Blender Bundle",
+      "url": "https://humblebundle.com/software/complete-claude-ai-for-blender-bundle-software",
+      "description": "Clear your calendar with Claude AI ",
+      "long_description": "Save development time, money, and sweat equity with The Complete Claude AI for Blender Bundle. Design unique characters, dynamic environments, and more with this curated 15+ course library. Led by \u003cem\u003eAI Box Modeling with Blender in Claude Code\u003c/em\u003e and \u003cem\u003eDigital Sculpting Basics with Blender in Claude Code\u003c/em\u003e, this bundle has everything you need to implement Claude AI into fundamental development processes with minimal friction. Reduce your development cycle with leading AI tools today, and help support Girls Who Code with your purchase! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem your keys before July 29th, 2027. \u003c/span\u003e ",
+      "start_at": "2026-07-08T18:00:00",
+      "end_at": "2026-07-29T18:00:00",
+      "days_left": 0.92,
+      "hours_left": 22.2,
+      "machine_name": "completeclaudeaiforblenderbundle_softwarebundle",
+      "bundles_sold": 2273,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "books",
+      "title": "Linux: All the Things by O'Reilly",
+      "url": "https://humblebundle.com/books/linux-all-things-oreilly-books",
+      "description": "Learn Linux with O’Reilly",
+      "long_description": "Tired of that stale operating system? Add color, customization, and optimization to your workstation with the all-new Linux: All the Things Bundle by O'Reilly! Master the fundamentals of Linux with 15 eBooks that cover everything you need to know. Pay what you want for an expertly curated Linux library designed to streamline your learning journey with foundational eBooks like \u003cem\u003eLearning Git\u003c/em\u003e, \u003cem\u003eLinux Pocket Guide\u003c/em\u003e, and \u003cem\u003ePractical Linux System Administration\u003c/em\u003e. Unlock what’s possible with Linux, and help support Code for America with your purchase! ",
+      "start_at": "2026-07-08T18:00:00",
+      "end_at": "2026-07-29T18:00:00",
+      "days_left": 0.92,
+      "hours_left": 22.2,
+      "machine_name": "linuxallthingsoreilly_bookbundle",
+      "bundles_sold": 6292,
+      "tile_stamp": "books"
+    },
+    {
+      "category": "books",
+      "title": "AI Foundations and Applications by Manning",
+      "url": "https://humblebundle.com/books/ai-foundations-and-applications-manning-books",
+      "description": "The hottest AI summer reading list",
+      "long_description": "Looking for a leg up on apps and AI? We’ve partnered with Manning Publications to curate the perfect summer reading series for curious, tech-focused minds! It all begins with the AI Foundations and Applications Bundle—embark on your learning journey with \u003cem\u003eAI-Powered Search\u003c/em\u003e, \u003cem\u003eBuild a Large Language Model (From Scratch)\u003c/em\u003e, or \u003cem\u003eDeep Learning with Python, 3e\u003c/em\u003e and watch your confidence grow in these red-hot fields of tech. Make summer ’26 the season of growth for your career, and help support Feeding America with your purchase. ",
+      "start_at": "2026-07-02T18:00:00",
+      "end_at": "2026-07-30T18:00:00",
+      "days_left": 1.92,
+      "hours_left": 46.2,
+      "machine_name": "aifoundationsandapplicationsmanning_softwarebundle",
+      "bundles_sold": 5161,
+      "tile_stamp": "books"
+    },
+    {
+      "category": "software",
+      "title": "Complete Character Creation for Games",
+      "url": "https://humblebundle.com/software/complete-character-creation-for-games-software",
+      "description": "Bring characters to life in Blender",
+      "long_description": "Dying to design your own epic game but have no idea where to begin? Been poking around in Blender but haven’t figured out all the tips and tricks? This bundle of Blender software courses will have you creating awesome boss fights and unique characters like you’ve been doing it for years! Learn the basics of character creation with courses on 3D, anime, and even low-poly characters! Bring them to life with comprehensive guides on animation and rigging! Let your imagination run wild sculpting orcs, dragons, mechs, and more! Get hours of resources and advice about all the details of game creation for the low price of your choosing, and support Girls Who Code with your purchase!\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before July 23rd, 2027.\u003c/span\u003e",
+      "start_at": "2026-07-02T18:00:00",
+      "end_at": "2026-07-30T18:00:00",
+      "days_left": 1.92,
+      "hours_left": 46.2,
       "machine_name": "completecharactercreationforgames_softwarebundle",
-      "bundles_sold": 1101,
+      "bundles_sold": 1124,
       "tile_stamp": "software"
     },
     {
@@ -209,10 +251,10 @@
       "long_description": "With this bundle of how-to books on crafting the perfect cosplay, you have everything you need to turn yourself into the main character! Or the charming sidekick. Or the character nobody understands better than you. Try your hand at blacksmithing without all the fuss and craft the swords, shields, and armor of your wildest imagination. Collect patterns for masks, ears, pouches, and witch hats. Learn the ins and outs of 3D printing, cosplay as a business, and how to give your photos the aura they deserve. There’s a lot more included in the pages of this bundle, so get it now at the price of your choice, and choose your own charity to support with your purchase! ",
       "start_at": "2026-07-01T18:00:00",
       "end_at": "2026-07-29T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
+      "days_left": 0.92,
+      "hours_left": 22.2,
       "machine_name": "craftyourcosplaydreams_bookbundle",
-      "bundles_sold": 6863,
+      "bundles_sold": 7018,
       "tile_stamp": "books"
     },
     {
@@ -223,24 +265,10 @@
       "long_description": "Celebrate the 250th birthday of the United States by adding a massive collection of A1 game assets to your personal library! Pay what you want for the World Builders: Americana Bundle and drop your players into a sinisterly simple suburban hellscape or a haunting hospital perfect for high-stakes sieges. Unlock 75+ themed asset packs like \u003cem\u003eMeridian 1988: Captain Jimmy's Seafood - Modular Environment (VOL 6)\u003c/em\u003e and \u003cem\u003eMeridian 1988: Genie Service Station - Modular Environment (VOL 16)\u003c/em\u003e, and add detailed retro realism to your next project! As always, a portion of your purchase helps support the Forest School Foundation. \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys Expire. Please redeem before December 21, 2027.\u003c/span\u003e",
       "start_at": "2026-06-24T18:00:00",
       "end_at": "2026-07-29T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
-      "machine_name": "worldbuildersamericana_softwarebundle",
-      "bundles_sold": 2505,
-      "tile_stamp": "software"
-    },
-    {
-      "category": "software",
-      "title": "LIFETIME ACCESS CREATOR",
-      "url": "https://humblebundle.com/software/lifetime-access-creator-software",
-      "description": "A tailor-made SFX bundle",
-      "long_description": "Unlock a universe of professional sound effects—and keep it forever with the Lifetime Access Creator Bundle by Noise Alchemy! Perfect for game developers, film composers, content creators, and sound designers, this comprehensive SFX library offers 120+ handcrafted audio assets. Choose from three unique tiers that offer the perfect fit for any budget. Tier 1 gives you instant access to the bundle for 24 hours, Tier 2 gives you a full 30 days to explore the entire platform, and Tier 3 unlocks everything—for life. We’re talking permanent, unlimited access to the entire platform! Pay what you want for raw, flexible materials ready to be transformed into your next great audio project and help support Music Will with your purchase.  \u003cbr\u003e\u003cbr\u003e\u003ciframe width=\"400\" height=\"315\" src=\"https://www.youtube.com/embed/tMfqe-GyFKc?si=zsulNi18lREbmlmA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen\u003e\u003c/iframe\u003e",
-      "start_at": "2026-06-23T18:00:00",
-      "end_at": "2026-07-28T18:00:00",
       "days_left": 0.92,
       "hours_left": 22.2,
-      "machine_name": "lifetimeaccesscreator_softwarebundle",
-      "bundles_sold": 2538,
+      "machine_name": "worldbuildersamericana_softwarebundle",
+      "bundles_sold": 2566,
       "tile_stamp": "software"
     },
     {
@@ -251,10 +279,10 @@
       "long_description": "Bring monstrosities, blood-dripping creatures, and ghastly ghouls to life with a curated bundle of assets designed to get your players’ hearts pumping! Pay what you want for hundreds of specialized asset packs that work seamlessly with your preferred creation platforms, such as VDM Blender and ZBrush, including \u003cem\u003eFaceit: Facial Expressions and Performance Capture\u003c/em\u003e and \u003cem\u003eBase Mesh Mega Pack 3D Models - Human, Anime \u0026 Cartoon Animals\u003c/em\u003e. Plus, your purchase includes 44 ears, 44 teeth, 44 noses, and much, much more. Create amazing monsters before it’s too late, and help support Save the Children with your purchase! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem your keys before October 31, 2026. \u003c/span\u003e",
       "start_at": "2026-06-10T18:00:00",
       "end_at": "2026-07-29T18:00:00",
-      "days_left": 1.92,
-      "hours_left": 46.2,
+      "days_left": 0.92,
+      "hours_left": 22.2,
       "machine_name": "creatureandcharactercreationbundle_softwarebundle",
-      "bundles_sold": 7534,
+      "bundles_sold": 7652,
       "tile_stamp": "software"
     }
   ]

@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-27T19:48:43Z",
-  "updated_at": "2026-07-27T19:49:23Z",
+  "generated_at": "2026-07-28T19:48:03Z",
+  "updated_at": "2026-07-28T19:48:39Z",
   "items": [
+    {
+      "key": "fromriverstofjordsexploreworldsbasicroleplayingchaosium_bookbundle",
+      "url": "https://humblebundle.com/books/from-rivers-to-fjords-explore-worlds-basic-roleplaying-chaosium-books",
+      "machine_name": "fromriverstofjordsexploreworldsbasicroleplayingchaosium_bookbundle",
+      "title": "From Rivers to Fjords - Explore the Worlds of Basic Roleplaying by Chaosium",
+      "category": "books",
+      "end_at": "2026-08-18T18:00:00"
+    },
     {
       "key": "pythonrustanddataoreilly_bookbundle",
       "url": "https://humblebundle.com/books/python-rust-and-data-oreilly-books",
@@ -19,18 +27,18 @@
       "end_at": "2026-08-15T18:00:00"
     },
     {
-      "key": "idlersanddesktopcompanions_bundle",
-      "url": "https://humblebundle.com/games/idlers-and-desktop-companions",
-      "machine_name": "idlersanddesktopcompanions_bundle",
-      "title": "Idlers and Desktop Companions",
-      "category": "games",
-      "end_at": "2026-08-15T04:00:00"
-    },
-    {
       "key": "animalstylebundle_bundle",
       "url": "https://humblebundle.com/games/animal-style-bundle",
       "machine_name": "animalstylebundle_bundle",
       "title": "Animal Style Bundle",
+      "category": "games",
+      "end_at": "2026-08-15T04:00:00"
+    },
+    {
+      "key": "idlersanddesktopcompanions_bundle",
+      "url": "https://humblebundle.com/games/idlers-and-desktop-companions",
+      "machine_name": "idlersanddesktopcompanions_bundle",
+      "title": "Idlers and Desktop Companions",
       "category": "games",
       "end_at": "2026-08-15T04:00:00"
     },
@@ -59,12 +67,12 @@
       "end_at": "2026-08-13T18:00:00"
     },
     {
-      "key": "pointclickpackage_bundle",
-      "url": "https://humblebundle.com/games/point-click-package",
-      "machine_name": "pointclickpackage_bundle",
-      "title": "Point Click Package",
-      "category": "games",
-      "end_at": "2026-08-13T04:00:00"
+      "key": "teenagemutantninjaturtlesreturntonewyorkidw_bookbundle",
+      "url": "https://humblebundle.com/books/teenage-mutant-ninja-turtles-return-to-new-york-idw-books",
+      "machine_name": "teenagemutantninjaturtlesreturntonewyorkidw_bookbundle",
+      "title": "Teenage Mutant Ninja Turtles: Return to New York by IDW",
+      "category": "books",
+      "end_at": "2026-08-12T18:00:00"
     },
     {
       "key": "twinsailsinteractive2026_bundle",
@@ -75,12 +83,12 @@
       "end_at": "2026-08-13T04:00:00"
     },
     {
-      "key": "teenagemutantninjaturtlesreturntonewyorkidw_bookbundle",
-      "url": "https://humblebundle.com/books/teenage-mutant-ninja-turtles-return-to-new-york-idw-books",
-      "machine_name": "teenagemutantninjaturtlesreturntonewyorkidw_bookbundle",
-      "title": "Teenage Mutant Ninja Turtles: Return to New York by IDW",
-      "category": "books",
-      "end_at": "2026-08-12T18:00:00"
+      "key": "pointclickpackage_bundle",
+      "url": "https://humblebundle.com/games/point-click-package",
+      "machine_name": "pointclickpackage_bundle",
+      "title": "Point Click Package",
+      "category": "games",
+      "end_at": "2026-08-13T04:00:00"
     },
     {
       "key": "mammothchroniclesstlmegabundle_softwarebundle",
@@ -96,7 +104,7 @@
       "machine_name": "softwarearchitectureapress_bookbundle",
       "title": "Software Architecture by Apress",
       "category": "books",
-      "end_at": "2026-08-10T18:00:00"
+      "end_at": "2026-08-11T18:00:00"
     },
     {
       "key": "massiveunrealenginebundle_softwarebundle",
@@ -115,14 +123,6 @@
       "end_at": "2026-08-10T18:00:00"
     },
     {
-      "key": "ultimatestylizedbundlesicsgames_softwarebundle",
-      "url": "https://humblebundle.com/software/ultimate-stylized-bundle-sics-games-software",
-      "machine_name": "ultimatestylizedbundlesicsgames_softwarebundle",
-      "title": "Ultimate Stylized Bundle by SICS Games",
-      "category": "software",
-      "end_at": "2026-08-08T18:00:00"
-    },
-    {
       "key": "ultimatepythondevelopmentbundlepackt_bookbundle",
       "url": "https://humblebundle.com/books/ultimate-python-development-bundle-packt-books",
       "machine_name": "ultimatepythondevelopmentbundlepackt_bookbundle",
@@ -131,12 +131,12 @@
       "end_at": "2026-08-08T18:00:00"
     },
     {
-      "key": "soundsnap1000soundeffectsbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/soundsnap-1000-sound-effects-bundle-software",
-      "machine_name": "soundsnap1000soundeffectsbundle_softwarebundle",
-      "title": "Soundsnap 1,000 Sound Effects Bundle",
+      "key": "ultimatestylizedbundlesicsgames_softwarebundle",
+      "url": "https://humblebundle.com/software/ultimate-stylized-bundle-sics-games-software",
+      "machine_name": "ultimatestylizedbundlesicsgames_softwarebundle",
+      "title": "Ultimate Stylized Bundle by SICS Games",
       "category": "software",
-      "end_at": "2026-08-07T18:00:00"
+      "end_at": "2026-08-08T18:00:00"
     },
     {
       "key": "2kmegahits2026bundle_bundle",
@@ -155,6 +155,14 @@
       "end_at": "2026-08-08T04:00:00"
     },
     {
+      "key": "soundsnap1000soundeffectsbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/soundsnap-1000-sound-effects-bundle-software",
+      "machine_name": "soundsnap1000soundeffectsbundle_softwarebundle",
+      "title": "Soundsnap 1,000 Sound Effects Bundle",
+      "category": "software",
+      "end_at": "2026-08-07T18:00:00"
+    },
+    {
       "key": "framingcarpentryandfinewoodworkingtauntonpress_bookbundle",
       "url": "https://humblebundle.com/books/framing-carpentry-and-fine-woodworking-taunton-press-books",
       "machine_name": "framingcarpentryandfinewoodworkingtauntonpress_bookbundle",
@@ -163,20 +171,20 @@
       "end_at": "2026-08-06T18:00:00"
     },
     {
-      "key": "humanoidsmegabundleuniversesunboundpart1humanoids_bookbundle",
-      "url": "https://humblebundle.com/books/humanoids-megabundle-universes-unbound-part-1-humanoids-books",
-      "machine_name": "humanoidsmegabundleuniversesunboundpart1humanoids_bookbundle",
-      "title": "The Humanoids Megabundle: Universes Unbound, Part 1 by Humanoids",
-      "category": "books",
-      "end_at": "2026-08-05T18:00:00"
-    },
-    {
       "key": "handheldsbundle_bundle",
       "url": "https://humblebundle.com/games/handhelds-bundle",
       "machine_name": "handheldsbundle_bundle",
       "title": "Humble Handhelds",
       "category": "games",
       "end_at": "2026-08-06T04:00:00"
+    },
+    {
+      "key": "humanoidsmegabundleuniversesunboundpart1humanoids_bookbundle",
+      "url": "https://humblebundle.com/books/humanoids-megabundle-universes-unbound-part-1-humanoids-books",
+      "machine_name": "humanoidsmegabundleuniversesunboundpart1humanoids_bookbundle",
+      "title": "The Humanoids Megabundle: Universes Unbound, Part 1 by Humanoids",
+      "category": "books",
+      "end_at": "2026-08-05T18:00:00"
     },
     {
       "key": "liminalspaces_bundle",
@@ -203,11 +211,11 @@
       "end_at": "2026-08-04T18:00:00"
     },
     {
-      "key": "unchartedfrontiersenvironmentpack_softwarebundle",
-      "url": "https://humblebundle.com/software/uncharted-frontiers-environment-pack-software",
-      "machine_name": "unchartedfrontiersenvironmentpack_softwarebundle",
-      "title": "Uncharted Frontiers Environment Pack",
-      "category": "software",
+      "key": "camerasandphotographyfordummieswiley_bookbundle",
+      "url": "https://humblebundle.com/books/cameras-and-photography-for-dummies-wiley-books",
+      "machine_name": "camerasandphotographyfordummieswiley_bookbundle",
+      "title": "Cameras and Photography for Dummies by Wiley",
+      "category": "books",
       "end_at": "2026-08-03T18:00:00"
     },
     {
@@ -219,20 +227,12 @@
       "end_at": "2026-08-03T18:00:00"
     },
     {
-      "key": "camerasandphotographyfordummieswiley_bookbundle",
-      "url": "https://humblebundle.com/books/cameras-and-photography-for-dummies-wiley-books",
-      "machine_name": "camerasandphotographyfordummieswiley_bookbundle",
-      "title": "Cameras and Photography for Dummies by Wiley",
-      "category": "books",
+      "key": "unchartedfrontiersenvironmentpack_softwarebundle",
+      "url": "https://humblebundle.com/software/uncharted-frontiers-environment-pack-software",
+      "machine_name": "unchartedfrontiersenvironmentpack_softwarebundle",
+      "title": "Uncharted Frontiers Environment Pack",
+      "category": "software",
       "end_at": "2026-08-03T18:00:00"
-    },
-    {
-      "key": "picoshatsandmoreraspberrypipress_bookbundle",
-      "url": "https://humblebundle.com/books/picos-hats-and-more-raspberry-pi-press-books",
-      "machine_name": "picoshatsandmoreraspberrypipress_bookbundle",
-      "title": "Picos, HATs, and More by Raspberry Pi Press",
-      "category": "books",
-      "end_at": "2026-08-01T18:00:00"
     },
     {
       "key": "cosmoseclipsegamedevassetstoolsbundleunrealunitygodot_softwarebundle",
@@ -243,18 +243,26 @@
       "end_at": "2026-08-01T18:00:00"
     },
     {
-      "key": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
-      "url": "https://humblebundle.com/books/pathfinder-second-edition-bundle-frogs-paizo-inc-books",
-      "machine_name": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
-      "title": "Pathfinder Second Edition Bundle of Frogs! By Paizo Inc.",
+      "key": "picoshatsandmoreraspberrypipress_bookbundle",
+      "url": "https://humblebundle.com/books/picos-hats-and-more-raspberry-pi-press-books",
+      "machine_name": "picoshatsandmoreraspberrypipress_bookbundle",
+      "title": "Picos, HATs, and More by Raspberry Pi Press",
       "category": "books",
-      "end_at": "2026-07-31T18:00:00"
+      "end_at": "2026-08-01T18:00:00"
     },
     {
       "key": "narrative12for10bundle_bundle",
       "url": "https://humblebundle.com/games/narrative-12-for-10-bundle",
       "machine_name": "narrative12for10bundle_bundle",
       "title": "Narrative 12 for $10 Bundle",
+      "category": "games",
+      "end_at": "2026-08-01T04:00:00"
+    },
+    {
+      "key": "squadgoals_bundle",
+      "url": "https://humblebundle.com/games/squad-goals",
+      "machine_name": "squadgoals_bundle",
+      "title": "Squad Goals",
       "category": "games",
       "end_at": "2026-08-01T04:00:00"
     },
@@ -267,12 +275,12 @@
       "end_at": "2026-07-31T18:00:00"
     },
     {
-      "key": "squadgoals_bundle",
-      "url": "https://humblebundle.com/games/squad-goals",
-      "machine_name": "squadgoals_bundle",
-      "title": "Squad Goals",
-      "category": "games",
-      "end_at": "2026-08-01T04:00:00"
+      "key": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
+      "url": "https://humblebundle.com/books/pathfinder-second-edition-bundle-frogs-paizo-inc-books",
+      "machine_name": "pathfindersecondeditionbundlefrogspaizoinc_bookbundle",
+      "title": "Pathfinder Second Edition Bundle of Frogs! By Paizo Inc.",
+      "category": "books",
+      "end_at": "2026-07-31T18:00:00"
     },
     {
       "key": "bladerunnercollectiontitancomics_bookbundle",
@@ -312,7 +320,7 @@
       "machine_name": "tanithleecollectiondawbooks_bookbundle",
       "title": "The Tanith Lee Collection by DAW Books",
       "category": "books",
-      "end_at": "2026-07-28T18:00:00"
+      "end_at": "2026-08-11T18:00:00"
     },
     {
       "key": "gameaudiocollectionaccesstoover300000musictracksandsoundeffects_softwarebundle",
@@ -339,14 +347,6 @@
       "end_at": "2026-08-01T18:00:00"
     },
     {
-      "key": "itai500certificationexams_softwarebundle",
-      "url": "https://humblebundle.com/software/it-ai-500-certification-exams-software",
-      "machine_name": "itai500certificationexams_softwarebundle",
-      "title": "IT & AI: 500+ Certification Exams",
-      "category": "software",
-      "end_at": "2026-08-06T18:00:00"
-    },
-    {
       "key": "aifoundationsandapplicationsmanning_softwarebundle",
       "url": "https://humblebundle.com/books/ai-foundations-and-applications-manning-books",
       "machine_name": "aifoundationsandapplicationsmanning_softwarebundle",
@@ -363,12 +363,12 @@
       "end_at": "2026-07-30T18:00:00"
     },
     {
-      "key": "craftyourcosplaydreams_bookbundle",
-      "url": "https://humblebundle.com/books/craft-your-cosplay-dreams-books",
-      "machine_name": "craftyourcosplaydreams_bookbundle",
-      "title": "Craft Your Cosplay Dreams",
-      "category": "books",
-      "end_at": "2026-07-29T18:00:00"
+      "key": "itai500certificationexams_softwarebundle",
+      "url": "https://humblebundle.com/software/it-ai-500-certification-exams-software",
+      "machine_name": "itai500certificationexams_softwarebundle",
+      "title": "IT & AI: 500+ Certification Exams",
+      "category": "software",
+      "end_at": "2026-08-06T18:00:00"
     },
     {
       "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
@@ -379,20 +379,20 @@
       "end_at": "2026-08-05T18:00:00"
     },
     {
+      "key": "craftyourcosplaydreams_bookbundle",
+      "url": "https://humblebundle.com/books/craft-your-cosplay-dreams-books",
+      "machine_name": "craftyourcosplaydreams_bookbundle",
+      "title": "Craft Your Cosplay Dreams",
+      "category": "books",
+      "end_at": "2026-07-29T18:00:00"
+    },
+    {
       "key": "worldbuildersamericana_softwarebundle",
       "url": "https://humblebundle.com/software/world-builders-americana-software",
       "machine_name": "worldbuildersamericana_softwarebundle",
       "title": "World Builders: Americana",
       "category": "software",
       "end_at": "2026-07-29T18:00:00"
-    },
-    {
-      "key": "lifetimeaccesscreator_softwarebundle",
-      "url": "https://humblebundle.com/software/lifetime-access-creator-software",
-      "machine_name": "lifetimeaccesscreator_softwarebundle",
-      "title": "LIFETIME ACCESS CREATOR",
-      "category": "software",
-      "end_at": "2026-07-28T18:00:00"
     },
     {
       "key": "creatureandcharactercreationbundle_softwarebundle",
