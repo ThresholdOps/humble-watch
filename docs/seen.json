@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-08-04T19:51:34Z",
-  "updated_at": "2026-08-04T19:52:18Z",
+  "generated_at": "2026-08-05T19:49:59Z",
+  "updated_at": "2026-08-05T19:50:42Z",
   "items": [
+    {
+      "key": "isometricassetsgalore_softwarebundle",
+      "url": "https://humblebundle.com/software/isometric-assets-galore-software",
+      "machine_name": "isometricassetsgalore_softwarebundle",
+      "title": "Isometric Assets Galore",
+      "category": "software",
+      "end_at": "2026-08-26T18:00:00"
+    },
+    {
+      "key": "nomorerobotsunhingedindieanthology_bundle",
+      "url": "https://humblebundle.com/games/no-more-robots-unhinged-indie-anthology",
+      "machine_name": "nomorerobotsunhingedindieanthology_bundle",
+      "title": "No More Robots: The Unhinged Indie Anthology",
+      "category": "games",
+      "end_at": "2026-08-27T04:00:00"
+    },
+    {
+      "key": "modernindiegamestudiobundlepackt_bookbundle",
+      "url": "https://humblebundle.com/books/modern-indie-game-studio-bundle-packt-books",
+      "machine_name": "modernindiegamestudiobundlepackt_bookbundle",
+      "title": "The Modern Indie Game Studio Bundle by Packt",
+      "category": "books",
+      "end_at": "2026-08-26T18:00:00"
+    },
+    {
+      "key": "inyourworldvrbundle_bundle",
+      "url": "https://humblebundle.com/games/in-your-world-vr-bundle",
+      "machine_name": "inyourworldvrbundle_bundle",
+      "title": "In Your World VR Bundle",
+      "category": "games",
+      "end_at": "2026-08-27T04:00:00"
+    },
     {
       "key": "oneshotsfastreadsimagecomics_bookbundle",
       "url": "https://humblebundle.com/books/oneshots-fast-reads-image-comics-books",
@@ -27,10 +59,10 @@
       "end_at": "2026-08-24T18:00:00"
     },
     {
-      "key": "buildersvaulthivemindunrealedition_softwarebundle",
-      "url": "https://humblebundle.com/software/builders-vault-hivemind-unreal-edition-software",
-      "machine_name": "buildersvaulthivemindunrealedition_softwarebundle",
-      "title": "The Builder’s Vault by Hivemind - Unreal Engine Edition",
+      "key": "buildersvaulthivemindunityedition_softwarebundle",
+      "url": "https://humblebundle.com/software/builders-vault-hivemind-unity-edition-software",
+      "machine_name": "buildersvaulthivemindunityedition_softwarebundle",
+      "title": "The Builder's Vault by Hivemind - Unity Edition",
       "category": "software",
       "end_at": "2026-08-22T18:00:00"
     },
@@ -43,10 +75,10 @@
       "end_at": "2026-08-22T18:00:00"
     },
     {
-      "key": "buildersvaulthivemindunityedition_softwarebundle",
-      "url": "https://humblebundle.com/software/builders-vault-hivemind-unity-edition-software",
-      "machine_name": "buildersvaulthivemindunityedition_softwarebundle",
-      "title": "The Builder's Vault by Hivemind - Unity Edition",
+      "key": "buildersvaulthivemindunrealedition_softwarebundle",
+      "url": "https://humblebundle.com/software/builders-vault-hivemind-unreal-edition-software",
+      "machine_name": "buildersvaulthivemindunrealedition_softwarebundle",
+      "title": "The Builder’s Vault by Hivemind - Unreal Engine Edition",
       "category": "software",
       "end_at": "2026-08-22T18:00:00"
     },
@@ -75,20 +107,20 @@
       "end_at": "2026-08-20T18:00:00"
     },
     {
-      "key": "disneymasterscollectionandoriginalsfantagraphics_bookbundle",
-      "url": "https://humblebundle.com/books/disney-masters-collection-and-originals-fantagraphics-books",
-      "machine_name": "disneymasterscollectionandoriginalsfantagraphics_bookbundle",
-      "title": "Disney Masters Collection and Originals by Fantagraphics",
-      "category": "books",
-      "end_at": "2026-08-19T18:00:00"
-    },
-    {
       "key": "rageinducingdifficultgames_bundle",
       "url": "https://humblebundle.com/games/rage-inducing-difficult-games",
       "machine_name": "rageinducingdifficultgames_bundle",
       "title": "Rage Inducing Difficult Games",
       "category": "games",
       "end_at": "2026-08-20T04:00:00"
+    },
+    {
+      "key": "disneymasterscollectionandoriginalsfantagraphics_bookbundle",
+      "url": "https://humblebundle.com/books/disney-masters-collection-and-originals-fantagraphics-books",
+      "machine_name": "disneymasterscollectionandoriginalsfantagraphics_bookbundle",
+      "title": "Disney Masters Collection and Originals by Fantagraphics",
+      "category": "books",
+      "end_at": "2026-08-19T18:00:00"
     },
     {
       "key": "fromriverstofjordsexploreworldsbasicroleplayingchaosium_bookbundle",
@@ -187,18 +219,18 @@
       "end_at": "2026-08-11T18:00:00"
     },
     {
-      "key": "mammothchroniclesstlmegabundle_softwarebundle",
-      "url": "https://humblebundle.com/software/mammoth-chronicles-stl-mega-bundle-software",
-      "machine_name": "mammothchroniclesstlmegabundle_softwarebundle",
-      "title": "Mammoth Chronicles STL Mega Bundle",
-      "category": "software",
-      "end_at": "2026-08-11T18:00:00"
-    },
-    {
       "key": "massiveunrealenginebundle_softwarebundle",
       "url": "https://humblebundle.com/software/massive-unreal-engine-bundle-software",
       "machine_name": "massiveunrealenginebundle_softwarebundle",
       "title": "Massive Unreal Engine Bundle",
+      "category": "software",
+      "end_at": "2026-08-11T18:00:00"
+    },
+    {
+      "key": "mammothchroniclesstlmegabundle_softwarebundle",
+      "url": "https://humblebundle.com/software/mammoth-chronicles-stl-mega-bundle-software",
+      "machine_name": "mammothchroniclesstlmegabundle_softwarebundle",
+      "title": "Mammoth Chronicles STL Mega Bundle",
       "category": "software",
       "end_at": "2026-08-11T18:00:00"
     },
@@ -211,14 +243,6 @@
       "end_at": "2026-08-10T18:00:00"
     },
     {
-      "key": "ultimatepythondevelopmentbundlepackt_bookbundle",
-      "url": "https://humblebundle.com/books/ultimate-python-development-bundle-packt-books",
-      "machine_name": "ultimatepythondevelopmentbundlepackt_bookbundle",
-      "title": "The Ultimate Python Development Bundle by Packt",
-      "category": "books",
-      "end_at": "2026-08-08T18:00:00"
-    },
-    {
       "key": "ultimatestylizedbundlesicsgames_softwarebundle",
       "url": "https://humblebundle.com/software/ultimate-stylized-bundle-sics-games-software",
       "machine_name": "ultimatestylizedbundlesicsgames_softwarebundle",
@@ -227,12 +251,12 @@
       "end_at": "2026-08-08T18:00:00"
     },
     {
-      "key": "2kmegahits2026bundle_bundle",
-      "url": "https://humblebundle.com/games/2k-megahits-2026-bundle",
-      "machine_name": "2kmegahits2026bundle_bundle",
-      "title": "2K Megahits 2026 Bundle",
-      "category": "games",
-      "end_at": "2026-08-08T04:00:00"
+      "key": "ultimatepythondevelopmentbundlepackt_bookbundle",
+      "url": "https://humblebundle.com/books/ultimate-python-development-bundle-packt-books",
+      "machine_name": "ultimatepythondevelopmentbundlepackt_bookbundle",
+      "title": "The Ultimate Python Development Bundle by Packt",
+      "category": "books",
+      "end_at": "2026-08-08T18:00:00"
     },
     {
       "key": "evensteamiersakuraspecial_bundle",
@@ -251,6 +275,14 @@
       "end_at": "2026-08-07T18:00:00"
     },
     {
+      "key": "2kmegahits2026bundle_bundle",
+      "url": "https://humblebundle.com/games/2k-megahits-2026-bundle",
+      "machine_name": "2kmegahits2026bundle_bundle",
+      "title": "2K Megahits 2026 Bundle",
+      "category": "games",
+      "end_at": "2026-08-08T04:00:00"
+    },
+    {
       "key": "framingcarpentryandfinewoodworkingtauntonpress_bookbundle",
       "url": "https://humblebundle.com/books/framing-carpentry-and-fine-woodworking-taunton-press-books",
       "machine_name": "framingcarpentryandfinewoodworkingtauntonpress_bookbundle",
@@ -259,12 +291,12 @@
       "end_at": "2026-08-06T18:00:00"
     },
     {
-      "key": "liminalspaces_bundle",
-      "url": "https://humblebundle.com/games/liminal-spaces",
-      "machine_name": "liminalspaces_bundle",
-      "title": "Liminal Spaces",
-      "category": "games",
-      "end_at": "2026-08-06T04:00:00"
+      "key": "humanoidsmegabundleuniversesunboundpart1humanoids_bookbundle",
+      "url": "https://humblebundle.com/books/humanoids-megabundle-universes-unbound-part-1-humanoids-books",
+      "machine_name": "humanoidsmegabundleuniversesunboundpart1humanoids_bookbundle",
+      "title": "The Humanoids Megabundle: Universes Unbound, Part 1 by Humanoids",
+      "category": "books",
+      "end_at": "2026-08-12T18:00:00"
     },
     {
       "key": "handheldsbundle_bundle",
@@ -275,12 +307,12 @@
       "end_at": "2026-08-06T04:00:00"
     },
     {
-      "key": "humanoidsmegabundleuniversesunboundpart1humanoids_bookbundle",
-      "url": "https://humblebundle.com/books/humanoids-megabundle-universes-unbound-part-1-humanoids-books",
-      "machine_name": "humanoidsmegabundleuniversesunboundpart1humanoids_bookbundle",
-      "title": "The Humanoids Megabundle: Universes Unbound, Part 1 by Humanoids",
-      "category": "books",
-      "end_at": "2026-08-05T18:00:00"
+      "key": "liminalspaces_bundle",
+      "url": "https://humblebundle.com/games/liminal-spaces",
+      "machine_name": "liminalspaces_bundle",
+      "title": "Liminal Spaces",
+      "category": "games",
+      "end_at": "2026-08-06T04:00:00"
     },
     {
       "key": "2026awsazurecomptiacloudcertificationpracticeexambundle_softwarebundle",
@@ -323,20 +355,20 @@
       "end_at": "2026-08-07T18:00:00"
     },
     {
-      "key": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
-      "url": "https://humblebundle.com/software/freedom-to-create-with-corel-graphics-suite-2025-software",
-      "machine_name": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
-      "title": "Freedom to Create with COREL Graphics Suite 2025",
-      "category": "software",
-      "end_at": "2026-08-31T18:00:00"
-    },
-    {
       "key": "squadgoals_bundle",
       "url": "https://humblebundle.com/games/squad-goals",
       "machine_name": "squadgoals_bundle",
       "title": "Squad Goals",
       "category": "games",
       "end_at": "2026-08-08T04:00:00"
+    },
+    {
+      "key": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
+      "url": "https://humblebundle.com/software/freedom-to-create-with-corel-graphics-suite-2025-software",
+      "machine_name": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
+      "title": "Freedom to Create with COREL Graphics Suite 2025",
+      "category": "software",
+      "end_at": "2026-08-31T18:00:00"
     },
     {
       "key": "bladerunnercollectiontitancomics_bookbundle",
@@ -355,28 +387,12 @@
       "end_at": "2026-08-12T18:00:00"
     },
     {
-      "key": "linuxallthingsoreilly_bookbundle",
-      "url": "https://humblebundle.com/books/linux-all-things-oreilly-books",
-      "machine_name": "linuxallthingsoreilly_bookbundle",
-      "title": "Linux: All the Things by O'Reilly",
-      "category": "books",
-      "end_at": "2026-08-05T18:00:00"
-    },
-    {
       "key": "tanithleecollectiondawbooks_bookbundle",
       "url": "https://humblebundle.com/books/tanith-lee-collection-daw-books-books",
       "machine_name": "tanithleecollectiondawbooks_bookbundle",
       "title": "The Tanith Lee Collection by DAW Books",
       "category": "books",
       "end_at": "2026-08-11T18:00:00"
-    },
-    {
-      "key": "itai500certificationexams_softwarebundle",
-      "url": "https://humblebundle.com/software/it-ai-500-certification-exams-software",
-      "machine_name": "itai500certificationexams_softwarebundle",
-      "title": "IT & AI: 500+ Certification Exams",
-      "category": "software",
-      "end_at": "2026-08-06T18:00:00"
     },
     {
       "key": "completecharactercreationforgames_softwarebundle",
@@ -387,12 +403,20 @@
       "end_at": "2026-08-06T18:00:00"
     },
     {
+      "key": "itai500certificationexams_softwarebundle",
+      "url": "https://humblebundle.com/software/it-ai-500-certification-exams-software",
+      "machine_name": "itai500certificationexams_softwarebundle",
+      "title": "IT & AI: 500+ Certification Exams",
+      "category": "software",
+      "end_at": "2026-08-06T18:00:00"
+    },
+    {
       "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
       "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
       "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
       "title": "Clip Studio Creativity Collection: Paint, Draw & Animate",
       "category": "software",
-      "end_at": "2026-08-05T18:00:00"
+      "end_at": "2026-08-19T18:00:00"
     }
   ]
 }
