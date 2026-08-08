@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-07T18:26:52Z",
-  "updated_at": "2026-08-07T18:27:25Z",
+  "generated_at": "2026-08-08T18:18:02Z",
+  "updated_at": "2026-08-08T18:18:43Z",
   "items": [
     {
-      "key": "awesomeindieadventures_bundle",
-      "url": "https://humblebundle.com/games/awesome-indie-adventures",
-      "machine_name": "awesomeindieadventures_bundle",
-      "title": "Awesome Indie Adventures",
-      "category": "games",
-      "end_at": "2026-08-29T04:00:00"
+      "key": "grimdarktrenchwarfare_softwarebundle",
+      "url": "https://humblebundle.com/software/grimdark-trench-warfare-software",
+      "machine_name": "grimdarktrenchwarfare_softwarebundle",
+      "title": "Grimdark Trench Warfare",
+      "category": "software",
+      "end_at": "2026-08-29T18:00:00"
     },
     {
       "key": "shortgamesshowcasebundle_bundle",
@@ -27,28 +27,20 @@
       "end_at": "2026-08-28T18:00:00"
     },
     {
+      "key": "awesomeindieadventures_bundle",
+      "url": "https://humblebundle.com/games/awesome-indie-adventures",
+      "machine_name": "awesomeindieadventures_bundle",
+      "title": "Awesome Indie Adventures",
+      "category": "games",
+      "end_at": "2026-08-29T04:00:00"
+    },
+    {
       "key": "battletechrpgcollectioncatalystgamelabsencore_bookbundle",
       "url": "https://humblebundle.com/books/battletech-rpg-collection-catalyst-game-labs-books-encore",
       "machine_name": "battletechrpgcollectioncatalystgamelabsencore_bookbundle",
       "title": "The BattleTech RPG Collection Encore by Catalyst Game Labs",
       "category": "books",
       "end_at": "2026-08-27T18:00:00"
-    },
-    {
-      "key": "inyourworldvrbundle_bundle",
-      "url": "https://humblebundle.com/games/in-your-world-vr-bundle",
-      "machine_name": "inyourworldvrbundle_bundle",
-      "title": "In Your World VR Bundle",
-      "category": "games",
-      "end_at": "2026-08-27T04:00:00"
-    },
-    {
-      "key": "nomorerobotsunhingedindieanthology_bundle",
-      "url": "https://humblebundle.com/games/no-more-robots-unhinged-indie-anthology",
-      "machine_name": "nomorerobotsunhingedindieanthology_bundle",
-      "title": "No More Robots: The Unhinged Indie Anthology",
-      "category": "games",
-      "end_at": "2026-08-27T04:00:00"
     },
     {
       "key": "isometricassetsgalore_softwarebundle",
@@ -67,20 +59,28 @@
       "end_at": "2026-08-26T18:00:00"
     },
     {
+      "key": "inyourworldvrbundle_bundle",
+      "url": "https://humblebundle.com/games/in-your-world-vr-bundle",
+      "machine_name": "inyourworldvrbundle_bundle",
+      "title": "In Your World VR Bundle",
+      "category": "games",
+      "end_at": "2026-08-27T04:00:00"
+    },
+    {
+      "key": "nomorerobotsunhingedindieanthology_bundle",
+      "url": "https://humblebundle.com/games/no-more-robots-unhinged-indie-anthology",
+      "machine_name": "nomorerobotsunhingedindieanthology_bundle",
+      "title": "No More Robots: The Unhinged Indie Anthology",
+      "category": "games",
+      "end_at": "2026-08-27T04:00:00"
+    },
+    {
       "key": "oneshotsfastreadsimagecomics_bookbundle",
       "url": "https://humblebundle.com/books/oneshots-fast-reads-image-comics-books",
       "machine_name": "oneshotsfastreadsimagecomics_bookbundle",
       "title": "One-Shots & Fast Reads by Image Comics",
       "category": "books",
       "end_at": "2026-08-25T18:00:00"
-    },
-    {
-      "key": "ultimateollamaandlocalaibundle_softwarebundle",
-      "url": "https://humblebundle.com/software/ultimate-ollama-and-local-ai-bundle-software",
-      "machine_name": "ultimateollamaandlocalaibundle_softwarebundle",
-      "title": "The Ultimate Ollama and Local AI Bundle",
-      "category": "software",
-      "end_at": "2026-08-24T18:00:00"
     },
     {
       "key": "techcareerlibraryinageaiapress_bookbundle",
@@ -91,11 +91,19 @@
       "end_at": "2026-08-24T18:00:00"
     },
     {
-      "key": "buildersvaulthivemindunityedition_softwarebundle",
-      "url": "https://humblebundle.com/software/builders-vault-hivemind-unity-edition-software",
-      "machine_name": "buildersvaulthivemindunityedition_softwarebundle",
-      "title": "The Builder's Vault by Hivemind - Unity Edition",
+      "key": "ultimateollamaandlocalaibundle_softwarebundle",
+      "url": "https://humblebundle.com/software/ultimate-ollama-and-local-ai-bundle-software",
+      "machine_name": "ultimateollamaandlocalaibundle_softwarebundle",
+      "title": "The Ultimate Ollama and Local AI Bundle",
       "category": "software",
+      "end_at": "2026-08-24T18:00:00"
+    },
+    {
+      "key": "aiautomationfornetworkingprofessionalspackt_bookbundle",
+      "url": "https://humblebundle.com/books/ai-automation-for-networking-professionals-packt-books",
+      "machine_name": "aiautomationfornetworkingprofessionalspackt_bookbundle",
+      "title": "AI & Automation for Networking Professionals by Packt",
+      "category": "books",
       "end_at": "2026-08-22T18:00:00"
     },
     {
@@ -107,11 +115,11 @@
       "end_at": "2026-08-22T18:00:00"
     },
     {
-      "key": "aiautomationfornetworkingprofessionalspackt_bookbundle",
-      "url": "https://humblebundle.com/books/ai-automation-for-networking-professionals-packt-books",
-      "machine_name": "aiautomationfornetworkingprofessionalspackt_bookbundle",
-      "title": "AI & Automation for Networking Professionals by Packt",
-      "category": "books",
+      "key": "buildersvaulthivemindunityedition_softwarebundle",
+      "url": "https://humblebundle.com/software/builders-vault-hivemind-unity-edition-software",
+      "machine_name": "buildersvaulthivemindunityedition_softwarebundle",
+      "title": "The Builder's Vault by Hivemind - Unity Edition",
+      "category": "software",
       "end_at": "2026-08-22T18:00:00"
     },
     {
@@ -139,20 +147,20 @@
       "end_at": "2026-08-20T18:00:00"
     },
     {
-      "key": "rageinducingdifficultgames_bundle",
-      "url": "https://humblebundle.com/games/rage-inducing-difficult-games",
-      "machine_name": "rageinducingdifficultgames_bundle",
-      "title": "Rage Inducing Difficult Games",
-      "category": "games",
-      "end_at": "2026-08-20T04:00:00"
-    },
-    {
       "key": "disneymasterscollectionandoriginalsfantagraphics_bookbundle",
       "url": "https://humblebundle.com/books/disney-masters-collection-and-originals-fantagraphics-books",
       "machine_name": "disneymasterscollectionandoriginalsfantagraphics_bookbundle",
       "title": "Disney Masters Collection and Originals by Fantagraphics",
       "category": "books",
       "end_at": "2026-08-19T18:00:00"
+    },
+    {
+      "key": "rageinducingdifficultgames_bundle",
+      "url": "https://humblebundle.com/games/rage-inducing-difficult-games",
+      "machine_name": "rageinducingdifficultgames_bundle",
+      "title": "Rage Inducing Difficult Games",
+      "category": "games",
+      "end_at": "2026-08-20T04:00:00"
     },
     {
       "key": "fromriverstofjordsexploreworldsbasicroleplayingchaosium_bookbundle",
@@ -179,12 +187,12 @@
       "end_at": "2026-08-15T18:00:00"
     },
     {
-      "key": "idlersanddesktopcompanions_bundle",
-      "url": "https://humblebundle.com/games/idlers-and-desktop-companions",
-      "machine_name": "idlersanddesktopcompanions_bundle",
-      "title": "Idlers and Desktop Companions",
-      "category": "games",
-      "end_at": "2026-08-15T04:00:00"
+      "key": "audioalchemyvol2ultimategamedevaudiobundle_softwarebundle",
+      "url": "https://humblebundle.com/software/audio-alchemy-vol-2-ultimate-game-dev-audio-bundle-software",
+      "machine_name": "audioalchemyvol2ultimategamedevaudiobundle_softwarebundle",
+      "title": "Audio Alchemy Vol. 2: The Ultimate Game Dev Audio Bundle",
+      "category": "software",
+      "end_at": "2026-08-14T18:00:00"
     },
     {
       "key": "animalstylebundle_bundle",
@@ -195,20 +203,12 @@
       "end_at": "2026-08-15T04:00:00"
     },
     {
-      "key": "audioalchemyvol2ultimategamedevaudiobundle_softwarebundle",
-      "url": "https://humblebundle.com/software/audio-alchemy-vol-2-ultimate-game-dev-audio-bundle-software",
-      "machine_name": "audioalchemyvol2ultimategamedevaudiobundle_softwarebundle",
-      "title": "Audio Alchemy Vol. 2: The Ultimate Game Dev Audio Bundle",
-      "category": "software",
-      "end_at": "2026-08-14T18:00:00"
-    },
-    {
-      "key": "darkhorse40thanniversarybundlepresentedign_bookbundle",
-      "url": "https://humblebundle.com/books/dark-horse-40th-anniversary-bundle-presented-ign-books",
-      "machine_name": "darkhorse40thanniversarybundlepresentedign_bookbundle",
-      "title": "The Dark Horse 40th Anniversary Bundle, Presented by IGN",
-      "category": "books",
-      "end_at": "2026-08-13T18:00:00"
+      "key": "idlersanddesktopcompanions_bundle",
+      "url": "https://humblebundle.com/games/idlers-and-desktop-companions",
+      "machine_name": "idlersanddesktopcompanions_bundle",
+      "title": "Idlers and Desktop Companions",
+      "category": "games",
+      "end_at": "2026-08-15T04:00:00"
     },
     {
       "key": "ultimateaimachinelearningbundle_softwarebundle",
@@ -219,12 +219,12 @@
       "end_at": "2026-08-13T18:00:00"
     },
     {
-      "key": "twinsailsinteractive2026_bundle",
-      "url": "https://humblebundle.com/games/twin-sails-interactive-2026",
-      "machine_name": "twinsailsinteractive2026_bundle",
-      "title": "Twin Sails Interactive 2026",
-      "category": "games",
-      "end_at": "2026-08-13T04:00:00"
+      "key": "darkhorse40thanniversarybundlepresentedign_bookbundle",
+      "url": "https://humblebundle.com/books/dark-horse-40th-anniversary-bundle-presented-ign-books",
+      "machine_name": "darkhorse40thanniversarybundlepresentedign_bookbundle",
+      "title": "The Dark Horse 40th Anniversary Bundle, Presented by IGN",
+      "category": "books",
+      "end_at": "2026-08-13T18:00:00"
     },
     {
       "key": "pointclickpackage_bundle",
@@ -243,12 +243,12 @@
       "end_at": "2026-08-12T18:00:00"
     },
     {
-      "key": "massiveunrealenginebundle_softwarebundle",
-      "url": "https://humblebundle.com/software/massive-unreal-engine-bundle-software",
-      "machine_name": "massiveunrealenginebundle_softwarebundle",
-      "title": "Massive Unreal Engine Bundle",
-      "category": "software",
-      "end_at": "2026-08-11T18:00:00"
+      "key": "twinsailsinteractive2026_bundle",
+      "url": "https://humblebundle.com/games/twin-sails-interactive-2026",
+      "machine_name": "twinsailsinteractive2026_bundle",
+      "title": "Twin Sails Interactive 2026",
+      "category": "games",
+      "end_at": "2026-08-13T04:00:00"
     },
     {
       "key": "softwarearchitectureapress_bookbundle",
@@ -267,6 +267,14 @@
       "end_at": "2026-08-11T18:00:00"
     },
     {
+      "key": "massiveunrealenginebundle_softwarebundle",
+      "url": "https://humblebundle.com/software/massive-unreal-engine-bundle-software",
+      "machine_name": "massiveunrealenginebundle_softwarebundle",
+      "title": "Massive Unreal Engine Bundle",
+      "category": "software",
+      "end_at": "2026-08-11T18:00:00"
+    },
+    {
       "key": "aimlanddecisionenginespragmatic_bookbundle",
       "url": "https://humblebundle.com/books/ai-ml-and-decision-engines-pragmatic-books",
       "machine_name": "aimlanddecisionenginespragmatic_bookbundle",
@@ -280,7 +288,7 @@
       "machine_name": "ultimatepythondevelopmentbundlepackt_bookbundle",
       "title": "The Ultimate Python Development Bundle by Packt",
       "category": "books",
-      "end_at": "2026-08-08T18:00:00"
+      "end_at": "2026-08-15T18:00:00"
     },
     {
       "key": "ultimatestylizedbundlesicsgames_softwarebundle",
@@ -288,15 +296,7 @@
       "machine_name": "ultimatestylizedbundlesicsgames_softwarebundle",
       "title": "Ultimate Stylized Bundle by SICS Games",
       "category": "software",
-      "end_at": "2026-08-08T18:00:00"
-    },
-    {
-      "key": "2kmegahits2026bundle_bundle",
-      "url": "https://humblebundle.com/games/2k-megahits-2026-bundle",
-      "machine_name": "2kmegahits2026bundle_bundle",
-      "title": "2K Megahits 2026 Bundle",
-      "category": "games",
-      "end_at": "2026-08-08T04:00:00"
+      "end_at": "2026-08-15T18:00:00"
     },
     {
       "key": "evensteamiersakuraspecial_bundle",
@@ -304,7 +304,15 @@
       "machine_name": "evensteamiersakuraspecial_bundle",
       "title": "Even Steamier Sakura Special",
       "category": "games",
-      "end_at": "2026-08-08T04:00:00"
+      "end_at": "2026-08-15T04:00:00"
+    },
+    {
+      "key": "2kmegahits2026bundle_bundle",
+      "url": "https://humblebundle.com/games/2k-megahits-2026-bundle",
+      "machine_name": "2kmegahits2026bundle_bundle",
+      "title": "2K Megahits 2026 Bundle",
+      "category": "games",
+      "end_at": "2026-08-15T04:00:00"
     },
     {
       "key": "framingcarpentryandfinewoodworkingtauntonpress_bookbundle",
@@ -352,15 +360,7 @@
       "machine_name": "cosmoseclipsegamedevassetstoolsbundleunrealunitygodot_softwarebundle",
       "title": "Cosmos Eclipse Game Dev Assets & Tools bundle (Unreal + Unity + Godot)",
       "category": "software",
-      "end_at": "2026-08-08T18:00:00"
-    },
-    {
-      "key": "squadgoals_bundle",
-      "url": "https://humblebundle.com/games/squad-goals",
-      "machine_name": "squadgoals_bundle",
-      "title": "Squad Goals",
-      "category": "games",
-      "end_at": "2026-08-08T04:00:00"
+      "end_at": "2026-08-15T18:00:00"
     },
     {
       "key": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
