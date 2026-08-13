@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-12T18:28:48Z",
-  "updated_at": "2026-08-12T18:29:26Z",
+  "generated_at": "2026-08-13T18:29:14Z",
+  "updated_at": "2026-08-13T18:29:57Z",
   "items": [
+    {
+      "key": "bladesblastersbeasts_softwarebundle",
+      "url": "https://humblebundle.com/software/blades-blasters-beasts-software",
+      "machine_name": "bladesblastersbeasts_softwarebundle",
+      "title": "Blades, Blasters & Beasts",
+      "category": "software",
+      "end_at": "2026-09-03T18:00:00"
+    },
+    {
+      "key": "humanoidsmegabundleuniversesunboundpart2humanoids_bookbundle",
+      "url": "https://humblebundle.com/books/humanoids-megabundle-universes-unbound-part-2-humanoids-books",
+      "machine_name": "humanoidsmegabundleuniversesunboundpart2humanoids_bookbundle",
+      "title": "The Humanoids Megabundle: Universes Unbound, Part 2 by Humanoids",
+      "category": "books",
+      "end_at": "2026-09-03T18:00:00"
+    },
+    {
+      "key": "godzillakaijurampageidw_bookbundle",
+      "url": "https://humblebundle.com/books/godzilla-kaiju-rampage-idw-books",
+      "machine_name": "godzillakaijurampageidw_bookbundle",
+      "title": "Godzilla: Kaiju Rampage by IDW",
+      "category": "books",
+      "end_at": "2026-09-02T18:00:00"
+    },
     {
       "key": "handsomehusbandos_bundle",
       "url": "https://humblebundle.com/games/handsome-husbandos",
@@ -27,14 +51,6 @@
       "end_at": "2026-09-02T18:00:00"
     },
     {
-      "key": "godzillakaijurampageidw_bookbundle",
-      "url": "https://humblebundle.com/books/godzilla-kaiju-rampage-idw-books",
-      "machine_name": "godzillakaijurampageidw_bookbundle",
-      "title": "Godzilla: Kaiju Rampage by IDW",
-      "category": "books",
-      "end_at": "2026-09-02T18:00:00"
-    },
-    {
       "key": "handsondevopsbundle_softwarebundle",
       "url": "https://humblebundle.com/software/handson-devops-bundle-software",
       "machine_name": "handsondevopsbundle_softwarebundle",
@@ -49,14 +65,6 @@
       "title": "Software Engineering by Manning",
       "category": "books",
       "end_at": "2026-09-01T18:00:00"
-    },
-    {
-      "key": "urbanwarfareflashbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/urban-warfare-flash-bundle-software",
-      "machine_name": "urbanwarfareflashbundle_softwarebundle",
-      "title": "Urban Warfare Flash Bundle",
-      "category": "software",
-      "end_at": "2026-08-17T18:00:00"
     },
     {
       "key": "completeblenderenvironmentcreationforgames_softwarebundle",
@@ -75,6 +83,14 @@
       "end_at": "2026-08-31T18:00:00"
     },
     {
+      "key": "urbanwarfareflashbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/urban-warfare-flash-bundle-software",
+      "machine_name": "urbanwarfareflashbundle_softwarebundle",
+      "title": "Urban Warfare Flash Bundle",
+      "category": "software",
+      "end_at": "2026-08-17T18:00:00"
+    },
+    {
       "key": "grimdarktrenchwarfare_softwarebundle",
       "url": "https://humblebundle.com/software/grimdark-trench-warfare-software",
       "machine_name": "grimdarktrenchwarfare_softwarebundle",
@@ -83,20 +99,20 @@
       "end_at": "2026-08-29T18:00:00"
     },
     {
-      "key": "shortgamesshowcasebundle_bundle",
-      "url": "https://humblebundle.com/games/short-games-showcase-bundle",
-      "machine_name": "shortgamesshowcasebundle_bundle",
-      "title": "Short Games Showcase Bundle",
-      "category": "games",
-      "end_at": "2026-08-29T04:00:00"
-    },
-    {
       "key": "gameaudioandsfxtreasuretrovetaosound_softwarebundle",
       "url": "https://humblebundle.com/software/game-audio-and-sfx-treasure-trove-tao-sound-software",
       "machine_name": "gameaudioandsfxtreasuretrovetaosound_softwarebundle",
       "title": "Game Audio and SFX Treasure Trove by Tao & Sound",
       "category": "software",
       "end_at": "2026-08-28T18:00:00"
+    },
+    {
+      "key": "shortgamesshowcasebundle_bundle",
+      "url": "https://humblebundle.com/games/short-games-showcase-bundle",
+      "machine_name": "shortgamesshowcasebundle_bundle",
+      "title": "Short Games Showcase Bundle",
+      "category": "games",
+      "end_at": "2026-08-29T04:00:00"
     },
     {
       "key": "awesomeindieadventures_bundle",
@@ -131,20 +147,20 @@
       "end_at": "2026-08-27T04:00:00"
     },
     {
-      "key": "inyourworldvrbundle_bundle",
-      "url": "https://humblebundle.com/games/in-your-world-vr-bundle",
-      "machine_name": "inyourworldvrbundle_bundle",
-      "title": "In Your World VR Bundle",
-      "category": "games",
-      "end_at": "2026-08-27T04:00:00"
-    },
-    {
       "key": "isometricassetsgalore_softwarebundle",
       "url": "https://humblebundle.com/software/isometric-assets-galore-software",
       "machine_name": "isometricassetsgalore_softwarebundle",
       "title": "Isometric Assets Galore",
       "category": "software",
       "end_at": "2026-08-26T18:00:00"
+    },
+    {
+      "key": "inyourworldvrbundle_bundle",
+      "url": "https://humblebundle.com/games/in-your-world-vr-bundle",
+      "machine_name": "inyourworldvrbundle_bundle",
+      "title": "In Your World VR Bundle",
+      "category": "games",
+      "end_at": "2026-08-27T04:00:00"
     },
     {
       "key": "oneshotsfastreadsimagecomics_bookbundle",
@@ -155,19 +171,19 @@
       "end_at": "2026-08-25T18:00:00"
     },
     {
-      "key": "techcareerlibraryinageaiapress_bookbundle",
-      "url": "https://humblebundle.com/books/tech-career-library-in-age-ai-apress-books",
-      "machine_name": "techcareerlibraryinageaiapress_bookbundle",
-      "title": "Tech Career Library in the Age of AI by Apress",
-      "category": "books",
-      "end_at": "2026-08-24T18:00:00"
-    },
-    {
       "key": "ultimateollamaandlocalaibundle_softwarebundle",
       "url": "https://humblebundle.com/software/ultimate-ollama-and-local-ai-bundle-software",
       "machine_name": "ultimateollamaandlocalaibundle_softwarebundle",
       "title": "The Ultimate Ollama and Local AI Bundle",
       "category": "software",
+      "end_at": "2026-08-24T18:00:00"
+    },
+    {
+      "key": "techcareerlibraryinageaiapress_bookbundle",
+      "url": "https://humblebundle.com/books/tech-career-library-in-age-ai-apress-books",
+      "machine_name": "techcareerlibraryinageaiapress_bookbundle",
+      "title": "Tech Career Library in the Age of AI by Apress",
+      "category": "books",
       "end_at": "2026-08-24T18:00:00"
     },
     {
@@ -195,20 +211,20 @@
       "end_at": "2026-08-22T18:00:00"
     },
     {
-      "key": "excelautomation2026masterybundle_softwarebundle",
-      "url": "https://humblebundle.com/software/excel-automation-2026-mastery-bundle-software",
-      "machine_name": "excelautomation2026masterybundle_softwarebundle",
-      "title": "Excel Automation 2026 Mastery Bundle",
-      "category": "software",
-      "end_at": "2026-08-21T18:00:00"
-    },
-    {
       "key": "dungeonsdragonsclassicscollection2026_bundle",
       "url": "https://humblebundle.com/games/dungeons-dragons-classics-collection-2026",
       "machine_name": "dungeonsdragonsclassicscollection2026_bundle",
       "title": "Dungeons & Dragons: Classics Collection 2026",
       "category": "games",
       "end_at": "2026-08-22T04:00:00"
+    },
+    {
+      "key": "excelautomation2026masterybundle_softwarebundle",
+      "url": "https://humblebundle.com/software/excel-automation-2026-mastery-bundle-software",
+      "machine_name": "excelautomation2026masterybundle_softwarebundle",
+      "title": "Excel Automation 2026 Mastery Bundle",
+      "category": "software",
+      "end_at": "2026-08-21T18:00:00"
     },
     {
       "key": "ultimatevegancookbookbundlepagestreetpublishing_bookbundle",
@@ -219,20 +235,20 @@
       "end_at": "2026-08-20T18:00:00"
     },
     {
-      "key": "rageinducingdifficultgames_bundle",
-      "url": "https://humblebundle.com/games/rage-inducing-difficult-games",
-      "machine_name": "rageinducingdifficultgames_bundle",
-      "title": "Rage Inducing Difficult Games",
-      "category": "games",
-      "end_at": "2026-08-20T04:00:00"
-    },
-    {
       "key": "disneymasterscollectionandoriginalsfantagraphics_bookbundle",
       "url": "https://humblebundle.com/books/disney-masters-collection-and-originals-fantagraphics-books",
       "machine_name": "disneymasterscollectionandoriginalsfantagraphics_bookbundle",
       "title": "Disney Masters Collection and Originals by Fantagraphics",
       "category": "books",
       "end_at": "2026-08-19T18:00:00"
+    },
+    {
+      "key": "rageinducingdifficultgames_bundle",
+      "url": "https://humblebundle.com/games/rage-inducing-difficult-games",
+      "machine_name": "rageinducingdifficultgames_bundle",
+      "title": "Rage Inducing Difficult Games",
+      "category": "games",
+      "end_at": "2026-08-20T04:00:00"
     },
     {
       "key": "fromriverstofjordsexploreworldsbasicroleplayingchaosium_bookbundle",
@@ -267,18 +283,18 @@
       "end_at": "2026-08-14T18:00:00"
     },
     {
-      "key": "idlersanddesktopcompanions_bundle",
-      "url": "https://humblebundle.com/games/idlers-and-desktop-companions",
-      "machine_name": "idlersanddesktopcompanions_bundle",
-      "title": "Idlers and Desktop Companions",
-      "category": "games",
-      "end_at": "2026-08-15T04:00:00"
-    },
-    {
       "key": "animalstylebundle_bundle",
       "url": "https://humblebundle.com/games/animal-style-bundle",
       "machine_name": "animalstylebundle_bundle",
       "title": "Animal Style Bundle",
+      "category": "games",
+      "end_at": "2026-08-15T04:00:00"
+    },
+    {
+      "key": "idlersanddesktopcompanions_bundle",
+      "url": "https://humblebundle.com/games/idlers-and-desktop-companions",
+      "machine_name": "idlersanddesktopcompanions_bundle",
+      "title": "Idlers and Desktop Companions",
       "category": "games",
       "end_at": "2026-08-15T04:00:00"
     },
@@ -288,7 +304,7 @@
       "machine_name": "ultimateaimachinelearningbundle_softwarebundle",
       "title": "The Ultimate AI & Machine Learning Bundle",
       "category": "software",
-      "end_at": "2026-08-13T18:00:00"
+      "end_at": "2026-08-20T18:00:00"
     },
     {
       "key": "darkhorse40thanniversarybundlepresentedign_bookbundle",
@@ -296,15 +312,7 @@
       "machine_name": "darkhorse40thanniversarybundlepresentedign_bookbundle",
       "title": "The Dark Horse 40th Anniversary Bundle, Presented by IGN",
       "category": "books",
-      "end_at": "2026-08-13T18:00:00"
-    },
-    {
-      "key": "twinsailsinteractive2026_bundle",
-      "url": "https://humblebundle.com/games/twin-sails-interactive-2026",
-      "machine_name": "twinsailsinteractive2026_bundle",
-      "title": "Twin Sails Interactive 2026",
-      "category": "games",
-      "end_at": "2026-08-13T04:00:00"
+      "end_at": "2026-08-20T18:00:00"
     },
     {
       "key": "teenagemutantninjaturtlesreturntonewyorkidw_bookbundle",
@@ -320,7 +328,15 @@
       "machine_name": "pointclickpackage_bundle",
       "title": "Point Click Package",
       "category": "games",
-      "end_at": "2026-08-13T04:00:00"
+      "end_at": "2026-08-20T04:00:00"
+    },
+    {
+      "key": "twinsailsinteractive2026_bundle",
+      "url": "https://humblebundle.com/games/twin-sails-interactive-2026",
+      "machine_name": "twinsailsinteractive2026_bundle",
+      "title": "Twin Sails Interactive 2026",
+      "category": "games",
+      "end_at": "2026-08-20T04:00:00"
     },
     {
       "key": "massiveunrealenginebundle_softwarebundle",
@@ -379,14 +395,6 @@
       "end_at": "2026-08-15T04:00:00"
     },
     {
-      "key": "framingcarpentryandfinewoodworkingtauntonpress_bookbundle",
-      "url": "https://humblebundle.com/books/framing-carpentry-and-fine-woodworking-taunton-press-books",
-      "machine_name": "framingcarpentryandfinewoodworkingtauntonpress_bookbundle",
-      "title": "Framing, Carpentry, and Fine Woodworking by Taunton Press",
-      "category": "books",
-      "end_at": "2026-08-13T18:00:00"
-    },
-    {
       "key": "2026awsazurecomptiacloudcertificationpracticeexambundle_softwarebundle",
       "url": "https://humblebundle.com/software/2026-aws-azure-comptia-cloud-certification-practice-exam-bundle-software",
       "machine_name": "2026awsazurecomptiacloudcertificationpracticeexambundle_softwarebundle",
@@ -409,14 +417,6 @@
       "title": "Freedom to Create with COREL Graphics Suite 2025",
       "category": "software",
       "end_at": "2026-08-31T18:00:00"
-    },
-    {
-      "key": "bladerunnercollectiontitancomics_bookbundle",
-      "url": "https://humblebundle.com/books/blade-runner-collection-titan-comics-books",
-      "machine_name": "bladerunnercollectiontitancomics_bookbundle",
-      "title": "The Blade Runner Collection by Titan Comics",
-      "category": "books",
-      "end_at": "2026-08-13T18:00:00"
     },
     {
       "key": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
