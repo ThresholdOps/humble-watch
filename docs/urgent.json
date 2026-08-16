@@ -1,7 +1,6 @@
 {
-  "generated_at": "2026-08-15T18:17:21Z",
-  "expires_today": null,
-  "expires_tomorrow": [
+  "generated_at": "2026-08-16T18:17:17Z",
+  "expires_today": [
     {
       "category": "software",
       "title": "Urban Warfare Flash Bundle",
@@ -10,10 +9,10 @@
       "long_description": "Build grounded city conflict zones, tactical neighborhoods, military outposts, and cinematic combat encounters with the Urban Warfare Flash Bundle by KitBash3D. Featuring a versatile mix of detailed environments, transport vehicles, mechs, city cars, and sci-fi hero assets, this collection gives artists everything they need to craft high-impact scenes across modern, near-future, and sci-fi settings. Fully customizable and built for speed, these assets are designed to fit seamlessly into your workflow. Compatible with Blender, Unreal, Maya, and more. Plus, your purchase helps support Girls Who Code!\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before September 30th, 2026.\u003c/span\u003e\u003cbr\u003e\u003cbr\u003e\u003ciframe width=\"400\" height=\"315\" src=\"https://www.youtube.com/embed/8UfhYfWRtsI\" title=\"Introducing Kits 4.0 | Unreal, Unity \u0026amp; Houdini Native Files\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen\u003e\u003c/iframe\u003e",
       "start_at": "2026-08-10T18:00:00",
       "end_at": "2026-08-17T18:00:00",
-      "days_left": 1.99,
-      "hours_left": 47.7,
+      "days_left": 0.99,
+      "hours_left": 23.7,
       "machine_name": "urbanwarfareflashbundle_softwarebundle",
-      "bundles_sold": 441,
+      "bundles_sold": 525,
       "tile_stamp": "software"
     },
     {
@@ -24,10 +23,10 @@
       "long_description": "Master the most in-demand skills in tech with the Python, Rust, and Data Bundle by O'Reilly. Trust in the safety of Rust and the flexibility of Python within this comprehensive, data-driven library. Get expert insights on the most popular coding languages from courses like \u003cem\u003ePython for Data Analysis, 3e\u003c/em\u003e, \u003cem\u003eLearning Python, 6e\u003c/em\u003e, \u003cem\u003eProgramming Rust, 2e\u003c/em\u003e, and more before summer ends! Deepen your understanding whether you’re new to tech or an experienced professional, and help support Code for America with your purchase!",
       "start_at": "2026-07-27T18:00:00",
       "end_at": "2026-08-17T18:00:00",
-      "days_left": 1.99,
-      "hours_left": 47.7,
+      "days_left": 0.99,
+      "hours_left": 23.7,
       "machine_name": "pythonrustanddataoreilly_bookbundle",
-      "bundles_sold": 6304,
+      "bundles_sold": 6795,
       "tile_stamp": "books"
     },
     {
@@ -38,11 +37,69 @@
       "long_description": "Break into the ever-growing world of AI, machine learning, and decision engines with a 15+ title bundle of eBooks curated by the experts at The Pragmatic Bookshelf! Learn time-efficient coding techniques from \u003cem\u003eProcess Over Magic: Beyond Vibe Coding\u003c/em\u003e, dip your toes into the latest in-demand skill sets with \u003cem\u003eA Common-Sense Guide to AI Engineering\u003c/em\u003e, discover what content resonates with your audience from \u003cem\u003eNext-Level A/B Testing\u003c/em\u003e, and so much more. Save big on the tools you need to succeed, and support Save the Children's emergency response in Venezuela with your purchase!",
       "start_at": "2026-07-20T18:00:00",
       "end_at": "2026-08-17T18:00:00",
+      "days_left": 0.99,
+      "hours_left": 23.7,
+      "machine_name": "aimlanddecisionenginespragmatic_bookbundle",
+      "bundles_sold": 3755,
+      "tile_stamp": "books"
+    }
+  ],
+  "expires_tomorrow": [
+    {
+      "category": "books",
+      "title": "From Rivers to Fjords - Explore the Worlds of Basic Roleplaying by Chaosium",
+      "url": "https://humblebundle.com/books/from-rivers-to-fjords-explore-worlds-basic-roleplaying-chaosium-books",
+      "description": "Expand your roleplaying horizons",
+      "long_description": "Dive into the roleplaying worlds of Chaosium in this ebook bundle full of roleplaying adventures, environments, and rulebooks! Get started with the fundamentals in instructional manuals like \u003cem\u003eBasic Roleplaying: Universal Game Engine\u003c/em\u003e and \u003cem\u003eBasic Roleplaying: Creatures\u003c/em\u003e! Enter the demi-monde and solve magical mysteries in \u003cem\u003eRivers of London\u003c/em\u003e! Turn back the clock to the age of heroes in \u003cem\u003eAge of Vikings\u003c/em\u003e! This bundle has all the sourcebooks, outlines, and creation manuals to guide you on your adventures, so grab it now at the price of your choosing and support the World Wildlife Fund with your purchase! \u003cbr\u003e\u003cbr\u003e\u003cstrong\u003e\u003cstrong\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before August 18th, 2027.\u003cbr\u003e\u003cbr\u003eKeys are redeemable through the DriveThruRPG website.\u003cbr\u003e\u003cbr\u003e\u003c/span\u003e\u003c/strong\u003e\u003c/strong\u003e",
+      "start_at": "2026-07-28T18:00:00",
+      "end_at": "2026-08-18T18:00:00",
       "days_left": 1.99,
       "hours_left": 47.7,
-      "machine_name": "aimlanddecisionenginespragmatic_bookbundle",
-      "bundles_sold": 3629,
+      "machine_name": "fromriverstofjordsexploreworldsbasicroleplayingchaosium_bookbundle",
+      "bundles_sold": 2812,
       "tile_stamp": "books"
+    },
+    {
+      "category": "software",
+      "title": "Massive Unreal Engine Bundle",
+      "url": "https://humblebundle.com/software/massive-unreal-engine-bundle-software",
+      "description": "Create a scene with environmental assets",
+      "long_description": "Game developers, start building your worlds in Unreal Engine with 60 modular environment kits from the creatives at Laya Design. This massive library includes fresh environments and essential assets in a variety of themes like Sci-Fi, Futurist, Tropical, Snowy, Medieval, and more! Armed with consistent style across the board, these assets easily mix and match without feeling clunky or out of place. Unlock thousands of unique modular meshes, foliage, and props to build large-scale worlds that feel truly lived in. Pay what you want for ready-to-use Unreal assets, and help support Make-A-Wish with your purchase!\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before May 26th, 2027. \u003c/span\u003e",
+      "start_at": "2026-07-21T18:00:00",
+      "end_at": "2026-08-18T18:00:00",
+      "days_left": 1.99,
+      "hours_left": 47.7,
+      "machine_name": "massiveunrealenginebundle_softwarebundle",
+      "bundles_sold": 3373,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "software",
+      "title": "Mammoth Chronicles STL Mega Bundle",
+      "url": "https://humblebundle.com/software/mammoth-chronicles-stl-mega-bundle-software",
+      "description": "Level Up Your RPG Library",
+      "long_description": "Dazzle your players with this epic bundle of 131 premium fantasy STL miniatures and 9 unforgettable 5e adventures. Playtested by a dedicated community, Mammoth Chronicles is a library of short plug-and-play adventures. Featuring 131 3D-printable minis, 83 Monster Statblocks, 32 Battlemaps, 49 Magic Items, and full FoundryVTT integration, you'll never be unprepared for an upcoming game. Mammoth Chronicles was the first Kickstarter by Mammoth Factory, best known for their highly anticipated 5e Fairytales Kickstarter - Fateless. Pay what you want and help support Child's Play with your purchase! \u003cbr/\u003e\u003cbr/\u003e \u003ciframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/ByESyeQ-3Hg?si=1iIotbgmRz6WuBfj\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen\u003e\u003c/iframe\u003e",
+      "start_at": "2026-07-21T18:00:00",
+      "end_at": "2026-08-18T18:00:00",
+      "days_left": 1.99,
+      "hours_left": 47.7,
+      "machine_name": "mammothchroniclesstlmegabundle_softwarebundle",
+      "bundles_sold": 2335,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "software",
+      "title": "The 2026 AWS, Azure, CompTIA Cloud Certification \u0026 Practice Exam Bundle",
+      "url": "https://humblebundle.com/software/2026-aws-azure-comptia-cloud-certification-practice-exam-bundle-software",
+      "description": "The right certification for any system",
+      "long_description": "A new career is only a test or two away—our 2026 AWS, CompTIA, Cloud Certification \u0026 Practice Exam Bundle has everything you need to prepare and succeed! Choose from a variety of courses like \u003cem\u003eAWS Certified Developer - Associate (DVA-C02): Prep \u0026 Pass\u003c/em\u003e, \u003cem\u003eAWS Certified Cloud Practitioner (CLF-C02): Prep \u0026 Pass\u003c/em\u003e, and \u003cem\u003eMicrosoft Azure Solutions Architect Expert (AZ-305): Prep \u0026 Pass\u003c/em\u003e that sharpen your skills and test your knowledge retention! Ace your certification exams and help support Alzheimer's Research UK with your purchase! ",
+      "start_at": "2026-07-14T18:00:00",
+      "end_at": "2026-08-18T18:00:00",
+      "days_left": 1.99,
+      "hours_left": 47.7,
+      "machine_name": "2026awsazurecomptiacloudcertificationpracticeexambundle_softwarebundle",
+      "bundles_sold": 1915,
+      "tile_stamp": "software"
     }
   ],
   "expires_within_72h": [
@@ -54,11 +111,25 @@
       "long_description": "Build grounded city conflict zones, tactical neighborhoods, military outposts, and cinematic combat encounters with the Urban Warfare Flash Bundle by KitBash3D. Featuring a versatile mix of detailed environments, transport vehicles, mechs, city cars, and sci-fi hero assets, this collection gives artists everything they need to craft high-impact scenes across modern, near-future, and sci-fi settings. Fully customizable and built for speed, these assets are designed to fit seamlessly into your workflow. Compatible with Blender, Unreal, Maya, and more. Plus, your purchase helps support Girls Who Code!\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before September 30th, 2026.\u003c/span\u003e\u003cbr\u003e\u003cbr\u003e\u003ciframe width=\"400\" height=\"315\" src=\"https://www.youtube.com/embed/8UfhYfWRtsI\" title=\"Introducing Kits 4.0 | Unreal, Unity \u0026amp; Houdini Native Files\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen\u003e\u003c/iframe\u003e",
       "start_at": "2026-08-10T18:00:00",
       "end_at": "2026-08-17T18:00:00",
-      "days_left": 1.99,
-      "hours_left": 47.7,
+      "days_left": 0.99,
+      "hours_left": 23.7,
       "machine_name": "urbanwarfareflashbundle_softwarebundle",
-      "bundles_sold": 441,
+      "bundles_sold": 525,
       "tile_stamp": "software"
+    },
+    {
+      "category": "books",
+      "title": "Disney Masters Collection and Originals by Fantagraphics",
+      "url": "https://humblebundle.com/books/disney-masters-collection-and-originals-fantagraphics-books",
+      "description": "Comics starring your favorite Disney legends!",
+      "long_description": "Iconic Disney characters take the world of comics by storm in this bundle of Disney Masters and original comic series from Fantagraphics! The greedy Scrooge McDuck journeys from the Yukon to Atlantis and beyond in \u003cem\u003eWalt Disney’s Uncle Scrooge: The Diamond Jubilee Collection\u003c/em\u003e! Mickey Mouse goes steampunk in the retrofuturist odyssey \u003cem\u003eWalt Disney’s Mickey Mouse Versus The Mouseton Society of Evil\u003c/em\u003e! Epic Mickey hops from your console to the pages of his own comics in the video game inspired \u003cem\u003eDisney Epic Mickey: The Comics Collection\u003c/em\u003e! Join Mickey Mouse, Donald Duck, Uncle Scrooge, and more of your favorite Disney legends in new tales and classic adventures in this bundle for old fans and newcomers alike! Grab this collection now at the price of your choice, and support First Book charity with your purchase. ",
+      "start_at": "2026-07-29T18:00:00",
+      "end_at": "2026-08-19T18:00:00",
+      "days_left": 2.99,
+      "hours_left": 71.7,
+      "machine_name": "disneymasterscollectionandoriginalsfantagraphics_bookbundle",
+      "bundles_sold": 2741,
+      "tile_stamp": "books"
     },
     {
       "category": "books",
@@ -68,10 +139,10 @@
       "long_description": "Dive into the roleplaying worlds of Chaosium in this ebook bundle full of roleplaying adventures, environments, and rulebooks! Get started with the fundamentals in instructional manuals like \u003cem\u003eBasic Roleplaying: Universal Game Engine\u003c/em\u003e and \u003cem\u003eBasic Roleplaying: Creatures\u003c/em\u003e! Enter the demi-monde and solve magical mysteries in \u003cem\u003eRivers of London\u003c/em\u003e! Turn back the clock to the age of heroes in \u003cem\u003eAge of Vikings\u003c/em\u003e! This bundle has all the sourcebooks, outlines, and creation manuals to guide you on your adventures, so grab it now at the price of your choosing and support the World Wildlife Fund with your purchase! \u003cbr\u003e\u003cbr\u003e\u003cstrong\u003e\u003cstrong\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before August 18th, 2027.\u003cbr\u003e\u003cbr\u003eKeys are redeemable through the DriveThruRPG website.\u003cbr\u003e\u003cbr\u003e\u003c/span\u003e\u003c/strong\u003e\u003c/strong\u003e",
       "start_at": "2026-07-28T18:00:00",
       "end_at": "2026-08-18T18:00:00",
-      "days_left": 2.99,
-      "hours_left": 71.7,
+      "days_left": 1.99,
+      "hours_left": 47.7,
       "machine_name": "fromriverstofjordsexploreworldsbasicroleplayingchaosium_bookbundle",
-      "bundles_sold": 2678,
+      "bundles_sold": 2812,
       "tile_stamp": "books"
     },
     {
@@ -82,25 +153,11 @@
       "long_description": "Master the most in-demand skills in tech with the Python, Rust, and Data Bundle by O'Reilly. Trust in the safety of Rust and the flexibility of Python within this comprehensive, data-driven library. Get expert insights on the most popular coding languages from courses like \u003cem\u003ePython for Data Analysis, 3e\u003c/em\u003e, \u003cem\u003eLearning Python, 6e\u003c/em\u003e, \u003cem\u003eProgramming Rust, 2e\u003c/em\u003e, and more before summer ends! Deepen your understanding whether you’re new to tech or an experienced professional, and help support Code for America with your purchase!",
       "start_at": "2026-07-27T18:00:00",
       "end_at": "2026-08-17T18:00:00",
-      "days_left": 1.99,
-      "hours_left": 47.7,
+      "days_left": 0.99,
+      "hours_left": 23.7,
       "machine_name": "pythonrustanddataoreilly_bookbundle",
-      "bundles_sold": 6304,
+      "bundles_sold": 6795,
       "tile_stamp": "books"
-    },
-    {
-      "category": "software",
-      "title": "Mammoth Chronicles STL Mega Bundle",
-      "url": "https://humblebundle.com/software/mammoth-chronicles-stl-mega-bundle-software",
-      "description": "Level Up Your RPG Library",
-      "long_description": "Dazzle your players with this epic bundle of 131 premium fantasy STL miniatures and 9 unforgettable 5e adventures. Playtested by a dedicated community, Mammoth Chronicles is a library of short plug-and-play adventures. Featuring 131 3D-printable minis, 83 Monster Statblocks, 32 Battlemaps, 49 Magic Items, and full FoundryVTT integration, you'll never be unprepared for an upcoming game. Mammoth Chronicles was the first Kickstarter by Mammoth Factory, best known for their highly anticipated 5e Fairytales Kickstarter - Fateless. Pay what you want and help support Child's Play with your purchase! \u003cbr/\u003e\u003cbr/\u003e \u003ciframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/ByESyeQ-3Hg?si=1iIotbgmRz6WuBfj\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen\u003e\u003c/iframe\u003e",
-      "start_at": "2026-07-21T18:00:00",
-      "end_at": "2026-08-18T18:00:00",
-      "days_left": 2.99,
-      "hours_left": 71.7,
-      "machine_name": "mammothchroniclesstlmegabundle_softwarebundle",
-      "bundles_sold": 2307,
-      "tile_stamp": "software"
     },
     {
       "category": "software",
@@ -110,10 +167,24 @@
       "long_description": "Game developers, start building your worlds in Unreal Engine with 60 modular environment kits from the creatives at Laya Design. This massive library includes fresh environments and essential assets in a variety of themes like Sci-Fi, Futurist, Tropical, Snowy, Medieval, and more! Armed with consistent style across the board, these assets easily mix and match without feeling clunky or out of place. Unlock thousands of unique modular meshes, foliage, and props to build large-scale worlds that feel truly lived in. Pay what you want for ready-to-use Unreal assets, and help support Make-A-Wish with your purchase!\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before May 26th, 2027. \u003c/span\u003e",
       "start_at": "2026-07-21T18:00:00",
       "end_at": "2026-08-18T18:00:00",
-      "days_left": 2.99,
-      "hours_left": 71.7,
+      "days_left": 1.99,
+      "hours_left": 47.7,
       "machine_name": "massiveunrealenginebundle_softwarebundle",
-      "bundles_sold": 3307,
+      "bundles_sold": 3373,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "software",
+      "title": "Mammoth Chronicles STL Mega Bundle",
+      "url": "https://humblebundle.com/software/mammoth-chronicles-stl-mega-bundle-software",
+      "description": "Level Up Your RPG Library",
+      "long_description": "Dazzle your players with this epic bundle of 131 premium fantasy STL miniatures and 9 unforgettable 5e adventures. Playtested by a dedicated community, Mammoth Chronicles is a library of short plug-and-play adventures. Featuring 131 3D-printable minis, 83 Monster Statblocks, 32 Battlemaps, 49 Magic Items, and full FoundryVTT integration, you'll never be unprepared for an upcoming game. Mammoth Chronicles was the first Kickstarter by Mammoth Factory, best known for their highly anticipated 5e Fairytales Kickstarter - Fateless. Pay what you want and help support Child's Play with your purchase! \u003cbr/\u003e\u003cbr/\u003e \u003ciframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/ByESyeQ-3Hg?si=1iIotbgmRz6WuBfj\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen\u003e\u003c/iframe\u003e",
+      "start_at": "2026-07-21T18:00:00",
+      "end_at": "2026-08-18T18:00:00",
+      "days_left": 1.99,
+      "hours_left": 47.7,
+      "machine_name": "mammothchroniclesstlmegabundle_softwarebundle",
+      "bundles_sold": 2335,
       "tile_stamp": "software"
     },
     {
@@ -124,10 +195,10 @@
       "long_description": "Break into the ever-growing world of AI, machine learning, and decision engines with a 15+ title bundle of eBooks curated by the experts at The Pragmatic Bookshelf! Learn time-efficient coding techniques from \u003cem\u003eProcess Over Magic: Beyond Vibe Coding\u003c/em\u003e, dip your toes into the latest in-demand skill sets with \u003cem\u003eA Common-Sense Guide to AI Engineering\u003c/em\u003e, discover what content resonates with your audience from \u003cem\u003eNext-Level A/B Testing\u003c/em\u003e, and so much more. Save big on the tools you need to succeed, and support Save the Children's emergency response in Venezuela with your purchase!",
       "start_at": "2026-07-20T18:00:00",
       "end_at": "2026-08-17T18:00:00",
-      "days_left": 1.99,
-      "hours_left": 47.7,
+      "days_left": 0.99,
+      "hours_left": 23.7,
       "machine_name": "aimlanddecisionenginespragmatic_bookbundle",
-      "bundles_sold": 3629,
+      "bundles_sold": 3755,
       "tile_stamp": "books"
     },
     {
@@ -138,10 +209,24 @@
       "long_description": "A new career is only a test or two away—our 2026 AWS, CompTIA, Cloud Certification \u0026 Practice Exam Bundle has everything you need to prepare and succeed! Choose from a variety of courses like \u003cem\u003eAWS Certified Developer - Associate (DVA-C02): Prep \u0026 Pass\u003c/em\u003e, \u003cem\u003eAWS Certified Cloud Practitioner (CLF-C02): Prep \u0026 Pass\u003c/em\u003e, and \u003cem\u003eMicrosoft Azure Solutions Architect Expert (AZ-305): Prep \u0026 Pass\u003c/em\u003e that sharpen your skills and test your knowledge retention! Ace your certification exams and help support Alzheimer's Research UK with your purchase! ",
       "start_at": "2026-07-14T18:00:00",
       "end_at": "2026-08-18T18:00:00",
+      "days_left": 1.99,
+      "hours_left": 47.7,
+      "machine_name": "2026awsazurecomptiacloudcertificationpracticeexambundle_softwarebundle",
+      "bundles_sold": 1915,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "software",
+      "title": "Clip Studio Creativity Collection: Paint, Draw \u0026 Animate",
+      "url": "https://humblebundle.com/software/clip-studio-creativity-collection-paint-draw-animate-software",
+      "description": "Bring your art to life!",
+      "long_description": "Design characters, create worlds, and tell infinite stories with this bundle of Clip Studio art and animation software! This bundle includes a 12-month license to Clip Studio Paint Pro Version 5.0, 2D animation program Moho Debut 12.5, Ultimate 3D Models Pack, 3D Poses, and Brush Packs for Clip Studio Paint, and more! Paint your digital artwork, design your comic, and put your stories in motion with this library of art and animation programs! Get all of these and more at the price of your choosing, and support classrooms in need with DonorsChoose with your purchase!\u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys Expire. Please redeem before July 22nd, 2027. \u003c/span\u003e",
+      "start_at": "2026-07-01T18:00:00",
+      "end_at": "2026-08-19T18:00:00",
       "days_left": 2.99,
       "hours_left": 71.7,
-      "machine_name": "2026awsazurecomptiacloudcertificationpracticeexambundle_softwarebundle",
-      "bundles_sold": 1888,
+      "machine_name": "clipstudiocreativitycollectionpaintdrawanimate_softwarebundle",
+      "bundles_sold": 8956,
       "tile_stamp": "software"
     }
   ]
