@@ -1,20 +1,12 @@
 {
-  "generated_at": "2026-08-22T18:17:02Z",
-  "updated_at": "2026-08-22T18:17:45Z",
+  "generated_at": "2026-08-23T18:17:22Z",
+  "updated_at": "2026-08-23T18:18:09Z",
   "items": [
     {
       "key": "lovelettertolovecraft_bundle",
       "url": "https://humblebundle.com/games/love-letter-to-lovecraft",
       "machine_name": "lovelettertolovecraft_bundle",
       "title": "Love Letter to Lovecraft",
-      "category": "games",
-      "end_at": "2026-09-12T04:00:00"
-    },
-    {
-      "key": "humble15thanniversaryreadyplayeroneandtwo_bundle",
-      "url": "https://humblebundle.com/games/humble-15th-anniversary-ready-player-one-and-two",
-      "machine_name": "humble15thanniversaryreadyplayeroneandtwo_bundle",
-      "title": "Humble 15th Anniversary - Ready Player One ... and Two",
       "category": "games",
       "end_at": "2026-09-12T04:00:00"
     },
@@ -27,12 +19,12 @@
       "end_at": "2026-09-11T18:00:00"
     },
     {
-      "key": "gregbearbirthdaybundleopenroadmedia_bookbundle",
-      "url": "https://humblebundle.com/books/greg-bear-birthday-bundle-open-road-media-books",
-      "machine_name": "gregbearbirthdaybundleopenroadmedia_bookbundle",
-      "title": "The Greg Bear Birthday Bundle by Open Road Media",
-      "category": "books",
-      "end_at": "2026-09-10T18:00:00"
+      "key": "humble15thanniversaryreadyplayeroneandtwo_bundle",
+      "url": "https://humblebundle.com/games/humble-15th-anniversary-ready-player-one-and-two",
+      "machine_name": "humble15thanniversaryreadyplayeroneandtwo_bundle",
+      "title": "Humble 15th Anniversary - Ready Player One ... and Two",
+      "category": "games",
+      "end_at": "2026-09-12T04:00:00"
     },
     {
       "key": "audioforgegamedevmusicvoicesbundle_softwarebundle",
@@ -51,12 +43,12 @@
       "end_at": "2026-09-09T18:00:00"
     },
     {
-      "key": "talesfromironkingdoms_bookbundle",
-      "url": "https://humblebundle.com/books/tales-from-iron-kingdoms-books",
-      "machine_name": "talesfromironkingdoms_bookbundle",
-      "title": "Tales From the Iron Kingdoms",
+      "key": "gregbearbirthdaybundleopenroadmedia_bookbundle",
+      "url": "https://humblebundle.com/books/greg-bear-birthday-bundle-open-road-media-books",
+      "machine_name": "gregbearbirthdaybundleopenroadmedia_bookbundle",
+      "title": "The Greg Bear Birthday Bundle by Open Road Media",
       "category": "books",
-      "end_at": "2026-09-09T18:00:00"
+      "end_at": "2026-09-10T18:00:00"
     },
     {
       "key": "yeschefcookingbundle_bundle",
@@ -73,6 +65,14 @@
       "title": "Hamble's Summer Island Getaway Bundle",
       "category": "games",
       "end_at": "2026-09-10T04:00:00"
+    },
+    {
+      "key": "talesfromironkingdoms_bookbundle",
+      "url": "https://humblebundle.com/books/tales-from-iron-kingdoms-books",
+      "machine_name": "talesfromironkingdoms_bookbundle",
+      "title": "Tales From the Iron Kingdoms",
+      "category": "books",
+      "end_at": "2026-09-09T18:00:00"
     },
     {
       "key": "cyberpunkaudiocache_softwarebundle",
@@ -107,6 +107,14 @@
       "end_at": "2026-09-07T18:00:00"
     },
     {
+      "key": "masterforgemaxsavingsstlpack2026_softwarebundle",
+      "url": "https://humblebundle.com/software/master-forge-maxsavings-stl-pack-2026-software",
+      "machine_name": "masterforgemaxsavingsstlpack2026_softwarebundle",
+      "title": "The Master Forge MAX-Savings STL Pack 2026",
+      "category": "software",
+      "end_at": "2026-09-05T18:00:00"
+    },
+    {
       "key": "shantaeheroicheroines_bundle",
       "url": "https://humblebundle.com/games/shantae-heroic-heroines",
       "machine_name": "shantaeheroicheroines_bundle",
@@ -115,11 +123,11 @@
       "end_at": "2026-09-08T04:00:00"
     },
     {
-      "key": "masterforgemaxsavingsstlpack2026_softwarebundle",
-      "url": "https://humblebundle.com/software/master-forge-maxsavings-stl-pack-2026-software",
-      "machine_name": "masterforgemaxsavingsstlpack2026_softwarebundle",
-      "title": "The Master Forge MAX-Savings STL Pack 2026",
-      "category": "software",
+      "key": "reactinproductionmegabundle2026packt_bookbundle",
+      "url": "https://humblebundle.com/books/react-in-production-mega-bundle-2026-packt-books",
+      "machine_name": "reactinproductionmegabundle2026packt_bookbundle",
+      "title": "React in Production Mega Bundle 2026 by Packt",
+      "category": "books",
       "end_at": "2026-09-05T18:00:00"
     },
     {
@@ -131,19 +139,19 @@
       "end_at": "2026-09-05T18:00:00"
     },
     {
-      "key": "reactinproductionmegabundle2026packt_bookbundle",
-      "url": "https://humblebundle.com/books/react-in-production-mega-bundle-2026-packt-books",
-      "machine_name": "reactinproductionmegabundle2026packt_bookbundle",
-      "title": "React in Production Mega Bundle 2026 by Packt",
-      "category": "books",
-      "end_at": "2026-09-05T18:00:00"
-    },
-    {
       "key": "eccomicsartistslibraryfantagraphics_bookbundle",
       "url": "https://humblebundle.com/books/ec-comics-artists-library-fantagraphics-books",
       "machine_name": "eccomicsartistslibraryfantagraphics_bookbundle",
       "title": "The EC Comics Artists Library by Fantagraphics",
       "category": "books",
+      "end_at": "2026-09-04T18:00:00"
+    },
+    {
+      "key": "completedesignstudio_softwarebundle",
+      "url": "https://humblebundle.com/software/complete-design-studio-software",
+      "machine_name": "completedesignstudio_softwarebundle",
+      "title": "Complete Design Studio",
+      "category": "software",
       "end_at": "2026-09-04T18:00:00"
     },
     {
@@ -155,12 +163,12 @@
       "end_at": "2026-09-05T04:00:00"
     },
     {
-      "key": "completedesignstudio_softwarebundle",
-      "url": "https://humblebundle.com/software/complete-design-studio-software",
-      "machine_name": "completedesignstudio_softwarebundle",
-      "title": "Complete Design Studio",
+      "key": "bladesblastersbeasts_softwarebundle",
+      "url": "https://humblebundle.com/software/blades-blasters-beasts-software",
+      "machine_name": "bladesblastersbeasts_softwarebundle",
+      "title": "Blades, Blasters & Beasts",
       "category": "software",
-      "end_at": "2026-09-04T18:00:00"
+      "end_at": "2026-09-03T18:00:00"
     },
     {
       "key": "humanoidsmegabundleuniversesunboundpart2humanoids_bookbundle",
@@ -171,18 +179,26 @@
       "end_at": "2026-09-03T18:00:00"
     },
     {
-      "key": "bladesblastersbeasts_softwarebundle",
-      "url": "https://humblebundle.com/software/blades-blasters-beasts-software",
-      "machine_name": "bladesblastersbeasts_softwarebundle",
-      "title": "Blades, Blasters & Beasts",
-      "category": "software",
-      "end_at": "2026-09-03T18:00:00"
+      "key": "godzillakaijurampageidw_bookbundle",
+      "url": "https://humblebundle.com/books/godzilla-kaiju-rampage-idw-books",
+      "machine_name": "godzillakaijurampageidw_bookbundle",
+      "title": "Godzilla: Kaiju Rampage by IDW",
+      "category": "books",
+      "end_at": "2026-09-02T18:00:00"
     },
     {
       "key": "indiessupportforvenezuelabundle_bundle",
       "url": "https://humblebundle.com/games/indies-support-for-venezuela-bundle",
       "machine_name": "indiessupportforvenezuelabundle_bundle",
       "title": "Indie's Support for Venezuela Bundle",
+      "category": "games",
+      "end_at": "2026-09-03T04:00:00"
+    },
+    {
+      "key": "handsomehusbandos_bundle",
+      "url": "https://humblebundle.com/games/handsome-husbandos",
+      "machine_name": "handsomehusbandos_bundle",
+      "title": "Handsome Husbandos",
       "category": "games",
       "end_at": "2026-09-03T04:00:00"
     },
@@ -195,20 +211,12 @@
       "end_at": "2026-09-02T18:00:00"
     },
     {
-      "key": "godzillakaijurampageidw_bookbundle",
-      "url": "https://humblebundle.com/books/godzilla-kaiju-rampage-idw-books",
-      "machine_name": "godzillakaijurampageidw_bookbundle",
-      "title": "Godzilla: Kaiju Rampage by IDW",
-      "category": "books",
-      "end_at": "2026-09-02T18:00:00"
-    },
-    {
-      "key": "handsomehusbandos_bundle",
-      "url": "https://humblebundle.com/games/handsome-husbandos",
-      "machine_name": "handsomehusbandos_bundle",
-      "title": "Handsome Husbandos",
-      "category": "games",
-      "end_at": "2026-09-03T04:00:00"
+      "key": "handsondevopsbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/handson-devops-bundle-software",
+      "machine_name": "handsondevopsbundle_softwarebundle",
+      "title": "The Hands-On DevOps Bundle",
+      "category": "software",
+      "end_at": "2026-09-01T18:00:00"
     },
     {
       "key": "softwareengineeringmanning_bookbundle",
@@ -219,12 +227,12 @@
       "end_at": "2026-09-01T18:00:00"
     },
     {
-      "key": "handsondevopsbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/handson-devops-bundle-software",
-      "machine_name": "handsondevopsbundle_softwarebundle",
-      "title": "The Hands-On DevOps Bundle",
-      "category": "software",
-      "end_at": "2026-09-01T18:00:00"
+      "key": "codexmasterybundlezenva_bookbundle",
+      "url": "https://humblebundle.com/books/codex-mastery-bundle-zenva-books",
+      "machine_name": "codexmasterybundlezenva_bookbundle",
+      "title": "The Codex Mastery Bundle by Zenva",
+      "category": "books",
+      "end_at": "2026-08-31T18:00:00"
     },
     {
       "key": "urbanwarfareflashbundle_softwarebundle",
@@ -240,14 +248,6 @@
       "machine_name": "completeblenderenvironmentcreationforgames_softwarebundle",
       "title": "Complete Blender Environment Creation for Games",
       "category": "software",
-      "end_at": "2026-08-31T18:00:00"
-    },
-    {
-      "key": "codexmasterybundlezenva_bookbundle",
-      "url": "https://humblebundle.com/books/codex-mastery-bundle-zenva-books",
-      "machine_name": "codexmasterybundlezenva_bookbundle",
-      "title": "The Codex Mastery Bundle by Zenva",
-      "category": "books",
       "end_at": "2026-08-31T18:00:00"
     },
     {
@@ -267,18 +267,18 @@
       "end_at": "2026-08-28T18:00:00"
     },
     {
-      "key": "awesomeindieadventures_bundle",
-      "url": "https://humblebundle.com/games/awesome-indie-adventures",
-      "machine_name": "awesomeindieadventures_bundle",
-      "title": "Awesome Indie Adventures",
-      "category": "games",
-      "end_at": "2026-08-29T04:00:00"
-    },
-    {
       "key": "shortgamesshowcasebundle_bundle",
       "url": "https://humblebundle.com/games/short-games-showcase-bundle",
       "machine_name": "shortgamesshowcasebundle_bundle",
       "title": "Short Games Showcase Bundle",
+      "category": "games",
+      "end_at": "2026-08-29T04:00:00"
+    },
+    {
+      "key": "awesomeindieadventures_bundle",
+      "url": "https://humblebundle.com/games/awesome-indie-adventures",
+      "machine_name": "awesomeindieadventures_bundle",
+      "title": "Awesome Indie Adventures",
       "category": "games",
       "end_at": "2026-08-29T04:00:00"
     },
@@ -289,14 +289,6 @@
       "title": "The BattleTech RPG Collection Encore by Catalyst Game Labs",
       "category": "books",
       "end_at": "2026-08-27T18:00:00"
-    },
-    {
-      "key": "nomorerobotsunhingedindieanthology_bundle",
-      "url": "https://humblebundle.com/games/no-more-robots-unhinged-indie-anthology",
-      "machine_name": "nomorerobotsunhingedindieanthology_bundle",
-      "title": "No More Robots: The Unhinged Indie Anthology",
-      "category": "games",
-      "end_at": "2026-08-27T04:00:00"
     },
     {
       "key": "isometricassetsgalore_softwarebundle",
@@ -321,6 +313,14 @@
       "title": "The Modern Indie Game Studio Bundle by Packt",
       "category": "books",
       "end_at": "2026-08-26T18:00:00"
+    },
+    {
+      "key": "nomorerobotsunhingedindieanthology_bundle",
+      "url": "https://humblebundle.com/games/no-more-robots-unhinged-indie-anthology",
+      "machine_name": "nomorerobotsunhingedindieanthology_bundle",
+      "title": "No More Robots: The Unhinged Indie Anthology",
+      "category": "games",
+      "end_at": "2026-08-27T04:00:00"
     },
     {
       "key": "oneshotsfastreadsimagecomics_bookbundle",
@@ -427,18 +427,18 @@
       "end_at": "2026-08-26T18:00:00"
     },
     {
-      "key": "massiveunrealenginebundle_softwarebundle",
-      "url": "https://humblebundle.com/software/massive-unreal-engine-bundle-software",
-      "machine_name": "massiveunrealenginebundle_softwarebundle",
-      "title": "Massive Unreal Engine Bundle",
-      "category": "software",
-      "end_at": "2026-08-25T18:00:00"
-    },
-    {
       "key": "mammothchroniclesstlmegabundle_softwarebundle",
       "url": "https://humblebundle.com/software/mammoth-chronicles-stl-mega-bundle-software",
       "machine_name": "mammothchroniclesstlmegabundle_softwarebundle",
       "title": "Mammoth Chronicles STL Mega Bundle",
+      "category": "software",
+      "end_at": "2026-08-25T18:00:00"
+    },
+    {
+      "key": "massiveunrealenginebundle_softwarebundle",
+      "url": "https://humblebundle.com/software/massive-unreal-engine-bundle-software",
+      "machine_name": "massiveunrealenginebundle_softwarebundle",
+      "title": "Massive Unreal Engine Bundle",
       "category": "software",
       "end_at": "2026-08-25T18:00:00"
     },

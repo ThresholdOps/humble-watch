@@ -1,7 +1,6 @@
 {
-  "generated_at": "2026-08-22T18:17:02Z",
-  "expires_today": null,
-  "expires_tomorrow": [
+  "generated_at": "2026-08-23T18:17:22Z",
+  "expires_today": [
     {
       "category": "software",
       "title": "Urban Warfare Flash Bundle",
@@ -10,10 +9,10 @@
       "long_description": "Build grounded city conflict zones, tactical neighborhoods, military outposts, and cinematic combat encounters with the Urban Warfare Flash Bundle by KitBash3D. Featuring a versatile mix of detailed environments, transport vehicles, mechs, city cars, and sci-fi hero assets, this collection gives artists everything they need to craft high-impact scenes across modern, near-future, and sci-fi settings. Fully customizable and built for speed, these assets are designed to fit seamlessly into your workflow. Compatible with Blender, Unreal, Maya, and more. Plus, your purchase helps support Girls Who Code!\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before September 30th, 2026.\u003c/span\u003e\u003cbr\u003e\u003cbr\u003e\u003ciframe width=\"400\" height=\"315\" src=\"https://www.youtube.com/embed/8UfhYfWRtsI\" title=\"Introducing Kits 4.0 | Unreal, Unity \u0026amp; Houdini Native Files\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen\u003e\u003c/iframe\u003e",
       "start_at": "2026-08-10T18:00:00",
       "end_at": "2026-08-24T18:00:00",
-      "days_left": 1.99,
-      "hours_left": 47.7,
+      "days_left": 0.99,
+      "hours_left": 23.7,
       "machine_name": "urbanwarfareflashbundle_softwarebundle",
-      "bundles_sold": 836,
+      "bundles_sold": 880,
       "tile_stamp": "software"
     },
     {
@@ -24,10 +23,10 @@
       "long_description": "Master the skills you need to succeed in the age of AI with an all-new career-building bundle by Apress! Learn every aspect of the AI ecosystem with expert-published titles across Claude Coding, Copilot, ChatGPT, and business intelligence platforms in this curated collection. Unlock building-block eBooks like \u003cem\u003eA Friendly Guide to Data Science\u003c/em\u003e, \u003cem\u003eResponsible AI in Practice\u003c/em\u003e, \u003cem\u003eFoundations of Modern Information Security\u003c/em\u003e, and more. Save big on leading AI eBooks and help support Save the Children with your purchase. ",
       "start_at": "2026-08-03T18:00:00",
       "end_at": "2026-08-24T18:00:00",
-      "days_left": 1.99,
-      "hours_left": 47.7,
+      "days_left": 0.99,
+      "hours_left": 23.7,
       "machine_name": "techcareerlibraryinageaiapress_bookbundle",
-      "bundles_sold": 1513,
+      "bundles_sold": 1617,
       "tile_stamp": "books"
     },
     {
@@ -38,10 +37,10 @@
       "long_description": "Speed up your development time with The Ultimate Ollama and Local AI Bundle. Unlock unlimited reps with \u003cem\u003eOllama\u003c/em\u003e, the easiest way to automate your work using open models while keeping your data safe. Or learn how to use LocalAI, the AI model that runs directly on your own local hardware. Pay what you want for elite learning courses like \u003cem\u003eAutomate with Kimi\u003c/em\u003e, \u003cem\u003eLocal AI Workflows with Codex and Ollama\u003c/em\u003e, \u003cem\u003eNatural-Language SQL Generation with Python and Ollama\u003c/em\u003e, and more—the right tools are only a bundle away! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys Expire. Please redeem before August 24th, 2027. \u003c/span\u003e",
       "start_at": "2026-08-03T18:00:00",
       "end_at": "2026-08-24T18:00:00",
-      "days_left": 1.99,
-      "hours_left": 47.7,
+      "days_left": 0.99,
+      "hours_left": 23.7,
       "machine_name": "ultimateollamaandlocalaibundle_softwarebundle",
-      "bundles_sold": 1821,
+      "bundles_sold": 1938,
       "tile_stamp": "software"
     },
     {
@@ -52,11 +51,55 @@
       "long_description": "Master the most in-demand skills in tech with the Python, Rust, and Data Bundle by O'Reilly. Trust in the safety of Rust and the flexibility of Python within this comprehensive, data-driven library. Get expert insights on the most popular coding languages from courses like \u003cem\u003ePython for Data Analysis, 3e\u003c/em\u003e, \u003cem\u003eLearning Python, 6e\u003c/em\u003e, \u003cem\u003eProgramming Rust, 2e\u003c/em\u003e, and more before summer ends! Deepen your understanding whether you’re new to tech or an experienced professional, and help support Code for America with your purchase!",
       "start_at": "2026-07-27T18:00:00",
       "end_at": "2026-08-24T18:00:00",
+      "days_left": 0.99,
+      "hours_left": 23.7,
+      "machine_name": "pythonrustanddataoreilly_bookbundle",
+      "bundles_sold": 8781,
+      "tile_stamp": "books"
+    }
+  ],
+  "expires_tomorrow": [
+    {
+      "category": "books",
+      "title": "One-Shots \u0026 Fast Reads by Image Comics",
+      "url": "https://humblebundle.com/books/oneshots-fast-reads-image-comics-books",
+      "description": "Unlock Can't-Miss Comic One-Shots",
+      "long_description": "We’ve teamed up with Image Comics on a massive bundle of critically acclaimed one-shots and fast reads to help you beat the heat and stay entertained this summer. Pay what you want for 50+ titles from some of the biggest writers and comic artists of all time. Rediscover Jack Kirby’s \u003cem\u003eSilver Star\u003c/em\u003e, Grant Morrison’s occult antihero simply known as \u003cem\u003eNameless\u003c/em\u003e, and more! Add unique comics and soon-to-be favorites to your personal collection and support The BINC Foundation with your purchase!",
+      "start_at": "2026-08-04T18:00:00",
+      "end_at": "2026-08-25T18:00:00",
       "days_left": 1.99,
       "hours_left": 47.7,
-      "machine_name": "pythonrustanddataoreilly_bookbundle",
-      "bundles_sold": 8596,
+      "machine_name": "oneshotsfastreadsimagecomics_bookbundle",
+      "bundles_sold": 3994,
       "tile_stamp": "books"
+    },
+    {
+      "category": "software",
+      "title": "Mammoth Chronicles STL Mega Bundle",
+      "url": "https://humblebundle.com/software/mammoth-chronicles-stl-mega-bundle-software",
+      "description": "Level Up Your RPG Library",
+      "long_description": "Dazzle your players with this epic bundle of 131 premium fantasy STL miniatures and 9 unforgettable 5e adventures. Playtested by a dedicated community, Mammoth Chronicles is a library of short plug-and-play adventures. Featuring 131 3D-printable minis, 83 Monster Statblocks, 32 Battlemaps, 49 Magic Items, and full FoundryVTT integration, you'll never be unprepared for an upcoming game. Mammoth Chronicles was the first Kickstarter by Mammoth Factory, best known for their highly anticipated 5e Fairytales Kickstarter - Fateless. Pay what you want and help support Child's Play with your purchase! \u003cbr/\u003e\u003cbr/\u003e \u003ciframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/ByESyeQ-3Hg?si=1iIotbgmRz6WuBfj\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen\u003e\u003c/iframe\u003e",
+      "start_at": "2026-07-21T18:00:00",
+      "end_at": "2026-08-25T18:00:00",
+      "days_left": 1.99,
+      "hours_left": 47.7,
+      "machine_name": "mammothchroniclesstlmegabundle_softwarebundle",
+      "bundles_sold": 2609,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "software",
+      "title": "Massive Unreal Engine Bundle",
+      "url": "https://humblebundle.com/software/massive-unreal-engine-bundle-software",
+      "description": "Create a scene with environmental assets",
+      "long_description": "Game developers, start building your worlds in Unreal Engine with 60 modular environment kits from the creatives at Laya Design. This massive library includes fresh environments and essential assets in a variety of themes like Sci-Fi, Futurist, Tropical, Snowy, Medieval, and more! Armed with consistent style across the board, these assets easily mix and match without feeling clunky or out of place. Unlock thousands of unique modular meshes, foliage, and props to build large-scale worlds that feel truly lived in. Pay what you want for ready-to-use Unreal assets, and help support Make-A-Wish with your purchase!\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before May 26th, 2027. \u003c/span\u003e",
+      "start_at": "2026-07-21T18:00:00",
+      "end_at": "2026-08-25T18:00:00",
+      "days_left": 1.99,
+      "hours_left": 47.7,
+      "machine_name": "massiveunrealenginebundle_softwarebundle",
+      "bundles_sold": 3819,
+      "tile_stamp": "software"
     }
   ],
   "expires_within_72h": [
@@ -68,11 +111,39 @@
       "long_description": "Build grounded city conflict zones, tactical neighborhoods, military outposts, and cinematic combat encounters with the Urban Warfare Flash Bundle by KitBash3D. Featuring a versatile mix of detailed environments, transport vehicles, mechs, city cars, and sci-fi hero assets, this collection gives artists everything they need to craft high-impact scenes across modern, near-future, and sci-fi settings. Fully customizable and built for speed, these assets are designed to fit seamlessly into your workflow. Compatible with Blender, Unreal, Maya, and more. Plus, your purchase helps support Girls Who Code!\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before September 30th, 2026.\u003c/span\u003e\u003cbr\u003e\u003cbr\u003e\u003ciframe width=\"400\" height=\"315\" src=\"https://www.youtube.com/embed/8UfhYfWRtsI\" title=\"Introducing Kits 4.0 | Unreal, Unity \u0026amp; Houdini Native Files\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen\u003e\u003c/iframe\u003e",
       "start_at": "2026-08-10T18:00:00",
       "end_at": "2026-08-24T18:00:00",
-      "days_left": 1.99,
-      "hours_left": 47.7,
+      "days_left": 0.99,
+      "hours_left": 23.7,
       "machine_name": "urbanwarfareflashbundle_softwarebundle",
-      "bundles_sold": 836,
+      "bundles_sold": 880,
       "tile_stamp": "software"
+    },
+    {
+      "category": "software",
+      "title": "Isometric Assets Galore",
+      "url": "https://humblebundle.com/software/isometric-assets-galore-software",
+      "description": "Unlock isometric RPG tools \u0026 assets",
+      "long_description": "Game developers, build your isometric worlds with this epic collection of content tools, assets, and beyond! We’ve teamed up with the pros at PVGames to curate a bundle filled with everything you need to supercharge your development cycle—pay what you want for the \u003cem\u003eDoomsday: Character Creator Kit 1 \u0026 2\u003c/em\u003e, \u003cem\u003eRPG Tools Content Package\u003c/em\u003e, \u003cem\u003eDoomsday Tiles: Core Rural Ruins\u003c/em\u003e, and more to create a truly magical gaming experience. These assets are the icing on the isometric creation cake—take a bite today and help support Breakthrough T1D when you shop with Humble.  \u003cbr\u003e\u003cbr\u003e\u003cstrong\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys for RPG Tools Content Package expire. Please redeem before August 26th, 2027.\u003c/span\u003e\u003c/strong\u003e",
+      "start_at": "2026-08-05T18:00:00",
+      "end_at": "2026-08-26T18:00:00",
+      "days_left": 2.99,
+      "hours_left": 71.7,
+      "machine_name": "isometricassetsgalore_softwarebundle",
+      "bundles_sold": 522,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "books",
+      "title": "The Modern Indie Game Studio Bundle by Packt",
+      "url": "https://humblebundle.com/books/modern-indie-game-studio-bundle-packt-books",
+      "description": "Build and launch your own indie games",
+      "long_description": "Step into the world of indie game development with an all-in-one Tech Book Bundle from Packt! Make your passion a real-world career and learn how to build games using Unity, Unreal Engine 5, Godot, and Roblox. Master essential technical and creative fundamentals like C++, C#, GDScript, AI, multiplayer systems, and 3D modeling with Blender and ZBrush. Whether you’re creating your first game or refining your studio pipeline, this collection equips you with everything you need to design, develop, and launch your own games. Plus, your purchase supports the AbleGamers Foundation in building a better world for gamers with disabilities. ",
+      "start_at": "2026-08-05T18:00:00",
+      "end_at": "2026-08-26T18:00:00",
+      "days_left": 2.99,
+      "hours_left": 71.7,
+      "machine_name": "modernindiegamestudiobundlepackt_bookbundle",
+      "bundles_sold": 2670,
+      "tile_stamp": "books"
     },
     {
       "category": "books",
@@ -82,10 +153,10 @@
       "long_description": "We’ve teamed up with Image Comics on a massive bundle of critically acclaimed one-shots and fast reads to help you beat the heat and stay entertained this summer. Pay what you want for 50+ titles from some of the biggest writers and comic artists of all time. Rediscover Jack Kirby’s \u003cem\u003eSilver Star\u003c/em\u003e, Grant Morrison’s occult antihero simply known as \u003cem\u003eNameless\u003c/em\u003e, and more! Add unique comics and soon-to-be favorites to your personal collection and support The BINC Foundation with your purchase!",
       "start_at": "2026-08-04T18:00:00",
       "end_at": "2026-08-25T18:00:00",
-      "days_left": 2.99,
-      "hours_left": 71.7,
+      "days_left": 1.99,
+      "hours_left": 47.7,
       "machine_name": "oneshotsfastreadsimagecomics_bookbundle",
-      "bundles_sold": 3778,
+      "bundles_sold": 3994,
       "tile_stamp": "books"
     },
     {
@@ -96,10 +167,10 @@
       "long_description": "Master the skills you need to succeed in the age of AI with an all-new career-building bundle by Apress! Learn every aspect of the AI ecosystem with expert-published titles across Claude Coding, Copilot, ChatGPT, and business intelligence platforms in this curated collection. Unlock building-block eBooks like \u003cem\u003eA Friendly Guide to Data Science\u003c/em\u003e, \u003cem\u003eResponsible AI in Practice\u003c/em\u003e, \u003cem\u003eFoundations of Modern Information Security\u003c/em\u003e, and more. Save big on leading AI eBooks and help support Save the Children with your purchase. ",
       "start_at": "2026-08-03T18:00:00",
       "end_at": "2026-08-24T18:00:00",
-      "days_left": 1.99,
-      "hours_left": 47.7,
+      "days_left": 0.99,
+      "hours_left": 23.7,
       "machine_name": "techcareerlibraryinageaiapress_bookbundle",
-      "bundles_sold": 1513,
+      "bundles_sold": 1617,
       "tile_stamp": "books"
     },
     {
@@ -110,10 +181,10 @@
       "long_description": "Speed up your development time with The Ultimate Ollama and Local AI Bundle. Unlock unlimited reps with \u003cem\u003eOllama\u003c/em\u003e, the easiest way to automate your work using open models while keeping your data safe. Or learn how to use LocalAI, the AI model that runs directly on your own local hardware. Pay what you want for elite learning courses like \u003cem\u003eAutomate with Kimi\u003c/em\u003e, \u003cem\u003eLocal AI Workflows with Codex and Ollama\u003c/em\u003e, \u003cem\u003eNatural-Language SQL Generation with Python and Ollama\u003c/em\u003e, and more—the right tools are only a bundle away! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys Expire. Please redeem before August 24th, 2027. \u003c/span\u003e",
       "start_at": "2026-08-03T18:00:00",
       "end_at": "2026-08-24T18:00:00",
-      "days_left": 1.99,
-      "hours_left": 47.7,
+      "days_left": 0.99,
+      "hours_left": 23.7,
       "machine_name": "ultimateollamaandlocalaibundle_softwarebundle",
-      "bundles_sold": 1821,
+      "bundles_sold": 1938,
       "tile_stamp": "software"
     },
     {
@@ -124,25 +195,25 @@
       "long_description": "Master the most in-demand skills in tech with the Python, Rust, and Data Bundle by O'Reilly. Trust in the safety of Rust and the flexibility of Python within this comprehensive, data-driven library. Get expert insights on the most popular coding languages from courses like \u003cem\u003ePython for Data Analysis, 3e\u003c/em\u003e, \u003cem\u003eLearning Python, 6e\u003c/em\u003e, \u003cem\u003eProgramming Rust, 2e\u003c/em\u003e, and more before summer ends! Deepen your understanding whether you’re new to tech or an experienced professional, and help support Code for America with your purchase!",
       "start_at": "2026-07-27T18:00:00",
       "end_at": "2026-08-24T18:00:00",
-      "days_left": 1.99,
-      "hours_left": 47.7,
+      "days_left": 0.99,
+      "hours_left": 23.7,
       "machine_name": "pythonrustanddataoreilly_bookbundle",
-      "bundles_sold": 8596,
+      "bundles_sold": 8781,
       "tile_stamp": "books"
     },
     {
-      "category": "software",
-      "title": "Massive Unreal Engine Bundle",
-      "url": "https://humblebundle.com/software/massive-unreal-engine-bundle-software",
-      "description": "Create a scene with environmental assets",
-      "long_description": "Game developers, start building your worlds in Unreal Engine with 60 modular environment kits from the creatives at Laya Design. This massive library includes fresh environments and essential assets in a variety of themes like Sci-Fi, Futurist, Tropical, Snowy, Medieval, and more! Armed with consistent style across the board, these assets easily mix and match without feeling clunky or out of place. Unlock thousands of unique modular meshes, foliage, and props to build large-scale worlds that feel truly lived in. Pay what you want for ready-to-use Unreal assets, and help support Make-A-Wish with your purchase!\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before May 26th, 2027. \u003c/span\u003e",
-      "start_at": "2026-07-21T18:00:00",
-      "end_at": "2026-08-25T18:00:00",
+      "category": "books",
+      "title": "Teenage Mutant Ninja Turtles: Return to New York by IDW",
+      "url": "https://humblebundle.com/books/teenage-mutant-ninja-turtles-return-to-new-york-idw-books",
+      "description": "Feel the Turtle Power",
+      "long_description": "Grab a slice of pizza and dive into this giant bundle of comics starring everyone’s favorite sewer-dwelling reptile warriors, the Teenage Mutant Ninja Turtles!! Follow the Turtles as they clean up the streets of New York City, fighting off secret police, other mutants, and the nefarious Foot while making allies in unexpected places and working together as a family! Other highlights of this bundle include the \u003cem\u003eSaturday Morning Adventures\u003c/em\u003e volumes and one-shots inspired by the charm and pandemonium of the ’90s cartoon, \u003cem\u003eTurtle Power Pack\u003c/em\u003e adventures for younger readers, and both volumes of collected cover art from TMNT co-creator Kevin Eastman! There’s even more mutant mayhem to discover in this bundle of nearly 50 volumes and collections, so grab it now at the price of your choosing, and support the Make-A-Wish Foundation with your purchase! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys Expire. Please redeem before August 12, 2027.\u003c/span\u003e",
+      "start_at": "2026-07-22T18:00:00",
+      "end_at": "2026-08-26T18:00:00",
       "days_left": 2.99,
       "hours_left": 71.7,
-      "machine_name": "massiveunrealenginebundle_softwarebundle",
-      "bundles_sold": 3781,
-      "tile_stamp": "software"
+      "machine_name": "teenagemutantninjaturtlesreturntonewyorkidw_bookbundle",
+      "bundles_sold": 6338,
+      "tile_stamp": "books"
     },
     {
       "category": "software",
@@ -152,10 +223,24 @@
       "long_description": "Dazzle your players with this epic bundle of 131 premium fantasy STL miniatures and 9 unforgettable 5e adventures. Playtested by a dedicated community, Mammoth Chronicles is a library of short plug-and-play adventures. Featuring 131 3D-printable minis, 83 Monster Statblocks, 32 Battlemaps, 49 Magic Items, and full FoundryVTT integration, you'll never be unprepared for an upcoming game. Mammoth Chronicles was the first Kickstarter by Mammoth Factory, best known for their highly anticipated 5e Fairytales Kickstarter - Fateless. Pay what you want and help support Child's Play with your purchase! \u003cbr/\u003e\u003cbr/\u003e \u003ciframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/ByESyeQ-3Hg?si=1iIotbgmRz6WuBfj\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen\u003e\u003c/iframe\u003e",
       "start_at": "2026-07-21T18:00:00",
       "end_at": "2026-08-25T18:00:00",
-      "days_left": 2.99,
-      "hours_left": 71.7,
+      "days_left": 1.99,
+      "hours_left": 47.7,
       "machine_name": "mammothchroniclesstlmegabundle_softwarebundle",
-      "bundles_sold": 2586,
+      "bundles_sold": 2609,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "software",
+      "title": "Massive Unreal Engine Bundle",
+      "url": "https://humblebundle.com/software/massive-unreal-engine-bundle-software",
+      "description": "Create a scene with environmental assets",
+      "long_description": "Game developers, start building your worlds in Unreal Engine with 60 modular environment kits from the creatives at Laya Design. This massive library includes fresh environments and essential assets in a variety of themes like Sci-Fi, Futurist, Tropical, Snowy, Medieval, and more! Armed with consistent style across the board, these assets easily mix and match without feeling clunky or out of place. Unlock thousands of unique modular meshes, foliage, and props to build large-scale worlds that feel truly lived in. Pay what you want for ready-to-use Unreal assets, and help support Make-A-Wish with your purchase!\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before May 26th, 2027. \u003c/span\u003e",
+      "start_at": "2026-07-21T18:00:00",
+      "end_at": "2026-08-25T18:00:00",
+      "days_left": 1.99,
+      "hours_left": 47.7,
+      "machine_name": "massiveunrealenginebundle_softwarebundle",
+      "bundles_sold": 3819,
       "tile_stamp": "software"
     }
   ]
