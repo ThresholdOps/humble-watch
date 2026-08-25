@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-08-24T18:18:15Z",
-  "updated_at": "2026-08-24T18:18:53Z",
+  "generated_at": "2026-08-25T18:18:28Z",
+  "updated_at": "2026-08-25T18:19:24Z",
   "items": [
+    {
+      "key": "miniseriesquickhitsandspeedyreadsdynamitecomics_bookbundle",
+      "url": "https://humblebundle.com/books/miniseries-quick-hits-and-speedy-reads-dynamite-comics-books",
+      "machine_name": "miniseriesquickhitsandspeedyreadsdynamitecomics_bookbundle",
+      "title": "Miniseries, Quick Hits, and Speedy Reads by Dynamite Comics",
+      "category": "books",
+      "end_at": "2026-09-15T18:00:00"
+    },
+    {
+      "key": "buildyourdreamhomeultimate3dcadbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/build-your-dream-home-ultimate-3d-cad-bundle-software",
+      "machine_name": "buildyourdreamhomeultimate3dcadbundle_softwarebundle",
+      "title": "BUILD YOUR DREAM HOME - The Ultimate 3D CAD Bundle",
+      "category": "software",
+      "end_at": "2026-09-15T18:00:00"
+    },
     {
       "key": "selfrelianceandoffgridskillsfordummies_bookbundle_ENCORE",
       "url": "https://humblebundle.com/books/selfreliance-and-offgrid-skills-for-dummies-books-encore",
@@ -11,19 +27,19 @@
       "end_at": "2026-09-14T18:00:00"
     },
     {
-      "key": "industriallands_softwarebundle",
-      "url": "https://humblebundle.com/software/industrial-lands-software",
-      "machine_name": "industriallands_softwarebundle",
-      "title": "Industrial Lands",
-      "category": "software",
-      "end_at": "2026-09-14T18:00:00"
-    },
-    {
       "key": "imagein20smegabundleimagecomics_bookbundle",
       "url": "https://humblebundle.com/books/image-in-20s-megabundle-image-comics-books",
       "machine_name": "imagein20smegabundleimagecomics_bookbundle",
       "title": "Image in the '20s: A Megabundle by Image Comics",
       "category": "books",
+      "end_at": "2026-09-14T18:00:00"
+    },
+    {
+      "key": "industriallands_softwarebundle",
+      "url": "https://humblebundle.com/software/industrial-lands-software",
+      "machine_name": "industriallands_softwarebundle",
+      "title": "Industrial Lands",
+      "category": "software",
       "end_at": "2026-09-14T18:00:00"
     },
     {
@@ -51,20 +67,20 @@
       "end_at": "2026-09-11T18:00:00"
     },
     {
-      "key": "bestleartesgiganticgamedevassetstoolsmegabundle_softwarebundle",
-      "url": "https://humblebundle.com/software/best-leartes-gigantic-game-dev-assets-tools-megabundle-software",
-      "machine_name": "bestleartesgiganticgamedevassetstoolsmegabundle_softwarebundle",
-      "title": "Best of Leartes - Gigantic Game Dev Assets & Tools Megabundle",
-      "category": "software",
-      "end_at": "2026-09-09T18:00:00"
-    },
-    {
       "key": "gregbearbirthdaybundleopenroadmedia_bookbundle",
       "url": "https://humblebundle.com/books/greg-bear-birthday-bundle-open-road-media-books",
       "machine_name": "gregbearbirthdaybundleopenroadmedia_bookbundle",
       "title": "The Greg Bear Birthday Bundle by Open Road Media",
       "category": "books",
       "end_at": "2026-09-10T18:00:00"
+    },
+    {
+      "key": "bestleartesgiganticgamedevassetstoolsmegabundle_softwarebundle",
+      "url": "https://humblebundle.com/software/best-leartes-gigantic-game-dev-assets-tools-megabundle-software",
+      "machine_name": "bestleartesgiganticgamedevassetstoolsmegabundle_softwarebundle",
+      "title": "Best of Leartes - Gigantic Game Dev Assets & Tools Megabundle",
+      "category": "software",
+      "end_at": "2026-09-09T18:00:00"
     },
     {
       "key": "audioforgegamedevmusicvoicesbundle_softwarebundle",
@@ -75,12 +91,12 @@
       "end_at": "2026-09-10T18:00:00"
     },
     {
-      "key": "yeschefcookingbundle_bundle",
-      "url": "https://humblebundle.com/games/yes-chef-cooking-bundle",
-      "machine_name": "yeschefcookingbundle_bundle",
-      "title": "Yes Chef! - Cooking Bundle",
-      "category": "games",
-      "end_at": "2026-09-10T04:00:00"
+      "key": "talesfromironkingdoms_bookbundle",
+      "url": "https://humblebundle.com/books/tales-from-iron-kingdoms-books",
+      "machine_name": "talesfromironkingdoms_bookbundle",
+      "title": "Tales From the Iron Kingdoms",
+      "category": "books",
+      "end_at": "2026-09-09T18:00:00"
     },
     {
       "key": "cyberpunkaudiocache_softwarebundle",
@@ -99,12 +115,12 @@
       "end_at": "2026-09-10T04:00:00"
     },
     {
-      "key": "talesfromironkingdoms_bookbundle",
-      "url": "https://humblebundle.com/books/tales-from-iron-kingdoms-books",
-      "machine_name": "talesfromironkingdoms_bookbundle",
-      "title": "Tales From the Iron Kingdoms",
-      "category": "books",
-      "end_at": "2026-09-09T18:00:00"
+      "key": "yeschefcookingbundle_bundle",
+      "url": "https://humblebundle.com/games/yes-chef-cooking-bundle",
+      "machine_name": "yeschefcookingbundle_bundle",
+      "title": "Yes Chef! - Cooking Bundle",
+      "category": "games",
+      "end_at": "2026-09-10T04:00:00"
     },
     {
       "key": "codenaturallywithpython_softwarebundle",
@@ -123,14 +139,6 @@
       "end_at": "2026-09-08T18:00:00"
     },
     {
-      "key": "masterforgemaxsavingsstlpack2026_softwarebundle",
-      "url": "https://humblebundle.com/software/master-forge-maxsavings-stl-pack-2026-software",
-      "machine_name": "masterforgemaxsavingsstlpack2026_softwarebundle",
-      "title": "The Master Forge MAX-Savings STL Pack 2026",
-      "category": "software",
-      "end_at": "2026-09-05T18:00:00"
-    },
-    {
       "key": "embeddedfirmwaredevelopertoolkitpackt_bookbundle",
       "url": "https://humblebundle.com/books/embedded-firmware-developer-toolkit-packt-books",
       "machine_name": "embeddedfirmwaredevelopertoolkitpackt_bookbundle",
@@ -145,6 +153,14 @@
       "title": "Shantae & Heroic Heroines",
       "category": "games",
       "end_at": "2026-09-08T04:00:00"
+    },
+    {
+      "key": "masterforgemaxsavingsstlpack2026_softwarebundle",
+      "url": "https://humblebundle.com/software/master-forge-maxsavings-stl-pack-2026-software",
+      "machine_name": "masterforgemaxsavingsstlpack2026_softwarebundle",
+      "title": "The Master Forge MAX-Savings STL Pack 2026",
+      "category": "software",
+      "end_at": "2026-09-05T18:00:00"
     },
     {
       "key": "completerpgcreatorbundle2dguiaudioassets_softwarebundle",
@@ -163,6 +179,14 @@
       "end_at": "2026-09-05T18:00:00"
     },
     {
+      "key": "eccomicsartistslibraryfantagraphics_bookbundle",
+      "url": "https://humblebundle.com/books/ec-comics-artists-library-fantagraphics-books",
+      "machine_name": "eccomicsartistslibraryfantagraphics_bookbundle",
+      "title": "The EC Comics Artists Library by Fantagraphics",
+      "category": "books",
+      "end_at": "2026-09-04T18:00:00"
+    },
+    {
       "key": "completedesignstudio_softwarebundle",
       "url": "https://humblebundle.com/software/complete-design-studio-software",
       "machine_name": "completedesignstudio_softwarebundle",
@@ -179,12 +203,12 @@
       "end_at": "2026-09-05T04:00:00"
     },
     {
-      "key": "eccomicsartistslibraryfantagraphics_bookbundle",
-      "url": "https://humblebundle.com/books/ec-comics-artists-library-fantagraphics-books",
-      "machine_name": "eccomicsartistslibraryfantagraphics_bookbundle",
-      "title": "The EC Comics Artists Library by Fantagraphics",
+      "key": "humanoidsmegabundleuniversesunboundpart2humanoids_bookbundle",
+      "url": "https://humblebundle.com/books/humanoids-megabundle-universes-unbound-part-2-humanoids-books",
+      "machine_name": "humanoidsmegabundleuniversesunboundpart2humanoids_bookbundle",
+      "title": "The Humanoids Megabundle: Universes Unbound, Part 2 by Humanoids",
       "category": "books",
-      "end_at": "2026-09-04T18:00:00"
+      "end_at": "2026-09-03T18:00:00"
     },
     {
       "key": "bladesblastersbeasts_softwarebundle",
@@ -195,26 +219,10 @@
       "end_at": "2026-09-03T18:00:00"
     },
     {
-      "key": "humanoidsmegabundleuniversesunboundpart2humanoids_bookbundle",
-      "url": "https://humblebundle.com/books/humanoids-megabundle-universes-unbound-part-2-humanoids-books",
-      "machine_name": "humanoidsmegabundleuniversesunboundpart2humanoids_bookbundle",
-      "title": "The Humanoids Megabundle: Universes Unbound, Part 2 by Humanoids",
-      "category": "books",
-      "end_at": "2026-09-03T18:00:00"
-    },
-    {
       "key": "handsomehusbandos_bundle",
       "url": "https://humblebundle.com/games/handsome-husbandos",
       "machine_name": "handsomehusbandos_bundle",
       "title": "Handsome Husbandos",
-      "category": "games",
-      "end_at": "2026-09-03T04:00:00"
-    },
-    {
-      "key": "indiessupportforvenezuelabundle_bundle",
-      "url": "https://humblebundle.com/games/indies-support-for-venezuela-bundle",
-      "machine_name": "indiessupportforvenezuelabundle_bundle",
-      "title": "Indie's Support for Venezuela Bundle",
       "category": "games",
       "end_at": "2026-09-03T04:00:00"
     },
@@ -235,6 +243,14 @@
       "end_at": "2026-09-02T18:00:00"
     },
     {
+      "key": "indiessupportforvenezuelabundle_bundle",
+      "url": "https://humblebundle.com/games/indies-support-for-venezuela-bundle",
+      "machine_name": "indiessupportforvenezuelabundle_bundle",
+      "title": "Indie's Support for Venezuela Bundle",
+      "category": "games",
+      "end_at": "2026-09-03T04:00:00"
+    },
+    {
       "key": "handsondevopsbundle_softwarebundle",
       "url": "https://humblebundle.com/software/handson-devops-bundle-software",
       "machine_name": "handsondevopsbundle_softwarebundle",
@@ -251,6 +267,14 @@
       "end_at": "2026-09-01T18:00:00"
     },
     {
+      "key": "urbanwarfareflashbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/urban-warfare-flash-bundle-software",
+      "machine_name": "urbanwarfareflashbundle_softwarebundle",
+      "title": "Urban Warfare Flash Bundle",
+      "category": "software",
+      "end_at": "2026-08-31T18:00:00"
+    },
+    {
       "key": "completeblenderenvironmentcreationforgames_softwarebundle",
       "url": "https://humblebundle.com/software/complete-blender-environment-creation-for-games-software",
       "machine_name": "completeblenderenvironmentcreationforgames_softwarebundle",
@@ -264,14 +288,6 @@
       "machine_name": "codexmasterybundlezenva_bookbundle",
       "title": "The Codex Mastery Bundle by Zenva",
       "category": "books",
-      "end_at": "2026-08-31T18:00:00"
-    },
-    {
-      "key": "urbanwarfareflashbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/urban-warfare-flash-bundle-software",
-      "machine_name": "urbanwarfareflashbundle_softwarebundle",
-      "title": "Urban Warfare Flash Bundle",
-      "category": "software",
       "end_at": "2026-08-31T18:00:00"
     },
     {
@@ -315,6 +331,14 @@
       "end_at": "2026-08-27T18:00:00"
     },
     {
+      "key": "inyourworldvrbundle_bundle",
+      "url": "https://humblebundle.com/games/in-your-world-vr-bundle",
+      "machine_name": "inyourworldvrbundle_bundle",
+      "title": "In Your World VR Bundle",
+      "category": "games",
+      "end_at": "2026-08-27T04:00:00"
+    },
+    {
       "key": "nomorerobotsunhingedindieanthology_bundle",
       "url": "https://humblebundle.com/games/no-more-robots-unhinged-indie-anthology",
       "machine_name": "nomorerobotsunhingedindieanthology_bundle",
@@ -331,14 +355,6 @@
       "end_at": "2026-08-26T18:00:00"
     },
     {
-      "key": "inyourworldvrbundle_bundle",
-      "url": "https://humblebundle.com/games/in-your-world-vr-bundle",
-      "machine_name": "inyourworldvrbundle_bundle",
-      "title": "In Your World VR Bundle",
-      "category": "games",
-      "end_at": "2026-08-27T04:00:00"
-    },
-    {
       "key": "isometricassetsgalore_softwarebundle",
       "url": "https://humblebundle.com/software/isometric-assets-galore-software",
       "machine_name": "isometricassetsgalore_softwarebundle",
@@ -352,7 +368,7 @@
       "machine_name": "oneshotsfastreadsimagecomics_bookbundle",
       "title": "One-Shots & Fast Reads by Image Comics",
       "category": "books",
-      "end_at": "2026-08-25T18:00:00"
+      "end_at": "2026-09-01T18:00:00"
     },
     {
       "key": "techcareerlibraryinageaiapress_bookbundle",
@@ -363,19 +379,19 @@
       "end_at": "2026-08-31T18:00:00"
     },
     {
-      "key": "aiautomationfornetworkingprofessionalspackt_bookbundle",
-      "url": "https://humblebundle.com/books/ai-automation-for-networking-professionals-packt-books",
-      "machine_name": "aiautomationfornetworkingprofessionalspackt_bookbundle",
-      "title": "AI & Automation for Networking Professionals by Packt",
-      "category": "books",
-      "end_at": "2026-08-29T18:00:00"
-    },
-    {
       "key": "buildersvaulthivemindunrealedition_softwarebundle",
       "url": "https://humblebundle.com/software/builders-vault-hivemind-unreal-edition-software",
       "machine_name": "buildersvaulthivemindunrealedition_softwarebundle",
       "title": "The Builder’s Vault by Hivemind - Unreal Engine Edition",
       "category": "software",
+      "end_at": "2026-08-29T18:00:00"
+    },
+    {
+      "key": "aiautomationfornetworkingprofessionalspackt_bookbundle",
+      "url": "https://humblebundle.com/books/ai-automation-for-networking-professionals-packt-books",
+      "machine_name": "aiautomationfornetworkingprofessionalspackt_bookbundle",
+      "title": "AI & Automation for Networking Professionals by Packt",
+      "category": "books",
       "end_at": "2026-08-29T18:00:00"
     },
     {
@@ -441,22 +457,6 @@
       "title": "Teenage Mutant Ninja Turtles: Return to New York by IDW",
       "category": "books",
       "end_at": "2026-08-26T18:00:00"
-    },
-    {
-      "key": "mammothchroniclesstlmegabundle_softwarebundle",
-      "url": "https://humblebundle.com/software/mammoth-chronicles-stl-mega-bundle-software",
-      "machine_name": "mammothchroniclesstlmegabundle_softwarebundle",
-      "title": "Mammoth Chronicles STL Mega Bundle",
-      "category": "software",
-      "end_at": "2026-08-25T18:00:00"
-    },
-    {
-      "key": "massiveunrealenginebundle_softwarebundle",
-      "url": "https://humblebundle.com/software/massive-unreal-engine-bundle-software",
-      "machine_name": "massiveunrealenginebundle_softwarebundle",
-      "title": "Massive Unreal Engine Bundle",
-      "category": "software",
-      "end_at": "2026-08-25T18:00:00"
     },
     {
       "key": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
