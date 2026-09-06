@@ -1,7 +1,6 @@
 {
-  "generated_at": "2026-09-05T18:22:52Z",
-  "expires_today": null,
-  "expires_tomorrow": [
+  "generated_at": "2026-09-06T18:23:08Z",
+  "expires_today": [
     {
       "category": "books",
       "title": "Embedded Firmware Developer Toolkit by Packt",
@@ -10,10 +9,10 @@
       "long_description": "Take control of the hardware that powers the modern world with this hands-on embedded systems toolkit from Packt! Dive deep into microcontrollers, ARM Cortex-M development, RTOS, and embedded Linux as you build the skills needed to design, program, and optimize real-world devices. Whether you're an aspiring firmware engineer or an experienced developer expanding into embedded systems, this bundle equips you to write efficient code, manage hardware, and bring intelligent devices to life, while supporting charity with your purchase.",
       "start_at": "2026-08-17T18:00:00",
       "end_at": "2026-09-07T18:00:00",
-      "days_left": 1.98,
-      "hours_left": 47.6,
+      "days_left": 0.98,
+      "hours_left": 23.6,
       "machine_name": "embeddedfirmwaredevelopertoolkitpackt_bookbundle",
-      "bundles_sold": 3714,
+      "bundles_sold": 3920,
       "tile_stamp": "books"
     },
     {
@@ -24,14 +23,14 @@
       "long_description": "Feel like your graphic design projects could use a little more pizzazz? Take your art to the next level with the 2025 edition of CorelDRAW Graphics Suite—professional quality graphic design software with all the bells and whistles. For a massive discount you’ll get everything this CorelDRAW suite has to offer, from vector illustration software, image processing, font and layout managers, and more! Whether you’re creating your own art pieces or designing for a brand, these programs will help you bring your ideas to life and give them energy and style. You won’t find a deal this good for software this essential anywhere else, so grab it now at the price of your choosing, and support Extra Life charity through Children’s Miracle Network Hospitals with your purchase!\u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003e Permanent Perpetual License \u003c/span\u003e ",
       "start_at": "2026-07-10T18:00:00",
       "end_at": "2026-09-07T18:00:00",
-      "days_left": 1.98,
-      "hours_left": 47.6,
+      "days_left": 0.98,
+      "hours_left": 23.6,
       "machine_name": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
-      "bundles_sold": 4362,
+      "bundles_sold": 4389,
       "tile_stamp": "software"
     }
   ],
-  "expires_within_72h": [
+  "expires_tomorrow": [
     {
       "category": "books",
       "title": "The Complete Certification Book Bundle - AWS, Azure, CompTIA, Google, Databricks and Cybersecurity by Mammoth",
@@ -40,10 +39,10 @@
       "long_description": "It’s time to level up your expertise in tech—develop the fundamental skills needed to prepare for career-changing exams with our latest Book Bundle. This comprehensive curriculum of first-time Humble Exclusives by Mammoth Club offers a variety of books like \u003cem\u003eGoogle Cloud Certified Generative AI Leader with Practice Exam\u003c/em\u003e, \u003cem\u003eDatabricks Generative AI Engineer Associate with Practice Exam\u003c/em\u003e, and more. Ace your AWS, CompTIA, Microsoft Azure, and Google Cloud certification exams with confidence, and help support Children's Miracle Network today. ",
       "start_at": "2026-08-18T18:00:00",
       "end_at": "2026-09-08T18:00:00",
-      "days_left": 2.98,
-      "hours_left": 71.6,
+      "days_left": 1.98,
+      "hours_left": 47.6,
       "machine_name": "completecertificationbookbundlebymammoth_bookbundle",
-      "bundles_sold": 1376,
+      "bundles_sold": 1449,
       "tile_stamp": "books"
     },
     {
@@ -54,25 +53,11 @@
       "long_description": "Build games and software, create smart maps, automate tasks with AI, analyze data, and more with the all-new Code Naturally With Python Bundle! Python offers the open-source tools developers crave without the clutter of unnecessary features and fees. Pay what you want for 20 coding learning courses from Packt like \u003cem\u003eCreate Smart Maps in Python and Leaflet\u003c/em\u003e, \u003cem\u003eData Science \u0026 Machine Learning With Python\u003c/em\u003e, and \u003cem\u003ePython Data Science\u003c/em\u003e to help you master the fundamentals! Save big on elite learning courses and help support the Girls Makes Games Scholarship Fund today!\u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem your keys before September 8th, 2027. \u003c/span\u003e",
       "start_at": "2026-08-18T18:00:00",
       "end_at": "2026-09-08T18:00:00",
-      "days_left": 2.98,
-      "hours_left": 71.6,
-      "machine_name": "codenaturallywithpython_softwarebundle",
-      "bundles_sold": 1331,
-      "tile_stamp": "software"
-    },
-    {
-      "category": "books",
-      "title": "Embedded Firmware Developer Toolkit by Packt",
-      "url": "https://humblebundle.com/books/embedded-firmware-developer-toolkit-packt-books",
-      "description": "Build, Program, and Master the Brains behind Modern Devices",
-      "long_description": "Take control of the hardware that powers the modern world with this hands-on embedded systems toolkit from Packt! Dive deep into microcontrollers, ARM Cortex-M development, RTOS, and embedded Linux as you build the skills needed to design, program, and optimize real-world devices. Whether you're an aspiring firmware engineer or an experienced developer expanding into embedded systems, this bundle equips you to write efficient code, manage hardware, and bring intelligent devices to life, while supporting charity with your purchase.",
-      "start_at": "2026-08-17T18:00:00",
-      "end_at": "2026-09-07T18:00:00",
       "days_left": 1.98,
       "hours_left": 47.6,
-      "machine_name": "embeddedfirmwaredevelopertoolkitpackt_bookbundle",
-      "bundles_sold": 3714,
-      "tile_stamp": "books"
+      "machine_name": "codenaturallywithpython_softwarebundle",
+      "bundles_sold": 1427,
+      "tile_stamp": "software"
     },
     {
       "category": "games",
@@ -82,10 +67,10 @@
       "long_description": "Embark on a world of adventure with our favorite half-genie heroine Shantae! This bundle of games features our favorite Shantae adventures plus even more girl-power games that keep the fun coming! Explore a mysterious sunken city and battle undersea foes in \u003cem\u003eShantae and the Seven Sirens\u003c/em\u003e! Save Sequin Land from a rampant crime wave with \u003cem\u003eShantae: Half-Genie Hero Ultimate Edition\u003c/em\u003e, featuring all DLC, modes, and costumes! Sail the high seas and ally with your swashbuckling nemesis in \u003cem\u003eShantae and the Pirate’s Curse\u003c/em\u003e! Plus, have even more fun with the schoolgirl warriors of \u003cem\u003eRiver City Girls\u003c/em\u003e and the law-abiding citizens of \u003cem\u003eMighty Switch Force\u003c/em\u003e! Collect all these heroic heroines in one bundle, pay what you want, and support CARE with your purchase!\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before March 7th, 2027. \u003c/span\u003e ",
       "start_at": "2026-08-17T18:00:00",
       "end_at": "2026-09-08T04:00:00",
-      "days_left": 2.4,
-      "hours_left": 57.6,
+      "days_left": 1.4,
+      "hours_left": 33.6,
       "machine_name": "shantaeheroicheroines_bundle",
-      "bundles_sold": 12855,
+      "bundles_sold": 13527,
       "tile_stamp": "games"
     },
     {
@@ -96,10 +81,10 @@
       "long_description": "We see a bright future for you as a software engineer—let us and Manning Publications help you see the vision. Master the art of writing efficient programs with elite eBooks that start from square one or build your existing skill set. Pay what you want for expert-led titles like \u003cem\u003eArchitecture Modernization\u003c/em\u003e, \u003cem\u003eThink Distributed Systems\u003c/em\u003e, \u003cem\u003eAdvanced Algorithms and Data Structures\u003c/em\u003e, \u003cem\u003e100 SQL Server Mistakes and How to Avoid Them\u003c/em\u003e, and more. Help support charity, develop your skills, and save some dough—you can’t beat that!",
       "start_at": "2026-08-11T18:00:00",
       "end_at": "2026-09-08T18:00:00",
-      "days_left": 2.98,
-      "hours_left": 71.6,
+      "days_left": 1.98,
+      "hours_left": 47.6,
       "machine_name": "softwareengineeringmanning_bookbundle",
-      "bundles_sold": 5287,
+      "bundles_sold": 5394,
       "tile_stamp": "books"
     },
     {
@@ -110,11 +95,167 @@
       "long_description": "Supercharge your tech skills with a wide range of DevOps courses designed to teach you fundamental systems from the pros at Packt. Take a hands-on approach to DevOps and watch your skill sets grow with courses and practice exams like \u003cem\u003eCloud Native Buildpacks for the Absolute Beginners\u003c/em\u003e, \u003cem\u003eKubernetes and Cloud Native Associate Certified Practice Exams\u003c/em\u003e, and \u003cem\u003eAutomate your DevOps pipelines with GitHub Actions\u003c/em\u003e. Pay what you want to sharpen your DevOps toolset and help support Whale \u0026 Dolphin Conservation!  \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem your keys before September 1, 2027. \u003c/span\u003e",
       "start_at": "2026-08-11T18:00:00",
       "end_at": "2026-09-08T18:00:00",
+      "days_left": 1.98,
+      "hours_left": 47.6,
+      "machine_name": "handsondevopsbundle_softwarebundle",
+      "bundles_sold": 3089,
+      "tile_stamp": "software"
+    }
+  ],
+  "expires_within_72h": [
+    {
+      "category": "software",
+      "title": "Best of Leartes - Gigantic Game Dev Assets \u0026 Tools Megabundle",
+      "url": "https://humblebundle.com/software/best-leartes-gigantic-game-dev-assets-tools-megabundle-software",
+      "description": "A gigantic game dev cache",
+      "long_description": "\u003ciframe width=\"450\" height=\"315\" src=\"https://www.youtube.com/embed/4IzvfZ7L0t0?si=5CouKHMIkNpKToOg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen\u003e\u003c/iframe\u003e\u003cbr\u003e\u003cbr\u003eGet ready to build the game of your dreams with this tremendous collection of assets and applications. With packs spanning from Victorian themes to medieval times and all the way to sci-fi, you’ll be ready to transpose your ideas to game space with ease. Over $5,000 worth of art, sound effects, visual effects, and more await your creative guidance. Plus, you’ll support Girls Who Code with your purchase.   \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys Expire. Please redeem before August 17, 2027. Professional Fab Marketplace keys provided. \u003c/span\u003e",
+      "start_at": "2026-08-20T18:00:00",
+      "end_at": "2026-09-09T18:00:00",
       "days_left": 2.98,
       "hours_left": 71.6,
-      "machine_name": "handsondevopsbundle_softwarebundle",
-      "bundles_sold": 2942,
+      "machine_name": "bestleartesgiganticgamedevassetstoolsmegabundle_softwarebundle",
+      "bundles_sold": 1403,
       "tile_stamp": "software"
+    },
+    {
+      "category": "books",
+      "title": "Tales From the Iron Kingdoms",
+      "url": "https://humblebundle.com/books/tales-from-iron-kingdoms-books",
+      "description": "Step into a world forged in steam and iron and tempered by war",
+      "long_description": "In Warmachine the earth shakes during fierce confrontations between six-ton constructs of iron and steel clash with the devastating force of a locomotive, towering warbeasts hurl themselves at their foes in a frenzy of claw and fang, and bold heroes set the battlefield ablaze with with a tempest of of arcane magic as they forge the fate of nations in the fires of destruction. \u003cbr\u003e\u003cbr\u003eImmerse yourself in Warmachine lore with this bundle of novels and short story anthologies, set in iconic locations and telling the stories of heroes, villains, and some of the Iron Kingdoms' most pivotal events. Collect each volume of the Iron Kingdoms Excursions, Warcaster Chronicles, Warlock Sagas, and Called to Battle series and more as you learn the backstories of key characters like The Butcher of Khardov and encounter a wealth of different peoples and cultures. \u003cbr\u003e\u003cbr\u003eGrab this 41-ebook bundle at the price of your choice, and support the Child's Play charity with your purchase! \u003cbr\u003e\u003cbr\u003eAlso returning by popular demand is a collection of 65 Iron Kingdoms RPG (IKRPG) items, including core and source books for the Full Metal Fantasy and 5e editions, GM toolkits, bestiary's, and maps, first presented in the March 2025 Iron Kingdoms Humble Bundle.\u003cbr\u003e\u003cbr\u003eA world of adventure and full metal fantasy awaits in the Iron Kingdoms.",
+      "start_at": "2026-08-19T18:00:00",
+      "end_at": "2026-09-09T18:00:00",
+      "days_left": 2.98,
+      "hours_left": 71.6,
+      "machine_name": "talesfromironkingdoms_bookbundle",
+      "bundles_sold": 718,
+      "tile_stamp": "books"
+    },
+    {
+      "category": "books",
+      "title": "The Complete Certification Book Bundle - AWS, Azure, CompTIA, Google, Databricks and Cybersecurity by Mammoth",
+      "url": "https://humblebundle.com/books/complete-certification-mammoth-books",
+      "description": "Ace your tech exams with confidence",
+      "long_description": "It’s time to level up your expertise in tech—develop the fundamental skills needed to prepare for career-changing exams with our latest Book Bundle. This comprehensive curriculum of first-time Humble Exclusives by Mammoth Club offers a variety of books like \u003cem\u003eGoogle Cloud Certified Generative AI Leader with Practice Exam\u003c/em\u003e, \u003cem\u003eDatabricks Generative AI Engineer Associate with Practice Exam\u003c/em\u003e, and more. Ace your AWS, CompTIA, Microsoft Azure, and Google Cloud certification exams with confidence, and help support Children's Miracle Network today. ",
+      "start_at": "2026-08-18T18:00:00",
+      "end_at": "2026-09-08T18:00:00",
+      "days_left": 1.98,
+      "hours_left": 47.6,
+      "machine_name": "completecertificationbookbundlebymammoth_bookbundle",
+      "bundles_sold": 1449,
+      "tile_stamp": "books"
+    },
+    {
+      "category": "software",
+      "title": "Code Naturally With Python",
+      "url": "https://humblebundle.com/software/code-naturally-with-python-software",
+      "description": "Code naturally with Python",
+      "long_description": "Build games and software, create smart maps, automate tasks with AI, analyze data, and more with the all-new Code Naturally With Python Bundle! Python offers the open-source tools developers crave without the clutter of unnecessary features and fees. Pay what you want for 20 coding learning courses from Packt like \u003cem\u003eCreate Smart Maps in Python and Leaflet\u003c/em\u003e, \u003cem\u003eData Science \u0026 Machine Learning With Python\u003c/em\u003e, and \u003cem\u003ePython Data Science\u003c/em\u003e to help you master the fundamentals! Save big on elite learning courses and help support the Girls Makes Games Scholarship Fund today!\u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem your keys before September 8th, 2027. \u003c/span\u003e",
+      "start_at": "2026-08-18T18:00:00",
+      "end_at": "2026-09-08T18:00:00",
+      "days_left": 1.98,
+      "hours_left": 47.6,
+      "machine_name": "codenaturallywithpython_softwarebundle",
+      "bundles_sold": 1427,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "books",
+      "title": "Embedded Firmware Developer Toolkit by Packt",
+      "url": "https://humblebundle.com/books/embedded-firmware-developer-toolkit-packt-books",
+      "description": "Build, Program, and Master the Brains behind Modern Devices",
+      "long_description": "Take control of the hardware that powers the modern world with this hands-on embedded systems toolkit from Packt! Dive deep into microcontrollers, ARM Cortex-M development, RTOS, and embedded Linux as you build the skills needed to design, program, and optimize real-world devices. Whether you're an aspiring firmware engineer or an experienced developer expanding into embedded systems, this bundle equips you to write efficient code, manage hardware, and bring intelligent devices to life, while supporting charity with your purchase.",
+      "start_at": "2026-08-17T18:00:00",
+      "end_at": "2026-09-07T18:00:00",
+      "days_left": 0.98,
+      "hours_left": 23.6,
+      "machine_name": "embeddedfirmwaredevelopertoolkitpackt_bookbundle",
+      "bundles_sold": 3920,
+      "tile_stamp": "books"
+    },
+    {
+      "category": "games",
+      "title": "Shantae \u0026 Heroic Heroines",
+      "url": "https://humblebundle.com/games/shantae-heroic-heroines",
+      "description": "Half-genie, big adventures!",
+      "long_description": "Embark on a world of adventure with our favorite half-genie heroine Shantae! This bundle of games features our favorite Shantae adventures plus even more girl-power games that keep the fun coming! Explore a mysterious sunken city and battle undersea foes in \u003cem\u003eShantae and the Seven Sirens\u003c/em\u003e! Save Sequin Land from a rampant crime wave with \u003cem\u003eShantae: Half-Genie Hero Ultimate Edition\u003c/em\u003e, featuring all DLC, modes, and costumes! Sail the high seas and ally with your swashbuckling nemesis in \u003cem\u003eShantae and the Pirate’s Curse\u003c/em\u003e! Plus, have even more fun with the schoolgirl warriors of \u003cem\u003eRiver City Girls\u003c/em\u003e and the law-abiding citizens of \u003cem\u003eMighty Switch Force\u003c/em\u003e! Collect all these heroic heroines in one bundle, pay what you want, and support CARE with your purchase!\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem before March 7th, 2027. \u003c/span\u003e ",
+      "start_at": "2026-08-17T18:00:00",
+      "end_at": "2026-09-08T04:00:00",
+      "days_left": 1.4,
+      "hours_left": 33.6,
+      "machine_name": "shantaeheroicheroines_bundle",
+      "bundles_sold": 13527,
+      "tile_stamp": "games"
+    },
+    {
+      "category": "books",
+      "title": "Godzilla: Kaiju Rampage by IDW",
+      "url": "https://humblebundle.com/books/godzilla-kaiju-rampage-idw-books",
+      "description": "Atomic breath not included",
+      "long_description": "Brace yourself for a kaiju-sized bundle of Godzilla comics from IDW Publishing! You’ve seen the King of the Monsters on the big screen, and now’s the time to find him in the pages of these fantastic comics. Dive into the biggest and best Godzilla stories in the Deluxe Edition of \u003cem\u003eGodzilla’s 70th Anniversary\u003c/em\u003e! Witness the giant lizard’s comic evolution in \u003cem\u003eGodzilla: The Monster Comic Art Collection\u003c/em\u003e! Have a little fun with offbeat favorites like \u003cem\u003eGodzilla: Skate or Die\u003c/em\u003e and \u003cem\u003eStarship Godzilla [Kai-Sei Era]: First Wars\u003c/em\u003e! And of course we had to include Earth’s mightiest protector in \u003cem\u003eGodzilla Legends—Mothra: Queen of the Monsters\u003c/em\u003e! Titan adventures and more await in what we might as well call the King of the Bundles, so grab it now at the price of your choosing, and support Make-A-Wish Foundation with your purchase! \u003cbr\u003e\u003cbr\u003e\u003ca style=\"color: #EF9741;\"\u003e\u003cstrong\u003e\u003cem\u003eThe titles in this bundle are available through Kobo.com. To access the content, create or log in to your Kobo.com account. \u003c/em\u003e\u003c/strong\u003e\u003c/a\u003e\u003c/p\u003e",
+      "start_at": "2026-08-12T18:00:00",
+      "end_at": "2026-09-09T18:00:00",
+      "days_left": 2.98,
+      "hours_left": 71.6,
+      "machine_name": "godzillakaijurampageidw_bookbundle",
+      "bundles_sold": 3556,
+      "tile_stamp": "books"
+    },
+    {
+      "category": "books",
+      "title": "Software Engineering by Manning",
+      "url": "https://humblebundle.com/books/software-engineering-manning-books",
+      "description": "Surefire software engineering ebooks by Manning",
+      "long_description": "We see a bright future for you as a software engineer—let us and Manning Publications help you see the vision. Master the art of writing efficient programs with elite eBooks that start from square one or build your existing skill set. Pay what you want for expert-led titles like \u003cem\u003eArchitecture Modernization\u003c/em\u003e, \u003cem\u003eThink Distributed Systems\u003c/em\u003e, \u003cem\u003eAdvanced Algorithms and Data Structures\u003c/em\u003e, \u003cem\u003e100 SQL Server Mistakes and How to Avoid Them\u003c/em\u003e, and more. Help support charity, develop your skills, and save some dough—you can’t beat that!",
+      "start_at": "2026-08-11T18:00:00",
+      "end_at": "2026-09-08T18:00:00",
+      "days_left": 1.98,
+      "hours_left": 47.6,
+      "machine_name": "softwareengineeringmanning_bookbundle",
+      "bundles_sold": 5394,
+      "tile_stamp": "books"
+    },
+    {
+      "category": "software",
+      "title": "The Hands-On DevOps Bundle",
+      "url": "https://humblebundle.com/software/handson-devops-bundle-software",
+      "description": "Take a hands-on approach to DevOps",
+      "long_description": "Supercharge your tech skills with a wide range of DevOps courses designed to teach you fundamental systems from the pros at Packt. Take a hands-on approach to DevOps and watch your skill sets grow with courses and practice exams like \u003cem\u003eCloud Native Buildpacks for the Absolute Beginners\u003c/em\u003e, \u003cem\u003eKubernetes and Cloud Native Associate Certified Practice Exams\u003c/em\u003e, and \u003cem\u003eAutomate your DevOps pipelines with GitHub Actions\u003c/em\u003e. Pay what you want to sharpen your DevOps toolset and help support Whale \u0026 Dolphin Conservation!  \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys expire. Please redeem your keys before September 1, 2027. \u003c/span\u003e",
+      "start_at": "2026-08-11T18:00:00",
+      "end_at": "2026-09-08T18:00:00",
+      "days_left": 1.98,
+      "hours_left": 47.6,
+      "machine_name": "handsondevopsbundle_softwarebundle",
+      "bundles_sold": 3089,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "software",
+      "title": "The Ultimate Ollama and Local AI Bundle",
+      "url": "https://humblebundle.com/software/ultimate-ollama-and-local-ai-bundle-software",
+      "description": "Oh là là for Ollama \u0026 Local AI",
+      "long_description": "Speed up your development time with The Ultimate Ollama and Local AI Bundle. Unlock unlimited reps with \u003cem\u003eOllama\u003c/em\u003e, the easiest way to automate your work using open models while keeping your data safe. Or learn how to use LocalAI, the AI model that runs directly on your own local hardware. Pay what you want for elite learning courses like \u003cem\u003eAutomate with Kimi\u003c/em\u003e, \u003cem\u003eLocal AI Workflows with Codex and Ollama\u003c/em\u003e, \u003cem\u003eNatural-Language SQL Generation with Python and Ollama\u003c/em\u003e, and more—the right tools are only a bundle away! \u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003eKeys Expire. Please redeem before August 24th, 2027. \u003c/span\u003e",
+      "start_at": "2026-08-03T18:00:00",
+      "end_at": "2026-09-09T18:00:00",
+      "days_left": 2.98,
+      "hours_left": 71.6,
+      "machine_name": "ultimateollamaandlocalaibundle_softwarebundle",
+      "bundles_sold": 2923,
+      "tile_stamp": "software"
+    },
+    {
+      "category": "books",
+      "title": "Disney Masters Collection and Originals by Fantagraphics",
+      "url": "https://humblebundle.com/books/disney-masters-collection-and-originals-fantagraphics-books",
+      "description": "Comics starring your favorite Disney legends!",
+      "long_description": "Iconic Disney characters take the world of comics by storm in this bundle of Disney Masters and original comic series from Fantagraphics! The greedy Scrooge McDuck journeys from the Yukon to Atlantis and beyond in \u003cem\u003eWalt Disney’s Uncle Scrooge: The Diamond Jubilee Collection\u003c/em\u003e! Mickey Mouse goes steampunk in the retrofuturist odyssey \u003cem\u003eWalt Disney’s Mickey Mouse Versus The Mouseton Society of Evil\u003c/em\u003e! Epic Mickey hops from your console to the pages of his own comics in the video game inspired \u003cem\u003eDisney Epic Mickey: The Comics Collection\u003c/em\u003e! Join Mickey Mouse, Donald Duck, Uncle Scrooge, and more of your favorite Disney legends in new tales and classic adventures in this bundle for old fans and newcomers alike! Grab this collection now at the price of your choice, and support First Book charity with your purchase. ",
+      "start_at": "2026-07-29T18:00:00",
+      "end_at": "2026-09-09T18:00:00",
+      "days_left": 2.98,
+      "hours_left": 71.6,
+      "machine_name": "disneymasterscollectionandoriginalsfantagraphics_bookbundle",
+      "bundles_sold": 4191,
+      "tile_stamp": "books"
     },
     {
       "category": "software",
@@ -124,10 +265,10 @@
       "long_description": "Feel like your graphic design projects could use a little more pizzazz? Take your art to the next level with the 2025 edition of CorelDRAW Graphics Suite—professional quality graphic design software with all the bells and whistles. For a massive discount you’ll get everything this CorelDRAW suite has to offer, from vector illustration software, image processing, font and layout managers, and more! Whether you’re creating your own art pieces or designing for a brand, these programs will help you bring your ideas to life and give them energy and style. You won’t find a deal this good for software this essential anywhere else, so grab it now at the price of your choosing, and support Extra Life charity through Children’s Miracle Network Hospitals with your purchase!\u003cbr/\u003e\u003cbr/\u003e\u003cspan style=\"color: #ef9741;\"\u003e Permanent Perpetual License \u003c/span\u003e ",
       "start_at": "2026-07-10T18:00:00",
       "end_at": "2026-09-07T18:00:00",
-      "days_left": 1.98,
-      "hours_left": 47.6,
+      "days_left": 0.98,
+      "hours_left": 23.6,
       "machine_name": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle",
-      "bundles_sold": 4362,
+      "bundles_sold": 4389,
       "tile_stamp": "software"
     }
   ]
