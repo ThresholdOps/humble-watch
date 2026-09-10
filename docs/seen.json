@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T18:27:18Z",
-  "updated_at": "2026-09-09T18:28:10Z",
+  "generated_at": "2026-09-10T18:25:00Z",
+  "updated_at": "2026-09-10T18:25:52Z",
   "items": [
     {
       "key": "ultimategameaudiobundleaccess300000premiummusicandsoundeffects_softwarebundle",
@@ -9,6 +9,14 @@
       "title": "Ultimate Game Audio Bundle - Access 300,000 Premium Music and Sound Effects",
       "category": "software",
       "end_at": "2026-09-29T18:00:00"
+    },
+    {
+      "key": "eatyourproteinketocookbookbundleforcarnivorespagestreetpublishing_bookbundle",
+      "url": "https://humblebundle.com/books/eat-your-protein-keto-cookbook-bundle-for-carnivores-page-street-publishing-books",
+      "machine_name": "eatyourproteinketocookbookbundleforcarnivorespagestreetpublishing_bookbundle",
+      "title": "Eat Your Protein! A Keto Cookbook Bundle for Carnivores by Page Street Publishing",
+      "category": "books",
+      "end_at": "2026-10-01T18:00:00"
     },
     {
       "key": "crawlingthroughdungeons_bundle",
@@ -35,11 +43,11 @@
       "end_at": "2026-09-29T18:00:00"
     },
     {
-      "key": "thinklikeprogrammer2026nostarch_bookbundle",
-      "url": "https://humblebundle.com/books/think-like-programmer-2026-no-starch-books",
-      "machine_name": "thinklikeprogrammer2026nostarch_bookbundle",
-      "title": "Think Like a Programmer 2026 by No Starch Press",
-      "category": "books",
+      "key": "portfolioinweekend_softwarebundle",
+      "url": "https://humblebundle.com/software/portfolio-in-weekend-software",
+      "machine_name": "portfolioinweekend_softwarebundle",
+      "title": "Portfolio in a Weekend",
+      "category": "software",
       "end_at": "2026-09-28T18:00:00"
     },
     {
@@ -51,11 +59,11 @@
       "end_at": "2026-09-28T18:00:00"
     },
     {
-      "key": "portfolioinweekend_softwarebundle",
-      "url": "https://humblebundle.com/software/portfolio-in-weekend-software",
-      "machine_name": "portfolioinweekend_softwarebundle",
-      "title": "Portfolio in a Weekend",
-      "category": "software",
+      "key": "thinklikeprogrammer2026nostarch_bookbundle",
+      "url": "https://humblebundle.com/books/think-like-programmer-2026-no-starch-books",
+      "machine_name": "thinklikeprogrammer2026nostarch_bookbundle",
+      "title": "Think Like a Programmer 2026 by No Starch Press",
+      "category": "books",
       "end_at": "2026-09-28T18:00:00"
     },
     {
@@ -83,6 +91,14 @@
       "end_at": "2026-09-25T18:00:00"
     },
     {
+      "key": "meshingunallstars_softwarebundle",
+      "url": "https://humblebundle.com/software/meshingun-allstars-software",
+      "machine_name": "meshingunallstars_softwarebundle",
+      "title": "Meshingun All-Stars",
+      "category": "software",
+      "end_at": "2026-09-24T18:00:00"
+    },
+    {
       "key": "bestcjcherryhdawbooks_bookbundle",
       "url": "https://humblebundle.com/books/best-cj-cherryh-daw-books-books",
       "machine_name": "bestcjcherryhdawbooks_bookbundle",
@@ -99,12 +115,12 @@
       "end_at": "2026-09-24T18:00:00"
     },
     {
-      "key": "meshingunallstars_softwarebundle",
-      "url": "https://humblebundle.com/software/meshingun-allstars-software",
-      "machine_name": "meshingunallstars_softwarebundle",
-      "title": "Meshingun All-Stars",
-      "category": "software",
-      "end_at": "2026-09-24T18:00:00"
+      "key": "cavernsthraciamoregoodmangames_bookbundle",
+      "url": "https://humblebundle.com/books/caverns-thracia-more-goodman-games-books",
+      "machine_name": "cavernsthraciamoregoodmangames_bookbundle",
+      "title": "Caverns of Thracia & More by Goodman Games",
+      "category": "books",
+      "end_at": "2026-09-23T18:00:00"
     },
     {
       "key": "allinclusivecodexclaudecodepythonautomationbundle_softwarebundle",
@@ -115,27 +131,11 @@
       "end_at": "2026-09-23T18:00:00"
     },
     {
-      "key": "crpgpackisometricimmersion_bundle",
-      "url": "https://humblebundle.com/games/crpg-pack-isometric-immersion",
-      "machine_name": "crpgpackisometricimmersion_bundle",
-      "title": "CRPG Pack: Isometric Immersion",
-      "category": "games",
-      "end_at": "2026-09-24T04:00:00"
-    },
-    {
       "key": "ultimatefantasyminiaturesbundle_softwarebundle",
       "url": "https://humblebundle.com/software/ultimate-fantasy-miniatures-bundle-software",
       "machine_name": "ultimatefantasyminiaturesbundle_softwarebundle",
       "title": "Ultimate Fantasy Miniatures Bundle",
       "category": "software",
-      "end_at": "2026-09-23T18:00:00"
-    },
-    {
-      "key": "cavernsthraciamoregoodmangames_bookbundle",
-      "url": "https://humblebundle.com/books/caverns-thracia-more-goodman-games-books",
-      "machine_name": "cavernsthraciamoregoodmangames_bookbundle",
-      "title": "Caverns of Thracia & More by Goodman Games",
-      "category": "books",
       "end_at": "2026-09-23T18:00:00"
     },
     {
@@ -145,6 +145,14 @@
       "title": "Mega Man: Recharged Collection",
       "category": "games",
       "end_at": "2026-10-01T04:00:00"
+    },
+    {
+      "key": "crpgpackisometricimmersion_bundle",
+      "url": "https://humblebundle.com/games/crpg-pack-isometric-immersion",
+      "machine_name": "crpgpackisometricimmersion_bundle",
+      "title": "CRPG Pack: Isometric Immersion",
+      "category": "games",
+      "end_at": "2026-09-24T04:00:00"
     },
     {
       "key": "originalworldstimothyzahnopenroadmedia_bookbundle",
@@ -195,14 +203,6 @@
       "end_at": "2026-09-18T18:00:00"
     },
     {
-      "key": "paintingnaturewithwatercolorfromopenroad_bookbundle",
-      "url": "https://humblebundle.com/books/painting-nature-with-watercolor-from-open-road-books",
-      "machine_name": "paintingnaturewithwatercolorfromopenroad_bookbundle",
-      "title": "Painting Nature with Watercolor from Open Road",
-      "category": "books",
-      "end_at": "2026-09-17T18:00:00"
-    },
-    {
       "key": "agileinactionscrumjiraaiprojectmanagement_bookbundle",
       "url": "https://humblebundle.com/software/agile-in-action-scrum-jira-ai-project-management-software",
       "machine_name": "agileinactionscrumjiraaiprojectmanagement_bookbundle",
@@ -211,12 +211,12 @@
       "end_at": "2026-09-17T18:00:00"
     },
     {
-      "key": "beyondmetroidversebundle_bundle",
-      "url": "https://humblebundle.com/games/beyond-metroidverse-bundle",
-      "machine_name": "beyondmetroidversebundle_bundle",
-      "title": "Beyond the Metroidverse Bundle",
-      "category": "games",
-      "end_at": "2026-09-17T04:00:00"
+      "key": "paintingnaturewithwatercolorfromopenroad_bookbundle",
+      "url": "https://humblebundle.com/books/painting-nature-with-watercolor-from-open-road-books",
+      "machine_name": "paintingnaturewithwatercolorfromopenroad_bookbundle",
+      "title": "Painting Nature with Watercolor from Open Road",
+      "category": "books",
+      "end_at": "2026-09-17T18:00:00"
     },
     {
       "key": "openworldessentialsii_softwarebundle",
@@ -227,20 +227,20 @@
       "end_at": "2026-09-16T18:00:00"
     },
     {
+      "key": "beyondmetroidversebundle_bundle",
+      "url": "https://humblebundle.com/games/beyond-metroidverse-bundle",
+      "machine_name": "beyondmetroidversebundle_bundle",
+      "title": "Beyond the Metroidverse Bundle",
+      "category": "games",
+      "end_at": "2026-09-17T04:00:00"
+    },
+    {
       "key": "microcontrollerclassicsandmoremake_bookbundle",
       "url": "https://humblebundle.com/books/microcontroller-classics-and-more-make-books",
       "machine_name": "microcontrollerclassicsandmoremake_bookbundle",
       "title": "Microcontroller Classics and More by Make",
       "category": "books",
       "end_at": "2026-09-16T18:00:00"
-    },
-    {
-      "key": "miniseriesquickhitsandspeedyreadsdynamitecomics_bookbundle",
-      "url": "https://humblebundle.com/books/miniseries-quick-hits-and-speedy-reads-dynamite-comics-books",
-      "machine_name": "miniseriesquickhitsandspeedyreadsdynamitecomics_bookbundle",
-      "title": "Miniseries, Quick Hits, and Speedy Reads by Dynamite Comics",
-      "category": "books",
-      "end_at": "2026-09-15T18:00:00"
     },
     {
       "key": "buildyourdreamhomeultimate3dcadbundle_softwarebundle",
@@ -251,12 +251,12 @@
       "end_at": "2026-09-15T18:00:00"
     },
     {
-      "key": "imagein20smegabundleimagecomics_bookbundle",
-      "url": "https://humblebundle.com/books/image-in-20s-megabundle-image-comics-books",
-      "machine_name": "imagein20smegabundleimagecomics_bookbundle",
-      "title": "Image in the '20s: A Megabundle by Image Comics",
+      "key": "miniseriesquickhitsandspeedyreadsdynamitecomics_bookbundle",
+      "url": "https://humblebundle.com/books/miniseries-quick-hits-and-speedy-reads-dynamite-comics-books",
+      "machine_name": "miniseriesquickhitsandspeedyreadsdynamitecomics_bookbundle",
+      "title": "Miniseries, Quick Hits, and Speedy Reads by Dynamite Comics",
       "category": "books",
-      "end_at": "2026-09-14T18:00:00"
+      "end_at": "2026-09-15T18:00:00"
     },
     {
       "key": "selfrelianceandoffgridskillsfordummies_bookbundle_ENCORE",
@@ -275,10 +275,26 @@
       "end_at": "2026-09-14T18:00:00"
     },
     {
+      "key": "imagein20smegabundleimagecomics_bookbundle",
+      "url": "https://humblebundle.com/books/image-in-20s-megabundle-image-comics-books",
+      "machine_name": "imagein20smegabundleimagecomics_bookbundle",
+      "title": "Image in the '20s: A Megabundle by Image Comics",
+      "category": "books",
+      "end_at": "2026-09-14T18:00:00"
+    },
+    {
       "key": "lovelettertolovecraft_bundle",
       "url": "https://humblebundle.com/games/love-letter-to-lovecraft",
       "machine_name": "lovelettertolovecraft_bundle",
       "title": "Love Letter to Lovecraft",
+      "category": "games",
+      "end_at": "2026-09-12T04:00:00"
+    },
+    {
+      "key": "humble15thanniversaryreadyplayeroneandtwo_bundle",
+      "url": "https://humblebundle.com/games/humble-15th-anniversary-ready-player-one-and-two",
+      "machine_name": "humble15thanniversaryreadyplayeroneandtwo_bundle",
+      "title": "Humble 15th Anniversary - Ready Player One ... and Two",
       "category": "games",
       "end_at": "2026-09-12T04:00:00"
     },
@@ -291,22 +307,6 @@
       "end_at": "2026-09-11T18:00:00"
     },
     {
-      "key": "humble15thanniversaryreadyplayeroneandtwo_bundle",
-      "url": "https://humblebundle.com/games/humble-15th-anniversary-ready-player-one-and-two",
-      "machine_name": "humble15thanniversaryreadyplayeroneandtwo_bundle",
-      "title": "Humble 15th Anniversary - Ready Player One ... and Two",
-      "category": "games",
-      "end_at": "2026-09-12T04:00:00"
-    },
-    {
-      "key": "gregbearbirthdaybundleopenroadmedia_bookbundle",
-      "url": "https://humblebundle.com/books/greg-bear-birthday-bundle-open-road-media-books",
-      "machine_name": "gregbearbirthdaybundleopenroadmedia_bookbundle",
-      "title": "The Greg Bear Birthday Bundle by Open Road Media",
-      "category": "books",
-      "end_at": "2026-09-10T18:00:00"
-    },
-    {
       "key": "bestleartesgiganticgamedevassetstoolsmegabundle_softwarebundle",
       "url": "https://humblebundle.com/software/best-leartes-gigantic-game-dev-assets-tools-megabundle-software",
       "machine_name": "bestleartesgiganticgamedevassetstoolsmegabundle_softwarebundle",
@@ -315,28 +315,20 @@
       "end_at": "2026-09-16T18:00:00"
     },
     {
+      "key": "gregbearbirthdaybundleopenroadmedia_bookbundle",
+      "url": "https://humblebundle.com/books/greg-bear-birthday-bundle-open-road-media-books",
+      "machine_name": "gregbearbirthdaybundleopenroadmedia_bookbundle",
+      "title": "The Greg Bear Birthday Bundle by Open Road Media",
+      "category": "books",
+      "end_at": "2026-10-01T18:00:00"
+    },
+    {
       "key": "audioforgegamedevmusicvoicesbundle_softwarebundle",
       "url": "https://humblebundle.com/software/audio-forge-game-dev-music-voices-bundle-software",
       "machine_name": "audioforgegamedevmusicvoicesbundle_softwarebundle",
       "title": "The Audio Forge - Game Dev Music & Voices Bundle",
       "category": "software",
-      "end_at": "2026-09-10T18:00:00"
-    },
-    {
-      "key": "hamblessummerislandgetawaybundle_bundle",
-      "url": "https://humblebundle.com/games/hambles-summer-island-getaway-bundle",
-      "machine_name": "hamblessummerislandgetawaybundle_bundle",
-      "title": "Hamble's Summer Island Getaway Bundle",
-      "category": "games",
-      "end_at": "2026-09-10T04:00:00"
-    },
-    {
-      "key": "talesfromironkingdoms_bookbundle",
-      "url": "https://humblebundle.com/books/tales-from-iron-kingdoms-books",
-      "machine_name": "talesfromironkingdoms_bookbundle",
-      "title": "Tales From the Iron Kingdoms",
-      "category": "books",
-      "end_at": "2026-09-16T18:00:00"
+      "end_at": "2026-09-17T18:00:00"
     },
     {
       "key": "cyberpunkaudiocache_softwarebundle",
@@ -352,7 +344,15 @@
       "machine_name": "yeschefcookingbundle_bundle",
       "title": "Yes Chef! - Cooking Bundle",
       "category": "games",
-      "end_at": "2026-09-10T04:00:00"
+      "end_at": "2026-09-17T04:00:00"
+    },
+    {
+      "key": "talesfromironkingdoms_bookbundle",
+      "url": "https://humblebundle.com/books/tales-from-iron-kingdoms-books",
+      "machine_name": "talesfromironkingdoms_bookbundle",
+      "title": "Tales From the Iron Kingdoms",
+      "category": "books",
+      "end_at": "2026-09-16T18:00:00"
     },
     {
       "key": "codenaturallywithpython_softwarebundle",
@@ -395,20 +395,20 @@
       "end_at": "2026-09-12T18:00:00"
     },
     {
-      "key": "eccomicsartistslibraryfantagraphics_bookbundle",
-      "url": "https://humblebundle.com/books/ec-comics-artists-library-fantagraphics-books",
-      "machine_name": "eccomicsartistslibraryfantagraphics_bookbundle",
-      "title": "The EC Comics Artists Library by Fantagraphics",
-      "category": "books",
-      "end_at": "2026-09-18T18:00:00"
-    },
-    {
       "key": "completedesignstudio_softwarebundle",
       "url": "https://humblebundle.com/software/complete-design-studio-software",
       "machine_name": "completedesignstudio_softwarebundle",
       "title": "Complete Design Studio",
       "category": "software",
       "end_at": "2026-09-11T18:00:00"
+    },
+    {
+      "key": "eccomicsartistslibraryfantagraphics_bookbundle",
+      "url": "https://humblebundle.com/books/ec-comics-artists-library-fantagraphics-books",
+      "machine_name": "eccomicsartistslibraryfantagraphics_bookbundle",
+      "title": "The EC Comics Artists Library by Fantagraphics",
+      "category": "books",
+      "end_at": "2026-09-18T18:00:00"
     },
     {
       "key": "builtdifferentlybuildergames_bundle",
@@ -425,30 +425,6 @@
       "title": "Blades, Blasters & Beasts",
       "category": "software",
       "end_at": "2026-09-17T18:00:00"
-    },
-    {
-      "key": "humanoidsmegabundleuniversesunboundpart2humanoids_bookbundle",
-      "url": "https://humblebundle.com/books/humanoids-megabundle-universes-unbound-part-2-humanoids-books",
-      "machine_name": "humanoidsmegabundleuniversesunboundpart2humanoids_bookbundle",
-      "title": "The Humanoids Megabundle: Universes Unbound, Part 2 by Humanoids",
-      "category": "books",
-      "end_at": "2026-09-10T18:00:00"
-    },
-    {
-      "key": "indiessupportforvenezuelabundle_bundle",
-      "url": "https://humblebundle.com/games/indies-support-for-venezuela-bundle",
-      "machine_name": "indiessupportforvenezuelabundle_bundle",
-      "title": "Indie's Support for Venezuela Bundle",
-      "category": "games",
-      "end_at": "2026-09-10T04:00:00"
-    },
-    {
-      "key": "handsomehusbandos_bundle",
-      "url": "https://humblebundle.com/games/handsome-husbandos",
-      "machine_name": "handsomehusbandos_bundle",
-      "title": "Handsome Husbandos",
-      "category": "games",
-      "end_at": "2026-09-10T04:00:00"
     },
     {
       "key": "handsondevopsbundle_softwarebundle",
