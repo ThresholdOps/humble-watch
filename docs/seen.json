@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-09-28T18:30:15Z",
-  "updated_at": "2026-09-28T18:31:06Z",
+  "generated_at": "2026-09-29T18:30:04Z",
+  "updated_at": "2026-09-29T18:30:55Z",
   "items": [
+    {
+      "key": "gamedevmegacities_softwarebundle",
+      "url": "https://humblebundle.com/software/game-dev-mega-cities-software",
+      "machine_name": "gamedevmegacities_softwarebundle",
+      "title": "Game Dev Mega Cities",
+      "category": "software",
+      "end_at": "2026-10-20T18:00:00"
+    },
+    {
+      "key": "crochetbagsandwearablesopenroadmedia_bookbundle",
+      "url": "https://humblebundle.com/books/crochet-bags-and-wearables-open-road-media-books",
+      "machine_name": "crochetbagsandwearablesopenroadmedia_bookbundle",
+      "title": "Crochet Bags and Wearables by Open Road Media",
+      "category": "books",
+      "end_at": "2026-10-20T18:00:00"
+    },
     {
       "key": "cybersecuritymonth2026oreilly_bookbundle",
       "url": "https://humblebundle.com/books/cybersecurity-month-2026-oreilly-books",
@@ -27,20 +43,20 @@
       "end_at": "2026-10-17T18:00:00"
     },
     {
-      "key": "miniaturesandmayhemadventuressupplementsand3dprintables_softwarebundle",
-      "url": "https://humblebundle.com/software/miniatures-and-mayhem-adventures-supplements-and-3d-printables-software",
-      "machine_name": "miniaturesandmayhemadventuressupplementsand3dprintables_softwarebundle",
-      "title": "Miniatures and Mayhem: Adventures, Supplements and 3D Printables",
-      "category": "software",
-      "end_at": "2026-10-16T18:00:00"
-    },
-    {
       "key": "geargloryactionrpgs_bundle",
       "url": "https://humblebundle.com/games/gear-glory-action-rpgs",
       "machine_name": "geargloryactionrpgs_bundle",
       "title": "Gear & Glory Action RPGs",
       "category": "games",
       "end_at": "2026-10-17T04:00:00"
+    },
+    {
+      "key": "miniaturesandmayhemadventuressupplementsand3dprintables_softwarebundle",
+      "url": "https://humblebundle.com/software/miniatures-and-mayhem-adventures-supplements-and-3d-printables-software",
+      "machine_name": "miniaturesandmayhemadventuressupplementsand3dprintables_softwarebundle",
+      "title": "Miniatures and Mayhem: Adventures, Supplements and 3D Printables",
+      "category": "software",
+      "end_at": "2026-10-16T18:00:00"
     },
     {
       "key": "fallintofallfundle_bundle",
@@ -51,10 +67,10 @@
       "end_at": "2026-10-17T04:00:00"
     },
     {
-      "key": "ultimatesfxforgames_softwarebundle",
-      "url": "https://humblebundle.com/software/ultimate-sfx-for-games-software",
-      "machine_name": "ultimatesfxforgames_softwarebundle",
-      "title": "Ultimate SFX for Games",
+      "key": "bestcoregamedevassetstoolsmegabundle_softwarebundle",
+      "url": "https://humblebundle.com/software/best-core-game-dev-assets-tools-megabundle-software",
+      "machine_name": "bestcoregamedevassetstoolsmegabundle_softwarebundle",
+      "title": "Best Core Game Dev Assets & Tools Megabundle",
       "category": "software",
       "end_at": "2026-10-15T18:00:00"
     },
@@ -67,10 +83,10 @@
       "end_at": "2026-10-15T18:00:00"
     },
     {
-      "key": "bestcoregamedevassetstoolsmegabundle_softwarebundle",
-      "url": "https://humblebundle.com/software/best-core-game-dev-assets-tools-megabundle-software",
-      "machine_name": "bestcoregamedevassetstoolsmegabundle_softwarebundle",
-      "title": "Best Core Game Dev Assets & Tools Megabundle",
+      "key": "ultimatesfxforgames_softwarebundle",
+      "url": "https://humblebundle.com/software/ultimate-sfx-for-games-software",
+      "machine_name": "ultimatesfxforgames_softwarebundle",
+      "title": "Ultimate SFX for Games",
       "category": "software",
       "end_at": "2026-10-15T18:00:00"
     },
@@ -107,18 +123,18 @@
       "end_at": "2026-10-13T18:00:00"
     },
     {
-      "key": "learntomakegamesingodot2026_softwarebundle",
-      "url": "https://humblebundle.com/software/learn-to-make-games-in-godot-2026-software",
-      "machine_name": "learntomakegamesingodot2026_softwarebundle",
-      "title": "Learn to Make Games in GODOT 2026",
-      "category": "software",
-      "end_at": "2026-10-13T18:00:00"
-    },
-    {
       "key": "lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle",
       "url": "https://humblebundle.com/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
       "machine_name": "lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle",
       "title": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
+      "category": "software",
+      "end_at": "2026-10-13T18:00:00"
+    },
+    {
+      "key": "learntomakegamesingodot2026_softwarebundle",
+      "url": "https://humblebundle.com/software/learn-to-make-games-in-godot-2026-software",
+      "machine_name": "learntomakegamesingodot2026_softwarebundle",
+      "title": "Learn to Make Games in GODOT 2026",
       "category": "software",
       "end_at": "2026-10-13T18:00:00"
     },
@@ -155,14 +171,6 @@
       "end_at": "2026-10-04T18:00:00"
     },
     {
-      "key": "batmandaycomicsbundledccomics_bookbundle",
-      "url": "https://humblebundle.com/books/batman-day-comics-bundle-dc-comics-books",
-      "machine_name": "batmandaycomicsbundledccomics_bookbundle",
-      "title": "Batman Day Comics Bundle by DC Comics",
-      "category": "books",
-      "end_at": "2026-10-10T18:00:00"
-    },
-    {
       "key": "polygamedevassetscollection3_softwarebundle",
       "url": "https://humblebundle.com/software/poly-game-dev-assets-collection-3-software",
       "machine_name": "polygamedevassetscollection3_softwarebundle",
@@ -171,12 +179,12 @@
       "end_at": "2026-10-10T18:00:00"
     },
     {
-      "key": "garbagedwellers_bundle",
-      "url": "https://humblebundle.com/games/garbage-dwellers",
-      "machine_name": "garbagedwellers_bundle",
-      "title": "Garbage Dwellers",
-      "category": "games",
-      "end_at": "2026-10-10T04:00:00"
+      "key": "batmandaycomicsbundledccomics_bookbundle",
+      "url": "https://humblebundle.com/books/batman-day-comics-bundle-dc-comics-books",
+      "machine_name": "batmandaycomicsbundledccomics_bookbundle",
+      "title": "Batman Day Comics Bundle by DC Comics",
+      "category": "books",
+      "end_at": "2026-10-10T18:00:00"
     },
     {
       "key": "ign30thanniversarybundle_bundle",
@@ -187,10 +195,10 @@
       "end_at": "2026-10-10T04:00:00"
     },
     {
-      "key": "threedeecharactercreator3dassetbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/threedee-character-creator-3d-asset-bundle-software",
-      "machine_name": "threedeecharactercreator3dassetbundle_softwarebundle",
-      "title": "ThreeDee Character Creator & 3D Asset Bundle",
+      "key": "frontendwebdevelopmentbootcampbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/front-end-web-development-bootcamp-bundle-software",
+      "machine_name": "frontendwebdevelopmentbootcampbundle_softwarebundle",
+      "title": "Front End Web Development Bootcamp Bundle",
       "category": "software",
       "end_at": "2026-10-09T18:00:00"
     },
@@ -203,20 +211,20 @@
       "end_at": "2026-10-09T18:00:00"
     },
     {
-      "key": "frontendwebdevelopmentbootcampbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/front-end-web-development-bootcamp-bundle-software",
-      "machine_name": "frontendwebdevelopmentbootcampbundle_softwarebundle",
-      "title": "Front End Web Development Bootcamp Bundle",
+      "key": "threedeecharactercreator3dassetbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/threedee-character-creator-3d-asset-bundle-software",
+      "machine_name": "threedeecharactercreator3dassetbundle_softwarebundle",
+      "title": "ThreeDee Character Creator & 3D Asset Bundle",
       "category": "software",
       "end_at": "2026-10-09T18:00:00"
     },
     {
-      "key": "skullforgestudiosarsenalmegabundle_softwarebundle",
-      "url": "https://humblebundle.com/software/skullforge-studios-arsenal-mega-bundle-software",
-      "machine_name": "skullforgestudiosarsenalmegabundle_softwarebundle",
-      "title": "SkullForge Studios Arsenal Mega Bundle",
-      "category": "software",
-      "end_at": "2026-10-08T18:00:00"
+      "key": "garbagedwellers_bundle",
+      "url": "https://humblebundle.com/games/garbage-dwellers",
+      "machine_name": "garbagedwellers_bundle",
+      "title": "Garbage Dwellers",
+      "category": "games",
+      "end_at": "2026-10-10T04:00:00"
     },
     {
       "key": "voicevaultultimatecollectionhumanmadevoicelines_softwarebundle",
@@ -235,10 +243,26 @@
       "end_at": "2026-10-08T18:00:00"
     },
     {
+      "key": "skullforgestudiosarsenalmegabundle_softwarebundle",
+      "url": "https://humblebundle.com/software/skullforge-studios-arsenal-mega-bundle-software",
+      "machine_name": "skullforgestudiosarsenalmegabundle_softwarebundle",
+      "title": "SkullForge Studios Arsenal Mega Bundle",
+      "category": "software",
+      "end_at": "2026-10-08T18:00:00"
+    },
+    {
       "key": "assembleentertainmentcozygamescollection_bundle",
       "url": "https://humblebundle.com/games/assemble-entertainment-cozy-games-collection",
       "machine_name": "assembleentertainmentcozygamescollection_bundle",
       "title": "Assemble Entertainment Cozy Games Collection",
+      "category": "games",
+      "end_at": "2026-10-08T04:00:00"
+    },
+    {
+      "key": "indiesinspace_bundle",
+      "url": "https://humblebundle.com/games/indies-in-space",
+      "machine_name": "indiesinspace_bundle",
+      "title": "Indies in Space",
       "category": "games",
       "end_at": "2026-10-08T04:00:00"
     },
@@ -251,19 +275,11 @@
       "end_at": "2026-10-07T18:00:00"
     },
     {
-      "key": "indiesinspace_bundle",
-      "url": "https://humblebundle.com/games/indies-in-space",
-      "machine_name": "indiesinspace_bundle",
-      "title": "Indies in Space",
-      "category": "games",
-      "end_at": "2026-10-08T04:00:00"
-    },
-    {
-      "key": "backroomsandliminalworldbuilderbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/backrooms-and-liminal-world-builder-bundle-software",
-      "machine_name": "backroomsandliminalworldbuilderbundle_softwarebundle",
-      "title": "Backrooms and Liminal World Builder Bundle",
-      "category": "software",
+      "key": "legendinmistotherscaperpgcollectionsonoak_bookbundle",
+      "url": "https://humblebundle.com/books/legend-in-mist-otherscape-rpg-collection-son-oak-books",
+      "machine_name": "legendinmistotherscaperpgcollectionsonoak_bookbundle",
+      "title": "Legend In The Mist & :Otherscape RPG Collection by Son of Oak",
+      "category": "books",
       "end_at": "2026-10-06T18:00:00"
     },
     {
@@ -275,11 +291,11 @@
       "end_at": "2026-10-07T04:00:00"
     },
     {
-      "key": "legendinmistotherscaperpgcollectionsonoak_bookbundle",
-      "url": "https://humblebundle.com/books/legend-in-mist-otherscape-rpg-collection-son-oak-books",
-      "machine_name": "legendinmistotherscaperpgcollectionsonoak_bookbundle",
-      "title": "Legend In The Mist & :Otherscape RPG Collection by Son of Oak",
-      "category": "books",
+      "key": "backroomsandliminalworldbuilderbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/backrooms-and-liminal-world-builder-bundle-software",
+      "machine_name": "backroomsandliminalworldbuilderbundle_softwarebundle",
+      "title": "Backrooms and Liminal World Builder Bundle",
+      "category": "software",
       "end_at": "2026-10-06T18:00:00"
     },
     {
@@ -299,14 +315,6 @@
       "end_at": "2026-10-05T18:00:00"
     },
     {
-      "key": "dungeonmastersguildtopcontentfromddcommunity_bookbundle",
-      "url": "https://humblebundle.com/books/dungeon-masters-guild-top-content-from-dd-community-books",
-      "machine_name": "dungeonmastersguildtopcontentfromddcommunity_bookbundle",
-      "title": "Dungeon Master's Guild Top Content from the D&D Community",
-      "category": "books",
-      "end_at": "2026-10-03T18:00:00"
-    },
-    {
       "key": "jrotoolsprophotobashreferencemegapack_softwarebundle",
       "url": "https://humblebundle.com/software/jrotools-pro-photobash-reference-megapack-software",
       "machine_name": "jrotoolsprophotobashreferencemegapack_softwarebundle",
@@ -323,18 +331,26 @@
       "end_at": "2026-09-30T18:00:00"
     },
     {
-      "key": "runitbackroguelikes_bundle",
-      "url": "https://humblebundle.com/games/run-it-back-roguelikes-bundle",
-      "machine_name": "runitbackroguelikes_bundle",
-      "title": "Run It Back - Roguelikes Bundle",
-      "category": "games",
-      "end_at": "2026-10-03T04:00:00"
+      "key": "dungeonmastersguildtopcontentfromddcommunity_bookbundle",
+      "url": "https://humblebundle.com/books/dungeon-masters-guild-top-content-from-dd-community-books",
+      "machine_name": "dungeonmastersguildtopcontentfromddcommunity_bookbundle",
+      "title": "Dungeon Master's Guild Top Content from the D&D Community",
+      "category": "books",
+      "end_at": "2026-10-03T18:00:00"
     },
     {
       "key": "deckedoutdeckbuilders_bundle",
       "url": "https://humblebundle.com/games/decked-out-deckbuilders",
       "machine_name": "deckedoutdeckbuilders_bundle",
       "title": "Decked Out Deckbuilders",
+      "category": "games",
+      "end_at": "2026-10-03T04:00:00"
+    },
+    {
+      "key": "runitbackroguelikes_bundle",
+      "url": "https://humblebundle.com/games/run-it-back-roguelikes-bundle",
+      "machine_name": "runitbackroguelikes_bundle",
+      "title": "Run It Back - Roguelikes Bundle",
       "category": "games",
       "end_at": "2026-10-03T04:00:00"
     },
@@ -352,7 +368,7 @@
       "machine_name": "ultimategameaudiobundleaccess300000premiummusicandsoundeffects_softwarebundle",
       "title": "Ultimate Game Audio Bundle - Access 300,000 Premium Music and Sound Effects",
       "category": "software",
-      "end_at": "2026-09-29T18:00:00"
+      "end_at": "2026-10-06T18:00:00"
     },
     {
       "key": "crawlingthroughdungeons_bundle",
@@ -369,14 +385,6 @@
       "title": "The Ultimate Linux & Cloud Infrastructure Bundle by Packt",
       "category": "books",
       "end_at": "2026-09-30T18:00:00"
-    },
-    {
-      "key": "moderndesigncreativebundle2026packt_bookbundle",
-      "url": "https://humblebundle.com/books/modern-design-creative-bundle-2026-packt-books",
-      "machine_name": "moderndesigncreativebundle2026packt_bookbundle",
-      "title": "Modern Design & Creative Bundle 2026 by Packt",
-      "category": "books",
-      "end_at": "2026-09-29T18:00:00"
     },
     {
       "key": "unrealenginerealtimesimulationfxsuite_softwarebundle",
@@ -427,12 +435,12 @@
       "end_at": "2026-10-07T18:00:00"
     },
     {
-      "key": "cavernsthraciamoregoodmangames_bookbundle",
-      "url": "https://humblebundle.com/books/caverns-thracia-more-goodman-games-books",
-      "machine_name": "cavernsthraciamoregoodmangames_bookbundle",
-      "title": "Caverns of Thracia & More by Goodman Games",
-      "category": "books",
-      "end_at": "2026-09-30T18:00:00"
+      "key": "megamanrechargedcollection_bundle",
+      "url": "https://humblebundle.com/games/mega-man-recharged-collection",
+      "machine_name": "megamanrechargedcollection_bundle",
+      "title": "Mega Man: Recharged Collection",
+      "category": "games",
+      "end_at": "2026-10-01T04:00:00"
     },
     {
       "key": "ultimatefantasyminiaturesbundle_softwarebundle",
@@ -440,6 +448,14 @@
       "machine_name": "ultimatefantasyminiaturesbundle_softwarebundle",
       "title": "Ultimate Fantasy Miniatures Bundle",
       "category": "software",
+      "end_at": "2026-09-30T18:00:00"
+    },
+    {
+      "key": "cavernsthraciamoregoodmangames_bookbundle",
+      "url": "https://humblebundle.com/books/caverns-thracia-more-goodman-games-books",
+      "machine_name": "cavernsthraciamoregoodmangames_bookbundle",
+      "title": "Caverns of Thracia & More by Goodman Games",
+      "category": "books",
       "end_at": "2026-09-30T18:00:00"
     },
     {
@@ -451,20 +467,12 @@
       "end_at": "2026-10-01T04:00:00"
     },
     {
-      "key": "megamanrechargedcollection_bundle",
-      "url": "https://humblebundle.com/games/mega-man-recharged-collection",
-      "machine_name": "megamanrechargedcollection_bundle",
-      "title": "Mega Man: Recharged Collection",
-      "category": "games",
-      "end_at": "2026-10-01T04:00:00"
-    },
-    {
       "key": "originalworldstimothyzahnopenroadmedia_bookbundle",
       "url": "https://humblebundle.com/books/original-worlds-timothy-zahn-open-road-media-books",
       "machine_name": "originalworldstimothyzahnopenroadmedia_bookbundle",
       "title": "The Original Worlds of Timothy Zahn by Open Road Media",
       "category": "books",
-      "end_at": "2026-09-29T18:00:00"
+      "end_at": "2026-10-06T18:00:00"
     },
     {
       "key": "softwarearchitecture2026oreilly_bookbundle",
@@ -497,14 +505,6 @@
       "title": "Open World Essentials II",
       "category": "software",
       "end_at": "2026-09-30T18:00:00"
-    },
-    {
-      "key": "buildyourdreamhomeultimate3dcadbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/build-your-dream-home-ultimate-3d-cad-bundle-software",
-      "machine_name": "buildyourdreamhomeultimate3dcadbundle_softwarebundle",
-      "title": "BUILD YOUR DREAM HOME - The Ultimate 3D CAD Bundle",
-      "category": "software",
-      "end_at": "2026-09-29T18:00:00"
     },
     {
       "key": "imagein20smegabundleimagecomics_bookbundle",
