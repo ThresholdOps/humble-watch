@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T18:27:50Z",
-  "updated_at": "2026-10-10T18:28:39Z",
+  "generated_at": "2026-10-11T18:28:23Z",
+  "updated_at": "2026-10-11T18:29:07Z",
   "items": [
     {
       "key": "celebrating100yearsthichnhathanhcollection_bookbundle",
@@ -11,18 +11,18 @@
       "end_at": "2026-10-31T18:00:00"
     },
     {
-      "key": "twistedtrilogiesandterrorsdarkvisualnovels_bundle",
-      "url": "https://humblebundle.com/games/twisted-trilogies-and-terrors-dark-visual-novels",
-      "machine_name": "twistedtrilogiesandterrorsdarkvisualnovels_bundle",
-      "title": "Twisted Trilogies and Terrors: Dark Visual Novels",
-      "category": "games",
-      "end_at": "2026-10-31T04:00:00"
-    },
-    {
       "key": "galsandpalspqubejapanesegames_bundle",
       "url": "https://humblebundle.com/games/gals-and-pals-pqube-japanese-games",
       "machine_name": "galsandpalspqubejapanesegames_bundle",
       "title": "Gals and Pals: PQube Japanese Games",
+      "category": "games",
+      "end_at": "2026-10-31T04:00:00"
+    },
+    {
+      "key": "twistedtrilogiesandterrorsdarkvisualnovels_bundle",
+      "url": "https://humblebundle.com/games/twisted-trilogies-and-terrors-dark-visual-novels",
+      "machine_name": "twistedtrilogiesandterrorsdarkvisualnovels_bundle",
+      "title": "Twisted Trilogies and Terrors: Dark Visual Novels",
       "category": "games",
       "end_at": "2026-10-31T04:00:00"
     },
@@ -35,19 +35,19 @@
       "end_at": "2026-10-30T18:00:00"
     },
     {
-      "key": "amazingcreatorownedcomicsdstlry_bookbundle",
-      "url": "https://humblebundle.com/books/amazing-creatorowned-comics-dstlry-books",
-      "machine_name": "amazingcreatorownedcomicsdstlry_bookbundle",
-      "title": "Amazing Creator-Owned Comics by DSTLRY",
-      "category": "books",
-      "end_at": "2026-10-29T18:00:00"
-    },
-    {
       "key": "makeyourowngamesinunreal_softwarebundle",
       "url": "https://humblebundle.com/software/make-your-own-games-in-unreal-software",
       "machine_name": "makeyourowngamesinunreal_softwarebundle",
       "title": "Make Your Own Games In Unreal",
       "category": "software",
+      "end_at": "2026-10-29T18:00:00"
+    },
+    {
+      "key": "amazingcreatorownedcomicsdstlry_bookbundle",
+      "url": "https://humblebundle.com/books/amazing-creatorowned-comics-dstlry-books",
+      "machine_name": "amazingcreatorownedcomicsdstlry_bookbundle",
+      "title": "Amazing Creator-Owned Comics by DSTLRY",
+      "category": "books",
       "end_at": "2026-10-29T18:00:00"
     },
     {
@@ -59,14 +59,6 @@
       "end_at": "2026-10-30T04:00:00"
     },
     {
-      "key": "unitypowerhousebundle_softwarebundle",
-      "url": "https://humblebundle.com/software/unity-powerhouse-bundle-software",
-      "machine_name": "unitypowerhousebundle_softwarebundle",
-      "title": "Unity Powerhouse Bundle",
-      "category": "software",
-      "end_at": "2026-10-28T18:00:00"
-    },
-    {
       "key": "beyondrealityscifisurvivalvrcollection_bundle",
       "url": "https://humblebundle.com/games/beyond-reality-scifi-survival-vr-collection",
       "machine_name": "beyondrealityscifisurvivalvrcollection_bundle",
@@ -75,12 +67,12 @@
       "end_at": "2026-10-29T04:00:00"
     },
     {
-      "key": "genaiagenticaibpb_bookbundle",
-      "url": "https://humblebundle.com/books/genai-agentic-ai-bpb-books",
-      "machine_name": "genaiagenticaibpb_bookbundle",
-      "title": "GenAI & Agentic AI by BPB",
-      "category": "books",
-      "end_at": "2026-10-28T18:00:00"
+      "key": "indiefighters_bundle",
+      "url": "https://humblebundle.com/games/indie-fighters",
+      "machine_name": "indiefighters_bundle",
+      "title": "Indie Fighters",
+      "category": "games",
+      "end_at": "2026-10-29T04:00:00"
     },
     {
       "key": "completejavadeveloperbundle_softwarebundle",
@@ -91,12 +83,20 @@
       "end_at": "2026-10-28T18:00:00"
     },
     {
-      "key": "indiefighters_bundle",
-      "url": "https://humblebundle.com/games/indie-fighters",
-      "machine_name": "indiefighters_bundle",
-      "title": "Indie Fighters",
-      "category": "games",
-      "end_at": "2026-10-29T04:00:00"
+      "key": "genaiagenticaibpb_bookbundle",
+      "url": "https://humblebundle.com/books/genai-agentic-ai-bpb-books",
+      "machine_name": "genaiagenticaibpb_bookbundle",
+      "title": "GenAI & Agentic AI by BPB",
+      "category": "books",
+      "end_at": "2026-10-28T18:00:00"
+    },
+    {
+      "key": "unitypowerhousebundle_softwarebundle",
+      "url": "https://humblebundle.com/software/unity-powerhouse-bundle-software",
+      "machine_name": "unitypowerhousebundle_softwarebundle",
+      "title": "Unity Powerhouse Bundle",
+      "category": "software",
+      "end_at": "2026-10-28T18:00:00"
     },
     {
       "key": "africanfuturismnnediokoraforwoletalabiandadamoyebanjidawbooks_bookbundle",
@@ -115,19 +115,19 @@
       "end_at": "2026-10-26T18:00:00"
     },
     {
-      "key": "completeaisolopreneurbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/complete-ai-solopreneur-bundle-software",
-      "machine_name": "completeaisolopreneurbundle_softwarebundle",
-      "title": "The Complete AI Solopreneur Bundle",
-      "category": "software",
-      "end_at": "2026-10-26T18:00:00"
-    },
-    {
       "key": "excelwiley_bookbundle",
       "url": "https://humblebundle.com/books/excel-wiley-books",
       "machine_name": "excelwiley_bookbundle",
       "title": "Excel by Wiley",
       "category": "books",
+      "end_at": "2026-10-26T18:00:00"
+    },
+    {
+      "key": "completeaisolopreneurbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/complete-ai-solopreneur-bundle-software",
+      "machine_name": "completeaisolopreneurbundle_softwarebundle",
+      "title": "The Complete AI Solopreneur Bundle",
+      "category": "software",
       "end_at": "2026-10-26T18:00:00"
     },
     {
@@ -147,20 +147,20 @@
       "end_at": "2026-10-24T18:00:00"
     },
     {
-      "key": "capcomclassicsbundle_bundle",
-      "url": "https://humblebundle.com/games/capcom-classics-bundle",
-      "machine_name": "capcomclassicsbundle_bundle",
-      "title": "Capcom Classics Bundle",
-      "category": "games",
-      "end_at": "2026-10-31T04:00:00"
-    },
-    {
       "key": "akupara10thanniversarybundle_bundle",
       "url": "https://humblebundle.com/games/akupara-10th-anniversary-bundle",
       "machine_name": "akupara10thanniversarybundle_bundle",
       "title": "Akupara 10th Anniversary Bundle",
       "category": "games",
       "end_at": "2026-10-24T04:00:00"
+    },
+    {
+      "key": "capcomclassicsbundle_bundle",
+      "url": "https://humblebundle.com/games/capcom-classics-bundle",
+      "machine_name": "capcomclassicsbundle_bundle",
+      "title": "Capcom Classics Bundle",
+      "category": "games",
+      "end_at": "2026-10-31T04:00:00"
     },
     {
       "key": "ultimategenewolfelibrarybytorbooks_bookbundle",
@@ -179,6 +179,14 @@
       "end_at": "2026-10-22T18:00:00"
     },
     {
+      "key": "dyinglight2stayhumancompletedlcbundle_bundle",
+      "url": "https://humblebundle.com/games/dying-light-2-stay-human-complete-dlc-bundle",
+      "machine_name": "dyinglight2stayhumancompletedlcbundle_bundle",
+      "title": "Dying Light 2: Stay Human Complete DLC Bundle",
+      "category": "games",
+      "end_at": "2026-10-22T04:00:00"
+    },
+    {
       "key": "darkplacesandendlessnightsheerhorroridw_bookbundle",
       "url": "https://humblebundle.com/books/dark-places-and-endless-night-sheer-horror-idw-books",
       "machine_name": "darkplacesandendlessnightsheerhorroridw_bookbundle",
@@ -191,14 +199,6 @@
       "url": "https://humblebundle.com/games/2d-rewind-collection-from-s2-games",
       "machine_name": "2drewindcollectionfroms2games_bundle",
       "title": "2D Rewind Collection from S2 Games",
-      "category": "games",
-      "end_at": "2026-10-22T04:00:00"
-    },
-    {
-      "key": "dyinglight2stayhumancompletedlcbundle_bundle",
-      "url": "https://humblebundle.com/games/dying-light-2-stay-human-complete-dlc-bundle",
-      "machine_name": "dyinglight2stayhumancompletedlcbundle_bundle",
-      "title": "Dying Light 2: Stay Human Complete DLC Bundle",
       "category": "games",
       "end_at": "2026-10-22T04:00:00"
     },
@@ -243,14 +243,6 @@
       "end_at": "2026-10-17T18:00:00"
     },
     {
-      "key": "geargloryactionrpgs_bundle",
-      "url": "https://humblebundle.com/games/gear-glory-action-rpgs",
-      "machine_name": "geargloryactionrpgs_bundle",
-      "title": "Gear & Glory Action RPGs",
-      "category": "games",
-      "end_at": "2026-10-17T04:00:00"
-    },
-    {
       "key": "miniaturesandmayhemadventuressupplementsand3dprintables_softwarebundle",
       "url": "https://humblebundle.com/software/miniatures-and-mayhem-adventures-supplements-and-3d-printables-software",
       "machine_name": "miniaturesandmayhemadventuressupplementsand3dprintables_softwarebundle",
@@ -259,12 +251,28 @@
       "end_at": "2026-10-16T18:00:00"
     },
     {
+      "key": "geargloryactionrpgs_bundle",
+      "url": "https://humblebundle.com/games/gear-glory-action-rpgs",
+      "machine_name": "geargloryactionrpgs_bundle",
+      "title": "Gear & Glory Action RPGs",
+      "category": "games",
+      "end_at": "2026-10-17T04:00:00"
+    },
+    {
       "key": "fallintofallfundle_bundle",
       "url": "https://humblebundle.com/games/fall-into-fall-fundle",
       "machine_name": "fallintofallfundle_bundle",
       "title": "Fall into Fall Fun-dle",
       "category": "games",
       "end_at": "2026-10-17T04:00:00"
+    },
+    {
+      "key": "ultimatesfxforgames_softwarebundle",
+      "url": "https://humblebundle.com/software/ultimate-sfx-for-games-software",
+      "machine_name": "ultimatesfxforgames_softwarebundle",
+      "title": "Ultimate SFX for Games",
+      "category": "software",
+      "end_at": "2026-10-15T18:00:00"
     },
     {
       "key": "joehaldemanforeverwarandbeyondopenroadmedia_bookbundle",
@@ -283,12 +291,12 @@
       "end_at": "2026-10-15T18:00:00"
     },
     {
-      "key": "ultimatesfxforgames_softwarebundle",
-      "url": "https://humblebundle.com/software/ultimate-sfx-for-games-software",
-      "machine_name": "ultimatesfxforgames_softwarebundle",
-      "title": "Ultimate SFX for Games",
-      "category": "software",
-      "end_at": "2026-10-15T18:00:00"
+      "key": "bestbrianwaldissopenroadmedia_bookbundle",
+      "url": "https://humblebundle.com/books/best-brian-w-aldiss-open-road-media-books",
+      "machine_name": "bestbrianwaldissopenroadmedia_bookbundle",
+      "title": "The Best of Brian W. Aldiss by Open Road Media",
+      "category": "books",
+      "end_at": "2026-10-14T18:00:00"
     },
     {
       "key": "trineversetriplecooppack_bundle",
@@ -307,26 +315,10 @@
       "end_at": "2026-10-15T04:00:00"
     },
     {
-      "key": "bestbrianwaldissopenroadmedia_bookbundle",
-      "url": "https://humblebundle.com/books/best-brian-w-aldiss-open-road-media-books",
-      "machine_name": "bestbrianwaldissopenroadmedia_bookbundle",
-      "title": "The Best of Brian W. Aldiss by Open Road Media",
-      "category": "books",
-      "end_at": "2026-10-14T18:00:00"
-    },
-    {
       "key": "bestsyntygamedevassetsbundle6_softwarebundle",
       "url": "https://humblebundle.com/software/best-synty-game-dev-assets-bundle-6-software",
       "machine_name": "bestsyntygamedevassetsbundle6_softwarebundle",
       "title": "Best of Synty Game Dev Assets Bundle 6",
-      "category": "software",
-      "end_at": "2026-10-13T18:00:00"
-    },
-    {
-      "key": "learntomakegamesingodot2026_softwarebundle",
-      "url": "https://humblebundle.com/software/learn-to-make-games-in-godot-2026-software",
-      "machine_name": "learntomakegamesingodot2026_softwarebundle",
-      "title": "Learn to Make Games in GODOT 2026",
       "category": "software",
       "end_at": "2026-10-13T18:00:00"
     },
@@ -339,11 +331,19 @@
       "end_at": "2026-10-13T18:00:00"
     },
     {
-      "key": "megaunrealenginebundle_softwarebundle",
-      "url": "https://humblebundle.com/software/mega-unreal-engine-bundle-software",
-      "machine_name": "megaunrealenginebundle_softwarebundle",
-      "title": "Mega Unreal Engine Bundle",
+      "key": "learntomakegamesingodot2026_softwarebundle",
+      "url": "https://humblebundle.com/software/learn-to-make-games-in-godot-2026-software",
+      "machine_name": "learntomakegamesingodot2026_softwarebundle",
+      "title": "Learn to Make Games in GODOT 2026",
       "category": "software",
+      "end_at": "2026-10-13T18:00:00"
+    },
+    {
+      "key": "cprogrammingmasterclasscodefasterbuildsmartermasterc_bookbundle",
+      "url": "https://humblebundle.com/books/c-programming-masterclass-code-faster-build-smarter-master-c-books",
+      "machine_name": "cprogrammingmasterclasscodefasterbuildsmartermasterc_bookbundle",
+      "title": "C++ Programming Masterclass: Code Faster. Build Smarter. Master C++",
+      "category": "books",
       "end_at": "2026-10-12T18:00:00"
     },
     {
@@ -355,11 +355,11 @@
       "end_at": "2026-10-13T04:00:00"
     },
     {
-      "key": "cprogrammingmasterclasscodefasterbuildsmartermasterc_bookbundle",
-      "url": "https://humblebundle.com/books/c-programming-masterclass-code-faster-build-smarter-master-c-books",
-      "machine_name": "cprogrammingmasterclasscodefasterbuildsmartermasterc_bookbundle",
-      "title": "C++ Programming Masterclass: Code Faster. Build Smarter. Master C++",
-      "category": "books",
+      "key": "megaunrealenginebundle_softwarebundle",
+      "url": "https://humblebundle.com/software/mega-unreal-engine-bundle-software",
+      "machine_name": "megaunrealenginebundle_softwarebundle",
+      "title": "Mega Unreal Engine Bundle",
+      "category": "software",
       "end_at": "2026-10-12T18:00:00"
     },
     {
@@ -368,7 +368,7 @@
       "machine_name": "completeclaudeandanthropiccertificationbundle_softwarebundle",
       "title": "The Complete Claude and Anthropic Certification Bundle",
       "category": "software",
-      "end_at": "2026-10-11T18:00:00"
+      "end_at": "2026-10-18T18:00:00"
     },
     {
       "key": "polygamedevassetscollection3_softwarebundle",
@@ -387,20 +387,20 @@
       "end_at": "2026-10-17T18:00:00"
     },
     {
-      "key": "createmagicwithmagix_softwarebundle",
-      "url": "https://humblebundle.com/software/create-magic-with-magix-software",
-      "machine_name": "createmagicwithmagix_softwarebundle",
-      "title": "Create Magic with Magix",
-      "category": "software",
-      "end_at": "2026-10-16T18:00:00"
-    },
-    {
       "key": "ign30thanniversarybundle_bundle",
       "url": "https://humblebundle.com/games/ign-30th-anniversary-bundle",
       "machine_name": "ign30thanniversarybundle_bundle",
       "title": "IGN 30th Anniversary Bundle",
       "category": "games",
       "end_at": "2026-10-17T04:00:00"
+    },
+    {
+      "key": "createmagicwithmagix_softwarebundle",
+      "url": "https://humblebundle.com/software/create-magic-with-magix-software",
+      "machine_name": "createmagicwithmagix_softwarebundle",
+      "title": "Create Magic with Magix",
+      "category": "software",
+      "end_at": "2026-10-16T18:00:00"
     },
     {
       "key": "skullforgestudiosarsenalmegabundle_softwarebundle",
