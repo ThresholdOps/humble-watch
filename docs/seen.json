@@ -1,14 +1,30 @@
 {
-  "generated_at": "2026-10-22T18:27:03Z",
-  "updated_at": "2026-10-22T18:28:05Z",
+  "generated_at": "2026-10-23T18:27:58Z",
+  "updated_at": "2026-10-23T18:28:53Z",
   "items": [
     {
-      "key": "dataengineeringmasterclass_softwarebundle",
-      "url": "https://humblebundle.com/software/data-engineering-masterclass-software",
-      "machine_name": "dataengineeringmasterclass_softwarebundle",
-      "title": "Data Engineering Masterclass",
+      "key": "phunkierphysics_bundle",
+      "url": "https://humblebundle.com/games/phunkier-physics",
+      "machine_name": "phunkierphysics_bundle",
+      "title": "Phunkier Physics",
+      "category": "games",
+      "end_at": "2026-11-14T05:00:00"
+    },
+    {
+      "key": "puzzlerstopuzzleyou_bundle",
+      "url": "https://humblebundle.com/games/puzzlers-to-puzzle-you",
+      "machine_name": "puzzlerstopuzzleyou_bundle",
+      "title": "Puzzlers to Puzzle You",
+      "category": "games",
+      "end_at": "2026-11-14T05:00:00"
+    },
+    {
+      "key": "ultimatepythonmachinelearningaiengineeringbundle202_softwarebundle",
+      "url": "https://humblebundle.com/software/ultimate-python-machine-learning-ai-engineering-bundle-202-software",
+      "machine_name": "ultimatepythonmachinelearningaiengineeringbundle202_softwarebundle",
+      "title": "The Ultimate Python, Machine Learning & AI Engineering Bundle 202",
       "category": "software",
-      "end_at": "2026-11-12T19:00:00"
+      "end_at": "2026-11-13T19:00:00"
     },
     {
       "key": "bluelockperfectshotbundlekodansha_bookbundle",
@@ -16,6 +32,14 @@
       "machine_name": "bluelockperfectshotbundlekodansha_bookbundle",
       "title": "Blue Lock: The Perfect Shot Bundle by Kodansha",
       "category": "books",
+      "end_at": "2026-11-12T19:00:00"
+    },
+    {
+      "key": "dataengineeringmasterclass_softwarebundle",
+      "url": "https://humblebundle.com/software/data-engineering-masterclass-software",
+      "machine_name": "dataengineeringmasterclass_softwarebundle",
+      "title": "Data Engineering Masterclass",
+      "category": "software",
       "end_at": "2026-11-12T19:00:00"
     },
     {
@@ -99,20 +123,20 @@
       "end_at": "2026-11-07T19:00:00"
     },
     {
-      "key": "castlescrusadesrpgexperience_softwarebundle",
-      "url": "https://humblebundle.com/software/castles-crusades-rpg-experience-software",
-      "machine_name": "castlescrusadesrpgexperience_softwarebundle",
-      "title": "Castles & Crusades RPG Experience",
-      "category": "books",
-      "end_at": "2026-11-06T19:00:00"
-    },
-    {
       "key": "serenityforgeemotionalimpactbundle_bundle",
       "url": "https://humblebundle.com/games/serenity-forge-emotional-impact-bundle",
       "machine_name": "serenityforgeemotionalimpactbundle_bundle",
       "title": "Serenity Forge Emotional Impact Bundle",
       "category": "games",
       "end_at": "2026-11-07T05:00:00"
+    },
+    {
+      "key": "urbanshadowsphysicalcollection_bookbundle",
+      "url": "https://humblebundle.com/books/urban-shadows-physical-collection-books",
+      "machine_name": "urbanshadowsphysicalcollection_bookbundle",
+      "title": "Urban Shadows Physical Collection",
+      "category": "books",
+      "end_at": "2026-11-06T19:00:00"
     },
     {
       "key": "doublefinepublisherbundle_bundle",
@@ -123,10 +147,10 @@
       "end_at": "2026-11-07T05:00:00"
     },
     {
-      "key": "urbanshadowsphysicalcollection_bookbundle",
-      "url": "https://humblebundle.com/books/urban-shadows-physical-collection-books",
-      "machine_name": "urbanshadowsphysicalcollection_bookbundle",
-      "title": "Urban Shadows Physical Collection",
+      "key": "castlescrusadesrpgexperience_softwarebundle",
+      "url": "https://humblebundle.com/software/castles-crusades-rpg-experience-software",
+      "machine_name": "castlescrusadesrpgexperience_softwarebundle",
+      "title": "Castles & Crusades RPG Experience",
       "category": "books",
       "end_at": "2026-11-06T19:00:00"
     },
@@ -147,14 +171,6 @@
       "end_at": "2026-11-05T19:00:00"
     },
     {
-      "key": "javaapress_bookbundle",
-      "url": "https://humblebundle.com/books/java-apress-books",
-      "machine_name": "javaapress_bookbundle",
-      "title": "Java by Apress",
-      "category": "books",
-      "end_at": "2026-11-04T19:00:00"
-    },
-    {
       "key": "factorymustgrow_bundle",
       "url": "https://humblebundle.com/games/factory-must-grow",
       "machine_name": "factorymustgrow_bundle",
@@ -163,28 +179,20 @@
       "end_at": "2026-11-05T05:00:00"
     },
     {
+      "key": "javaapress_bookbundle",
+      "url": "https://humblebundle.com/books/java-apress-books",
+      "machine_name": "javaapress_bookbundle",
+      "title": "Java by Apress",
+      "category": "books",
+      "end_at": "2026-11-04T19:00:00"
+    },
+    {
       "key": "hamblesfrightorfighthalloweenbundle_bundle",
       "url": "https://humblebundle.com/games/hambles-fright-or-fight-halloween-bundle",
       "machine_name": "hamblesfrightorfighthalloweenbundle_bundle",
       "title": "Hamble's Fright or Fight Halloween Bundle",
       "category": "games",
       "end_at": "2026-11-05T05:00:00"
-    },
-    {
-      "key": "mapmakingmegabundlelastchance_softwarebundle",
-      "url": "https://humblebundle.com/software/map-making-mega-bundle-last-chance-software",
-      "machine_name": "mapmakingmegabundlelastchance_softwarebundle",
-      "title": "Map Making MEGA Bundle Last Chance",
-      "category": "software",
-      "end_at": "2026-11-03T19:00:00"
-    },
-    {
-      "key": "diyelectronicsgadgetsgamesandmoremake_bookbundle",
-      "url": "https://humblebundle.com/books/diy-electronics-gadgets-games-and-more-make-books",
-      "machine_name": "diyelectronicsgadgetsgamesandmoremake_bookbundle",
-      "title": "DIY Halloween Displays and Holiday Gifts",
-      "category": "books",
-      "end_at": "2026-11-03T19:00:00"
     },
     {
       "key": "modernaigamedevcrashcourse_softwarebundle",
@@ -199,6 +207,22 @@
       "url": "https://humblebundle.com/books/bestsellers-amigurumi-meteoor-books-books",
       "machine_name": "bestsellersamigurumimeteoorbooks_bookbundle",
       "title": "Best-Sellers of Amigurumi by Meteoor Books",
+      "category": "books",
+      "end_at": "2026-11-03T19:00:00"
+    },
+    {
+      "key": "mapmakingmegabundlelastchance_softwarebundle",
+      "url": "https://humblebundle.com/software/map-making-mega-bundle-last-chance-software",
+      "machine_name": "mapmakingmegabundlelastchance_softwarebundle",
+      "title": "Map Making MEGA Bundle Last Chance",
+      "category": "software",
+      "end_at": "2026-11-03T19:00:00"
+    },
+    {
+      "key": "diyelectronicsgadgetsgamesandmoremake_bookbundle",
+      "url": "https://humblebundle.com/books/diy-electronics-gadgets-games-and-more-make-books",
+      "machine_name": "diyelectronicsgadgetsgamesandmoremake_bookbundle",
+      "title": "DIY Halloween Displays and Holiday Gifts",
       "category": "books",
       "end_at": "2026-11-03T19:00:00"
     },
@@ -227,14 +251,6 @@
       "end_at": "2026-10-31T18:00:00"
     },
     {
-      "key": "galsandpalspqubejapanesegames_bundle",
-      "url": "https://humblebundle.com/games/gals-and-pals-pqube-japanese-games",
-      "machine_name": "galsandpalspqubejapanesegames_bundle",
-      "title": "Gals and Pals: PQube Japanese Games",
-      "category": "games",
-      "end_at": "2026-10-31T04:00:00"
-    },
-    {
       "key": "yourideayourdesignyourwaycoreldrawgonoexperiencerequired_softwarebundle",
       "url": "https://humblebundle.com/software/your-idea-your-design-your-way-coreldraw-go-no-experience-required-software",
       "machine_name": "yourideayourdesignyourwaycoreldrawgonoexperiencerequired_softwarebundle",
@@ -251,12 +267,12 @@
       "end_at": "2026-10-31T04:00:00"
     },
     {
-      "key": "amazingcreatorownedcomicsdstlry_bookbundle",
-      "url": "https://humblebundle.com/books/amazing-creatorowned-comics-dstlry-books",
-      "machine_name": "amazingcreatorownedcomicsdstlry_bookbundle",
-      "title": "Amazing Creator-Owned Comics by DSTLRY",
-      "category": "books",
-      "end_at": "2026-10-29T18:00:00"
+      "key": "galsandpalspqubejapanesegames_bundle",
+      "url": "https://humblebundle.com/games/gals-and-pals-pqube-japanese-games",
+      "machine_name": "galsandpalspqubejapanesegames_bundle",
+      "title": "Gals and Pals: PQube Japanese Games",
+      "category": "games",
+      "end_at": "2026-10-31T04:00:00"
     },
     {
       "key": "makeyourowngamesinunreal_softwarebundle",
@@ -264,6 +280,14 @@
       "machine_name": "makeyourowngamesinunreal_softwarebundle",
       "title": "Make Your Own Games In Unreal",
       "category": "software",
+      "end_at": "2026-10-29T18:00:00"
+    },
+    {
+      "key": "amazingcreatorownedcomicsdstlry_bookbundle",
+      "url": "https://humblebundle.com/books/amazing-creatorowned-comics-dstlry-books",
+      "machine_name": "amazingcreatorownedcomicsdstlry_bookbundle",
+      "title": "Amazing Creator-Owned Comics by DSTLRY",
+      "category": "books",
       "end_at": "2026-10-29T18:00:00"
     },
     {
@@ -347,19 +371,19 @@
       "end_at": "2026-10-26T18:00:00"
     },
     {
-      "key": "gamerskitchencookbooksinsighteditions_bookbundle",
-      "url": "https://humblebundle.com/books/gamers-kitchen-cookbooks-insight-editions-books",
-      "machine_name": "gamerskitchencookbooksinsighteditions_bookbundle",
-      "title": "Gamer's Kitchen Cookbooks by Insight Editions",
-      "category": "books",
-      "end_at": "2026-10-24T18:00:00"
-    },
-    {
       "key": "dungeonadventures3dprintableminiaturesscenery_softwarebundle",
       "url": "https://humblebundle.com/software/dungeon-adventures-3d-printable-miniatures-scenery-software",
       "machine_name": "dungeonadventures3dprintableminiaturesscenery_softwarebundle",
       "title": "Dungeon Adventures! - 3D Printable Miniatures & Scenery",
       "category": "software",
+      "end_at": "2026-10-24T18:00:00"
+    },
+    {
+      "key": "gamerskitchencookbooksinsighteditions_bookbundle",
+      "url": "https://humblebundle.com/books/gamers-kitchen-cookbooks-insight-editions-books",
+      "machine_name": "gamerskitchencookbooksinsighteditions_bookbundle",
+      "title": "Gamer's Kitchen Cookbooks by Insight Editions",
+      "category": "books",
       "end_at": "2026-10-24T18:00:00"
     },
     {
@@ -387,19 +411,19 @@
       "end_at": "2026-10-28T18:00:00"
     },
     {
-      "key": "crochetbagsandwearablesopenroadmedia_bookbundle",
-      "url": "https://humblebundle.com/books/crochet-bags-and-wearables-open-road-media-books",
-      "machine_name": "crochetbagsandwearablesopenroadmedia_bookbundle",
-      "title": "Crochet Bags and Wearables by Open Road Media",
-      "category": "books",
-      "end_at": "2026-10-27T18:00:00"
-    },
-    {
       "key": "gamedevmegacities_softwarebundle",
       "url": "https://humblebundle.com/software/game-dev-mega-cities-software",
       "machine_name": "gamedevmegacities_softwarebundle",
       "title": "Game Dev Mega Cities",
       "category": "software",
+      "end_at": "2026-10-27T18:00:00"
+    },
+    {
+      "key": "crochetbagsandwearablesopenroadmedia_bookbundle",
+      "url": "https://humblebundle.com/books/crochet-bags-and-wearables-open-road-media-books",
+      "machine_name": "crochetbagsandwearablesopenroadmedia_bookbundle",
+      "title": "Crochet Bags and Wearables by Open Road Media",
+      "category": "books",
       "end_at": "2026-10-27T18:00:00"
     },
     {
@@ -427,19 +451,19 @@
       "end_at": "2026-10-31T18:00:00"
     },
     {
-      "key": "ultimatesfxforgames_softwarebundle",
-      "url": "https://humblebundle.com/software/ultimate-sfx-for-games-software",
-      "machine_name": "ultimatesfxforgames_softwarebundle",
-      "title": "Ultimate SFX for Games",
-      "category": "software",
-      "end_at": "2026-10-29T18:00:00"
-    },
-    {
       "key": "joehaldemanforeverwarandbeyondopenroadmedia_bookbundle",
       "url": "https://humblebundle.com/books/joe-haldeman-forever-war-and-beyond-open-road-media-books",
       "machine_name": "joehaldemanforeverwarandbeyondopenroadmedia_bookbundle",
       "title": "Joe Haldeman: The Forever War and Beyond by Open Road Media",
       "category": "books",
+      "end_at": "2026-10-29T18:00:00"
+    },
+    {
+      "key": "ultimatesfxforgames_softwarebundle",
+      "url": "https://humblebundle.com/software/ultimate-sfx-for-games-software",
+      "machine_name": "ultimatesfxforgames_softwarebundle",
+      "title": "Ultimate SFX for Games",
+      "category": "software",
       "end_at": "2026-10-29T18:00:00"
     },
     {
@@ -459,14 +483,6 @@
       "end_at": "2026-10-28T18:00:00"
     },
     {
-      "key": "lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle",
-      "url": "https://humblebundle.com/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
-      "machine_name": "lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle",
-      "title": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
-      "category": "software",
-      "end_at": "2026-10-27T18:00:00"
-    },
-    {
       "key": "learntomakegamesingodot2026_softwarebundle",
       "url": "https://humblebundle.com/software/learn-to-make-games-in-godot-2026-software",
       "machine_name": "learntomakegamesingodot2026_softwarebundle",
@@ -479,6 +495,14 @@
       "url": "https://humblebundle.com/software/best-synty-game-dev-assets-bundle-6-software",
       "machine_name": "bestsyntygamedevassetsbundle6_softwarebundle",
       "title": "Best of Synty Game Dev Assets Bundle 6",
+      "category": "software",
+      "end_at": "2026-10-27T18:00:00"
+    },
+    {
+      "key": "lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle",
+      "url": "https://humblebundle.com/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
+      "machine_name": "lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle",
+      "title": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
       "category": "software",
       "end_at": "2026-10-27T18:00:00"
     },
@@ -505,14 +529,6 @@
       "title": "Batman Day Comics Bundle by DC Comics",
       "category": "books",
       "end_at": "2026-10-24T18:00:00"
-    },
-    {
-      "key": "createmagicwithmagix_softwarebundle",
-      "url": "https://humblebundle.com/software/create-magic-with-magix-software",
-      "machine_name": "createmagicwithmagix_softwarebundle",
-      "title": "Create Magic with Magix",
-      "category": "software",
-      "end_at": "2026-10-23T18:00:00"
     },
     {
       "key": "50essentialfantagraphicstitlesfantagraphics_bookbundle",
