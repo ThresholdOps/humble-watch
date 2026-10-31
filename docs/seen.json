@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-10-30T18:17:17Z",
-  "updated_at": "2026-10-30T18:18:11Z",
+  "generated_at": "2026-10-31T18:15:50Z",
+  "updated_at": "2026-10-31T18:16:34Z",
   "items": [
+    {
+      "key": "halloweenhorrorbundlevaultcomics_bookbundle",
+      "url": "https://humblebundle.com/books/halloween-horror-bundle-vault-comics-books",
+      "machine_name": "halloweenhorrorbundlevaultcomics_bookbundle",
+      "title": "The Halloween Horror Bundle by Vault Comics",
+      "category": "books",
+      "end_at": "2026-11-21T19:00:00"
+    },
     {
       "key": "tacticalmindsetbundle_bundle",
       "url": "https://humblebundle.com/games/tactical-mindset-bundle",
@@ -43,14 +51,6 @@
       "end_at": "2026-11-19T05:00:00"
     },
     {
-      "key": "soundstodieforhorroraudiocollection_softwarebundle",
-      "url": "https://humblebundle.com/software/sounds-to-die-for-horror-audio-collection-software",
-      "machine_name": "soundstodieforhorroraudiocollection_softwarebundle",
-      "title": "Sounds to Die For: The Horror Audio Collection",
-      "category": "software",
-      "end_at": "2026-11-18T19:00:00"
-    },
-    {
       "key": "pythonmasterypragmaticprogrammers_bookbundle",
       "url": "https://humblebundle.com/books/python-mastery-pragmatic-programmers-books",
       "machine_name": "pythonmasterypragmaticprogrammers_bookbundle",
@@ -59,11 +59,19 @@
       "end_at": "2026-11-18T19:00:00"
     },
     {
-      "key": "ultimateaiimagetoolkit_softwarebundle",
-      "url": "https://humblebundle.com/software/ultimate-ai-image-toolkit-software",
-      "machine_name": "ultimateaiimagetoolkit_softwarebundle",
-      "title": "The Ultimate AI Image Toolkit",
+      "key": "soundstodieforhorroraudiocollection_softwarebundle",
+      "url": "https://humblebundle.com/software/sounds-to-die-for-horror-audio-collection-software",
+      "machine_name": "soundstodieforhorroraudiocollection_softwarebundle",
+      "title": "Sounds to Die For: The Horror Audio Collection",
       "category": "software",
+      "end_at": "2026-11-18T19:00:00"
+    },
+    {
+      "key": "rickandmortyforeverthegrandfinalebyonipress_bookbundle",
+      "url": "https://humblebundle.com/books/ricky-and-morty-forever-the-grand-finale-by-onipress-books",
+      "machine_name": "rickandmortyforeverthegrandfinalebyonipress_bookbundle",
+      "title": "Rick and Morty Forever! The Grand Finale Bundle by Oni Press",
+      "category": "books",
       "end_at": "2026-11-17T19:00:00"
     },
     {
@@ -75,11 +83,11 @@
       "end_at": "2026-11-17T19:00:00"
     },
     {
-      "key": "rickandmortyforeverthegrandfinalebyonipress_bookbundle",
-      "url": "https://humblebundle.com/books/ricky-and-morty-forever-the-grand-finale-by-onipress-books",
-      "machine_name": "rickandmortyforeverthegrandfinalebyonipress_bookbundle",
-      "title": "Rick and Morty Forever! The Grand Finale Bundle by Oni Press",
-      "category": "books",
+      "key": "ultimateaiimagetoolkit_softwarebundle",
+      "url": "https://humblebundle.com/software/ultimate-ai-image-toolkit-software",
+      "machine_name": "ultimateaiimagetoolkit_softwarebundle",
+      "title": "The Ultimate AI Image Toolkit",
+      "category": "software",
       "end_at": "2026-11-17T19:00:00"
     },
     {
@@ -107,14 +115,6 @@
       "end_at": "2026-11-17T05:00:00"
     },
     {
-      "key": "blender3dgamedevelopmentbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/blender-3d-game-development-bundle-software",
-      "machine_name": "blender3dgamedevelopmentbundle_softwarebundle",
-      "title": "Blender 3D & Game Development Bundle",
-      "category": "software",
-      "end_at": "2026-11-14T19:00:00"
-    },
-    {
       "key": "woodworkingturningandcarvinganencorebytauntonpressabrams_bookbundle",
       "url": "https://humblebundle.com/books/woodworking-turning-and-carving-an-encore-by-taunton-press-abrams-books",
       "machine_name": "woodworkingturningandcarvinganencorebytauntonpressabrams_bookbundle",
@@ -123,10 +123,18 @@
       "end_at": "2026-11-14T19:00:00"
     },
     {
-      "key": "phunkierphysics_bundle",
-      "url": "https://humblebundle.com/games/phunkier-physics",
-      "machine_name": "phunkierphysics_bundle",
-      "title": "Phunkier Physics",
+      "key": "blender3dgamedevelopmentbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/blender-3d-game-development-bundle-software",
+      "machine_name": "blender3dgamedevelopmentbundle_softwarebundle",
+      "title": "Blender 3D & Game Development Bundle",
+      "category": "software",
+      "end_at": "2026-11-14T19:00:00"
+    },
+    {
+      "key": "puzzlerstopuzzleyou_bundle",
+      "url": "https://humblebundle.com/games/puzzlers-to-puzzle-you",
+      "machine_name": "puzzlerstopuzzleyou_bundle",
+      "title": "Puzzlers to Puzzle You",
       "category": "games",
       "end_at": "2026-11-14T05:00:00"
     },
@@ -139,10 +147,10 @@
       "end_at": "2026-11-13T19:00:00"
     },
     {
-      "key": "puzzlerstopuzzleyou_bundle",
-      "url": "https://humblebundle.com/games/puzzlers-to-puzzle-you",
-      "machine_name": "puzzlerstopuzzleyou_bundle",
-      "title": "Puzzlers to Puzzle You",
+      "key": "phunkierphysics_bundle",
+      "url": "https://humblebundle.com/games/phunkier-physics",
+      "machine_name": "phunkierphysics_bundle",
+      "title": "Phunkier Physics",
       "category": "games",
       "end_at": "2026-11-14T05:00:00"
     },
@@ -227,19 +235,19 @@
       "end_at": "2026-11-08T19:00:00"
     },
     {
-      "key": "completehiggsfieldaivideocreationbundle_softwarebundle",
-      "url": "https://humblebundle.com/software/complete-higgsfield-ai-video-creation-bundle-software",
-      "machine_name": "completehiggsfieldaivideocreationbundle_softwarebundle",
-      "title": "The Complete Higgsfield AI Video Creation Bundle",
-      "category": "software",
-      "end_at": "2026-11-07T19:00:00"
-    },
-    {
       "key": "candelaobscuradarringtonpressfriends_bookbundle",
       "url": "https://humblebundle.com/books/candela-obscura-darrington-press-friends-books",
       "machine_name": "candelaobscuradarringtonpressfriends_bookbundle",
       "title": "Candela Obscura by Darrington Press & Friends",
       "category": "books",
+      "end_at": "2026-11-07T19:00:00"
+    },
+    {
+      "key": "completehiggsfieldaivideocreationbundle_softwarebundle",
+      "url": "https://humblebundle.com/software/complete-higgsfield-ai-video-creation-bundle-software",
+      "machine_name": "completehiggsfieldaivideocreationbundle_softwarebundle",
+      "title": "The Complete Higgsfield AI Video Creation Bundle",
+      "category": "software",
       "end_at": "2026-11-07T19:00:00"
     },
     {
@@ -249,14 +257,6 @@
       "title": "Urban Shadows Physical Collection",
       "category": "books",
       "end_at": "2026-11-06T19:00:00"
-    },
-    {
-      "key": "serenityforgeemotionalimpactbundle_bundle",
-      "url": "https://humblebundle.com/games/serenity-forge-emotional-impact-bundle",
-      "machine_name": "serenityforgeemotionalimpactbundle_bundle",
-      "title": "Serenity Forge Emotional Impact Bundle",
-      "category": "games",
-      "end_at": "2026-11-07T05:00:00"
     },
     {
       "key": "castlescrusadesrpgexperience_softwarebundle",
@@ -271,6 +271,14 @@
       "url": "https://humblebundle.com/games/double-fine-publisher-bundle",
       "machine_name": "doublefinepublisherbundle_bundle",
       "title": "Double Fine Publisher Bundle",
+      "category": "games",
+      "end_at": "2026-11-07T05:00:00"
+    },
+    {
+      "key": "serenityforgeemotionalimpactbundle_bundle",
+      "url": "https://humblebundle.com/games/serenity-forge-emotional-impact-bundle",
+      "machine_name": "serenityforgeemotionalimpactbundle_bundle",
+      "title": "Serenity Forge Emotional Impact Bundle",
       "category": "games",
       "end_at": "2026-11-07T05:00:00"
     },
@@ -291,14 +299,6 @@
       "end_at": "2026-11-05T19:00:00"
     },
     {
-      "key": "javaapress_bookbundle",
-      "url": "https://humblebundle.com/books/java-apress-books",
-      "machine_name": "javaapress_bookbundle",
-      "title": "Java by Apress",
-      "category": "books",
-      "end_at": "2026-11-04T19:00:00"
-    },
-    {
       "key": "factorymustgrow_bundle",
       "url": "https://humblebundle.com/games/factory-must-grow",
       "machine_name": "factorymustgrow_bundle",
@@ -315,19 +315,19 @@
       "end_at": "2026-11-05T05:00:00"
     },
     {
-      "key": "diyelectronicsgadgetsgamesandmoremake_bookbundle",
-      "url": "https://humblebundle.com/books/diy-electronics-gadgets-games-and-more-make-books",
-      "machine_name": "diyelectronicsgadgetsgamesandmoremake_bookbundle",
-      "title": "DIY Halloween Displays and Holiday Gifts",
+      "key": "javaapress_bookbundle",
+      "url": "https://humblebundle.com/books/java-apress-books",
+      "machine_name": "javaapress_bookbundle",
+      "title": "Java by Apress",
       "category": "books",
-      "end_at": "2026-11-03T19:00:00"
+      "end_at": "2026-11-04T19:00:00"
     },
     {
-      "key": "modernaigamedevcrashcourse_softwarebundle",
-      "url": "https://humblebundle.com/software/modern-ai-game-dev-crash-course-software",
-      "machine_name": "modernaigamedevcrashcourse_softwarebundle",
-      "title": "Modern A.I. Game Dev Crash Course",
-      "category": "software",
+      "key": "bestsellersamigurumimeteoorbooks_bookbundle",
+      "url": "https://humblebundle.com/books/bestsellers-amigurumi-meteoor-books-books",
+      "machine_name": "bestsellersamigurumimeteoorbooks_bookbundle",
+      "title": "Best-Sellers of Amigurumi by Meteoor Books",
+      "category": "books",
       "end_at": "2026-11-03T19:00:00"
     },
     {
@@ -339,10 +339,18 @@
       "end_at": "2026-11-03T19:00:00"
     },
     {
-      "key": "bestsellersamigurumimeteoorbooks_bookbundle",
-      "url": "https://humblebundle.com/books/bestsellers-amigurumi-meteoor-books-books",
-      "machine_name": "bestsellersamigurumimeteoorbooks_bookbundle",
-      "title": "Best-Sellers of Amigurumi by Meteoor Books",
+      "key": "modernaigamedevcrashcourse_softwarebundle",
+      "url": "https://humblebundle.com/software/modern-ai-game-dev-crash-course-software",
+      "machine_name": "modernaigamedevcrashcourse_softwarebundle",
+      "title": "Modern A.I. Game Dev Crash Course",
+      "category": "software",
+      "end_at": "2026-11-03T19:00:00"
+    },
+    {
+      "key": "diyelectronicsgadgetsgamesandmoremake_bookbundle",
+      "url": "https://humblebundle.com/books/diy-electronics-gadgets-games-and-more-make-books",
+      "machine_name": "diyelectronicsgadgetsgamesandmoremake_bookbundle",
+      "title": "DIY Halloween Displays and Holiday Gifts",
       "category": "books",
       "end_at": "2026-11-03T19:00:00"
     },
@@ -363,12 +371,12 @@
       "end_at": "2026-11-03T02:00:00"
     },
     {
-      "key": "celebrating100yearsthichnhathanhcollection_bookbundle",
-      "url": "https://humblebundle.com/books/celebrating-100-years--thich-nhat-hanh-collection-books",
-      "machine_name": "celebrating100yearsthichnhathanhcollection_bookbundle",
-      "title": "Celebrating 100 Years of Mindfulness, Peace, and Compassion: The Essential Thich Nhat Hanh Collection",
-      "category": "books",
-      "end_at": "2026-10-31T18:00:00"
+      "key": "galsandpalspqubejapanesegames_bundle",
+      "url": "https://humblebundle.com/games/gals-and-pals-pqube-japanese-games",
+      "machine_name": "galsandpalspqubejapanesegames_bundle",
+      "title": "Gals and Pals: PQube Japanese Games",
+      "category": "games",
+      "end_at": "2026-11-07T05:00:00"
     },
     {
       "key": "twistedtrilogiesandterrorsdarkvisualnovels_bundle",
@@ -376,15 +384,15 @@
       "machine_name": "twistedtrilogiesandterrorsdarkvisualnovels_bundle",
       "title": "Twisted Trilogies and Terrors: Dark Visual Novels",
       "category": "games",
-      "end_at": "2026-10-31T04:00:00"
+      "end_at": "2026-11-07T05:00:00"
     },
     {
-      "key": "galsandpalspqubejapanesegames_bundle",
-      "url": "https://humblebundle.com/games/gals-and-pals-pqube-japanese-games",
-      "machine_name": "galsandpalspqubejapanesegames_bundle",
-      "title": "Gals and Pals: PQube Japanese Games",
-      "category": "games",
-      "end_at": "2026-10-31T04:00:00"
+      "key": "unitypowerhousebundle_softwarebundle",
+      "url": "https://humblebundle.com/software/unity-powerhouse-bundle-software",
+      "machine_name": "unitypowerhousebundle_softwarebundle",
+      "title": "Unity Powerhouse Bundle",
+      "category": "software",
+      "end_at": "2026-11-04T19:00:00"
     },
     {
       "key": "completejavadeveloperbundle_softwarebundle",
@@ -395,20 +403,20 @@
       "end_at": "2026-11-04T19:00:00"
     },
     {
+      "key": "indiefighters_bundle",
+      "url": "https://humblebundle.com/games/indie-fighters",
+      "machine_name": "indiefighters_bundle",
+      "title": "Indie Fighters",
+      "category": "games",
+      "end_at": "2026-11-07T05:00:00"
+    },
+    {
       "key": "beyondrealityscifisurvivalvrcollection_bundle",
       "url": "https://humblebundle.com/games/beyond-reality-scifi-survival-vr-collection",
       "machine_name": "beyondrealityscifisurvivalvrcollection_bundle",
       "title": "Beyond Reality: Sci-Fi & Survival VR Collection",
       "category": "games",
       "end_at": "2026-11-05T05:00:00"
-    },
-    {
-      "key": "unitypowerhousebundle_softwarebundle",
-      "url": "https://humblebundle.com/software/unity-powerhouse-bundle-software",
-      "machine_name": "unitypowerhousebundle_softwarebundle",
-      "title": "Unity Powerhouse Bundle",
-      "category": "software",
-      "end_at": "2026-11-04T19:00:00"
     },
     {
       "key": "worldbuildershorrorsandhaunts_softwarebundle",
@@ -432,23 +440,7 @@
       "machine_name": "dungeonadventures3dprintableminiaturesscenery_softwarebundle",
       "title": "Dungeon Adventures! - 3D Printable Miniatures & Scenery",
       "category": "software",
-      "end_at": "2026-10-31T18:00:00"
-    },
-    {
-      "key": "gamerskitchencookbooksinsighteditions_bookbundle",
-      "url": "https://humblebundle.com/books/gamers-kitchen-cookbooks-insight-editions-books",
-      "machine_name": "gamerskitchencookbooksinsighteditions_bookbundle",
-      "title": "Gamer's Kitchen Cookbooks by Insight Editions",
-      "category": "books",
-      "end_at": "2026-10-31T18:00:00"
-    },
-    {
-      "key": "capcomclassicsbundle_bundle",
-      "url": "https://humblebundle.com/games/capcom-classics-bundle",
-      "machine_name": "capcomclassicsbundle_bundle",
-      "title": "Capcom Classics Bundle",
-      "category": "games",
-      "end_at": "2026-10-31T04:00:00"
+      "end_at": "2026-11-07T19:00:00"
     },
     {
       "key": "gamedevmegacities_softwarebundle",
@@ -459,36 +451,12 @@
       "end_at": "2026-11-03T19:00:00"
     },
     {
-      "key": "cybersecuritymonth2026oreilly_bookbundle",
-      "url": "https://humblebundle.com/books/cybersecurity-month-2026-oreilly-books",
-      "machine_name": "cybersecuritymonth2026oreilly_bookbundle",
-      "title": "Cybersecurity Month 2026 by O'Reilly",
-      "category": "books",
-      "end_at": "2026-10-31T18:00:00"
-    },
-    {
-      "key": "gatchamanandspeedracermadcavestudios_bookbundle",
-      "url": "https://humblebundle.com/books/gatchaman-and-speed-racer-mad-cave-studios-books",
-      "machine_name": "gatchamanandspeedracermadcavestudios_bookbundle",
-      "title": "Gatchaman and Speed Racer by Mad Cave Studios",
-      "category": "books",
-      "end_at": "2026-10-31T18:00:00"
-    },
-    {
       "key": "bestbundleindiefearsbundle_bundle",
       "url": "https://humblebundle.com/games/best-bundle-indie-fears-bundle",
       "machine_name": "bestbundleindiefearsbundle_bundle",
       "title": "Bundle - Indie Fears",
       "category": "games",
       "end_at": "2026-11-02T05:00:00"
-    },
-    {
-      "key": "lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle",
-      "url": "https://humblebundle.com/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
-      "machine_name": "lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle",
-      "title": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
-      "category": "software",
-      "end_at": "2026-10-31T18:00:00"
     }
   ]
 }
