@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-11-09T18:19:26Z",
-  "updated_at": "2026-11-09T18:20:17Z",
+  "generated_at": "2026-11-10T18:16:27Z",
+  "updated_at": "2026-11-10T18:17:17Z",
   "items": [
+    {
+      "key": "beholder10thanniversaryalawarcollection_bundle",
+      "url": "https://humblebundle.com/games/beholder-10th-anniversary-alawar-collection",
+      "machine_name": "beholder10thanniversaryalawarcollection_bundle",
+      "title": "Beholder 10th Anniversary: The Alawar Collection",
+      "category": "games",
+      "end_at": "2026-12-01T05:00:00"
+    },
+    {
+      "key": "certificationsandsecurityforcloudanddevopswiley_bookbundle",
+      "url": "https://humblebundle.com/books/certifications-and-security-for-cloud-and-devops-wiley-books",
+      "machine_name": "certificationsandsecurityforcloudanddevopswiley_bookbundle",
+      "title": "Certifications and Security for Cloud and DevOps by Wiley",
+      "category": "books",
+      "end_at": "2026-11-30T19:00:00"
+    },
     {
       "key": "elevateyouraudiodesignforgames_softwarebundle",
       "url": "https://humblebundle.com/software/elevate-your-audio-design-for-games-software",
@@ -67,14 +83,6 @@
       "end_at": "2026-11-26T19:00:00"
     },
     {
-      "key": "fromideastowebsites_softwarebundle",
-      "url": "https://humblebundle.com/software/from-ideas-to-websites-software",
-      "machine_name": "fromideastowebsites_softwarebundle",
-      "title": "From Ideas to Websites!",
-      "category": "software",
-      "end_at": "2026-11-26T19:00:00"
-    },
-    {
       "key": "beforeabsolutehowlegendswerebornimagecomics_bookbundle",
       "url": "https://humblebundle.com/books/before-absolute-how-legends-were-born-image-comics-books",
       "machine_name": "beforeabsolutehowlegendswerebornimagecomics_bookbundle",
@@ -91,12 +99,12 @@
       "end_at": "2026-11-26T19:00:00"
     },
     {
-      "key": "residentevilbiohazardunleashed2026_bundle",
-      "url": "https://humblebundle.com/games/resident-evil-biohazard-unleashed-2026",
-      "machine_name": "residentevilbiohazardunleashed2026_bundle",
-      "title": "Resident Evil: Biohazard Unleashed",
-      "category": "games",
-      "end_at": "2026-12-03T05:00:00"
+      "key": "fromideastowebsites_softwarebundle",
+      "url": "https://humblebundle.com/software/from-ideas-to-websites-software",
+      "machine_name": "fromideastowebsites_softwarebundle",
+      "title": "From Ideas to Websites!",
+      "category": "software",
+      "end_at": "2026-11-26T19:00:00"
     },
     {
       "key": "fantagraphicspresentstakumigraphicsartcrafteastasiancomics_bookbundle",
@@ -105,6 +113,22 @@
       "title": "Fantagraphics Presents Takumigraphics: The Art & Craft of East Asian Comics",
       "category": "books",
       "end_at": "2026-11-25T19:00:00"
+    },
+    {
+      "key": "residentevilbiohazardunleashed2026_bundle",
+      "url": "https://humblebundle.com/games/resident-evil-biohazard-unleashed-2026",
+      "machine_name": "residentevilbiohazardunleashed2026_bundle",
+      "title": "Resident Evil: Biohazard Unleashed",
+      "category": "games",
+      "end_at": "2026-12-03T05:00:00"
+    },
+    {
+      "key": "100yearspoulandersonopenroadmedia_bookbundle",
+      "url": "https://humblebundle.com/books/100-years-poul-anderson-open-road-media-books",
+      "machine_name": "100yearspoulandersonopenroadmedia_bookbundle",
+      "title": "100 Years of Poul Anderson by Open Road Media",
+      "category": "books",
+      "end_at": "2026-11-26T19:00:00"
     },
     {
       "key": "make30gameswithgodotunrealunityblackfridaybundle_softwarebundle",
@@ -123,22 +147,6 @@
       "end_at": "2026-11-24T19:00:00"
     },
     {
-      "key": "100yearspoulandersonopenroadmedia_bookbundle",
-      "url": "https://humblebundle.com/books/100-years-poul-anderson-open-road-media-books",
-      "machine_name": "100yearspoulandersonopenroadmedia_bookbundle",
-      "title": "100 Years of Poul Anderson by Open Road Media",
-      "category": "books",
-      "end_at": "2026-11-26T19:00:00"
-    },
-    {
-      "key": "crimesandcuriositybundles2games_bundle",
-      "url": "https://humblebundle.com/games/crimes-and-curiosity-bundle-s2-games",
-      "machine_name": "crimesandcuriositybundles2games_bundle",
-      "title": "Crimes and Curiosity Bundle by S2 Games",
-      "category": "games",
-      "end_at": "2026-11-24T05:00:00"
-    },
-    {
       "key": "timelessworldsenvironmentpacks_softwarebundle",
       "url": "https://humblebundle.com/software/timeless-worlds-environment-packs-software",
       "machine_name": "timelessworldsenvironmentpacks_softwarebundle",
@@ -155,12 +163,12 @@
       "end_at": "2026-11-23T19:00:00"
     },
     {
-      "key": "corelpainter2026encore_softwarebundle",
-      "url": "https://humblebundle.com/software/create-and-elevate-amazing-art-tools-from-corel-software-encore",
-      "machine_name": "corelpainter2026encore_softwarebundle",
-      "title": "Create & Elevate: Amazing Art Tools from Corel LAST CHANCE",
-      "category": "software",
-      "end_at": "2026-11-27T07:00:00"
+      "key": "crimesandcuriositybundles2games_bundle",
+      "url": "https://humblebundle.com/games/crimes-and-curiosity-bundle-s2-games",
+      "machine_name": "crimesandcuriositybundles2games_bundle",
+      "title": "Crimes and Curiosity Bundle by S2 Games",
+      "category": "games",
+      "end_at": "2026-11-24T05:00:00"
     },
     {
       "key": "freedomtocreatewithcorelgraphicssuite2025_softwarebundle_encore",
@@ -169,6 +177,14 @@
       "title": "Freedom to Create with COREL Graphics Suite 2025 Last Chance Encore",
       "category": "software",
       "end_at": "2026-11-26T19:00:00"
+    },
+    {
+      "key": "corelpainter2026encore_softwarebundle",
+      "url": "https://humblebundle.com/software/create-and-elevate-amazing-art-tools-from-corel-software-encore",
+      "machine_name": "corelpainter2026encore_softwarebundle",
+      "title": "Create & Elevate: Amazing Art Tools from Corel LAST CHANCE",
+      "category": "software",
+      "end_at": "2026-11-27T07:00:00"
     },
     {
       "key": "halloweenhorrorbundlevaultcomics_bookbundle",
@@ -203,22 +219,6 @@
       "end_at": "2026-11-19T19:00:00"
     },
     {
-      "key": "maximumentertainmentindiehits_bundle",
-      "url": "https://humblebundle.com/games/maximum-entertainment-indie-hits",
-      "machine_name": "maximumentertainmentindiehits_bundle",
-      "title": "Maximum Entertainment Indie Hits",
-      "category": "games",
-      "end_at": "2026-11-12T05:00:00"
-    },
-    {
-      "key": "pythonmasterypragmaticprogrammers_bookbundle",
-      "url": "https://humblebundle.com/books/python-mastery-pragmatic-programmers-books",
-      "machine_name": "pythonmasterypragmaticprogrammers_bookbundle",
-      "title": "Python Mastery by Pragmatic Programmers",
-      "category": "books",
-      "end_at": "2026-11-18T19:00:00"
-    },
-    {
       "key": "soundstodieforhorroraudiocollection_softwarebundle",
       "url": "https://humblebundle.com/software/sounds-to-die-for-horror-audio-collection-software",
       "machine_name": "soundstodieforhorroraudiocollection_softwarebundle",
@@ -235,12 +235,20 @@
       "end_at": "2026-11-19T05:00:00"
     },
     {
-      "key": "rickandmortyforeverthegrandfinalebyonipress_bookbundle",
-      "url": "https://humblebundle.com/books/ricky-and-morty-forever-the-grand-finale-by-onipress-books",
-      "machine_name": "rickandmortyforeverthegrandfinalebyonipress_bookbundle",
-      "title": "Rick and Morty Forever! The Grand Finale Bundle by Oni Press",
+      "key": "pythonmasterypragmaticprogrammers_bookbundle",
+      "url": "https://humblebundle.com/books/python-mastery-pragmatic-programmers-books",
+      "machine_name": "pythonmasterypragmaticprogrammers_bookbundle",
+      "title": "Python Mastery by Pragmatic Programmers",
       "category": "books",
-      "end_at": "2026-11-17T19:00:00"
+      "end_at": "2026-11-18T19:00:00"
+    },
+    {
+      "key": "maximumentertainmentindiehits_bundle",
+      "url": "https://humblebundle.com/games/maximum-entertainment-indie-hits",
+      "machine_name": "maximumentertainmentindiehits_bundle",
+      "title": "Maximum Entertainment Indie Hits",
+      "category": "games",
+      "end_at": "2026-11-12T05:00:00"
     },
     {
       "key": "ultimateaiimagetoolkit_softwarebundle",
@@ -248,6 +256,14 @@
       "machine_name": "ultimateaiimagetoolkit_softwarebundle",
       "title": "The Ultimate AI Image Toolkit",
       "category": "software",
+      "end_at": "2026-11-17T19:00:00"
+    },
+    {
+      "key": "rickandmortyforeverthegrandfinalebyonipress_bookbundle",
+      "url": "https://humblebundle.com/books/ricky-and-morty-forever-the-grand-finale-by-onipress-books",
+      "machine_name": "rickandmortyforeverthegrandfinalebyonipress_bookbundle",
+      "title": "Rick and Morty Forever! The Grand Finale Bundle by Oni Press",
+      "category": "books",
       "end_at": "2026-11-17T19:00:00"
     },
     {
@@ -323,14 +339,6 @@
       "end_at": "2026-11-14T05:00:00"
     },
     {
-      "key": "undeadsurvivalhorroressentials_softwarebundle",
-      "url": "https://humblebundle.com/software/undead-survival-horror-essentials-software",
-      "machine_name": "undeadsurvivalhorroressentials_softwarebundle",
-      "title": "Undead Survival & Horror Essentials",
-      "category": "software",
-      "end_at": "2026-11-11T19:00:00"
-    },
-    {
       "key": "bluelockperfectshotbundlekodansha_bookbundle",
       "url": "https://humblebundle.com/books/blue-lock-perfect-shot-bundle-kodansha-books",
       "machine_name": "bluelockperfectshotbundlekodansha_bookbundle",
@@ -347,12 +355,12 @@
       "end_at": "2026-11-12T19:00:00"
     },
     {
-      "key": "15thanniversaryscifiexposure_bundle",
-      "url": "https://humblebundle.com/games/15th-anniversary-scifi-exposure",
-      "machine_name": "15thanniversaryscifiexposure_bundle",
-      "title": "15th Anniversary - Sci-Fi Exposure",
-      "category": "games",
-      "end_at": "2026-11-12T05:00:00"
+      "key": "undeadsurvivalhorroressentials_softwarebundle",
+      "url": "https://humblebundle.com/software/undead-survival-horror-essentials-software",
+      "machine_name": "undeadsurvivalhorroressentials_softwarebundle",
+      "title": "Undead Survival & Horror Essentials",
+      "category": "software",
+      "end_at": "2026-11-11T19:00:00"
     },
     {
       "key": "roboticsautomationengineeringmasterybundlepackt_bookbundle",
@@ -363,12 +371,12 @@
       "end_at": "2026-11-11T19:00:00"
     },
     {
-      "key": "ecarchivestalesfromcryptdarkhorseeccomics_bookbundle",
-      "url": "https://humblebundle.com/books/ec-archives-tales-from-crypt-dark-horse-ec-comics-books",
-      "machine_name": "ecarchivestalesfromcryptdarkhorseeccomics_bookbundle",
-      "title": "The EC Archives: Tales From the Crypt and Other Stories by Dark Horse & EC Comics",
-      "category": "books",
-      "end_at": "2026-11-10T19:00:00"
+      "key": "15thanniversaryscifiexposure_bundle",
+      "url": "https://humblebundle.com/games/15th-anniversary-scifi-exposure",
+      "machine_name": "15thanniversaryscifiexposure_bundle",
+      "title": "15th Anniversary - Sci-Fi Exposure",
+      "category": "games",
+      "end_at": "2026-11-12T05:00:00"
     },
     {
       "key": "flat2vrbundle_bundle",
@@ -379,12 +387,12 @@
       "end_at": "2026-11-11T05:00:00"
     },
     {
-      "key": "completeworksmassivecollectionroyaltyfreeaudiotracks_softwarebundle",
-      "url": "https://humblebundle.com/software/complete-works-massive-collection-royaltyfree-audio-tracks-software",
-      "machine_name": "completeworksmassivecollectionroyaltyfreeaudiotracks_softwarebundle",
-      "title": "The Complete Works - A Massive collection of Royalty-Free Audio Tracks",
-      "category": "software",
-      "end_at": "2026-11-09T19:00:00"
+      "key": "ecarchivestalesfromcryptdarkhorseeccomics_bookbundle",
+      "url": "https://humblebundle.com/books/ec-archives-tales-from-crypt-dark-horse-ec-comics-books",
+      "machine_name": "ecarchivestalesfromcryptdarkhorseeccomics_bookbundle",
+      "title": "The EC Archives: Tales From the Crypt and Other Stories by Dark Horse & EC Comics",
+      "category": "books",
+      "end_at": "2026-11-10T19:00:00"
     },
     {
       "key": "itmanagementtoolkittaylorfrancis_bookbundle",
@@ -392,7 +400,15 @@
       "machine_name": "itmanagementtoolkittaylorfrancis_bookbundle",
       "title": "IT Management Toolkit by Taylor & Francis",
       "category": "books",
-      "end_at": "2026-11-09T19:00:00"
+      "end_at": "2026-11-16T19:00:00"
+    },
+    {
+      "key": "completeworksmassivecollectionroyaltyfreeaudiotracks_softwarebundle",
+      "url": "https://humblebundle.com/software/complete-works-massive-collection-royaltyfree-audio-tracks-software",
+      "machine_name": "completeworksmassivecollectionroyaltyfreeaudiotracks_softwarebundle",
+      "title": "The Complete Works - A Massive collection of Royalty-Free Audio Tracks",
+      "category": "software",
+      "end_at": "2026-11-16T19:00:00"
     },
     {
       "key": "castlescrusadesrpgexperience_softwarebundle",
@@ -401,6 +417,14 @@
       "title": "Castles & Crusades RPG Experience",
       "category": "books",
       "end_at": "2026-11-13T19:00:00"
+    },
+    {
+      "key": "dynamitetrickortreatbundledynamite_bookbundle",
+      "url": "https://humblebundle.com/books/dynamite-trickortreat-bundle-dynamite-books",
+      "machine_name": "dynamitetrickortreatbundledynamite_bookbundle",
+      "title": "The Dynamite Trick-or-Treat Bundle by Dynamite",
+      "category": "books",
+      "end_at": "2026-11-12T19:00:00"
     },
     {
       "key": "premiumassetsunrealgamedevcollection_softwarebundle",
@@ -427,6 +451,14 @@
       "end_at": "2026-11-12T05:00:00"
     },
     {
+      "key": "bestsellersamigurumimeteoorbooks_bookbundle",
+      "url": "https://humblebundle.com/books/bestsellers-amigurumi-meteoor-books-books",
+      "machine_name": "bestsellersamigurumimeteoorbooks_bookbundle",
+      "title": "Best-Sellers of Amigurumi by Meteoor Books",
+      "category": "books",
+      "end_at": "2026-11-10T19:00:00"
+    },
+    {
       "key": "diyelectronicsgadgetsgamesandmoremake_bookbundle",
       "url": "https://humblebundle.com/books/diy-electronics-gadgets-games-and-more-make-books",
       "machine_name": "diyelectronicsgadgetsgamesandmoremake_bookbundle",
@@ -443,20 +475,12 @@
       "end_at": "2026-11-10T19:00:00"
     },
     {
-      "key": "bestsellersamigurumimeteoorbooks_bookbundle",
-      "url": "https://humblebundle.com/books/bestsellers-amigurumi-meteoor-books-books",
-      "machine_name": "bestsellersamigurumimeteoorbooks_bookbundle",
-      "title": "Best-Sellers of Amigurumi by Meteoor Books",
-      "category": "books",
-      "end_at": "2026-11-10T19:00:00"
-    },
-    {
       "key": "softwareengineering2026_softwarebundle",
       "url": "https://humblebundle.com/software/software-engineering-2026-software",
       "machine_name": "softwareengineering2026_softwarebundle",
       "title": "Software Engineering 2026",
       "category": "software",
-      "end_at": "2026-11-09T19:00:00"
+      "end_at": "2026-11-16T19:00:00"
     },
     {
       "key": "unitypowerhousebundle_softwarebundle",
@@ -481,22 +505,6 @@
       "title": "African Futurism: Nnedi Okorafor, Wole Talabi, and Adam Oyebanji by DAW Books",
       "category": "books",
       "end_at": "2026-11-17T19:00:00"
-    },
-    {
-      "key": "worldbuildershorrorsandhaunts_softwarebundle",
-      "url": "https://humblebundle.com/software/world-builders-horrors-and-haunts-software",
-      "machine_name": "worldbuildershorrorsandhaunts_softwarebundle",
-      "title": "World Builders: Horrors and Haunts",
-      "category": "software",
-      "end_at": "2026-11-09T19:00:00"
-    },
-    {
-      "key": "excelwiley_bookbundle",
-      "url": "https://humblebundle.com/books/excel-wiley-books",
-      "machine_name": "excelwiley_bookbundle",
-      "title": "Excel by Wiley",
-      "category": "books",
-      "end_at": "2026-11-09T19:00:00"
     }
   ]
 }
