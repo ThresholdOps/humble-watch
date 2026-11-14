@@ -4,10 +4,16 @@ from __future__ import annotations
 import json
 import os
 import re
+import smtplib
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib import request
+
+if __package__:
+    from .email_digest import send_email_digest
+else:
+    from email_digest import send_email_digest
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
@@ -226,6 +232,10 @@ def main() -> int:
     message = build_message()
     print(message)
     send_discord(message)
+    try:
+        send_email_digest(message, load_json("all.json").get("generated_at", now_utc()))
+    except (OSError, ValueError, smtplib.SMTPException) as exc:
+        print(f"Email digest failed: {exc}", file=sys.stderr)
     return 0
 
 

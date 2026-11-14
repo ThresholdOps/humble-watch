@@ -20,6 +20,7 @@ This project is not affiliated with Humble Bundle, Inc.
 - Expandable tier chip UI showing new items per tier.
 - Configurable interest matching through `config/interests.json`.
 - Compact Discord daily digest with new bundles, rolling 0–24h and 24–48h expiry windows, and interesting matches.
+- Optional private SMTP digest and external newsletter signup link.
 - Manual and scheduled GitHub Actions generation.
 
 ## Generated outputs
@@ -92,6 +93,20 @@ The digest currently includes:
 - bundles ending within 24 hours,
 - bundles ending in 24–48 hours,
 - interesting matches from `config/interests.json`.
+
+## Email digests and newsletter signup
+
+The same digest can be sent privately to a fixed recipient list over encrypted SMTP. Configure these GitHub Actions secrets to enable it:
+
+- `DIGEST_EMAIL_FROM` — sender address
+- `DIGEST_EMAIL_TO` — comma-separated trusted recipients
+- `DIGEST_SMTP_HOST` — SMTP server
+- `DIGEST_SMTP_USERNAME` — SMTP login
+- `DIGEST_SMTP_PASSWORD` — SMTP password or app password
+
+Optionally set repository variable `DIGEST_SMTP_PORT` to `465` for implicit TLS; the default is `587` with STARTTLS. If none of the secrets is set, email delivery is skipped. Partial configuration is logged as an email error while feed publication continues.
+
+For a public newsletter, use a provider that handles signup, consent, unsubscribe, and delivery. Set `newsletter_signup_url` in `docs/site-config.json` to its HTTPS signup form. The dashboard shows an **Email updates** link only when that URL is configured. Subscriber addresses are never stored in this repository.
 
 ## Workflows
 

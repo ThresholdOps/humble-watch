@@ -45,10 +45,16 @@ jobs:
           test -f docs/all.rss
           test -f docs/details.json
 
-      - name: Send Discord digest and update seen snapshot
+      - name: Send digests and update seen snapshot
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           HUMBLE_WATCH_SITE_URL: ${{ vars.HUMBLE_WATCH_SITE_URL }}
+          DIGEST_EMAIL_FROM: ${{ secrets.DIGEST_EMAIL_FROM }}
+          DIGEST_EMAIL_TO: ${{ secrets.DIGEST_EMAIL_TO }}
+          DIGEST_SMTP_HOST: ${{ secrets.DIGEST_SMTP_HOST }}
+          DIGEST_SMTP_PORT: ${{ vars.DIGEST_SMTP_PORT }}
+          DIGEST_SMTP_USERNAME: ${{ secrets.DIGEST_SMTP_USERNAME }}
+          DIGEST_SMTP_PASSWORD: ${{ secrets.DIGEST_SMTP_PASSWORD }}
         run: python scripts/discord_digest.py
 
       - name: Commit generated feed files
