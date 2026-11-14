@@ -53,6 +53,8 @@ This should generate:
 docs/details.json
 ```
 
+The script reuses recent entries and fetches new or changed bundles. Use `--refresh-all` to fetch every active bundle, or `--refresh-after-hours 24` to set a one-day cache lifetime.
+
 ## Preview the dashboard locally
 
 Use a local HTTP server. Do not rely on opening `docs/index.html` directly from disk, because browser `file://` mode may block `fetch()` calls for JSON files.

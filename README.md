@@ -19,7 +19,7 @@ This project is not affiliated with Humble Bundle, Inc.
 - Live countdown for bundles ending within 24 hours.
 - Expandable tier chip UI showing new items per tier.
 - Configurable interest matching through `config/interests.json`.
-- Compact Discord daily digest with new bundles, ending-today, ending-tomorrow, and interesting matches.
+- Compact Discord daily digest with new bundles, rolling 0–24h and 24–48h expiry windows, and interesting matches.
 - Manual and scheduled GitHub Actions generation.
 
 ## Generated outputs
@@ -89,8 +89,8 @@ Optional repository variable:
 The digest currently includes:
 
 - new bundles detected since the previous `seen.json` snapshot,
-- bundles ending today,
-- bundles ending tomorrow,
+- bundles ending within 24 hours,
+- bundles ending in 24–48 hours,
 - interesting matches from `config/interests.json`.
 
 ## Workflows
@@ -104,6 +104,8 @@ The repository includes GitHub Actions workflows for:
 - diagnostic tier discovery and parser workflows used during development.
 
 The scheduled workflow uses UTC cron entries plus a Warsaw-local time gate to handle CEST/CET changes.
+
+The detail generator reuses `docs/details.json` entries for up to seven days when bundle metadata is unchanged. Run `python scripts/details_json_v1.py --refresh-all` to refresh every active bundle, or set `--refresh-after-hours` to change the cache lifetime.
 
 ## Local setup
 

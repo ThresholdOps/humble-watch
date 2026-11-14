@@ -4,11 +4,11 @@ import (
 	"bufio"
 	"encoding/json"
 	"fmt"
+	"io"
 	"net/http"
 	"os"
 	"sort"
 	"strings"
-	"sync"
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
@@ -19,18 +19,18 @@ import (
 const baseURL = "https://humblebundle.com"
 
 type BundleItem struct {
-	Category          string   `json:"category"`
-	Title             string   `json:"title"`
-	URL               string   `json:"url"`
-	Description       string   `json:"description"`
-	LongDescription   string   `json:"long_description"`
-	StartAt           string   `json:"start_at"`
-	EndAt             string   `json:"end_at"`
-	DaysLeft          *float64 `json:"days_left"`
-	HoursLeft         *float64 `json:"hours_left"`
-	MachineName       string   `json:"machine_name"`
-	BundlesSold       float64  `json:"bundles_sold"`
-	TileStamp         string   `json:"tile_stamp"`
+	Category        string   `json:"category"`
+	Title           string   `json:"title"`
+	URL             string   `json:"url"`
+	Description     string   `json:"description"`
+	LongDescription string   `json:"long_description"`
+	StartAt         string   `json:"start_at"`
+	EndAt           string   `json:"end_at"`
+	DaysLeft        *float64 `json:"days_left"`
+	HoursLeft       *float64 `json:"hours_left"`
+	MachineName     string   `json:"machine_name"`
+	BundlesSold     float64  `json:"bundles_sold"`
+	TileStamp       string   `json:"tile_stamp"`
 }
 
 type AllBundlesOutput struct {
@@ -39,41 +39,66 @@ type AllBundlesOutput struct {
 }
 
 type UrgentBundlesOutput struct {
-	GeneratedAt        string       `json:"generated_at"`
-	ExpiresToday       []BundleItem `json:"expires_today"`
-	ExpiresTomorrow    []BundleItem `json:"expires_tomorrow"`
-	ExpiresWithin72h   []BundleItem `json:"expires_within_72h"`
+	GeneratedAt      string       `json:"generated_at"`
+	ExpiresToday     []BundleItem `json:"expires_today"`
+	ExpiresTomorrow  []BundleItem `json:"expires_tomorrow"`
+	ExpiresWithin72h []BundleItem `json:"expires_within_72h"`
 }
 
-func Run() {
-	wg := sync.WaitGroup{}
-	results := make(chan []BundleItem, 3)
-
-	for _, category := range []string{"books", "games", "software"} {
-		wg.Add(1)
-		go updateCategory(&wg, category, results)
-	}
-
-	wg.Wait()
-	close(results)
-
+func Run() error {
+	client := &http.Client{Timeout: 30 * time.Second}
 	allItems := make([]BundleItem, 0)
-	for items := range results {
+	for _, category := range []string{"books", "games", "software"} {
+		items, err := fetchCategory(client, category)
+		if err != nil {
+			return fmt.Errorf("fetching %s bundles: %w", category, err)
+		}
 		allItems = append(allItems, items...)
 	}
+	preserveStartDates(allItems)
 
 	sort.Slice(allItems, func(i, j int) bool {
 		return allItems[i].StartAt > allItems[j].StartAt
 	})
-
-	if err := writeAllJSON(allItems); err != nil {
-		log.WithField("step", "writing all.json").Error(err)
+	byCategory := make(map[string][]BundleItem)
+	for _, item := range allItems {
+		byCategory[item.Category] = append(byCategory[item.Category], item)
 	}
-	if err := writeUrgentJSON(allItems); err != nil {
-		log.WithField("step", "writing urgent.json").Error(err)
+
+	for _, category := range []string{"books", "games", "software"} {
+		if err := writeFeedToFile(createFeedFromItems(byCategory[category], category), category); err != nil {
+			return fmt.Errorf("writing %s.rss: %w", category, err)
+		}
 	}
 	if err := writeFeedToFile(createFeedFromItems(allItems, "all"), "all"); err != nil {
-		log.WithField("step", "writing all.rss").Error(err)
+		return fmt.Errorf("writing all.rss: %w", err)
+	}
+	if err := writeUrgentJSON(allItems); err != nil {
+		return fmt.Errorf("writing urgent.json: %w", err)
+	}
+	if err := writeAllJSON(allItems); err != nil {
+		return fmt.Errorf("writing all.json: %w", err)
+	}
+	return nil
+}
+
+func preserveStartDates(items []BundleItem) {
+	data, err := os.ReadFile("all.json")
+	if err != nil {
+		return
+	}
+	var previous AllBundlesOutput
+	if json.Unmarshal(data, &previous) != nil {
+		return
+	}
+	byURL := make(map[string]string, len(previous.Items))
+	for _, item := range previous.Items {
+		byURL[item.URL] = item.StartAt
+	}
+	for i := range items {
+		if start := byURL[items[i].URL]; start != "" {
+			items[i].StartAt = start
+		}
 	}
 }
 
@@ -243,40 +268,29 @@ func parseProducts(data []byte, category string) ([]Product, error) {
 	}
 }
 
-func updateCategory(wg *sync.WaitGroup, category string, results chan<- []BundleItem) {
-	defer wg.Done()
-
-	resp, err := http.Get(fmt.Sprintf("https://www.humblebundle.com/%s", category))
+func fetchCategory(client *http.Client, category string) ([]BundleItem, error) {
+	resp, err := client.Get(fmt.Sprintf("https://www.humblebundle.com/%s", category))
 	if err != nil {
-		log.WithField("category", category).Error(err)
-		return
+		return nil, err
 	}
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
-		log.WithFields(log.Fields{
-			"category": category,
-			"status":   resp.StatusCode,
-		}).Error("unexpected HTTP status")
-		return
+		return nil, fmt.Errorf("unexpected HTTP status %d", resp.StatusCode)
 	}
+	return parseCategoryHTML(resp.Body, category, time.Now().UTC())
+}
 
-	doc, err := goquery.NewDocumentFromReader(resp.Body)
+func parseCategoryHTML(reader io.Reader, category string, observedAt time.Time) ([]BundleItem, error) {
+	doc, err := goquery.NewDocumentFromReader(reader)
 	if err != nil {
-		log.WithField("category", category).Error(err)
-		return
+		return nil, err
 	}
-
-	doc.Find("script#landingPage-json-data").Each(func(idx int, s *goquery.Selection) {
-		node := s.Nodes[0]
-		data := node.FirstChild.Data
-
-		products, err := parseProducts([]byte(data), category)
+	if old := doc.Find("script#landingPage-json-data").First(); old.Length() > 0 {
+		products, err := parseProducts([]byte(old.Text()), category)
 		if err != nil {
-			log.WithField("step", "parsing").Error(err)
-			return
+			return nil, err
 		}
-
 		items := make([]BundleItem, 0, len(products))
 		for _, product := range products {
 			item, ok := normalizeProduct(product, category)
@@ -284,15 +298,94 @@ func updateCategory(wg *sync.WaitGroup, category string, results chan<- []Bundle
 				items = append(items, item)
 			}
 		}
-
-		feed := createFeedFromItems(items, category)
-
-		if err := writeFeedToFile(feed, category); err != nil {
-			log.WithField("step", "writing").Error(err)
+		if len(items) == 0 {
+			return nil, fmt.Errorf("no valid bundles in %s listing", category)
 		}
+		return items, nil
+	}
 
-		results <- items
+	var feedItems []struct {
+		RelationTo string `json:"relationTo"`
+		Value      struct {
+			ProductKey         string   `json:"productKey"`
+			URL                string   `json:"url"`
+			Title              string   `json:"title"`
+			EndDate            string   `json:"endDate"`
+			Category           string   `json:"category"`
+			ProductType        string   `json:"productType"`
+			Description        string   `json:"description"`
+			IncludedItemTitles []string `json:"includedItemTitles"`
+			NumSold            *float64 `json:"numSold"`
+		} `json:"value"`
+	}
+	found := false
+	doc.Find("script").EachWithBreak(func(_ int, script *goquery.Selection) bool {
+		content := strings.TrimSpace(script.Text())
+		const prefix = "self.__next_f.push("
+		if !strings.HasPrefix(content, prefix) || !strings.HasSuffix(content, ")") {
+			return true
+		}
+		var chunk []json.RawMessage
+		if json.Unmarshal([]byte(content[len(prefix):len(content)-1]), &chunk) != nil || len(chunk) < 2 {
+			return true
+		}
+		var payload string
+		if json.Unmarshal(chunk[1], &payload) != nil {
+			return true
+		}
+		marker := `"feedItems":`
+		index := strings.Index(payload, marker)
+		if index < 0 {
+			return true
+		}
+		found = true
+		decoder := json.NewDecoder(strings.NewReader(payload[index+len(marker):]))
+		if decoder.Decode(&feedItems) != nil {
+			feedItems = nil
+		}
+		return false
 	})
+	if !found || len(feedItems) == 0 {
+		return nil, fmt.Errorf("no bundle feedItems found in %s listing", category)
+	}
+	items := make([]BundleItem, 0, len(feedItems))
+	for _, entry := range feedItems {
+		value := entry.Value
+		if entry.RelationTo != "algolia-hit" || value.ProductType != "humble-bundle" || value.Category != category || value.URL == "" || value.Title == "" {
+			continue
+		}
+		endAt, err := time.Parse(time.RFC3339, value.EndDate)
+		if err != nil || !endAt.After(observedAt) {
+			continue
+		}
+		url := value.URL
+		if strings.HasPrefix(url, "/") {
+			url = baseURL + url
+		}
+		hours := round(endAt.Sub(observedAt).Hours(), 1)
+		days := round(endAt.Sub(observedAt).Hours()/24, 2)
+		description := value.Description
+		if description == "$undefined" || description == "" {
+			description = strings.Join(value.IncludedItemTitles, ", ")
+		}
+		item := BundleItem{
+			Category: category, Title: value.Title, URL: url,
+			Description:     description,
+			LongDescription: strings.Join(value.IncludedItemTitles, ", "),
+			StartAt:         observedAt.Format("2006-01-02T15:04:05"),
+			EndAt:           endAt.UTC().Format("2006-01-02T15:04:05"),
+			DaysLeft:        &days, HoursLeft: &hours,
+			MachineName: value.ProductKey, TileStamp: category,
+		}
+		if value.NumSold != nil {
+			item.BundlesSold = *value.NumSold
+		}
+		items = append(items, item)
+	}
+	if len(items) == 0 {
+		return nil, fmt.Errorf("no valid bundles in %s feedItems", category)
+	}
+	return items, nil
 }
 
 func writeFeedToFile(feed feeds.Feed, category string) error {

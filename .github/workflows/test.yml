@@ -22,3 +22,6 @@ jobs:
 
       - name: Run tests
         run: go test ./...
+
+      - name: Run Python tests
+        run: python3 -m unittest discover -s tests -v

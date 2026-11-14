@@ -1,7 +1,13 @@
 package main
 
-import gohumble "github.com/Feuerlord2/Humble-RSS-Site/pkg"
+import (
+	"log"
+
+	gohumble "github.com/Feuerlord2/Humble-RSS-Site/pkg"
+)
 
 func main() {
-	gohumble.Run()
+	if err := gohumble.Run(); err != nil {
+		log.Fatal(err)
+	}
 }

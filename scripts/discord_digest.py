@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -147,7 +148,15 @@ def item_haystack(item: dict) -> str:
 
 
 def matched_keywords(haystack: str, keywords: list[str]) -> list[str]:
-    return [keyword for keyword in keywords if keyword.lower() in haystack]
+    matches = []
+    for keyword in keywords:
+        words = keyword.strip().split()
+        if not words:
+            continue
+        pattern = r"(?<!\w)" + r"\s+".join(re.escape(word) for word in words) + r"(?!\w)"
+        if re.search(pattern, haystack, re.IGNORECASE):
+            matches.append(keyword)
+    return matches
 
 
 def find_interesting(all_items: list[dict]) -> list[dict]:
@@ -166,6 +175,7 @@ def find_interesting(all_items: list[dict]) -> list[dict]:
             continue
         enriched = dict(item)
         enriched["interest_rank"] = 0 if high_matches else 1
+        enriched["matched_terms"] = {"high": high_matches, "medium": medium_matches}
         matches.append(enriched)
     matches.sort(key=lambda x: (x.get("interest_rank", 9), float(x.get("hours_left", 999999) or 999999)))
     return matches[:MAX_SECTION_ITEMS]
@@ -187,9 +197,9 @@ def build_message() -> str:
         "",
         section("New bundles", new_bundles, "🆕"),
         "",
-        section("Ending today", urgent.get("expires_today", []), "⏳"),
+        section("Ending within 24h", urgent.get("expires_today", []), "⏳"),
         "",
-        section("Ending tomorrow", urgent.get("expires_tomorrow", []), "🌅"),
+        section("Ending 24–48h", urgent.get("expires_tomorrow", []), "🌅"),
         "",
         section("Interesting matches", find_interesting(all_items), "🎯"),
     ]
