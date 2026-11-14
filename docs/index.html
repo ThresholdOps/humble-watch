@@ -23,6 +23,7 @@
                 <a href="./all.json">all.json</a>
                 <a href="./urgent.json">urgent.json</a>
                 <a href="./details.json">details.json</a>
+                <a id="newsletter-signup" hidden target="_blank" rel="noopener noreferrer">Email updates</a>
             </nav>
         </header>
 
@@ -347,11 +348,25 @@
             fetch('./details.json', { cache: 'no-store' }).then(response => {
                 if (!response.ok) return { items: [] };
                 return response.json();
-            }).catch(() => ({ items: [] }))
+            }).catch(() => ({ items: [] })),
+            fetch('./site-config.json', { cache: 'no-store' }).then(response => {
+                if (!response.ok) return {};
+                return response.json();
+            }).catch(() => ({}))
         ])
-            .then(([data, details]) => {
+            .then(([data, details, siteConfig]) => {
                 state.items = data.items || [];
                 state.detailsByUrl = new Map((details.items || []).map(item => [item.url, item]));
+                try {
+                    const signupUrl = new URL(siteConfig.newsletter_signup_url);
+                    if (signupUrl.protocol === 'https:') {
+                        const link = document.getElementById('newsletter-signup');
+                        link.href = signupUrl.href;
+                        link.hidden = false;
+                    }
+                } catch {
+                    // The optional signup link stays hidden until a provider URL is configured.
+                }
                 updateSummary(data);
                 render();
                 startCountdownTimer();
