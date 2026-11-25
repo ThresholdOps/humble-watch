@@ -158,7 +158,11 @@ def parse_bundle(source: dict[str, Any]) -> dict[str, Any]:
 
 def parse_next_bundle(source: dict[str, Any], bundle: dict[str, Any]) -> dict[str, Any]:
     raw_tiers = bundle.get("tiers") or []
-    reference = re.compile(r"^\$[0-9a-f]+:0:props:children:props:bundlePage:tiers:(\d+):bundleItems:(\d+)$")
+    reference = re.compile(
+        r"^\$[0-9a-f]+:"
+        r"(?:0:props:children|props:children:0:props:children)"
+        r":props:bundlePage:tiers:(\d+):bundleItems:(\d+)$"
+    )
 
     def resolve_item(raw: Any, seen: set[tuple[int, int]] | None = None) -> dict[str, Any]:
         if isinstance(raw, dict):
@@ -167,11 +171,15 @@ def parse_next_bundle(source: dict[str, Any], bundle: dict[str, Any]) -> dict[st
         if not match:
             raise ValueError(f"unexpected bundle item reference: {raw!r}")
         position = (int(match.group(1)), int(match.group(2)))
-        seen = seen or set()
+        seen = set() if seen is None else seen
         if position in seen:
             raise ValueError("cyclic bundle item reference")
         seen.add(position)
-        return resolve_item(raw_tiers[position[0]]["bundleItems"][position[1]], seen)
+        try:
+            target = raw_tiers[position[0]]["bundleItems"][position[1]]
+        except (IndexError, KeyError, TypeError) as exc:
+            raise ValueError(f"invalid bundle item reference target: {raw!r}") from exc
+        return resolve_item(target, seen)
 
     tiers: list[dict[str, Any]] = []
     for index, raw_tier in enumerate(sorted(raw_tiers, key=lambda tier: (tier.get("price") or {}).get("amount", float("inf")))):

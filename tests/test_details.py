@@ -30,6 +30,43 @@ class DetailsTests(unittest.TestCase):
         self.assertEqual([item["title"] for item in parsed["tiers"][1]["items"]], ["Python Basics", "Advanced Python"])
         self.assertEqual(parsed["tiers"][1]["items"][1]["platforms_and_oses"], {"platforms": ["epub"]})
 
+    def test_resolves_nested_nextjs_references_and_mixed_chains(self):
+        bundle = {"tiers": [
+            {"price": {"amount": 5, "currencyCode": "USD"},
+             "bundleItems": [{"key": "base", "title": "Base Item"}]},
+            {"price": {"amount": 10, "currencyCode": "USD"},
+             "bundleItems": [
+                 "$e:props:children:0:props:children:props:bundlePage:tiers:0:bundleItems:0"
+             ]},
+            {"price": {"amount": 15, "currencyCode": "USD"},
+             "bundleItems": [
+                 "$e:0:props:children:props:bundlePage:tiers:1:bundleItems:0"
+             ]},
+        ]}
+        parsed = details.parse_next_bundle({"url": "https://example.com/bundle"}, bundle)
+        self.assertEqual(len(parsed["tiers"]), 3)
+        self.assertEqual([tier["items"][0]["title"] for tier in parsed["tiers"]],
+                         ["Base Item", "Base Item", "Base Item"])
+
+    def test_rejects_cyclic_references(self):
+        ref = "$e:props:children:0:props:children:props:bundlePage:tiers:0:bundleItems:0"
+        bundle = {"tiers": [{"price": {"amount": 5}, "bundleItems": [ref]}]}
+        with self.assertRaisesRegex(ValueError, "cyclic bundle item reference"):
+            details.parse_next_bundle({"url": "https://example.com/bundle"}, bundle)
+
+    def test_rejects_out_of_range_references(self):
+        ref = "$e:props:children:0:props:children:props:bundlePage:tiers:42:bundleItems:0"
+        bundle = {"tiers": [{"price": {"amount": 5}, "bundleItems": [ref]}]}
+        with self.assertRaisesRegex(ValueError, "invalid bundle item reference target"):
+            details.parse_next_bundle({"url": "https://example.com/bundle"}, bundle)
+
+    def test_rejects_unknown_reference_shapes(self):
+        bundle = {"tiers": [{"price": {"amount": 5}, "bundleItems": [
+            "$e:props:other:bundlePage:tiers:0:bundleItems:0"
+        ]}]}
+        with self.assertRaisesRegex(ValueError, "unexpected bundle item reference"):
+            details.parse_next_bundle({"url": "https://example.com/bundle"}, bundle)
+
     def test_reuses_fresh_details_and_prunes_removed_bundles(self):
         now = datetime(2026, 11, 14, 18, 0, tzinfo=timezone.utc)
         old = {"url": "https://humblebundle.com/books/old", "end_at": "2026-11-30T19:00:00", "fetched_at": "2026-11-14T17:00:00Z", "tiers": []}
